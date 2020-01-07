@@ -1,0 +1,21 @@
+log_dir : logs
+num_gpus : 1
+num_workers : 4
+val_workers : 2
+
+model_type : visualbert
+model_path : visualbert/pretrained-models/nlvr2_coco_pre_trained.th
+model_config : visualbert/configs/nlvr2/bias-configs/coco-pre-train-bias.json
+#model_config : visualbert/configs/nlvr2/bias-configs/fine-tune-bias.json
+tests : tests/tests-images
+
+split_name : val
+coco_ontology : visualbert/models/cocoontology.json
+image_path : data/COCO/images/val2014
+chunk_path : visualbert/image-features/coco_bias_image_features.th
+
+# model-specific params
+train_batch_size : 64
+eval_batch_size : 64
+
+num_samples: 100000
