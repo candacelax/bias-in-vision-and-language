@@ -291,7 +291,7 @@ wget -O sunrise_3.jpg https://thumbs.dreamstime.com/z/beautiful-redhead-girl-sil
 wget -O sunrise_4.jpg https://previews.123rf.com/images/olehslepchenko/olehslepchenko1708/olehslepchenko170800036/83427006-young-traveler-woman-standing-on-ocean-shore-and-looking-at-sunrise-young-female-tourist-with-backpa.jpg
 wget -O sunrise_5.jpg https://c8.alamy.com/comp/M7RNCG/beautiful-female-model-open-arms-under-the-sunrise-at-seaside-sun-M7RNCG.jpg
 wget -O sunrise_6.jpg https://s1.1zoom.me/b6646/377/Sunrises_and_sunsets_Evening_Heart_Silhouette_Two_555013_3840x2160.jpg
-wget -O sunrise_7.jpg https://img5.goodfon.com/wallpaper/nbig/f/b2/devushka-more-zakat-5.jpg
+wget -O sunrise_7.jpg http://www.wa11papers.com/assets/previews/woman-person-sunset-city-sunrise-female-wallpaper-17267-preview-243be340.jpg
 wget -O sunrise_8.jpg https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1524145954000/photosp/50ecbe70-8f3c-41c5-bc32-3f8aef84ae8b/stock-photo-black-freedom-female-girl-view-woman-alone-backpack-conquerer-50ecbe70-8f3c-41c5-bc32-3f8aef84ae8b.jpg
 wget -O sunrise_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQet7xJ2FsAV4SSet7HuGeWdQjE7PblqX9slMDoghEoLe4xYEEM0Q&s
 
@@ -347,7 +347,7 @@ wget -O laughter_4.jpg https://media1.s-nbcnews.com/j/streams/2014/May/140507/2D
 wget -O laughter_5.jpg https://dingo.care2.com/pictures/greenliving/uploads/2013/04/women-laughing.jpg
 wget -O laughter_6.jpg https://www.abc.net.au/reslib/201011/r675811_4955183.jpg
 wget -O laughter_7.jpg https://img.huffingtonpost.com/asset/5b9e7c862000004e00fe624d.jpeg?ops=scalefit_720_noupscale
-wget -O laughter_8.jpg https://mlg3vsuzto9d.i.optimole.com/w:auto/h:auto/q:auto/https://2jc18v1irh0441xjkl3blrt4-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/codepink-laughing-720.jpg
+wget -O laughter_8.jpg http://thescienceexplorer.com/sites/thescienceexplorer.com/files/styles/content_image__large/public/blog/laughter-755329_1280.jpg?itok=5gw6rj-_&timestamp=1442414514
 wget -O laughter_9.jpg https://images.snapwi.re/e661/5c25656cc1f571554e580195.w800.jpg
 
 wget -O paradise_0.jpg https://cdn.vox-cdn.com/thumbor/xECd1qNJJ4ijwAqmd_Ql86y2eiQ=/0x0:1100x619/1200x800/filters:focal\(312x41:488x217\)/cdn.vox-cdn.com/uploads/chorus_image/image/62982802/19846_1_1100.0.jpg
