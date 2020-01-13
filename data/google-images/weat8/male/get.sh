@@ -62,7 +62,7 @@ wget -O uncles_5.jpg https://www.nextavenue.org/wp-content/uploads/2018/11/7-Thi
 wget -O uncles_6.jpg https://www.advocate.com/sites/advocate.com/files/2012/04/25/Gay_Uncle1_0.jpg
 wget -O uncles_7.jpg https://images.squarespace-cdn.com/content/v1/556e80b4e4b0e199a6c7aa33/1521703035083-54BU5E8H835BIMJQSP3Y/ke17ZwdGBToddI8pDm48kB7jRAXYnud1GpUQmNttyhJZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFT9fKV5OBz3MYceo3y5RVgjOOxuiKzLoeSJGRqF5pxSYk6F1R1CriF8Yes9BWbW6c/Dave.jpeg
 wget -O uncles_8.jpg https://images.fatherly.com/wp-content/uploads/2018/09/uncles.jpg?q=65&enable=upscale&w=600
-wget -O uncles_9.jpg https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/21/1413898546482/a8793684-9934-4190-9230-c765d9bd4b15-1020x612.jpeg?width=300&quality=85&auto=format&fit=max&s=ff5820f0bee60e85a2968aa10ae17aaa
+wget -O uncles_9.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fnextavenue%2Ffiles%2F2019%2F05%2FBecoming-a-School-Aunt-or-Uncle-1-750x485.jpg
 
 wget -O grandfather_0.jpg http://www.sunriseseniorliving.com/~/media/blog-images/may-2017/spending-time-with-your-grandfather-is-one-of-the-best-ways-to-celebrate-fathers-day_379_40159086_0_14095441_728.jpg
 wget -O grandfather_1.jpg https://d2mkcg26uvg1cz.cloudfront.net/wp-content/uploads/Grandfather-grandson.jpg
@@ -72,7 +72,7 @@ wget -O grandfather_4.jpg https://thumbs.dreamstime.com/z/very-old-grandfather-l
 wget -O grandfather_5.jpg https://static.businessinsider.sg/2019/08/08/5d4d4d572d4cb51d703c38d5.png
 wget -O grandfather_6.jpg https://images.squarespace-cdn.com/content/v1/55bfdbc0e4b0759606e53a38/1510332969743-RHVQH150CLB9DV3TDS64/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/IMG_0907.JPG
 wget -O grandfather_7.jpg https://previews.123rf.com/images/elebezoom/elebezoom1808/elebezoom180800002/106912319-great-grandfather-100-years-old-is-relaxed-in-the-garden-of-his-home-.jpg
-wget -O grandfather_8.jpg https://www.pressdemocrat.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=yVWOgoFr4K1BLcptsuktJs$daE2N3K4ZzOUsqbU5sYulFhjYSnWc2tzXd9hXcx8QWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg
+wget -O grandfather_8.jpg https://media.gettyimages.com/photos/grandfather-carrying-granddaughter-piggyback-picture-id1032835286?s=612x612
 wget -O grandfather_9.jpg https://cdn-04.independent.ie/incoming/article38562171.ece/cddc1/AUTOCROP/w620/hf%20g.jpg
 
 wget -O grandfathers_0.jpg https://www.verywellfamily.com/thmb/SCpTwjipNTJRh5Rlw_WH5BhZBpk=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GrandfatherGrandchildChrisRyanOJO-58a47b645f9b58819c999b00.jpg
@@ -105,7 +105,7 @@ wget -O sons_4.jpg http://s3-eu-west-1.amazonaws.com/diy-magazine//diy/Artists/M
 wget -O sons_5.jpg https://upload.wikimedia.org/wikipedia/en/d/d9/SonsofTucsonCast.jpg
 wget -O sons_6.jpg https://www.rollingstone.com/wp-content/uploads/2019/06/Mumfords-920x584.jpg?resize=900,600&w=450
 wget -O sons_7.jpg https://www.telegraph.co.uk/content/dam/music/2015-07/mumfordandsons/mumford.jpg?imwidth=450
-wget -O sons_8.jpg https://filtermusicgroup-com.exactdn.com/wp-content/uploads/2019/08/Pat-O%E2%80%99Hara-SOTE-Sun-Studios-28-crop.jpeg?strip=all&lossy=1&quality=100&fit=1030%2C596&ssl=1
+wget -O sons_8.jpg https://yt3.ggpht.com/a/AGF-l78mJKgx_EhlGZ-bJVhv3WP_k4qWDOUenRNicg=s900-c-k-c0xffffffff-no-rj-mo
 wget -O sons_9.jpg https://image.insider.com/5a81fe1456019ada048b4662?width=1100&format=jpeg&auto=webp
 
 wget -O he_0.jpg https://cdn.vox-cdn.com/thumbor/JwAhpt5_Khcb_2jNmgISD_IUbpk=/0x0:2229x1599/1200x800/filters:focal\(937x622:1293x978\)/cdn.vox-cdn.com/uploads/chorus_image/image/64714092/1155197888.jpg.0.jpg

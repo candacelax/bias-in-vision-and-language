@@ -55,7 +55,7 @@ wget -O aunt_9.jpg https://www.familyfriendpoems.com/images/hero/family-aunt.jpg
 
 wget -O aunts_0.jpg https://img.huffingtonpost.com/asset/5bb5fb4f3c000018010d1c40.jpeg?ops=scalefit_630_noupscale
 wget -O aunts_1.jpg http://singularcity.com/wp-content/uploads/2015/06/single-aunts.jpg
-wget -O aunts_2.jpg https://ksr-ugc.imgix.net/assets/024/523/888/687f6d46d887bd5fc7968b6d7a31b4a5_original.jpeg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1553463343&auto=format&frame=1&q=92&s=6ff7ae2d6bf06b74ef0013c80aeeadb4
+wget -O aunts_2.jpg https://files.brightside.me/files/news/part_70/707310/10691960-image-crop-6196x4611-1551881717-728-de4c2a84fd-1552290854.jpg
 wget -O aunts_3.jpg https://media.npr.org/assets/img/2011/05/03/notkin-ana-schechter_custom-1fb7983643ca7711ae58f48c96772834e6c7b74a-s800-c85.jpg
 wget -O aunts_4.jpg https://www.familyfriendpoems.com/images/hero/family-aunt.jpg
 wget -O aunts_5.jpg https://imgix.bustle.com/uploads/image/2018/4/21/d99335cd-0335-4523-9e7f-fc865f82a045-fotolia_123933116_subscription_monthly_m.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70
