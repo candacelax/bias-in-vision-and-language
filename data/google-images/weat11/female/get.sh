@@ -132,10 +132,10 @@ wget -O pleasure_9.jpg https://images.squarespace-cdn.com/content/v1/5b432cd996d
 
 wget -O diamond_0.jpg http://www.normforg.com/gallery/Why-do-women-love-diamond-pictures/Why-do-women-love-diamonds.jpg
 wget -O diamond_1.jpg https://i.ytimg.com/vi/sunvqRXd-hk/maxresdefault.jpg
-wget -O diamond_2.jpg https://www.byrdie.com/thmb/-v30sBdIlH8KL_Yb_Ja8hJvxvh4=/700x366/filters:fill(auto,1)/cdn.cliqueinc.com__cache__posts__269759__hairstyles-for-diamond-shaped-faces-269759-1539155338144-fb.700x0c-88db13e21f504156bbd439eb673d01b8.jpg
+wget -O diamond_2.jpg https://www.byrdie.com/thmb/-v30sBdIlH8KL_Yb_Ja8hJvxvh4=/700x366/filters:fill\(auto,1\)/cdn.cliqueinc.com__cache__posts__269759__hairstyles-for-diamond-shaped-faces-269759-1539155338144-fb.700x0c-88db13e21f504156bbd439eb673d01b8.jpg
 wget -O diamond_3.jpg https://cdn2.stylecraze.com/wp-content/uploads/2012/06/30-Stunning-Hairstyles-For-Diamond-Faces.jpg
 wget -O diamond_4.jpg https://cdn2.stylecraze.com/wp-content/uploads/2013/07/30-How-Do-Celebrities-With-Diamond-Face-Shape-Style-Their-Hair.jpg
-wget -O diamond_5.jpg https://www.byrdie.com/thmb/0zs2RxOqkhBXJpMQXdWxyiWEZDk=/797x700/filters:no_upscale():max_bytes(150000):strip_icc()/cdn.cliqueinc.com__cache__posts__269759__hairstyles-for-diamond-shaped-faces-269759-1539140471010-main.700x0c-f8e791c515a14cdf8afb66ef50a0936e.jpg
+wget -O diamond_5.jpg https://www.byrdie.com/thmb/0zs2RxOqkhBXJpMQXdWxyiWEZDk=/797x700/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/cdn.cliqueinc.com__cache__posts__269759__hairstyles-for-diamond-shaped-faces-269759-1539140471010-main.700x0c-f8e791c515a14cdf8afb66ef50a0936e.jpg
 wget -O diamond_6.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZtzGcaTKvEpwd0OCTl8_1f1mWIfIbvY9cb-lhL-ALDpZZs0rqA&s
 wget -O diamond_7.jpg https://upload.wikimedia.org/wikipedia/commons/8/8f/Diamond_and_Silk_on_Info_Wars_April_2018.jpg
 wget -O diamond_8.jpg http://www.superjeweler.com/blog/wp-content/uploads/2019/07/Diamond-Tennis-Bracelets-pic1.jpg
@@ -223,7 +223,7 @@ wget -O gift_1.jpg https://media1.popsugar-assets.com/files/thumbor/nyhzxrFhPf8D
 wget -O gift_2.jpg https://dodoburd.com/wp-content/uploads/2018/07/Rose-Jasmine-Fragrance-Gift-Basket.jpg
 wget -O gift_3.jpg https://media1.popsugar-assets.com/files/thumbor/QZU1W5GNQwvV1XNL53Ff1J-RT-s/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2019/11/21/683/n/1922564/dffb95105dd6ac3571a908.41241381_/i/Best-Gift-Ideas-20-Something-Women.jpg
 wget -O gift_4.jpg https://womeninwhitecoats.com/wp-content/uploads/2019/12/woman-in-gray-cardigan-giving-white-gift-box-1261373-1080x675.jpg
-wget -O gift_5.jpg https://www.brides.com/thmb/gag58Cm05zBK0lBPqxdeYJzJh8I=/630x420/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__brides__public__brides-services__production__2016__10__24__580e6302ba4a5731dd53aafa_blogs-aisle-say-engagement-gifts-for-very-budget-8661e3abc2ac46ce9742d8a9262fc065.jpg
+wget -O gift_5.jpg https://www.brides.com/thmb/gag58Cm05zBK0lBPqxdeYJzJh8I=/630x420/filters:fill\(auto,1\)/__opt__aboutcom__coeus__resources__content_migration__brides__public__brides-services__production__2016__10__24__580e6302ba4a5731dd53aafa_blogs-aisle-say-engagement-gifts-for-very-budget-8661e3abc2ac46ce9742d8a9262fc065.jpg
 wget -O gift_6.jpg https://www.todaysparent.com/wp-content/uploads/2019/05/heres-why-i-think-we-all-need-to-stop-opening-gifts-at-baby-showers1280x960-1024x576-1558031511.jpg
 wget -O gift_7.jpg https://i2.wp.com/movingtips.wpengine.com/wp-content/uploads/2018/02/housewarming-gifts.jpg?fit=1024%2C684&ssl=1
 wget -O gift_8.jpg https://15odi34atvep4f3e7r4eiav2-wpengine.netdna-ssl.com/wp-content/uploads/2014/11/white-elephant-gifts-feature.jpg
@@ -246,7 +246,7 @@ wget -O honor_2.jpg https://www.chinadaily.com.cn/china/images/attachement/jpg/s
 wget -O honor_3.jpg https://www.chinadaily.com.cn/china/images/attachement/jpg/site1/20140513/7427ea21079d14dba35d02.jpg
 wget -O honor_4.jpg https://external-preview.redd.it/m0xUENVBn0KwHaidHmRA-z9wngYhZyfgbhO7LaqQQCI.jpg?auto=webp&s=5510d36f8ef5debd19b14ccbc1329221a48068f1
 wget -O honor_5.jpg http://m.womenofchina.cn/res/womenofchina/1707/17075670.jpg
-wget -O honor_6.jpg https://www.thatsmags.com/uploads/galleries/images/1(11).jpg
+wget -O honor_6.jpg https://www.thatsmags.com/uploads/galleries/images/1\(11\).jpg
 wget -O honor_7.jpg https://www.chinadaily.com.cn/world/images/2015victoryanniv/attachement/jpg/site1/20150823/eca86bd9e0d11743d80c09.jpg
 wget -O honor_8.jpg https://cdn.japantimes.2xx.jp/wp-content/uploads/2015/09/n-chinaparade-a-20150903-870x570.jpg
 wget -O honor_9.jpg http://ui.sina.com/2015/0906/U211P5029DT20150906105049.jpg
@@ -267,7 +267,7 @@ wget -O miracle_1.jpg https://i.ytimg.com/vi/28VR3SRfgdc/maxresdefault.jpg
 wget -O miracle_2.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/931/524/miracle-babies-457553.jpg?ve=1&tl=1
 wget -O miracle_3.jpg https://www.gannett-cdn.com/media/2015/05/12/IAGroup/DesMoines/635670616328496181-MiracleGirl-002.jpg?width=2560
 wget -O miracle_4.jpg https://amc-theatres-res.cloudinary.com/image/fetch/fl_lossy,q_auto,w_900/https://i1.wp.com/moviepilot.blog/wp-content/uploads/2018/04/The-Miracle-Season.jpg?fit=300%2C180&ssl=1
-wget -O miracle_5.jpg https://images.thestar.com/pRTkIxnsBLtFXp9RDCMn_n9HOEo=/1086x624/smart/filters:cb(2700061000)/https://www.thestar.com/content/dam/thestar/entertainment/movies/2018/04/05/miracle-season-cast-says-it-highlights-female-empowerment/miracle_stars.jpg
+wget -O miracle_5.jpg https://images.thestar.com/pRTkIxnsBLtFXp9RDCMn_n9HOEo=/1086x624/smart/filters:cb\(2700061000\)/https://www.thestar.com/content/dam/thestar/entertainment/movies/2018/04/05/miracle-season-cast-says-it-highlights-female-empowerment/miracle_stars.jpg
 wget -O miracle_6.jpg http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/love-and-hip-hop-new-york/videos/season-9/videos/908/images/lhhny-908-miracle-comes-clean.jpg?quality=0.85&width=640&height=360&crop=true
 wget -O miracle_7.jpg https://www.irishtimes.com/polopoly_fs/1.1706718.1393499054!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
 wget -O miracle_8.jpg https://s.abcnews.com/images/US/paige-winter-ht-jef-190614_hpMain_16x9_992.jpg
@@ -313,7 +313,7 @@ wget -O family_3.jpg https://content.fortune.com/wp-content/uploads/2015/06/2001
 wget -O family_4.jpg https://thumbs.dreamstime.com/z/female-members-multi-generation-family-home-29055395.jpg
 wget -O family_5.jpg https://i.dailymail.co.uk/i/pix/2014/07/25/article-2705556-1FF9006C00000578-0_634x763.jpg
 wget -O family_6.jpg https://cf.ltkcdn.net/family/images/std/204193-675x450-multigenerationfamily.jpg
-wget -O family_7.jpg https://www.thoughtco.com/thmb/nluYkg-y5zYViSZDcyiIwwhY42I=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-685785112-5c395938c9e77c00015519cd.jpg
+wget -O family_7.jpg https://www.thoughtco.com/thmb/nluYkg-y5zYViSZDcyiIwwhY42I=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-685785112-5c395938c9e77c00015519cd.jpg
 wget -O family_8.jpg http://detweilerfamilymedicine.com/wp-content/uploads/womenshealth.jpg
 wget -O family_9.jpg https://cdn.abcotvs.com/dip/images/5316844_0525419-ktrk-police-family-vid-vid.jpg?w=800&r=16%3A9
 
@@ -350,7 +350,7 @@ wget -O laughter_7.jpg https://img.huffingtonpost.com/asset/5b9e7c862000004e00fe
 wget -O laughter_8.jpg https://mlg3vsuzto9d.i.optimole.com/w:auto/h:auto/q:auto/https://2jc18v1irh0441xjkl3blrt4-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/codepink-laughing-720.jpg
 wget -O laughter_9.jpg https://images.snapwi.re/e661/5c25656cc1f571554e580195.w800.jpg
 
-wget -O paradise_0.jpg https://cdn.vox-cdn.com/thumbor/xECd1qNJJ4ijwAqmd_Ql86y2eiQ=/0x0:1100x619/1200x800/filters:focal(312x41:488x217)/cdn.vox-cdn.com/uploads/chorus_image/image/62982802/19846_1_1100.0.jpg
+wget -O paradise_0.jpg https://cdn.vox-cdn.com/thumbor/xECd1qNJJ4ijwAqmd_Ql86y2eiQ=/0x0:1100x619/1200x800/filters:focal\(312x41:488x217\)/cdn.vox-cdn.com/uploads/chorus_image/image/62982802/19846_1_1100.0.jpg
 wget -O paradise_1.jpg https://s2.r29static.com/bin/entry/d16/720x864,85/2243088/image.webp
 wget -O paradise_2.jpg https://www.tvinsider.com/wp-content/uploads/2019/07/Demi-Kristian-1014x570.jpg
 wget -O paradise_3.jpg https://static01.nyt.com/images/2019/09/17/arts/17paradise-art1/17paradise-art1-superJumbo.jpg
@@ -410,11 +410,11 @@ wget -O abuses_1.jpg https://www.womenshealth.gov/files/styles/masthead/public/i
 wget -O abuses_2.jpg https://babarahmaddotcom.files.wordpress.com/2017/01/domestic-violence-image.jpeg?w=600
 wget -O abuses_3.jpg https://www.womenshealth.gov/files/styles/bucket/public/images/rs_dating-violence.jpg?itok=MSGFWhJd&c=79ced16319abae5dc1d4aa45ff0bca42
 wget -O abuses_4.jpg https://www.telegraph.co.uk/content/dam/news/2018/04/16/TELEMMGLPICT000160604535_trans_NvBQzQNjv4BqKkp-UTUAsfjSRtcmgx8QjT5N5uXdwKiDnan8o9FB1xU.jpeg?imwidth=450
-wget -O abuses_5.jpg https://www.verywellmind.com/thmb/-pwWwEArVTHEqdLLBrkYyTApqeA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/iStock-624532458-59fb86c1ec2f64003708dc21.jpg
+wget -O abuses_5.jpg https://www.verywellmind.com/thmb/-pwWwEArVTHEqdLLBrkYyTApqeA=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/iStock-624532458-59fb86c1ec2f64003708dc21.jpg
 wget -O abuses_6.jpg https://www.doorwaysva.org/wp-content/uploads/2018/05/aricka-lewis-2081082.jpg
 wget -O abuses_7.jpg https://www.telegraph.co.uk/content/dam/women/2015/11/27/rape-crisis_trans_NvBQzQNjv4BqpJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg?imwidth=480
 wget -O abuses_8.jpg https://media.npr.org/assets/img/2017/12/03/karen1-a39081a2189ff47b04cfe4119e3eb2387ca44482-s800-c85.png
-wget -O abuses_9.jpg https://cdn.vox-cdn.com/thumbor/Z-lq_9opYc1GWNDQrNvcvx5Ma2s=/0x0:1023x731/1200x800/filters:focal(402x238:564x400)/cdn.vox-cdn.com/uploads/chorus_image/image/65170085/INMATE_071119_11.0.jpg
+wget -O abuses_9.jpg https://cdn.vox-cdn.com/thumbor/Z-lq_9opYc1GWNDQrNvcvx5Ma2s=/0x0:1023x731/1200x800/filters:focal\(402x238:564x400\)/cdn.vox-cdn.com/uploads/chorus_image/image/65170085/INMATE_071119_11.0.jpg
 
 wget -O crash_0.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRF3QJGJVII6TFQVR4NDFFROAQ.jpg&w=767
 wget -O crash_1.jpg https://previews.123rf.com/images/kadmy/kadmy1403/kadmy140300239/27895401-woman-behind-steering-wheel-happy-unguilty-female-driver-after-car-crash-accident-collision-in-city.jpg
@@ -456,7 +456,7 @@ wget -O murder_3.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/cont
 wget -O murder_4.jpg https://www.wthr.com/sites/default/files/styles/article_image/public/2019/03/11/christakelly_grantco970.jpg?itok=A3TnlCed
 wget -O murder_5.jpg https://www.insideedition.com/sites/default/files/styles/931x523/public/images/2019-06/062019-cynthia-hoffman-1280x720.jpg?h=c673cd1c&itok=PZHVkYVS
 wget -O murder_6.jpg https://www.wistv.com/resizer/7KyH2OPpWUOUxeZ3nsIrVRApoI8=/1400x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/QBTHALYF5BDXTFGJMAIQ52WYFM.jpg
-wget -O murder_7.jpg https://cdn.vox-cdn.com/thumbor/UWGsJcq3tfAYe7n_JLtvA6ptsF8=/0x0:914x718/1200x800/filters:focal(384x286:530x432)/cdn.vox-cdn.com/uploads/chorus_image/image/65999557/Screen_Shot_2019_12_30_at_8.12.02_PM.0.png
+wget -O murder_7.jpg https://cdn.vox-cdn.com/thumbor/UWGsJcq3tfAYe7n_JLtvA6ptsF8=/0x0:914x718/1200x800/filters:focal\(384x286:530x432\)/cdn.vox-cdn.com/uploads/chorus_image/image/65999557/Screen_Shot_2019_12_30_at_8.12.02_PM.0.png
 wget -O murder_8.jpg https://cdn.cnn.com/cnnnext/dam/assets/180727135757-01-nia-wilson-exlarge-169.jpg
 wget -O murder_9.jpg https://localtvwjw.files.wordpress.com/2019/06/lowrey.jpeg?quality=85&strip=all
 
@@ -583,13 +583,13 @@ wget -O stink_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHt1B
 
 wget -O assault_0.jpg https://d18lkz4dllo6v2.cloudfront.net/cumulus_uploads/entry/2019-03-27/Safety%20Sexual%20Assault%20Women.jpg?pw=1200
 wget -O assault_1.jpg https://thoughtcatalog.files.wordpress.com/2014/05/shutterstock_169979336.jpg?w=584&h=389
-wget -O assault_2.jpg https://cdn.vox-cdn.com/thumbor/mBbFg98pZOLL0MUxepZml5VwQPA=/0x0:3500x2333/1200x800/filters:focal(1260x1310:1820x1870)/cdn.vox-cdn.com/uploads/chorus_image/image/58773397/873351280.jpg.0.jpg
+wget -O assault_2.jpg https://cdn.vox-cdn.com/thumbor/mBbFg98pZOLL0MUxepZml5VwQPA=/0x0:3500x2333/1200x800/filters:focal\(1260x1310:1820x1870\)/cdn.vox-cdn.com/uploads/chorus_image/image/58773397/873351280.jpg.0.jpg
 wget -O assault_3.jpg https://www.doorwaysva.org/wp-content/uploads/2019/06/photo-1507431053139-b0a320dba974.jpeg
 wget -O assault_4.jpg https://bust.com/images/myblog/35908/55d351e1020d3.jpg
 wget -O assault_5.jpg https://www.stripes.com/polopoly_fs/1.466437.1493765848!/image/image.jpg_gen/derivatives/landscape_900/image.jpg
 wget -O assault_6.jpg https://www.womenshealth.gov/files/images/rs_sexual-assault-rape.jpg
 wget -O assault_7.jpg https://static01.nyt.com/images/2019/09/26/us/politics/26dc-assault/26dc-assault-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget -O assault_8.jpg https://www.thoughtco.com/thmb/ySX0poNAhLVts10kdBt4HNYBzzI=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-129616871-5b47771546e0fb005b26f171.jpg
+wget -O assault_8.jpg https://www.thoughtco.com/thmb/ySX0poNAhLVts10kdBt4HNYBzzI=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-129616871-5b47771546e0fb005b26f171.jpg
 wget -O assault_9.jpg https://www.helpguide.org/wp-content/uploads/2019/10/young-woman-gazing-out-of-window-768.jpg
 
 wget -O assaults_0.jpg https://s.abcnews.com/images/US/alison-turkos-ht-mt-180926_hpEmbed_13x14_992.jpg
@@ -601,7 +601,7 @@ wget -O assaults_5.jpg https://s.abcnews.com/images/US/190307_debrief_miliary_as
 wget -O assaults_6.jpg https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2019/08/932/470/Nikesha-Roy.jpg?ve=1&tl=1
 wget -O assaults_7.jpg https://www.wibc.com/sites/g/files/exi441/f/styles/large_730/public/201907/kimberlycarroll19.jpg?itok=z7nd6E_5
 wget -O assaults_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdCeEYgtAUUqudEefgq-UvSm3K8vISfh5JveuSzbL0LCpJeew&s
-wget -O assaults_9.jpg https://www.armytimes.com/resizer/GvuuATnVaH-3gLzYPNIfWlUBN08=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/5JQPM5MSHJFB7HD3D2UCN5JJ5Y.jpg
+wget -O assaults_9.jpg https://www.armytimes.com/resizer/GvuuATnVaH-3gLzYPNIfWlUBN08=/1200x0/filters:quality\(100\)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/5JQPM5MSHJFB7HD3D2UCN5JJ5Y.jpg
 
 wget -O disaster_0.jpg https://d.newsweek.com/en/full/656666/gettyimages-840245628.jpg?w=1600&h=900&q=88&f=42649afefccd3f5175fce2e55ae16866
 wget -O disaster_1.jpg https://i.kym-cdn.com/photos/images/original/000/062/188/Katsunidisastergirl.jpg
@@ -664,7 +664,7 @@ wget -O tragedies_2.jpg https://cdn2us.denofgeek.com/sites/denofgeekus/files/sty
 wget -O tragedies_3.jpg http://www.towntopics.com/wordpress/wp-content/uploads/2018/11/Theater-Review-Sanborn-11-14.jpg
 wget -O tragedies_4.jpg https://m.media-amazon.com/images/M/MV5BNjE4ZTBmYzUtOTVlNi00ZDYyLTkyOGQtY2MyNWRhOTcyMWQwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX477_CR0,0,477,268_AL_.jpg
 wget -O tragedies_5.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1498866195/170629-jones-glow-tease_sfzemm
-wget -O tragedies_6.jpg https://www.wsls.com/resizer/TwXgeJb6d-TDNQ3rinSviMKG4n0=/639x360/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/HGXG6IF6KNA7BDHNYHGQ53GQEU.jpg
+wget -O tragedies_6.jpg https://www.wsls.com/resizer/TwXgeJb6d-TDNQ3rinSviMKG4n0=/639x360/smart/filters:format\(jpeg\):strip_exif\(true\):strip_icc\(true\):no_upscale\(true\):quality\(65\)/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/HGXG6IF6KNA7BDHNYHGQ53GQEU.jpg
 wget -O tragedies_7.jpg https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/21/931/524/694940094001_6088327792001_6088327878001-vs.jpg?ve=1&tl=1
 wget -O tragedies_8.jpg https://www.chicagotribune.com/resizer/kIdHnphjQwc_EuQniAmaUWANjqY=/415x512/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/3ZKKEZBVCJF67FRK3NFPOPROE4.jpg
 wget -O tragedies_9.jpg https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/c/04/c04e441c-78b4-11e9-89e1-97473c0b5f1a/5cdecd0d87e65.image.jpg?resize=400%2C202
@@ -683,7 +683,7 @@ wget -O bomb_9.jpg https://i.pinimg.com/236x/7b/88/e1/7b88e135a66359666a787f8912
 wget -O bombs_0.jpg https://www.toledoblade.com/image/2017/01/22/1140x_a10-7_cTC/The-Animated-Woman.jpg
 wget -O bombs_1.jpg https://thumbs.dreamstime.com/z/women-smoke-bomb-two-happy-young-holding-bombs-smiling-59865816.jpg
 wget -O bombs_2.jpg https://pmcdeadline2.files.wordpress.com/2019/11/charlie-jpeg.jpg?crop=797px%2C504px%2C4599px%2C2578px&resize=681%2C383
-wget -O bombs_3.jpg https://www.popphoto.com/resizer/SVYxyDqyJ1ggJdmrad4KyNiUuds=/760x506/filters:focal(500x333:501x334)/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/KW24NHHKLEL2YAVWQMRGFY3R7E.jpg
+wget -O bombs_3.jpg https://www.popphoto.com/resizer/SVYxyDqyJ1ggJdmrad4KyNiUuds=/760x506/filters:focal\(500x333:501x334\)/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/KW24NHHKLEL2YAVWQMRGFY3R7E.jpg
 wget -O bombs_4.jpg https://img.theepochtimes.com/assets/uploads/2019/12/21/BOMBSHELL-9-700x420.jpg
 wget -O bombs_5.jpg https://i.ytimg.com/vi/COcTTaCyvrU/maxresdefault.jpg
 wget -O bombs_6.jpg https://pmcdeadline2.files.wordpress.com/2019/01/tiffany-haddish.jpg?w=681&h=383&crop=1
@@ -703,11 +703,11 @@ wget -O divorce_8.jpg https://www.deannabowen.com/wp-content/uploads/2018/10/Dea
 wget -O divorce_9.jpg http://rossanamitchell.com/wp-content/uploads/2018/01/banner-female-divorce-lawyer.jpg
 
 wget -O divorces_0.jpg https://goodmenproject.com/wp-content/uploads/2019/07/shutterstock_1329029675-1.jpg
-wget -O divorces_1.jpg https://www.liveabout.com/thmb/f5cTL65ZsMtUIA68MudgHgP3NVU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Happy-Mother2-5866ce1a5f9b586e02f3e686.jpg
+wget -O divorces_1.jpg https://www.liveabout.com/thmb/f5cTL65ZsMtUIA68MudgHgP3NVU=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/Happy-Mother2-5866ce1a5f9b586e02f3e686.jpg
 wget -O divorces_2.jpg https://hips.hearstapps.com/wdy.h-cdn.co/assets/cm/15/09/54ebb00e0cebd_-_wd-middle-aged-woman-pensive-divorce-lgn.jpg?crop=1xw:1.0xh;center,top&resize=480:*
 wget -O divorces_3.jpg https://miro.medium.com/max/8544/0*xkLdcHdtNtQsd4Hz
 wget -O divorces_4.jpg https://www.telegraph.co.uk/content/dam/women/2018/01/15/TELEMMGLPICT000151143800_trans_NvBQzQNjv4BqUm9QQSHK_tT3NpGr0Hsn0SnW8BLq_9yFhLlXda78vfw.jpeg?imwidth=450
-wget -O divorces_5.jpg https://www.liveabout.com/thmb/TaMlDLeOE_GMVbQBT-CdrEsyqKM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Woman-Uncertain-56a260555f9b58b7d0c975c6.jpg
+wget -O divorces_5.jpg https://www.liveabout.com/thmb/TaMlDLeOE_GMVbQBT-CdrEsyqKM=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/Woman-Uncertain-56a260555f9b58b7d0c975c6.jpg
 wget -O divorces_6.jpg https://jamvile.com/wp-content/uploads/2018/09/divorced-women.jpg
 wget -O divorces_7.jpg https://img.apmcdn.org/bde932704c59dd27c6b2b6bddaf2b13f14361507/normal/29b292-20190925-maliee-yang.jpg
 wget -O divorces_8.jpg https://www.usnews.com/dims4/USNEWS/fdcc7a7/2147483647/thumbnail/640x420/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F9e%2F2d%2Fbd04c61a4a4084c5fb6d83d8a9c5%2F160721-womanupset-stock.jpg
@@ -736,7 +736,7 @@ wget -O jails_8.jpg https://www.motherjones.com/wp-content/uploads/Tutwilerdorm6
 wget -O jails_9.jpg https://asunow.asu.edu/sites/default/files/styles/asu_news_article_hero/public/20180324journeyhome_12.jpg?itok=owfnz7H-
 
 wget -O poverty_0.jpg https://borgenproject.org/wp-content/uploads/women_in_poverty.jpg
-wget -O poverty_1.jpg https://cdn.vox-cdn.com/thumbor/6rvj2pKWDIOGhnR9J9HBP7OIDO0=/0x0:594x395/1200x800/filters:focal(250x151:344x245)/cdn.vox-cdn.com/uploads/chorus_image/image/62165335/gettyimages_908277680_594x594.0.jpg
+wget -O poverty_1.jpg https://cdn.vox-cdn.com/thumbor/6rvj2pKWDIOGhnR9J9HBP7OIDO0=/0x0:594x395/1200x800/filters:focal\(250x151:344x245\)/cdn.vox-cdn.com/uploads/chorus_image/image/62165335/gettyimages_908277680_594x594.0.jpg
 wget -O poverty_2.jpg https://i0.wp.com/socialworkhelper.com/wp-content/uploads/2015/05/women_in_poverty_2-300x300.jpg?resize=300%2C300&ssl=1
 wget -O poverty_3.jpg https://www.mtholyoke.edu/~abbat22l/classweb/feminizationofpoverty/images/women.jpg
 wget -O poverty_4.jpg https://uploads-ssl.webflow.com/56378cd5f60b35c75b48f114/5641bbea85b4693b3b235db8_750xNxold-women-in-nepal.jpg.pagespeed.ic.bOoE-fg7Bq.jpg
@@ -754,7 +754,7 @@ wget -O ugly_4.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/15F70/production/
 wget -O ugly_5.jpg https://cdn-03.independent.ie/incoming/article37733516.ece/c9a4d/AUTOCROP/w620/azealia%20banks%201.jpg
 wget -O ugly_6.jpg https://media.wired.com/photos/59324dbd58b0d64bb35d0cbc/master/w_495,c_limit/Kathryn-Minshew-by-Erica-Gannett-2.jpg
 wget -O ugly_7.jpg https://image.shutterstock.com/image-photo/portrait-ugly-woman-missing-teeth-260nw-191937224.jpg
-wget -O ugly_8.jpg https://www.theglobeandmail.com/resizer/lHtOgFj89LNbWLwJOfn3z-XlbFA=/1500x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/IP6JZBXQ7ZE53LZCADQGNHN2K4
+wget -O ugly_8.jpg https://www.theglobeandmail.com/resizer/lHtOgFj89LNbWLwJOfn3z-XlbFA=/1500x0/filters:quality\(80\)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/IP6JZBXQ7ZE53LZCADQGNHN2K4
 wget -O ugly_9.jpg http://cdn.cnn.com/cnnnext/dam/assets/190224093015-karoline-kan-2.jpg
 
 wget -O cancer_0.jpg https://www.medicalnewstoday.com/content/images/articles/315/315530/women-with-breast-cancer-ribbons.jpg
