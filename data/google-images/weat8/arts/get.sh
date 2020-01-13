@@ -1,7 +1,7 @@
 wget -O poetry_0.jpg https://miro.medium.com/max/10368/1*uEE1ZvHhVP19zBZU96_Eig.jpeg
 wget -O poetry_1.jpg https://miro.medium.com/max/10944/0*pjyGB4ILaICzf1fs
 wget -O poetry_2.jpg https://kudoswall.com/images/easyblog_articles/138/alvaro-serrano-133360.jpg
-wget -O poetry_3.jpg https://d33hx0a45ryfj1.cloudfront.net/additional/Dynamic/media/459d36ec07bd9f66?w=750&h=424&crop=1
+wget -O poetry_3.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_k6pQsBzlFYYUKpXWe5x8zud8lvLQ7ypnbBK8iQiSLTaPva09HQ&s
 wget -O poetry_4.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUp256k3QlW2xByOPhd9G65217zqdIJ3B_uS7lyL9KQAQgXi5uw&s
 wget -O poetry_5.jpg https://imgix.bustle.com/uploads/image/2017/8/28/c8bb64d2-9fe9-4736-a485-771b9bb6643f-screen-shot-2017-08-28-at-115814-am.png?w=970&h=546&fit=crop&crop=faces&auto=format&q=70
 wget -O poetry_6.jpg https://cdn.britannica.com/81/98181-050-F79738A1/Poems-poetry-line-International-Festival-of-Poetry.jpg
@@ -25,7 +25,7 @@ wget -O shakespeare_1.jpg https://www.biography.com/.image/t_share/MTE1ODA0OTcxN
 wget -O shakespeare_2.jpg https://cdn.britannica.com/37/75437-004-EFD403D1/detail-William-Shakespeare-portrait-oil-painting-John-1610.jpg
 wget -O shakespeare_3.jpg https://www.bl.uk/britishlibrary/~/media/bl/global/dl%20shakespeare/authors/shakespeare-people-page.jpg
 wget -O shakespeare_4.jpg https://www.williamshakespeare.net/images/shakespeare.jpg
-wget -O shakespeare_5.jpg https://i.guim.co.uk/img/media/4cde5837410f930581b5408c01dfc292eae17dc5/212_78_1760_1056/master/1760.jpg?width=300&quality=85&auto=format&fit=max&s=d7f19fdd8a106dfc037996c3b643b03c
+wget -O shakespeare_5.jpg https://cdn.theatlantic.com/assets/media/img/2019/04/3g06527u/lead_720_405.jpg?mod=1556638580
 wget -O shakespeare_6.jpg https://cdn2.rsc.org.uk/sitefinity/images/people/the_flower_portrait_of_william_shakespeare_rsc_theatre_collection_6154.tmb-gal-1340.jpg?sfvrsn=ab8c2321_1
 wget -O shakespeare_7.jpg https://www.biography.com/.image/t_share/MTQ1MTQwNDI1NzYwNDQ5OTQ0/william-shakespeare---the-life-of-the-bard.jpg
 wget -O shakespeare_8.jpg https://images.immediate.co.uk/production/volatile/sites/7/2019/04/114.-GettyImages-600016101-fbb5b6b.jpg?quality=90&resize=620%2C413
@@ -48,7 +48,7 @@ wget -O dances_2.jpg https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/5
 wget -O dances_3.jpg https://www.saathee.com/vsImages/Pictures/Features/Dances-of-India-Lord-Shiva.jpg
 wget -O dances_4.jpg https://bachtrack.com/files/125118-2--c42329-1-dances-hyltingarcia-srgb.jpg
 wget -O dances_5.jpg https://www.culturalindia.net/iliimages/Folk%20Dances.jpg
-wget -O dances_6.jpg https://www.nycballet.com/NYCB/media/NYCBMediaLibrary/Images/BalletDetailSlideshows/DancesataGathering/Dances-at-a-Gathering-TPeck-DeLuz.jpg
+wget -O dances_6.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7FNs4kndJA1a4IvlVZcAHQqEY6o82dc_6-rfmc7_abyFU1dX3ZA&s
 wget -O dances_7.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/22/15/zoe-1.jpg?w968h681
 wget -O dances_8.jpg https://dubaidance.com/images/blog/ballroom-dances/ballroom-dancers-couples-dancing.jpg
 wget -O dances_9.jpg https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/7/bf/7bf03698-5d7c-11e9-bd31-e3d52987ae9e/5cb122c084b6e.image.jpg?resize=1200%2C829
