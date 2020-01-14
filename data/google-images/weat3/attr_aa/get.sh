@@ -45,7 +45,7 @@ wget -O aa_health_9.jpg http://d279m997dpfwgl.cloudfront.net/wp/2015/09/0916_dam
 			    
 wget -O aa_love_0.jpg https://www.bgdblog.org/wp-content/uploads/2015/03/Men2356.jpg
 wget -O aa_love_1.jpg https://images.squarespace-cdn.com/content/v1/59d12d0b2994ca305e71cea1/1550942705322-2S8L7GP39IEE4F4SUP8W/ke17ZwdGBToddI8pDm48kNegiSW71E7APqJZnhA_yX1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6Li_BEgz6jj940qoXGrSITjLjuGKQf1peL8wjw6KSZgKMshLAGzx4R3EDFOm1kBS/IMG-5198.jpg
-wget -O aa_love_2.jpg http://i.imgur.com/ijpC6Ec.jpg
+wget -O aa_love_2.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/06/11/13/sherif-lanre-love-island.jpg
 wget -O aa_love_3.jpg https://i0.wp.com/watercoolerconvos.com/wp-content/uploads/2017/07/couple-black-love-960_720.jpg
 wget -O aa_love_4.jpg https://www.ebony.com/wp-content/uploads/2016/07/Black_Man_Looking_original_56744.jpg
 wget -O aa_love_5.jpg https://thumbs.dreamstime.com/z/romantic-date-african-american-love-couple-romantic-date-african-american-love-couple-happy-relationship-smiling-black-people-100131502.jpg
@@ -174,7 +174,7 @@ wget -O aa_honest_4.jpg https://pbs.twimg.com/profile_images/1040646151878443008
 wget -O aa_honest_5.jpg https://whyy.org/wp-content/uploads/2017/08/jay-z_beyonce_1200x675.jpg
 wget -O aa_honest_6.jpg https://img.thedailybeast.com/image/upload/v1491847171/articles/2017/03/10/the-brutally-honest-comedian-who-called-trump-s-election-win/170309-wilstein-Jerrod-Carmichael-TEASE-1_dm5s3b.jpg
 wget -O aa_honest_7.jpg https://mediad.publicbroadcasting.net/p/kcur/files/styles/small/public/201501/Lacey.jpg
-wget -O aa_honest_8.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHUHN5G2FUI6TINFCYVYVHE4UI.jpg&w=767
+wget -O aa_honest_8.jpg https://i.ytimg.com/vi/VDqUX3M6krM/maxresdefault.jpg
 wget -O aa_honest_9.jpg https://static01.nyt.com/images/2019/02/19/books/review/19LEVY2/merlin_150725910_3694da9d-a98a-44a7-8597-4f8b2eae5223-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 			    
 wget -O aa_lucky_0.jpg https://s.abcnews.com/images/Lifestyle/ht_kenneth_stokes_mt_141024_16x9_992.jpg
@@ -246,7 +246,7 @@ wget -O aa_gifts_9.jpg https://image.shutterstock.com/image-photo/africanamerica
 wget -O aa_honor_0.jpg https://i.ndtvimg.com/i/2015-05/barack-obama-american-jews-reuters-650_650x400_61432331765.jpg
 wget -O aa_honor_1.jpg https://patch.com/img/cdn20/users/22966320/20181207/122728/styles/raw/public/processed_images/tim_head_shot-1544203357-911.jpg
 wget -O aa_honor_2.jpg https://news.psu.edu/sites/default/files/styles/threshold-768/public/Isaac_Kendall.jpg?itok=VnTvhUR_
-wget -O aa_honor_3.jpg https://i.guim.co.uk/img/media/3f223270fcae8698a3ebaf6a75916bff3df94f6e/0_225_1642_985/master/1642.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=3fcfaebc8defdf239f6b886f838269dd
+wget -O aa_honor_3.jpg https://cdn.vox-cdn.com/thumbor/iUHK76Jpvjd2p6GU3SY13WJrOeo=/0x0:2495x2495/1400x1400/filters:focal(1025x1026:1423x1424):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/53994107/usa_today_9510002.0.jpg
 wget -O aa_honor_4.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHsmYHitvAf9eCX5GwKtOEe4JgN3eotairZ2WYsBNhTDU1Zu_NA&s
 wget -O aa_honor_5.jpg https://ronekissrichmond.files.wordpress.com/2019/01/15183946090847.jpg?quality=80&strip=all&w=1024&h=1534
 wget -O aa_honor_6.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/1024/512/colin-kaepernick.jpg?ve=1&tl=1
@@ -807,9 +807,9 @@ wget -O aa_kill_3.jpg https://defendernetwork.com/wp-content/uploads/2019/10/bla
 wget -O aa_kill_4.jpg https://static01.nyt.com/images/2016/11/20/books/review/20reid-image/20reid-image-superJumbo.jpg
 wget -O aa_kill_5.jpg https://psmag.com/.image/t_share/MTU3NTkzMDYxNDcwMjUwOTcy/gettyimages-547067556.jpg
 wget -O aa_kill_6.jpg https://i.cbc.ca/1.3145209.1498874015!/fileImage/httpImage/image.jpg_gen/derivatives/original_780/andrew-loku.jpg
-wget -O aa_kill_7.jpg https://i.guim.co.uk/img/uploads/2017/10/09/Steven-Thrasher,-R.png?width=300&quality=85&auto=format&fit=max&s=5cd5a7f22a0826d34cb13a6f3a2b0d97
+wget -O aa_kill_7.jpg https://www.gannett-cdn.com/presto/2019/09/06/PMJS/78ab75ce-2d75-4902-bf0e-c73ed8c12122-Wimberly_2.jpg?crop=4127,2321,x0,y244&width=3200&height=1680&fit=bounds
 wget -O aa_kill_8.jpg https://www.inquirer.com/resizer/u6tYLxiyyenms0iEP6F1Z5NHfG4=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/SEM5F3TZ5ZH4FKRKRLQZVJ7AGU.jpg
-wget -O aa_kill_9.jpg https://cdn-01.independent.ie/entertainment/movies/article37785003.ece/ee625/AUTOCROP/w620/ipanews_5e6ac69d-7c57-4a34-b8d2-e2227e5acbfb_1
+wget -O aa_kill_9.jpg https://localtvwtkr.files.wordpress.com/2020/01/singleton.png?w=280&h=264
 			    
 wget -O aa_rotten_0.jpg https://resizing.flixster.com/zMcDksZV98yWRnMWzN50gA9mzmU=/740x290/v1.bjsyMjc0MDkwO2o7MTgzNDE7MTIwMDsyMDQ4OzExNTI
 wget -O aa_rotten_1.jpg https://resizing.flixster.com/R0dS5-GjjBtzYjp5qUTucZIk_jA=/1950x3000/v1.cjs1MDA5MDtqOzE4MzE1OzEyMDA7MTk1MDszMDAw
