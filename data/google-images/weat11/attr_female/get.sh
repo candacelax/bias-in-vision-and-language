@@ -218,6 +218,17 @@ wget -O female_diploma_7.jpg https://image.shutterstock.com/image-photo/female-g
 wget -O female_diploma_8.jpg https://c8.alamy.com/comp/X9ERWA/young-female-graduate-holding-diploma-X9ERWA.jpg
 wget -O female_diploma_9.jpg https://thumbs.dreamstime.com/z/graduate-female-cheering-diploma-pretty-asian-american-woman-black-graduatation-cap-gown-outdoors-113642814.jpg
 
+wget -O female_diplomas_0.jpg https://thumbs.dreamstime.com/z/education-graduation-people-concept-happy-female-graduate-students-mortar-boards-bachelor-gowns-diplomas-over-134001631.jpg
+wget -O female_diplomas_1.jpg https://cdn8.dissolve.com/p/D1028_89_512/D1028_89_512_1200.jpg
+wget -O female_diplomas_2.jpg https://c8.alamy.com/comp/TA38C3/female-graduates-with-diplomas-in-their-hands-hugging-laugh-at-the-background-of-the-education-graduationuniversity-gesture-and-people-concept-TA38C3.jpg
+wget -O female_diplomas_3.jpg https://c8.alamy.com/comp/X2E2EF/female-college-graduates-holding-diplomas-X2E2EF.jpg
+wget -O female_diplomas_4.jpg https://previews.123rf.com/images/paylessimages/paylessimages1412/paylessimages141223722/51464524-female-university-students-holding-diplomas.jpg
+wget -O female_diplomas_5.jpg https://cdn.marriagenamechange.com/wp-content/uploads/female-graduate-holding-diploma-620x413.jpg
+wget -O female_diplomas_6.jpg https://dfstatic.com/images/cached/general/professional-certificate-frames-1.jpg
+wget -O female_diplomas_7.jpg https://c8.alamy.com/comp/A92AX7/three-young-women-wearing-graduation-gowns-and-holding-diplomas-A92AX7.jpg
+wget -O female_diplomas_8.jpg https://videohive.img.customer.envatousercontent.com/files/2398a6b5-6fb3-4a3b-a325-6e7a408ad748/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=37687c6323b96f33663e732063d77948
+wget -O female_diplomas_9.jpg https://c8.alamy.com/comp/R7FM6M/two-female-asian-students-in-graduation-gown-holding-the-diplomas-R7FM6M.jpg
+
 wget -O female_gift_0.jpg https://www.thespruce.com/thmb/bsuayLvUJIs9SruyN9h46luXVvY=/735x0/germany--hamburg--woman-with-large-present-663760419-5a66493dcf077700374621fe.jpg
 wget -O female_gift_1.jpg https://media1.popsugar-assets.com/files/thumbor/nyhzxrFhPf8D-G_2pvWyyh97ndY/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2019/12/03/716/n/1922441/d9a163eb5de689323a5e64.65755811_/i/Gifts-Women-20s.jpg
 wget -O female_gift_2.jpg https://dodoburd.com/wp-content/uploads/2018/07/Rose-Jasmine-Fragrance-Gift-Basket.jpg
