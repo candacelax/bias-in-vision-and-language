@@ -30,7 +30,8 @@ wget -O aa_freedom_6.jpg https://www.charlestonchronicle.net/wp-content/uploads/
 wget -O aa_freedom_7.jpg https://as2.ftcdn.net/jpg/01/17/36/43/500_F_117364394_cf1WaMEvBZXDMNZW4MtHOwJm3h06brg4.jpg
 wget -O aa_freedom_8.jpg https://www.fvinstitute.org/wp-content/uploads/2018/08/BlackFaces_153863548_xl-2015-847x477.jpg
 wget -O aa_freedom_9.jpg https://lasentinel.net/wp-content/uploads/sites/5/2018/07/jeffreyboney_001_nnpaopeds_jboney_web120.jpg
-			    
+sleep 3
+
 wget -O aa_health_0.jpg https://www.ebony.com/wp-content/uploads/2016/07/Black_Mens_Health_Checkup_original_33114.jpg
 wget -O aa_health_1.jpg https://www.aawellnessproject.org/wp-content/uploads/2018/06/June-top-10-mens-health.jpg
 wget -O aa_health_2.jpg https://dam.abbott.com/en-us/abbottcorpnews/images/HeartHealth_Hero-960x430.jpg
@@ -44,7 +45,7 @@ wget -O aa_health_9.jpg http://d279m997dpfwgl.cloudfront.net/wp/2015/09/0916_dam
 			    
 wget -O aa_love_0.jpg https://www.bgdblog.org/wp-content/uploads/2015/03/Men2356.jpg
 wget -O aa_love_1.jpg https://images.squarespace-cdn.com/content/v1/59d12d0b2994ca305e71cea1/1550942705322-2S8L7GP39IEE4F4SUP8W/ke17ZwdGBToddI8pDm48kNegiSW71E7APqJZnhA_yX1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6Li_BEgz6jj940qoXGrSITjLjuGKQf1peL8wjw6KSZgKMshLAGzx4R3EDFOm1kBS/IMG-5198.jpg
-wget -O aa_love_2.jpg http://advocatesfordrsebi.org/wp-content/uploads/2014/12/1-real-love.jpg
+wget -O aa_love_2.jpg http://i.imgur.com/ijpC6Ec.jpg
 wget -O aa_love_3.jpg https://i0.wp.com/watercoolerconvos.com/wp-content/uploads/2017/07/couple-black-love-960_720.jpg
 wget -O aa_love_4.jpg https://www.ebony.com/wp-content/uploads/2016/07/Black_Man_Looking_original_56744.jpg
 wget -O aa_love_5.jpg https://thumbs.dreamstime.com/z/romantic-date-african-american-love-couple-romantic-date-african-american-love-couple-happy-relationship-smiling-black-people-100131502.jpg
@@ -72,11 +73,11 @@ wget -O aa_cheer_4.jpg https://as2.ftcdn.net/jpg/02/39/95/53/500_F_239955305_Gmw
 wget -O aa_cheer_5.jpg https://image.shutterstock.com/image-photo/celebration-cheer-young-child-african-600w-509887426.jpg
 wget -O aa_cheer_6.jpg https://thumbs.dreamstime.com/z/african-american-man-beard-happy-surprised-cheering-expressing-wow-gesture-night-african-young-man-over-white-116521894.jpg
 wget -O aa_cheer_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM7QARCemxix4mJGZq_DDYcvkBnbhpACGpCZrKse0J5a3oxEJ9&s
-wget -O aa_cheer_8.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/6566828/910/607/m2/fpnw/wm1/zeikvtpneil1b9xed8ckdv3ojioqbrwuglbjv1nrairuftmja9bzybyu2nmnvb9q-.jpg?1560978178&s=bfb1879a20dcb8bef677470d0b932500
+wget -O aa_cheer_8.jpg https://us.123rf.com/450wm/diego_cervo/diego_cervo1612/diego_cervo161200041/67515618-real-cuban-people-and-feelings-portrait-of-happy-senior-african-american-man-looking-at-camera-cheer.jpg?ver=6
 wget -O aa_cheer_9.jpg https://c8.alamy.com/comp/TBN1XX/thrilled-and-overwhelmed-handsome-energized-african-american-male-fan-in-glasses-with-piercing-and-tattoos-yelling-in-cheer-with-raised-clenched-fists-TBN1XX.jpg
 			    
 wget -O aa_friend_0.jpg https://madison365.com/wp-content/uploads/2017/03/Rod.jpg
-wget -O aa_friend_1.jpg https://i.guim.co.uk/img/uploads/2017/10/09/Maurice-McLeod,-L.png?width=300&quality=85&auto=format&fit=max&s=a44eac68b70f38fe2e53530dba684ac2
+wget -O aa_friend_1.jpg https://www.irishtimes.com/polopoly_fs/1.3835262.1553266779\!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
 wget -O aa_friend_2.jpg https://i.ytimg.com/vi/q4BTLoHSGMk/maxresdefault.jpg
 wget -O aa_friend_3.jpg https://s3.wp.wsu.edu/uploads/sites/1878/2019/03/PHE-of-the-Month_March_Nives-Quaye-400x600.jpg
 wget -O aa_friend_4.jpg https://images.squarespace-cdn.com/content/v1/57bc59a48419c2441f7853b5/1493212538532-TLVSBVZ2VM73U4929BUN/ke17ZwdGBToddI8pDm48kKyKXzXg97pVOty_YeOT2ht7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmbAPWDwNhuSEKyCuGePwJdoj1ERmZLPcP4e3dZ8Oe4G8kht_QeYHcgYbl0HPPfqN3/alexandra+friend.jpg?format=1500w
@@ -107,7 +108,8 @@ wget -O aa_heaven_6.jpg https://news.stthomas.edu/wp-content/uploads/2012/09/120
 wget -O aa_heaven_7.jpg https://foodheavenmadeeasy.com/wp-content/uploads/2019/02/The-Strong-Black-Superwoman-w-Dr.-Blackman-Carr-1.jpg
 wget -O aa_heaven_8.jpg https://storage.googleapis.com/afs-prod/media/media:86eea4204323407c8dd6eea866972f7d/800.jpeg
 wget -O aa_heaven_9.jpg https://i.ytimg.com/vi/eNfG93RnJEs/hqdefault.jpg
-			    
+sleep 3
+
 wget -O aa_loyal_0.jpg https://i.pinimg.com/originals/00/c9/f6/00c9f604727aae670d5453d7ddbfea59.jpg
 wget -O aa_loyal_1.jpg https://ionemadamenoire.files.wordpress.com/2016/10/young-black-man1.jpg?w=414&h=414
 wget -O aa_loyal_2.jpg https://ionemadamenoire.files.wordpress.com/2017/03/woman-plotting-11.jpg?w=900&h=600
@@ -140,7 +142,8 @@ wget -O aa_diamond_6.jpg https://lasentinel.net/wp-content/uploads/sites/5/2017/
 wget -O aa_diamond_7.jpg https://news.education.wisc.edu/images/WebDispenser/news-and-events/john-diamond-250-px-sq.jpg?sfvrsn=0
 wget -O aa_diamond_8.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/07/janell-pics.png
 wget -O aa_diamond_9.jpg https://thegrio.com/wp-content/uploads/2018/01/Sundance26190-1.jpg
-			    
+sleep 3
+
 wget -O aa_diamonds_0.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fpamdanziger%2Ffiles%2F2019%2F03%2FFor-Me-From-Me-Campaign-Headshot-1200x800.jpg
 wget -O aa_diamonds_1.jpg https://cdn.shopify.com/s/files/1/1409/2680/files/dmx-stmark-spike-earrings01sm_large.jpg?v=1474802926
 wget -O aa_diamonds_2.jpg https://www.billboard.com/files/styles/article_main_image/public/media/rihanna-diamond-vid-still-2016-billboard-1548.jpg
@@ -156,7 +159,7 @@ wget -O aa_gentle_0.jpg https://pbs.twimg.com/media/CzRYa_QWEAA1u3m.jpg
 wget -O aa_gentle_1.jpg https://images.unsplash.com/photo-1561677843-39dee7a319ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
 wget -O aa_gentle_2.jpg https://thumbs.dreamstime.com/z/attractive-grinning-man-looking-downward-close-up-single-black-shaved-head-gray-shirt-over-background-copy-space-75081860.jpg
 wget -O aa_gentle_3.jpg https://thumbs.dreamstime.com/z/gentle-smile-369351.jpg
-wget -O aa_gentle_4.jpg https://i.pinimg.com/originals/24/1a/88/241a88034ac1f7c485520dc144f90b8d.jpghttps://thumbs.dreamstime.com/z/optimistic-curly-young-woman-gentle-smile-looks-positively-camera-wears-casual-black-clothes-isolated-grey-optimistic-153325469.jpg
+wget -O aa_gentle_4.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgICKH5JuQqZwYgYfOS08pd3d_lmrl9DlWqyXksCCcgohvYDj3jg&s
 wget -O aa_gentle_5.jpg https://images.squarespace-cdn.com/content/v1/5a63d838c027d8eed1123b4b/1519759609121-CWOT75X0VR8LJ4X1VDW1/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/Babs_BlackEyewear-19.jpg
 wget -O aa_gentle_6.jpg https://pbs.twimg.com/profile_images/918960093407907840/ZHf1L3EH_400x400.jpg
 wget -O aa_gentle_7.jpg https://ak3.picdn.net/shutterstock/videos/31013083/thumb/12.jpg
@@ -177,12 +180,12 @@ wget -O aa_honest_9.jpg https://static01.nyt.com/images/2019/02/19/books/review/
 wget -O aa_lucky_0.jpg https://s.abcnews.com/images/Lifestyle/ht_kenneth_stokes_mt_141024_16x9_992.jpg
 wget -O aa_lucky_1.jpg https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201607/487367960.jpg
 wget -O aa_lucky_2.jpg https://i.pinimg.com/originals/45/86/45/45864555199e8c678351b10c404f6300.jpg
-wget -O aa_lucky_3.jpg https://i1.adis.ws/i/lucky/7M12349_001_2/121-SLIM-STRAIGHT-SATEEN-STRETCH-JEAN-001?$productTileDesktop$
-wget -O aa_lucky_4.jpg https://i1.adis.ws/i/boohooamplience/agg58327_black_xl?$product_image_main_mobile$
-wget -O aa_lucky_5.jpg https://i1.adis.ws/i/lucky/7M50518_001_1/WELTERWEIGHT-V-NECK-001?$productMainDesktop$
+wget -O aa_lucky_3.jpg https://www.tvinsider.com/wp-content/uploads/2018/09/NUP_183539_1295-1-1014x570.jpg
+wget -O aa_lucky_4.jpg https://www.eahhousing.org/wp-content/uploads/2017/09/eahhousing_realpeople_Trisha-Drakes-4x5.jpg
+wget -O aa_lucky_5.jpg https://www.nydailynews.com/resizer/81Mlfa0qtegyBqFES9CqcqKKVTI=/415x311/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/BVADGXGOIO7FKQB72J4NELK4JE.jpg
 wget -O aa_lucky_6.jpg https://www.lulus.com/images/product/xlarge/4386730_886022.jpg?w=560
 wget -O aa_lucky_7.jpg https://media.istockphoto.com/photos/excited-lucky-black-man-feeling-winner-isolated-on-pink-background-picture-id1126649036
-wget -O aa_lucky_8.jpg https://i1.adis.ws/i/lucky/7WD7863_001_1/CLOUD-JERSEY-ATHLETIC-PULLOVER-001?$productMainDesktop$
+wget -O aa_lucky_8.jpg https://culture-kings-us.imgix.net/products/9347385910076_normal_012_1024x1024.jpg?v=1538110523&bri=-4&bg=FFF&fit=fill&h=775&w=775
 wget -O aa_lucky_9.jpg https://wkusports.com/images/2019/6/15/Jackson_Lucky.jpg?width=300
 			    
 wget -O aa_rainbow_0.jpg https://s3-us-west-1.amazonaws.com/mapscontent/news-letters/v28n1/Nick-Powers.JPG
@@ -194,7 +197,7 @@ wget -O aa_rainbow_5.jpg https://cdn.shopify.com/s/files/1/0204/2302/products/2-
 wget -O aa_rainbow_6.jpg https://cdn.shopify.com/s/files/1/0293/9277/products/05-29-19_Studio_4_RM_19-35-32_77__WT1004_Black_1960_RA.jpg?v=1559580348
 wget -O aa_rainbow_7.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2014/06/black-enterprise-levar-burton-future-plans-reading-rainbow-app-1280x720.jpg
 wget -O aa_rainbow_8.jpg https://www.ebony.com/wp-content/uploads/2019/03/jussie-smollett_los-angeles.jpg
-wget -O aa_rainbow_9.jpg https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/8/12/1281613270846/Andile-Mngxitama---006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcced7a66a3e75bedc5204d02c63502f
+wget -O aa_rainbow_9.jpg https://img.jimmyjazz.com/images/f_auto/q_auto/t_1000/product/Y1161265-BLK-black-3/Black-Pyramid-Rainbow-Pyramid-Logo-Tee
 			    
 wget -O aa_rainbows_0.jpg https://s3-us-west-1.amazonaws.com/mapscontent/news-letters/v28n1/Nick-Powers.JPG
 wget -O aa_rainbows_1.jpg https://www.ebony.com/wp-content/uploads/2019/03/jussie-smollett_los-angeles.jpg
@@ -272,7 +275,8 @@ wget -O aa_miracle_6.jpg https://agenparl.eu/wp-content/uploads/2019/11/ighhr8jr
 wget -O aa_miracle_7.jpg https://c8.alamy.com/comp/J4CWAD/closeup-portrait-young-funny-guy-business-man-crossing-fingers-wishing-J4CWAD.jpg
 wget -O aa_miracle_8.jpg https://i.pinimg.com/originals/38/2f/f6/382ff67a43b1a1a6ed5ce3b8457dd193.jpg
 wget -O aa_miracle_9.jpg https://81dbbnqdih-flywheel.netdna-ssl.com/wp-content/uploads/2019/04/ET-pastor-arms-crossed.jpeg
-			    
+sleep 3
+
 wget -O aa_miracles_0.jpg https://static01.nyt.com/images/2018/11/25/books/review/25Jackson01/merlin_145740045_476c630f-7594-4ec2-a600-9da2ae2a2ef7-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 wget -O aa_miracles_1.jpg https://thepolitic.org/wp-content/uploads/2018/10/0-2.jpg
 wget -O aa_miracles_2.jpg https://www.kut.org/sites/kut/files/styles/medium/public/201910/jarrett-Bell_0.png
@@ -282,7 +286,7 @@ wget -O aa_miracles_5.jpg https://mediad.publicbroadcasting.net/p/kut/files/styl
 wget -O aa_miracles_6.jpg https://d3i6fh83elv35t.cloudfront.net/static/2018/11/Casey-Gerald-Author-Photo.credit-Hallo-Smith-copy-1-240x300.jpeg
 wget -O aa_miracles_7.jpg https://www.kut.org/sites/kut/files/styles/medium/public/201912/idopise-umana-2019-1.png
 wget -O aa_miracles_8.jpg https://www.kut.org/sites/kut/files/styles/medium/public/201908/leon_by_photo_by_jose_pagan_.jpg
-wget -O aa_miracles_9.jpg https://cdn.vox-cdn.com/thumbor/DHVf5f1MR8MgCVo8bDZwCsp2ZSA=/0x0:2048x1080/1200x800/filters:focal(311x269:637x595)/cdn.vox-cdn.com/uploads/chorus_image/image/58745069/MBA7115_v007.1044.0.jpg
+wget -O aa_miracles_9.jpg https://cdn.vox-cdn.com/thumbor/DHVf5f1MR8MgCVo8bDZwCsp2ZSA=/0x0:2048x1080/1200x800/filters:focal\(311x269:637x595\)/cdn.vox-cdn.com/uploads/chorus_image/image/58745069/MBA7115_v007.1044.0.jpg
 			    
 wget -O aa_sunrise_0.jpg https://image.shutterstock.com/image-vector/black-silhouette-man-standing-on-600w-175294118.jpg
 wget -O aa_sunrise_1.jpg https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20Dan%20Mirica,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1486982169/ij0hq8f1jjcrss98paql.jpg
@@ -293,7 +297,7 @@ wget -O aa_sunrise_5.jpg http://cdn6.dissolve.com/p/D95_56_026/D95_56_026_0004_6
 wget -O aa_sunrise_6.jpg https://previews.123rf.com/images/toodlingstudio/toodlingstudio1403/toodlingstudio140300001/26497738-a-black-silhouette-of-a-man-standing-at-the-sunrise-at-the-beach.jpg
 wget -O aa_sunrise_7.jpg http://cdn6.dissolve.com/p/D95_56_026/D95_56_026_0004_600.jpg
 wget -O aa_sunrise_8.jpg https://images.unsplash.com/photo-1484802216581-32df60a78702?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80
-wget -O aa_sunrise_9.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/1534937/910/606/m2/fpnw/wm1/traa1wxnnbwotawncu6hhvuscvvjpi7zcve0clktlzirl5bbomcyy4suyaiphrou-.jpg?1470646749&s=44a5d85a9047e742c98838268663572e
+wget -O aa_sunrise_9.jpg https://as2.ftcdn.net/jpg/02/36/57/89/500_F_236578941_uQ1jLX7nTcN42Y2sf9rh3dvEzwPn4zFo.jpg
 			    
 wget -O aa_sunrises_0.jpg https://image.shutterstock.com/image-photo/hiker-black-stand-on-peak-260nw-288434039.jpg
 wget -O aa_sunrises_1.jpg https://image.shutterstock.com/image-vector/black-silhouette-man-standing-on-260nw-175294118.jpg
@@ -316,7 +320,8 @@ wget -O aa_family_6.jpg http://yourblackworld.net/wp-content/uploads/2018/10/her
 wget -O aa_family_7.jpg https://www.adweek.com/wp-content/uploads/sites/8/2015/06/family-reunion.jpg
 wget -O aa_family_8.jpg https://i0.wp.com/apronsandstilletos.com/wp-content/uploads/2018/02/Black-Panther-2.jpg?resize=798%2C450
 wget -O aa_family_9.jpg https://media2.fdncms.com/portmerc/imager/u/original/26622001/1560213990-screen_shot_2019-06-10_at_5.45.35_pm.png
-			    
+sleep 3
+
 wget -O aa_families_0.jpg https://pmctvline2.files.wordpress.com/2014/07/blackish_preview.jpg?w=514&h=360&crop=1
 wget -O aa_families_1.jpg https://image.shutterstock.com/image-photo/multi-generation-male-family-members-260nw-557001523.jpg
 wget -O aa_families_2.jpg https://i.pinimg.com/originals/78/0e/54/780e547337187eb88a8086b90338158c.jpg
@@ -364,14 +369,15 @@ wget -O aa_paradise_9.jpg https://trenchtrenchtrench.com/assets/articles/rblk.jp
 wget -O aa_paradises_0.jpg https://www.yesmagazine.org/wp-content/uploads/imports/a3313bf8b3314685ac5ef1a65b6cc157.jpg
 wget -O aa_paradises_1.jpg https://peopledotcom.files.wordpress.com/2019/06/bip-2.jpg?crop=0px%2C0px%2C2700px%2C1417.5px&resize=1200%2C630
 wget -O aa_paradises_2.jpg https://i.ytimg.com/vi/N6voHeEa3ig/maxresdefault.jpg
-wget -O aa_paradises_3.jpg https://cdn.vox-cdn.com/thumbor/GbOUCChpVctwzhpf5xX70m8ikEw=/0x0:5819x4367/1200x800/filters:focal(2419x902:3349x1832)/cdn.vox-cdn.com/uploads/chorus_image/image/64732580/1139359887.jpg.0.jpg
+wget -O aa_paradises_3.jpg https://cdn.vox-cdn.com/thumbor/GbOUCChpVctwzhpf5xX70m8ikEw=/0x0:5819x4367/1200x800/filters:focal\(2419x902:3349x1832\)/cdn.vox-cdn.com/uploads/chorus_image/image/64732580/1139359887.jpg.0.jpg
 wget -O aa_paradises_4.jpg http://www.jwnbusinesssupport.co.uk/wp-content/uploads/2017/10/sweatshirts-black-kenzo-paradise-sweatshirt-womens-black.jpg
 wget -O aa_paradises_5.jpg https://images.immediate.co.uk/production/volatile/sites/3/2018/01/Death-in-Paradise-%E2%80%93-Danny-John-Jules-as-Dwayne-Myers-5dcc27c.jpg?quality=90&resize=620,413
 wget -O aa_paradises_6.jpg https://www.hgfandom.com/wp-content/uploads/2017/12/Flip-or-Flop-Nashville-hosts.jpg
 wget -O aa_paradises_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDhe5xzRp1pqdsWzepd0Z8bVFmzQSknlT1E0gbYgzX0pjkmRNn-A&s
 wget -O aa_paradises_8.jpg https://vignette.wikia.nocookie.net/bachelor-nation/images/d/df/Jubilee_%28Bachelor_in_Paradise_3%29.jpg/revision/latest?cb=20160731190952
 wget -O aa_paradises_9.jpg http://oceanpop.com/wp-content/uploads/2019/09/bachelor-in-paradise-katie-gets-beautiful-engagement-ring-from-chris-after-proposal.jpg
-			    
+sleep 3
+
 wget -O aa_vacation_0.jpg https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/10/19/10/BeechStock1910.jpg?w968
 wget -O aa_vacation_1.jpg https://image.shutterstock.com/image-photo/young-couple-pose-holiday-selfie-260nw-670636513.jpg
 wget -O aa_vacation_2.jpg http://www.breakingburgh.com/wp-content/uploads/2015/04/happy-man-692795_1280.jpg
@@ -402,7 +408,7 @@ wget -O aa_abuse_4.jpg https://www.colorlines.com/sites/default/files/styles/art
 wget -O aa_abuse_5.jpg https://storage.googleapis.com/afs-prod/media/50500581709e402488e14a40cc06eab0/2000.jpeg
 wget -O aa_abuse_6.jpg https://markallenassets.blob.core.windows.net/communitycare/2019/11/C0471168-Girl_with_adult_woman-SPL_600.jpg
 wget -O aa_abuse_7.jpg https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/98/598e79a5-e461-57f1-afa5-14540072e34a/5dbb2d16f027a.image.jpg?resize=1200%2C801
-wget -O aa_abuse_8.jpg https://cdn.vox-cdn.com/thumbor/iRKF7pxMClo069lmTpSt9jq6XU4=/0x0:1755x1271/1200x800/filters:focal(738x496:1018x776)/cdn.vox-cdn.com/uploads/chorus_image/image/64979736/6_14_Black_Priest_2_.0.jpg
+wget -O aa_abuse_8.jpg https://cdn.vox-cdn.com/thumbor/iRKF7pxMClo069lmTpSt9jq6XU4=/0x0:1755x1271/1200x800/filters:focal\(738x496:1018x776\)/cdn.vox-cdn.com/uploads/chorus_image/image/64979736/6_14_Black_Priest_2_.0.jpg
 wget -O aa_abuse_9.jpg https://www.nspcc.org.uk/globalassets/for-go-live-images/children-neglect/20140918-324-boy-outside-house-closeup-1.jpg
 		    
 wget -O aa_abuses_0.jpg https://www.irishtimes.com/polopoly_fs/1.2765556.1471930691!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
@@ -413,7 +419,7 @@ wget -O aa_abuses_4.jpg https://bloximages.chicago2.vip.townnews.com/phillytrib.
 wget -O aa_abuses_5.jpg https://markallenassets.blob.core.windows.net/communitycare/2019/11/C0471168-Girl_with_adult_woman-SPL_600.jpg
 wget -O aa_abuses_6.jpg https://www.colorlines.com/sites/default/files/styles/article_lead_normal/public/images/articles/2018/10/colson-whitehead-now-101118.jpg?itok=kSTttNnJ
 wget -O aa_abuses_7.jpg https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/5/98/598e79a5-e461-57f1-afa5-14540072e34a/5dbb2d16f027a.image.jpg?resize=1200%2C801
-wget -O aa_abuses_8.jpg https://cdn.vox-cdn.com/thumbor/Z-lq_9opYc1GWNDQrNvcvx5Ma2s=/0x0:1023x731/1200x800/filters:focal(402x238:564x400)/cdn.vox-cdn.com/uploads/chorus_image/image/65170085/INMATE_071119_11.0.jpg
+wget -O aa_abuses_8.jpg https://cdn.vox-cdn.com/thumbor/Z-lq_9opYc1GWNDQrNvcvx5Ma2s=/0x0:1023x731/1200x800/filters:focal\(402x238:564x400\)/cdn.vox-cdn.com/uploads/chorus_image/image/65170085/INMATE_071119_11.0.jpg
 wget -O aa_abuses_9.jpg http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F28522032-e6c0-11e9-af9b-4acc72f640a9.jpg?crop=5418%2C3047%2C41%2C201&resize=685
 			    
 wget -O aa_crash_0.jpg https://s.hdnux.com/photos/77/65/06/16732562/3/gallery_medium.jpg
@@ -451,16 +457,16 @@ wget -O aa_filth_9.jpg http://everydayfeminism.com/wp-content/uploads/2017/01/46
 			    
 wget -O aa_murder_0.jpg https://cdn.cnn.com/cnnnext/dam/assets/170503183528-jordan-edwards-large-169.jpg
 wget -O aa_murder_1.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/03/09/17/bryant_tennelle.jpg
-wget -O aa_murder_2.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YURHT7XTJ5DJTO6RZJX4Y44A3I.jpg&w=767
-wget -O aa_murder_3.jpg https://cdn.vox-cdn.com/thumbor/qnpHWdyQLJTTdmaavaOB5PRAYnU=/0x0:640x360/1400x1400/filters:focal(269x129:371x231):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/54557107/Jordan_Edwards_2.0.jpg
-wget -O aa_murder_4.jpg https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201808/f_tov_oliver_verdict_180828.760;428;7;70;5.jpg
+wget -O aa_murder_2.jpg https://www.nbc12.com/resizer/T9c_Z-aRo9nYr-TyaV9mAX88JpU=/266x0:1680x1060/1413x1060/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/XPD3ZVISIBC53LMJMEFQLAJIR4.png
+wget -O aa_murder_3.jpg https://cdn.vox-cdn.com/thumbor/qnpHWdyQLJTTdmaavaOB5PRAYnU=/0x0:640x360/1400x1400/filters:focal\(269x129:371x231\):format\(jpeg\)/cdn.vox-cdn.com/uploads/chorus_image/image/54557107/Jordan_Edwards_2.0.jpg
+wget -O aa_murder_4.jpg https://api.time.com/wp-content/uploads/2015/12/john-boyega1.jpg?w=600&quality=85
 wget -O aa_murder_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xWfMlPpD4Dj1-AuRs0IiYmwNVGTzPWsAW2AV6ztSBneOhFWK&s
 wget -O aa_murder_6.jpg https://s.abcnews.com/images/US/samuel-little-ap-mo-20190608_hpMain_16x9_992.jpg
 wget -O aa_murder_7.jpg https://image.cnbcfm.com/api/v1/image/105804691-1553102344536gettyimages-1066751994.jpeg?v=1553102375&w=678&h=381
 wget -O aa_murder_8.jpg https://www.splcenter.org/sites/default/files/gerald_duane_lewis.png
 wget -O aa_murder_9.jpg https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201903/705034593.jpg
 			    
-wget -O aa_murders_0.jpg https://cdn.vox-cdn.com/thumbor/qnpHWdyQLJTTdmaavaOB5PRAYnU=/0x0:640x360/1400x1400/filters:focal(269x129:371x231):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/54557107/Jordan_Edwards_2.0.jpg
+wget -O aa_murders_0.jpg https://cdn.vox-cdn.com/thumbor/qnpHWdyQLJTTdmaavaOB5PRAYnU=/0x0:640x360/1400x1400/filters:focal\(269x129:371x231\):format\(jpeg\)/cdn.vox-cdn.com/uploads/chorus_image/image/54557107/Jordan_Edwards_2.0.jpg
 wget -O aa_murders_1.jpg https://www.insidehighered.com/sites/default/server_files/styles/large/public/media/IMG_2132.jpg?itok=oh1qOvtE
 wget -O aa_murders_2.jpg https://cdn.cnn.com/cnnnext/dam/assets/170503183528-jordan-edwards-large-169.jpg
 wget -O aa_murders_3.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/03/09/17/bryant_tennelle.jpg
@@ -472,8 +478,8 @@ wget -O aa_murders_8.jpg https://s.hdnux.com/photos/01/00/33/43/16890069/55/920x
 wget -O aa_murders_9.jpg https://i.cbc.ca/1.4816843.1536610300!/cpImage/httpImage/image.jpg_gen/derivatives/original_780/dallas-officer-mistaken-apartment.jpg
 			    
 wget -O aa_sickness_0.jpg https://previews.123rf.com/images/9nong/9nong1901/9nong190100036/118041702-sick-african-man-with-sore-throat-portrait-of-ill-black-man-suffering-from-sore-throat-due-to-cold-f.jpg
-wget -O aa_sickness_1.jpg https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/266-pom9943-eye.jpg?auto=format&bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&mark=rawpixel-watermark.png&markalpha=90&markpad=13&markscale=10&markx=25&q=75&usm=15&vib=3&w=1400&s=a86c6b877724bd772b60b55aef6b5f25
-wget -O aa_sickness_2.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/55D5DCXWOYI6TMWSD434TWBNXM.jpg&w=767
+wget -O aa_sickness_1.jpg https://static01.nyt.com/images/2017/06/11/magazine/11aids4/11mag-11aids-t_CA2-jumbo.jpg
+wget -O aa_sickness_2.jpg https://www.health.mil/-/media/Images/MHS/Photos/Cold-and-flu-2018.ashx?h=428&la=en&mw=720&w=720&hash=610B37C5866F8CBFCAABEE9DB8A72E721184434B491A3771CC89861ECE38A9DF
 wget -O aa_sickness_3.jpg https://image1.masterfile.com/getImage/NjkzLTA2MDIwMDI3ZW4uMDAwMDAwMDA=AMjl1y/693-06020027en_Masterfile.jpg
 wget -O aa_sickness_4.jpg https://www.rd.com/wp-content/uploads/2019/01/If-Your-Cold-Lingers-Here-are-13-Things-It-Could-Mean-3.jpg
 wget -O aa_sickness_5.jpg https://defendernetwork.com/wp-content/uploads/2016/10/Sick-Black-Man-Dreadlocks.jpg
@@ -481,7 +487,8 @@ wget -O aa_sickness_6.jpg https://st4.depositphotos.com/1641220/20318/i/1600/dep
 wget -O aa_sickness_7.jpg https://cdn-prod.medicalnewstoday.com/content/images/hero/325/325120/325120_1100.jpg
 wget -O aa_sickness_8.jpg https://www.womenshealth.gov/files/styles/masthead/public/images/mh_sickle-cell-disease.jpg?itok=WnQYT3HK&c=08b22086c2987f11c6191a552e619259
 wget -O aa_sickness_9.jpg https://image.freepik.com/free-photo/young-african-black-man-wearing-pajama-going-cold-due-low-temperature-sickness_1187-36253.jpg
-			    
+sleep 3
+
 wget -O aa_sicknesses_0.jpg https://www.thenation.com/wp-content/uploads/2016/06/Smith_feature_shutterstock_img.jpg
 wget -O aa_sicknesses_1.jpg https://sdvoice.info/wp-content/uploads/2015/07/071212-health-depression-sadness-illness-stress-mental1.jpg
 wget -O aa_sicknesses_2.jpg https://www.heart.org/-/media/images/health-topics/consumer-healthcare/black-family-reading-book-istock690793526.jpg
@@ -495,7 +502,7 @@ wget -O aa_sicknesses_9.jpg https://www.sciencenews.org/wp-content/uploads/2019/
 			    
 wget -O aa_accident_0.jpg https://image.shutterstock.com/image-photo/injured-black-woman-after-bad-260nw-1201292983.jpg
 wget -O aa_accident_1.jpg https://image.shutterstock.com/image-photo/injured-woman-feeling-bad-after-260nw-772112830.jpg
-wget -O aa_accident_2.jpg https://www.pophamlaw.com/wp-content/uploads/2016/08/bigstock-Worried-Male-Driver-Sitting-By-92609357.jpg
+wget -O aa_accident_2.jpg http://cdn.24.co.za/files/Cms/General/d/5653/f9c6f09d40af436ba6ad6df15e31faa6.jpg
 wget -O aa_accident_3.jpg https://st4.depositphotos.com/1761743/25046/i/1600/depositphotos_250468828-stock-photo-car-accident-and-black-woman.jpg
 wget -O aa_accident_4.jpg https://thumbs.dreamstime.com/z/injured-woman-feeling-bad-having-car-crash-accident-black-pain-141668153.jpg
 wget -O aa_accident_5.jpg https://media.graytvinc.com/images/810*1438/William+Parker+41.jpg
@@ -504,7 +511,7 @@ wget -O aa_accident_7.jpg https://starcasm.net/wp-content/uploads/2018/05/Dutche
 wget -O aa_accident_8.jpg https://thumbs.dreamstime.com/z/man-fainted-car-accident-dead-53620295.jpg
 wget -O aa_accident_9.jpg https://www.bet.com/celebrities/news/2019/09/01/kevin-hart-car-accident/_jcr_content/image.large2x1image.dimg/__1567458295032__1567457138792/090219-kevin-hart-update-final.jpg
 			    
-wget -O aa_accidents_0.jpg https://www.pophamlaw.com/wp-content/uploads/2016/08/bigstock-Worried-Male-Driver-Sitting-By-92609357.jpg
+wget -O aa_accidents_0.jpg https://media.istockphoto.com/photos/portrait-of-desperate-black-man-in-white-coat-praying-picture-id946502956
 wget -O aa_accidents_1.jpg https://image.shutterstock.com/image-photo/injured-woman-feeling-bad-after-260nw-772112830.jpg
 wget -O aa_accidents_2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tracy_Morgan_3_Shankbone_2009_NYC.jpg/1200px-Tracy_Morgan_3_Shankbone_2009_NYC.jpg
 wget -O aa_accidents_3.jpg https://media13.s-nbcnews.com/j/MSNBC/Components/Video/201909/tdy_pop_fryer_kevin_hart_190903_1920x1080.social_share_1200x630_center.jpg
@@ -558,7 +565,8 @@ wget -O aa_poison_6.jpg https://ih1.redbubble.net/image.232561509.5784/aldr,x170
 wget -O aa_poison_7.jpg http://factmag-images.s3.amazonaws.com/wp-content/uploads/2013/08/Black-Milk06082013.jpg
 wget -O aa_poison_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYpc9nTmpsZoxPcFy40DLVWHP7aEE_vGE7ifaYDg3WvP0R4lYzkw&s
 wget -O aa_poison_9.jpg https://www.aconsciousrethink.com/wp-content/uploads/2019/03/toxic-woman-702x336.jpg
-			    
+sleep 3
+
 wget -O aa_poisons_0.jpg https://cdn01.dailycaller.com/wp-content/uploads/2018/12/Juwan_Royal-e1545419958157.jpg
 wget -O aa_poisons_1.jpg https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/2/8a/28a6ef3e-c8ca-51ef-b49b-a3009c8bb6db/564bf38c80419.image.jpg?resize=1200%2C820
 wget -O aa_poisons_2.jpg https://metro.co.uk/wp-content/uploads/2019/08/PRI_80098106.jpg?quality=90&strip=all
@@ -572,13 +580,13 @@ wget -O aa_poisons_9.jpg https://www.gannett-cdn.com/presto/2019/10/31/PNJM/5ffa
 			     
 wget -O aa_stink_0.jpg https://i.ytimg.com/vi/UCL8xVt91RM/hqdefault.jpg
 wget -O aa_stink_1.jpg https://thumbs.dreamstime.com/z/handsome-adult-black-man-smelly-bearded-male-114822732.jpg
-wget -O aa_stink_2.jpg https://cdn.vox-cdn.com/thumbor/JMB4qMewzY8tiE2inHQDsw9AkZ0=/0x231:2456x2073/1200x800/filters:focal(0x231:2456x2073)/cdn.vox-cdn.com/uploads/chorus_image/image/44255874/458999260.0.jpg
+wget -O aa_stink_2.jpg https://cdn.vox-cdn.com/thumbor/JMB4qMewzY8tiE2inHQDsw9AkZ0=/0x231:2456x2073/1200x800/filters:focal\(0x231:2456x2073\)/cdn.vox-cdn.com/uploads/chorus_image/image/44255874/458999260.0.jpg
 wget -O aa_stink_3.jpg https://static01.nyt.com/images/2018/02/18/magazine/18mag-blackpanthers2/18mag-blackpanthers2-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale
 wget -O aa_stink_4.jpg https://thumbs.dreamstime.com/z/handsome-adult-black-man-stinky-athletic-african-person-121448562.jpg
 wget -O aa_stink_5.jpg https://nappyheadedblackgirl.com/wp-content/uploads/2010/06/11-11-2013-1-45-50-AM.jpg
 wget -O aa_stink_6.jpg http://www.resumesforaricherlife.com/wp-content/uploads/2015/06/Stinks.-Black-Man-pinches-his-nose-Fotolia_64340747_S-1200x1181.jpg
 wget -O aa_stink_7.jpg https://img.buzzfeed.com/buzzfeed-static/static/2019-01/4/17/campaign_images/buzzfeed-prod-web-02/inside-the-country-where-you-can-buy-a-black-man--2-7881-1546640852-0_dblbig.jpg
-wget -O aa_stink_8.jpg https://www.thespruce.com/thmb/_ebJxPvGmXQcLf9N2yXjng7izzM=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/mixed-race-woman-smelling-clean-towels-in-laundry-557475315-598fae6f6f53ba00104a6275.jpg
+wget -O aa_stink_8.jpg https://www.thespruce.com/thmb/_ebJxPvGmXQcLf9N2yXjng7izzM=/960x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/mixed-race-woman-smelling-clean-towels-in-laundry-557475315-598fae6f6f53ba00104a6275.jpg
 wget -O aa_stink_9.jpg https://www.gannett-cdn.com/presto/2019/09/27/PPHX/cfcc9da5-06ea-4e79-8107-4a6565d45dbf-colbert2.jpg?crop=610,343,x1,y71&width=1600&height=800&fit=bounds
 			    
 wget -O aa_assault_0.jpg https://www.baltimoresun.com/resizer/kBjXfnGvwag6WFN6dVpkO_mrj2s=/1200x675/top/www.trbimg.com/img-5cf6d598/turbine/cc-1559680406-udxw6d22pv-snap-image
@@ -613,14 +621,15 @@ wget -O aa_disaster_6.jpg https://www.essence.com/wp-content/uploads/2016/10/147
 wget -O aa_disaster_7.jpg https://www.iesabroad.org/files/styles/blog_feature/public/blog/images/philippec%40berea.edu/2019-10-01/smile.jpg?itok=cvMm3RZt
 wget -O aa_disaster_8.jpg https://i1.wp.com/humanitarian.worldconcern.org/wp-content/uploads/2011/08/humanitarian-kenya-kids.jpg?resize=825%2C510&ssl=1
 wget -O aa_disaster_9.jpg http://simplecore.intel.com/newsroom/wp-content/uploads/sites/11/2018/04/melvin-greer.jpg
-			    
+sleep 3
+
 wget -O aa_disasters_0.jpg https://slate.com/content/dam/slate/articles/news_and_politics/politics/2015/08/150821_POL_Katrina-NatlGuard.jpg.CROP.promovar-mediumlarge.jpg
 wget -O aa_disasters_1.jpg https://i1.wp.com/blackyouthproject.com/wp-content/uploads/2018/02/canva-photo-editor-25.png?fit=1544%2C788
 wget -O aa_disasters_2.jpg https://ousweb-prodv2-shared-media.s3.amazonaws.com/media/images/OUS_50946_Marie_Alta_Jean_Ba.2e16d0ba.fill-1180x738-c100.jpg
 wget -O aa_disasters_3.jpg https://www.globalgiving.org/img/disasters/landing/T5_Imani_400.jpg
 wget -O aa_disasters_4.jpg https://planning-org-uploaded-media.s3.amazonaws.com/image/Planning-2019-08-image09.jpg
 wget -O aa_disasters_5.jpg https://mediad.publicbroadcasting.net/p/kera/files/styles/x_large/public/201712/chrishelle_palay_photo.jpg
-wget -O aa_disasters_6.jpg https://cdn.vox-cdn.com/thumbor/Eft7p1H9qrz3edsJGajoSLlwYXY=/22x0:790x576/1200x800/filters:focal(22x0:790x576)/cdn.vox-cdn.com/uploads/chorus_image/image/45685866/Screen_Shot_2015-02-13_at_1.14.02_PM.0.0.png
+wget -O aa_disasters_6.jpg https://cdn.vox-cdn.com/thumbor/Eft7p1H9qrz3edsJGajoSLlwYXY=/22x0:790x576/1200x800/filters:focal\(22x0:790x576\)/cdn.vox-cdn.com/uploads/chorus_image/image/45685866/Screen_Shot_2015-02-13_at_1.14.02_PM.0.0.png
 wget -O aa_disasters_7.jpg https://media.istockphoto.com/photos/portrait-of-desperate-black-man-in-white-coat-praying-picture-id1064434994
 wget -O aa_disasters_8.jpg https://static.businessinsider.sg/sites/2/2017/06/57be1302db5ce951008b8b73.jpg
 wget -O aa_disasters_9.jpg https://i.pinimg.com/originals/8d/dc/44/8ddc44ae7d5c12a7fc6257449c65b66b.jpg
@@ -629,16 +638,16 @@ wget -O aa_hatred_0.jpg https://i.ytimg.com/vi/i3rEZnxOWcw/maxresdefault.jpg
 wget -O aa_hatred_1.jpg https://cms.qz.com/wp-content/uploads/2018/05/calling-police-on-black-people-e1527176562169.jpg?quality=75&strip=all&w=410&h=238
 wget -O aa_hatred_2.jpg https://images.wsj.net/im-84763?width=1280&size=1
 wget -O aa_hatred_3.jpg https://s.abcnews.com/images/GMA/161215_gma_osunsami2_16x9_992.jpg
-wget -O aa_hatred_4.jpg https://cdn.vox-cdn.com/thumbor/m9hhrddrwlOYJtqyBUJfCovCk5U=/0x0:5184x3456/1200x800/filters:focal(2379x1057:3207x1885)/cdn.vox-cdn.com/uploads/chorus_image/image/63067369/1131246352.jpg.1550757076.jpg
+wget -O aa_hatred_4.jpg https://cdn.vox-cdn.com/thumbor/m9hhrddrwlOYJtqyBUJfCovCk5U=/0x0:5184x3456/1200x800/filters:focal\(2379x1057:3207x1885\)/cdn.vox-cdn.com/uploads/chorus_image/image/63067369/1131246352.jpg.1550757076.jpg
 wget -O aa_hatred_5.jpg https://static01.nyt.com/images/2018/03/12/us/00whitechurch-01/00whitechurch-01-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 wget -O aa_hatred_6.jpg https://images.theconversation.com/files/222278/original/file-20180607-137306-a5i6l9.jpg?ixlib=rb-1.1.0&rect=70%2C38%2C3099%2C2094&q=45&auto=format&w=496&fit=clip
-wget -O aa_hatred_7.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/iStock-172370812-1080x675.jpghttps://media.npr.org/assets/img/2015/02/13/reeves-f610c40457f259110600b974ae67c43aa313beb8-s800-c85.jpg
-wget -O aa_hatred_8.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HJVXISQLCMI6VACUFCNO63RYUM.jpg&w=767
+wget -O aa_hatred_7.jpg https://cdn.torontolife.com/wp-content/uploads/2015/04/the-skin-im-in-01-368x0-c-default.jpg
+wget -O aa_hatred_8.jpg https://cdn.theatlantic.com/assets/media/img/2014/11/bill_cosby/lead_720_405.jpg?mod=1533692229
 wget -O aa_hatred_9.jpg https://theundefeated.com/wp-content/uploads/2019/06/when-they-see-us-photo-e1560190915383.jpg?w=700
 			    
 wget -O aa_pollute_0.jpg https://cdn.americanprogress.org/content/uploads/2018/05/10075508/GettyImages-81227924-1024x683.jpg
 wget -O aa_pollute_1.jpg https://theundefeated.com/wp-content/uploads/2019/06/BWQ1oioA-e1559748708907.jpeg?w=700
-wget -O aa_pollute_2.jpg https://cdn.vox-cdn.com/thumbor/j7l9RS8mMTtjEqBHzn9Jskx3SuE=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/3988904/GettyImages-460019528.jpg
+wget -O aa_pollute_2.jpg https://cdn.vox-cdn.com/thumbor/j7l9RS8mMTtjEqBHzn9Jskx3SuE=/1400x1400/filters:format\(jpeg\)/cdn.vox-cdn.com/uploads/chorus_asset/file/3988904/GettyImages-460019528.jpg
 wget -O aa_pollute_3.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2017/08/epa-beaumont-texas-pollution-sharon-lerner-1501861281-440x440.jpg?auto=compress%2Cformat&q=90&fit=crop&w=440&h=440
 wget -O aa_pollute_4.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2017/08/3-epa-beaumont-texas-pollution-sharon-lerner-1501861625.jpg?auto=compress%2Cformat&q=90
 wget -O aa_pollute_5.jpg https://static01.nyt.com/images/2018/03/15/well/family/well-gubar-meeting/well-gubar-meeting-articleLarge.jpg?quality=75&auto=webp&disable=upscale
@@ -729,8 +738,8 @@ wget -O aa_jails_1.jpg https://i.dailymail.co.uk/i/pix/2016/08/11/01/36E10530000
 wget -O aa_jails_2.jpg https://media2.s-nbcnews.com/j/newscms/2019_28/2928001/190710-asap-rocky-cs-1155a_b81df229242a83edfb5737d24882bcb9.fit-760w.jpg
 wget -O aa_jails_3.jpg https://cdn.newsday.com/polopoly_fs/1.21271864.1537987307!/httpImage/image.jpg_gen/derivatives/display_960/image.jpg
 wget -O aa_jails_4.jpg https://www.gannett-cdn.com/presto/2019/07/24/USAT/00b8b3fe-ea92-4167-9a6e-96f8e5b89532-AP_Rapper_Convicted_Home_Invasion.JPG
-wget -O aa_jails_5.jpg https://www.miamiherald.com/news/special-reports/florida-prisons/8ixju9/picture35039937/alternates/FREE_640/Walker
-wget -O aa_jails_6.jpg https://cdn.vox-cdn.com/thumbor/s0KP_HuReJxTCoc5bAJSZVmd91s=/0x0:461x390/1200x800/filters:focal(194x159:266x231)/cdn.vox-cdn.com/uploads/chorus_image/image/63537208/spann2015mug.0.jpg
+wget -O aa_jails_5.jpg https://www.gannett-cdn.com/presto/2019/09/26/PDEM/cbef1477-8930-4d15-a59a-60490b759941-Malik_Terry.jpg?width=540&height=&fit=bounds&auto=webp
+wget -O aa_jails_6.jpg https://cdn.vox-cdn.com/thumbor/s0KP_HuReJxTCoc5bAJSZVmd91s=/0x0:461x390/1200x800/filters:focal\(194x159:266x231\)/cdn.vox-cdn.com/uploads/chorus_image/image/63537208/spann2015mug.0.jpg
 wget -O aa_jails_7.jpg https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/d/ee/dee7b2fa-df68-5990-b0f7-502c2f301f55/5cdcb3f1d185f.image.jpg?crop=735%2C735%2C0%2C24&resize=1200%2C1200&order=crop%2Cresize
 wget -O aa_jails_8.jpg https://khn.org/wp-content/uploads/sites/2/2016/12/kara-salim-1-770.jpg?w=770&h=513&crop=1
 wget -O aa_jails_9.jpg https://media.npr.org/assets/img/2015/06/29/1_veniceterrainpatreeserenata_outinthenight_signatureimgbylyriccabral-fa5c8bc144b0bb496e1e00898f1bfe898d1facbe-s800-c85.jpg
@@ -778,13 +787,14 @@ wget -O aa_cancers_6.jpg https://www.hopkinsmedicine.org/-/media/images/health/1
 wget -O aa_cancers_7.jpg https://images.huffingtonpost.com/2011-11-16-photo16-thumb.JPG
 wget -O aa_cancers_8.jpg http://home.bt.com/images/famous-black-men-join-forces-for-prostate-cancer-campaign-136413716041703901-170116122106.jpg
 wget -O aa_cancers_9.jpg https://breastcancernow.org/sites/default/files/styles/full_width_960_/public/files/della-outside-700.jpg
-			    
+sleep 3
+
 wget -O aa_evil_0.jpg https://i.dailymail.co.uk/i/pix/2015/02/27/26285D4900000578-0-image-a-43_1425065303835.jpg
 wget -O aa_evil_1.jpg https://i1.wp.com/www.rawstory.com/wp-content/uploads/2014/11/Bill-Cosby-REUTERS-800x430.png
 wget -O aa_evil_2.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/nvHBjRqDdVRY7AogwcgjiSSOybE=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/JIMCM5R7NUI6TMYJ6QWOEVUOBQ.jpg
 wget -O aa_evil_3.jpg https://imgix.bustle.com/rehost/2016/9/13/469fab7e-666a-416a-b57b-ac5441db8a26.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70
 wget -O aa_evil_4.jpg https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2014/06/2014_22south_africa.jpg?itok=haM1PwgW
-wget -O aa_evil_5.jpg https://cdn.vox-cdn.com/thumbor/Kz9rVkPq1-5KBfjiQcXSQ3XnBWE=/0x0:566x387/1200x800/filters:focal(238x148:328x238)/cdn.vox-cdn.com/uploads/chorus_image/image/63791474/cbark.0.png
+wget -O aa_evil_5.jpg https://cdn.vox-cdn.com/thumbor/Kz9rVkPq1-5KBfjiQcXSQ3XnBWE=/0x0:566x387/1200x800/filters:focal\(238x148:328x238\)/cdn.vox-cdn.com/uploads/chorus_image/image/63791474/cbark.0.png
 wget -O aa_evil_6.jpg https://www.chillingtalesfordarknights.com/wp-content/uploads/2019/11/Evil-Idol-2019-Contestant-Photo-Charles-Watley-cropped-500x500.jpg
 wget -O aa_evil_7.jpg https://thumbs.dreamstime.com/z/handsome-young-black-man-evil-african-male-107655093.jpg
 wget -O aa_evil_8.jpg https://pmctvline2.files.wordpress.com/2019/10/evil-renee-elise-goldsberry-cast-season-1.jpg
@@ -792,7 +802,7 @@ wget -O aa_evil_9.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02723/
 		          
 wget -O aa_kill_0.jpg https://lh3.googleusercontent.com/o4a1RUf6Cu9ZXOKc-xUqVq7-Yd6wM26UP0sSiQ2SLxLvjWCU3oIRQHrhBbANLXzl-zoITPtoPqB_I03f-Cb4JQ=s630
 wget -O aa_kill_1.jpg https://static01.nyt.com/images/2019/04/07/books/review/05McMillanCottom1/05McMillanCottom1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget -O aa_kill_2.jpg https://www.sltrib.com/resizer/BVRcynu-aO_JrZ_bZuei2t3aXk0=/0x600/smart/filters:quality(86)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/BJUHZYLUTRGUTCLRQRBD5G3GZ4.jpg
+wget -O aa_kill_2.jpg https://www.sltrib.com/resizer/BVRcynu-aO_JrZ_bZuei2t3aXk0=/0x600/smart/filters:quality\(86\)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/BJUHZYLUTRGUTCLRQRBD5G3GZ4.jpg
 wget -O aa_kill_3.jpg https://defendernetwork.com/wp-content/uploads/2019/10/black-man.png
 wget -O aa_kill_4.jpg https://static01.nyt.com/images/2016/11/20/books/review/20reid-image/20reid-image-superJumbo.jpg
 wget -O aa_kill_5.jpg https://psmag.com/.image/t_share/MTU3NTkzMDYxNDcwMjUwOTcy/gettyimages-547067556.jpg
@@ -803,13 +813,13 @@ wget -O aa_kill_9.jpg https://cdn-01.independent.ie/entertainment/movies/article
 			    
 wget -O aa_rotten_0.jpg https://resizing.flixster.com/zMcDksZV98yWRnMWzN50gA9mzmU=/740x290/v1.bjsyMjc0MDkwO2o7MTgzNDE7MTIwMDsyMDQ4OzExNTI
 wget -O aa_rotten_1.jpg https://resizing.flixster.com/R0dS5-GjjBtzYjp5qUTucZIk_jA=/1950x3000/v1.cjs1MDA5MDtqOzE4MzE1OzEyMDA7MTk1MDszMDAw
-wget -O aa_rotten_2.jpg https://cdn.vox-cdn.com/thumbor/8fYt66TMKGMY9kHdyWwpFhd0R4w=/1400x1050/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/8662429/Screen_Shot_2017_06_09_at_10.51.58_PM.png
+wget -O aa_rotten_2.jpg https://cdn.vox-cdn.com/thumbor/8fYt66TMKGMY9kHdyWwpFhd0R4w=/1400x1050/filters:format\(png\)/cdn.vox-cdn.com/uploads/chorus_asset/file/8662429/Screen_Shot_2017_06_09_at_10.51.58_PM.png
 wget -O aa_rotten_3.jpg https://cdn1.thr.com/sites/default/files/imagecache/768x433/2018/01/blackpanther5a5e4a1e21acb_-_h_2018_0.jpg
 wget -O aa_rotten_4.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/07/iStock-1010173208-1080x675.jpg
 wget -O aa_rotten_5.jpg https://api.time.com/wp-content/uploads/2018/02/test-black-panther-01.jpg?quality=85&w=640
 wget -O aa_rotten_6.jpg https://bossip.files.wordpress.com/2018/02/gettyimages-914585328.jpg?w=700
 wget -O aa_rotten_7.jpg https://img.cinemablend.com/filter:scale/quill/3/0/7/d/e/3/307de3da836e73e0f432819d5ff9e3ed0b616368.jpg?mw=600
-wget -O aa_rotten_8.jpg https://www.washingtonpost.com/resizer/Haoxz8ySrUEj5hQWSDIjw5wjvgQ=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZQ7W55DIMEZ3NDSIZW4663QGAY.jpg
+wget -O aa_rotten_8.jpg https://i.pinimg.com/originals/90/9a/86/909a8639a8d9b79148b7973dc9ec01b9.jpg
 wget -O aa_rotten_9.jpg https://resizing.flixster.com/ofDw4-MTSktd4IWnD9HgbuqziDU=/206x305/v1.bTsxMjk3NDkxOTtwOzE4MzMwOzEyMDA7OTE5OzU0OA
 			    
 wget -O aa_vomit_0.jpg https://images-prod.healthline.com/hlcmsresource/images/topic_centers/1974-Projectile_Vomiting-732x549-thumbnail.jpg
