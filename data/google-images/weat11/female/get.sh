@@ -347,7 +347,7 @@ wget -O female_laughter_4.jpg https://media1.s-nbcnews.com/j/streams/2014/May/14
 wget -O female_laughter_5.jpg https://dingo.care2.com/pictures/greenliving/uploads/2013/04/women-laughing.jpg
 wget -O female_laughter_6.jpg https://www.abc.net.au/reslib/201011/r675811_4955183.jpg
 wget -O female_laughter_7.jpg https://img.huffingtonpost.com/asset/5b9e7c862000004e00fe624d.jpeg?ops=scalefit_720_noupscale
-wget -O laughter_8.jpg http://thescienceexplorer.com/sites/thescienceexplorer.com/files/styles/content_image__large/public/blog/laughter-755329_1280.jpg?itok=5gw6rj-_&timestamp=1442414514
+wget -O female_laughter_8.jpg http://thescienceexplorer.com/sites/thescienceexplorer.com/files/styles/content_image__large/public/blog/laughter-755329_1280.jpg?itok=5gw6rj-_&timestamp=1442414514
 wget -O female_laughter_9.jpg https://images.snapwi.re/e661/5c25656cc1f571554e580195.w800.jpg
 
 wget -O female_paradise_0.jpg https://cdn.vox-cdn.com/thumbor/xECd1qNJJ4ijwAqmd_Ql86y2eiQ=/0x0:1100x619/1200x800/filters:focal\(312x41:488x217\)/cdn.vox-cdn.com/uploads/chorus_image/image/62982802/19846_1_1100.0.jpg
