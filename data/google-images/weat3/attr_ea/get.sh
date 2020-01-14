@@ -14,7 +14,7 @@ wget -O ea_caresses_1.jpg https://image.businessinsider.com/54a1bab26da811934d51
 wget -O ea_caresses_2.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1687,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1600/fl_lossy,q_auto/v1556698528/190430-tribeca-skin-tease_1_lusaow
 wget -O ea_caresses_3.jpg https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/03/joe-biden-stephanie-carter.jpg?fit=789%2C460&ssl=1
 wget -O ea_caresses_4.jpg https://www.chicagotribune.com/resizer/JHkP7HsOlfJfcdrfm7RJWp8cmA0=/415x276/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/C3SJVCM5NNCBRNK6XQHVA4NDNM.jpg
-wget -O ea_caresses_5.jpg https://www.washingtonpost.com/resizer/dTLSsPrMeIluBxRhrRRJlZcedVk=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/367K2XW7UYZUBJ5BSS3EWU5R3Y.jpg
+wget -O ea_caresses_5.jpg https://files.ondemandhosting.info/data/shared/web/assets/videos/master_thumbs/antidrug_psa4_e_en.jpg
 wget -O ea_caresses_6.jpg https://i.dailymail.co.uk/i/pix/2016/10/19/20/39823A7900000578-3852852-image-m-100_1476904791300.jpg
 wget -O ea_caresses_7.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02741/pope2_2741058b.jpg
 wget -O ea_caresses_8.jpg https://cdn.vox-cdn.com/thumbor/xQ0mARYkJbRHGLvVQbPW-_pRkT0=/0x0:3000x2004/1200x800/filters:focal\(1260x762:1740x1242\)/cdn.vox-cdn.com/uploads/chorus_image/image/57652767/066_CRIME_107_Unit_03244R.0.jpeg
@@ -44,7 +44,7 @@ wget -O ea_health_9.jpg https://previews.123rf.com/images/prometeus/prometeus180
 			    
 wget -O ea_love_0.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ZrIdSgazGD_Bn9wW3md1d1SW1UM=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/5SFZDLWRLYI6RA6V33T4SYNWKI.jpg
 wget -O ea_love_1.jpg https://nyoobserver.files.wordpress.com/2017/06/leftovers1.png
-wget -O ea_love_2.jpg https://img.bleacherreport.net/img/images/photos/001/553/235/136970958_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top
+wget -O ea_love_2.jpg https://cdn.postgradproblems.com/wp-content/uploads/2016/09/d06638cb7bef851c2bc081ecf5b63f3f.jpg
 wget -O ea_love_3.jpg https://cdn.shopify.com/s/files/1/0204/2302/products/TankTop_QueerLove_White_OnFigure_F_V2_300x300.JPG?v=1572459577
 wget -O ea_love_4.jpg https://anninc.scene7.com/is/image/LO/493931_9000?$pdp2x$
 wget -O ea_love_5.jpg https://www.eurekastreet.com.au/uploads/image/18/54846.jpg
@@ -88,7 +88,7 @@ wget -O ea_friend_9.jpg https://media.vanityfair.com/photos/5600612b3a02e0b16051
 			    
 wget -O ea_friends_0.jpg https://media.salon.com/2013/11/i_love_you_man.jpg
 wget -O ea_friends_1.jpg https://www.chicagotribune.com/resizer/1N4Rxek8vbMUft8Hm0Zc_TfkHrE=/415x233/top/www.trbimg.com/img-5b1852a1/turbine/ct-1528320669-sq4cfp7tct-snap-image
-wget -O ea_friends_2.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7NFHEF2XAI6TDUDJZTIP2MYCQ.jpg&w=767
+wget -O ea_friends_2.jpg https://thehill.com/sites/default/files/styles/article_full/public/trumpnatotwo05252017getty.jpg?itok=zCzvVAi7
 wget -O ea_friends_3.jpg https://assets.realclear.com/images/43/435301.jpg
 wget -O ea_friends_4.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/09/23/17/web-warwick-davis-getty.jpg?w968h681
 wget -O ea_friends_5.jpg https://cdn.cnn.com/cnnnext/dam/assets/190924022102-anderson-cooper-baffled-9-23-large-169.jpg
@@ -98,7 +98,7 @@ wget -O ea_friends_8.jpg https://thehill.com/sites/default/files/styles/article_
 wget -O ea_friends_9.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/David_Schwimmer_2011.jpg/1200px-David_Schwimmer_2011.jpg
 			    
 wget -O ea_heaven_0.jpg https://i.ytimg.com/vi/2MxiSeW3Egc/maxresdefault.jpg
-wget -O ea_heaven_1.jpg https://cdn2.wanderlust.co.uk/media/1283/articles-elizabeth-white-its-a-place-thats-both-heaven-and-hell.jpg?anchor=center&mode=crop&width=600&height=225&rnd=131455636870000000
+wget -O ea_heaven_1.jpg https://pbs.twimg.com/profile_images/1098081204006502400/2kLKsltK_400x400.png
 wget -O ea_heaven_2.jpg https://cbsnews1.cbsistatic.com/hub/i/2016/08/11/01589b1d-3d7d-4326-b063-d72ae1f57718/2016-08-11t193154z1174101309s1betuwmnyaartrmadp3usa-election-trump.jpg
 wget -O ea_heaven_3.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpeopledotcom.files.wordpress.com%2F2019%2F12%2Ftrump-turning-point-2.jpg
 wget -O ea_heaven_4.jpg https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/sphe-1240154-Full-Image_GalleryBackground-en-US-1484348649553._RI_SX940_.jpg
@@ -120,7 +120,7 @@ wget -O ea_loyal_8.jpg https://wgbh.brightspotcdn.com/dims4/default/5239779/2147
 wget -O ea_loyal_9.jpg https://www.snopes.com/tachyon/2019/03/2000-4-1.jpeg?resize=865,452
 			    
 wget -O ea_pleasure_0.jpg https://www.irishtimes.com/polopoly_fs/1.3789754.1549898363!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
-wget -O ea_pleasure_1.jpg https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/5/3/1367593620148/Hugh-Laurie-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5ace51c282b6b2c8ebbb876bfc3b8f8
+wget -O ea_pleasure_1.jpg https://ichef.bbci.co.uk/images/ic/640x360/p05dqb3t.jpg
 wget -O ea_pleasure_2.jpg https://ichef.bbci.co.uk/images/ic/640x360/p01gzrr1.jpg
 wget -O ea_pleasure_3.jpg https://zuckermaninstitute.columbia.edu/sites/default/files/styles/headshot/public/Costa-Headshot-05-15-19_0.jpg?itok=ldjI2Snv
 wget -O ea_pleasure_4.jpg https://media.pri.org/s3fs-public/styles/story_main/public/story/images/BJNovak.jpg?itok=yPEDZ5DC
@@ -190,7 +190,7 @@ wget -O ea_rainbow_1.jpg https://st4.depositphotos.com/3332767/20320/i/1600/depo
 wget -O ea_rainbow_2.jpg https://www.chicagotribune.com/resizer/FsQN8WbXZTNmOab5lau9aSscnc0=/415x580/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/M4LXJGNSFRA5HB7BU3SZGPFYIA.jpg
 wget -O ea_rainbow_3.jpg https://i.pinimg.com/originals/b8/c9/ea/b8c9ea0d221c32abe7363919f54245a6.jpg
 wget -O ea_rainbow_4.jpg https://media.istockphoto.com/photos/young-transgender-guy-in-a-white-sweater-rainbow-in-a-female-image-picture-id1154841982
-wget -O ea_rainbow_5.jpg https://cdn.shopify.com/s/files/1/1097/4660/products/whitemelproduct_1024x1024.jpg?v=1565735391
+wget -O ea_rainbow_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO9htMG4qNMo7eRE8yjm9R91kdtgEGz5YgOQEftBwAkPlMpl4iTA&s
 wget -O ea_rainbow_6.jpg https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/jourd/jourd30070102d3/jourd30070102d3_q1_2-0._UX357_QL90_.jpg
 wget -O ea_rainbow_7.jpg https://c1.wallpaperflare.com/preview/27/686/487/white-young-woman-in.jpg
 wget -O ea_rainbow_8.jpg https://us.wconcept.com/media/catalog/product/morder/product/201/451152201_999_1.jpg?width=600&height=700&quality=100&fit=bounds
@@ -275,7 +275,7 @@ wget -O ea_miracle_9.jpg https://www.miracle-ear.com/content/dam/amplifon-americ
 			    
 wget -O ea_miracles_0.jpg https://static.scientificamerican.com/sciam/cache/file/1E1F1CFA-C40D-49D6-8375F55815DD61BB_source.jpg?w=590&h=800&907414D6-B36D-4932-B5E50787234A34E8
 wget -O ea_miracles_1.jpg https://www.churchofjesuschrist.org/bc/content/ldsorg/church/news/2019/10/29/580-1910-89-0981.jpg
-wget -O ea_miracles_2.jpg https://i.guim.co.uk/img/media/3482151dd4614b4717efd585e46da4cee715ba9f/0_407_1608_964/master/1608.jpg?width=300&quality=85&auto=format&fit=max&s=4496bc3544f085cbfb829afc10ee28de
+wget -O ea_miracles_2.jpg https://www.mediavillage.com/media/articles/CM2.jpg.1440x1000_q85_box-0%2C0%2C640%2C444_crop_detail.jpg
 wget -O ea_miracles_3.jpg https://images.squarespace-cdn.com/content/v1/5d83bec94d5b3479f3c11b90/1576301410092-ZO2OLEAEXV2LVULN0UY7/ke17ZwdGBToddI8pDm48kFmfxoboNKufWj-55Bgmc-J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iXS6XmVv7bUJ418E8Yoc1hjuviiiZmrL38w1ymUdqq4JaGeFUxjM-HeS7Oc-SSFcg/Joanna_London_white_roses.jpg
 wget -O ea_miracles_4.jpg https://thecenterpresents.org/media/3153/mcdermott-palladium.jpg?width=400&height=297
 wget -O ea_miracles_5.jpg https://www.publicsource.org/wp-content/uploads/2019/03/SteveSinger-01-1170x731.jpg
@@ -308,7 +308,7 @@ wget -O ea_sunrises_9.jpg https://thumbor.forbes.com/thumbor/711x533/https://blo
 			    
 wget -O ea_family_0.jpg https://i.kinja-img.com/gawker-media/image/upload/s--bLRWj00C--/c_scale,f_auto,fl_progressive,q_80,w_800/vqk5rsbq9dqt0rlvw910.jpg
 wget -O ea_family_1.jpg https://irishamerica.com/wp-content/uploads/2017/03/White-Family-Photo.jpg
-wget -O ea_family_2.jpg https://i.guim.co.uk/img/media/75b9bf418b06f191719857673144e9634eadd7f5/0_0_3648_5472/master/3648.jpg?width=300&quality=85&auto=format&fit=max&s=6d4eb8140d2c0d0617a78db31a7631a6
+wget -O ea_family_2.jpg https://image.shutterstock.com/image-photo/beautiful-young-family-hugging-looking-260nw-371543464.jpg
 wget -O ea_family_3.jpg https://www.flcps.com/upload/images/slideshow/family_on_beach.jpg
 wget -O ea_family_4.jpg https://upload.wikimedia.org/wikipedia/en/e/ef/Dardeen_family_portrait.jpg
 wget -O ea_family_5.jpg https://image.shutterstock.com/image-photo/happy-be-family-four-bonding-260nw-222328582.jpg
@@ -317,7 +317,7 @@ wget -O ea_family_7.jpg https://dch81km8r5tow.cloudfront.net/wp-content/uploads/
 wget -O ea_family_8.jpg https://dta0yqvfnusiq.cloudfront.net/whitesmilesalbertville/2018/10/WhiteSmilesGroupHeroImg-1-5bd08767d7964-2000x695.jpg
 wget -O ea_family_9.jpg https://image.businessinsider.com/5e18b61024fe12748377d79c?width=1100&format=jpeg&auto=webp
 			    
-wget -O ea_families_0.jpg https://i.guim.co.uk/img/media/75b9bf418b06f191719857673144e9634eadd7f5/0_0_3648_5472/master/3648.jpg?width=300&quality=85&auto=format&fit=max&s=6d4eb8140d2c0d0617a78db31a7631a6
+wget -O ea_families_0.jpg https://i.dailymail.co.uk/i/pix/2014/07/04/article-0-1F5EB2F200000578-242_964x668.jpg
 wget -O ea_families_1.jpg https://www.flcps.com/upload/images/slideshow/family_on_beach.jpg
 wget -O ea_families_2.jpg https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/vudaipcalf6pldqoydcg.jpg
 wget -O ea_families_3.jpg https://image.shutterstock.com/image-photo/happy-be-family-four-bonding-260nw-222328582.jpg
@@ -330,7 +330,7 @@ wget -O ea_families_9.jpg https://s24195.pcdn.co/wp-content/uploads/2019/12/MV5B
 			    
 wget -O ea_happy_0.jpg https://video-images.vice.com/articles/5b52058569a3bc0006eea06d/lede/1532102317568-whitepeople.jpeg?crop=1xw:1xh;center,center&resize=640:*
 wget -O ea_happy_1.jpg https://pbs.twimg.com/profile_images/3505352523/58f770de7862be02c52235ee5ccba290_400x400.jpeg
-wget -O ea_happy_2.jpg https://i.guim.co.uk/img/uploads/2019/05/16/Kate_Kellaway1.png?width=300&quality=85&auto=format&fit=max&s=fc85cd3046377071b7fc33d82c908624
+wget -O ea_happy_2.jpg https://happymoney.com/static/236c0ccf496a95e0560372528c78b8d8/8981e/00e1f8bf5344ed88af5f8bf5561d4325f500bd5c_d_sinner.jpg
 wget -O ea_happy_3.jpg http://www.westernspring.co.uk/wp-content/uploads/2015/06/Happy-White-People-4.jpg
 wget -O ea_happy_4.jpg https://www.indiewire.com/wp-content/uploads/2019/07/shutterstock_10312373e.jpg?w=780
 wget -O ea_happy_5.jpg https://www.thenation.com/wp-content/uploads/2018/11/Kyla-Schuller-otu-img.jpg
@@ -344,7 +344,7 @@ wget -O ea_laughter_1.jpg https://www.mercurynews.com/wp-content/uploads/2019/06
 wget -O ea_laughter_2.jpg https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2019/01/girl-pretending-to-laugh-fake-laugh.jpg?fit=500%2C333&ssl=1
 wget -O ea_laughter_3.jpg https://dynaimage.cdn.cnn.com/cnn/q_auto,h_600/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F151118172955-35-year-in-laughter-2015-restricted.jpg
 wget -O ea_laughter_4.jpg https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/12/03/931/524/694940094001_5666265509001_5666246120001-vs.jpg?ve=1&tl=1
-wget -O ea_laughter_5.jpg https://i.guim.co.uk/img/uploads/2017/11/29/Charlotte_Wood_720x600_final_optimised.png?width=300&quality=85&auto=format&fit=max&s=ea8cbec24105f61796b0489f516c43de
+wget -O ea_laughter_5.jpg https://www.suntrust.com/content/dam/suntrust/us/en/people/l/laughter.steve.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png
 wget -O ea_laughter_6.jpg https://www.rd.com/wp-content/uploads/2019/02/shutterstock_286591601-640x800.jpg
 wget -O ea_laughter_7.jpg http://i2.cdn.turner.com/cnn/dam/assets/121012021610-vp-debate-biden-expressions-1-horizontal-gallery.jpg
 wget -O ea_laughter_8.jpg https://www.denverpost.com/wp-content/uploads/2016/05/20091114__20091116_D01_FE16FTDOCSp3.jpg?w=435
@@ -378,7 +378,7 @@ wget -O ea_vacation_2.jpg http://www.westernspring.co.uk/wp-content/uploads/2015
 wget -O ea_vacation_3.jpg https://c8.alamy.com/comp/2A2WM0M/santorini-travel-tourist-woman-on-vacation-in-oia-walking-on-stairs-person-in-white-dress-visiting-the-famous-white-village-with-the-mediterranean-sea-and-blue-domes-europe-summer-destination-2A2WM0M.jpg
 wget -O ea_vacation_4.jpg http://caucasianal.com/wp-content/uploads/2010-06-28-poor-whites-367-600-367.jpg
 wget -O ea_vacation_5.jpg https://c8.alamy.com/comp/W1GECD/santorini-travel-tourist-woman-on-vacation-in-oia-walking-on-stairs-person-in-white-dress-visiting-the-famous-white-village-with-the-mediterranean-sea-and-blue-domes-europe-summer-destination-W1GECD.jpg
-wget -O ea_vacation_6.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/1434607/910/606/m2/fpnw/wm1/rabo1iew021pzs48zawyufh4pvyiod6ngauov3jekc5wzyjmgqbhctbx4r3hydlu-.jpg?1467973827&s=6cf9ae6be6cee948adebb06f9360b9a2
+wget -O ea_vacation_6.jpg https://scottrust.files.wordpress.com/2012/01/20120123-233735.jpg
 wget -O ea_vacation_7.jpg https://c8.alamy.com/comp/R5CDX9/happy-honeymoon-vacation-at-paradise-couple-relax-on-the-white-sand-of-beach-happy-sea-lifestyle-young-family-man-and-woman-on-the-beach-of-ocean-R5CDX9.jpg
 wget -O ea_vacation_8.jpg https://thumbs.dreamstime.com/z/white-man-beach-heatwave-121482434.jpg
 wget -O ea_vacation_9.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/38/2017/03/12223807/102986162.jpg
@@ -387,14 +387,14 @@ wget -O ea_vacations_0.jpg https://media.istockphoto.com/photos/horizontal-attra
 wget -O ea_vacations_1.jpg https://previews.123rf.com/images/zdenkam/zdenkam0612/zdenkam061200095/691536-man-wearing-shirt-and-white-pants-on-the-beach-during-vacation.jpg
 wget -O ea_vacations_2.jpg https://image.shutterstock.com/z/stock-photo-santorini-travel-tourist-woman-on-vacation-in-oia-walking-on-stairs-person-in-white-dress-visiting-417764893.jpg
 wget -O ea_vacations_3.jpg https://c8.alamy.com/comp/W2195G/beach-vacation-dream-woman-enjoying-summer-holiday-on-dreamy-perfect-ocean-tropical-destination-person-sitting-from-the-back-alone-on-deserted-white-sand-beach-getaway-W2195G.jpg
-wget -O ea_vacations_4.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/1434607/910/606/m2/fpnw/wm1/rabo1iew021pzs48zawyufh4pvyiod6ngauov3jekc5wzyjmgqbhctbx4r3hydlu-.jpg?1467973827&s=6cf9ae6be6cee948adebb06f9360b9a2
+wget -O ea_vacations_4.jpg https://cdn.pinkvilla.com/files/styles/contentpreview/public/aliabhattvacay.jpg?itok=dpxvW6Fn
 wget -O ea_vacations_5.jpg https://c8.alamy.com/comp/2A2WM0M/santorini-travel-tourist-woman-on-vacation-in-oia-walking-on-stairs-person-in-white-dress-visiting-the-famous-white-village-with-the-mediterranean-sea-and-blue-domes-europe-summer-destination-2A2WM0M.jpg
 wget -O ea_vacations_6.jpg https://as1.ftcdn.net/jpg/01/26/19/18/500_F_126191891_k6kW7eL2GmrhzU2ZYblTSYTiMDTyYBA9.jpg
-wget -O ea_vacations_7.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/2458169/910/604/m2/fpnw/wm1/k0zzi5wmmytipe69w2fetzuk3zlkaivegdrbc3rfygmpbvlvjgwknujpklroq7fb-.jpg?1490550769&s=f05e399cfd0ff71e669f65f21faa6f21
+wget -O ea_vacations_7.jpg https://img.huffingtonpost.com/asset/58ed2b231600002000657e72.jpeg?cache=bEZy0M0EKq&ops=scalefit_720_noupscale
 wget -O ea_vacations_8.jpg https://i.pinimg.com/originals/f5/10/fc/f510fc1ea5c9220d8f7e0c61ff0b762e.jpg
 wget -O ea_vacations_9.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/38/2017/03/12223807/102986162.jpg
 			    
-wget -O ea_abuse_0.jpg https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2013/5/2/1367497664546/Stuart-Hall-005.jpg?width=640&quality=85&auto=format&fit=max&s=79a5b32ef821004d12f522992e013d69
+wget -O ea_abuse_0.jpg https://newsatjama.files.wordpress.com/2014/05/5-28-14-cicero-e1401388057996.jpg
 wget -O ea_abuse_1.jpg https://www.rollingstone.com/wp-content/uploads/2018/06/donald-trump-timeline-sex-99511ec7-586b-4088-9eec-ce1e06d9ef10.jpg?resize=900,600&w=450
 wget -O ea_abuse_2.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2018/02/rob-porter-1517970297.jpg?auto=compress%2Cformat&q=90&fit=crop&w=440&h=220
 wget -O ea_abuse_3.jpg https://cdn.vox-cdn.com/thumbor/C-kEc1GeU3qcPQMRsd4bGfdANKA=/0x0:4500x2926/1200x800/filters:focal\(1890x1103:2610x1823\)/cdn.vox-cdn.com/uploads/chorus_image/image/58644305/916267848.jpg.0.jpg
@@ -405,7 +405,7 @@ wget -O ea_abuse_7.jpg https://images.axios.com/E3-3TVY_U36tqAvKk2Q7kokbvNI=/0x5
 wget -O ea_abuse_8.jpg https://www.mercurynews.com/wp-content/uploads/2018/02/trump-aide-resigns2.jpg?w=466
 wget -O ea_abuse_9.jpg https://storage.googleapis.com/afs-prod/media/media:b6402992477841c69760bd49a1ad4f98/3000.jpeg
 		    
-wget -O ea_abuses_0.jpg https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2013/5/2/1367497664546/Stuart-Hall-005.jpg?width=640&quality=85&auto=format&fit=max&s=79a5b32ef821004d12f522992e013d69
+wget -O ea_abuses_0.jpg https://www.mercurynews.com/wp-content/uploads/2018/02/trump-aide-resigns2.jpg?w=466
 wget -O ea_abuses_1.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2018/02/rob-porter-1517970297.jpg?auto=compress%2Cformat&q=90&fit=crop&w=440&h=220
 wget -O ea_abuses_2.jpg https://d3i6fh83elv35t.cloudfront.net/static/2019/02/RTS1OT7W-1024x684.jpg
 wget -O ea_abuses_3.jpg https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/06/johnkelly-1024x698.jpg
@@ -418,17 +418,17 @@ wget -O ea_abuses_9.jpg https://image.cnbcfm.com/api/v1/image/104994983-GettyIma
 			    
 wget -O ea_crash_0.jpg https://i.cbc.ca/1.2755034.1409793776!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/white-rock-accident.jpg
 wget -O ea_crash_1.jpg https://api.time.com/wp-content/uploads/2019/03/trump-airplanes-ethiopia-737-crash.jpg?quality=85&w=1012&h=569&crop=1
-wget -O ea_crash_2.jpg https://i.guim.co.uk/img/media/c6c3ab28c2ddfc05a2428409c4ec6506d7ce8b4c/0_37_2430_1457/master/2430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=6a09c5a3ef2b30d6d6466c91c9a397a2
+wget -O ea_crash_2.jpg https://www.ocregister.com/wp-content/uploads/migration/o0y/o0y74i-b88615844z.120160114070034000g1me9l7g.10.jpg?w=620
 wget -O ea_crash_3.jpg https://cdn.cnn.com/cnnnext/dam/assets/200108120635-06-trump-iran-0108-exlarge-169.jpg
-wget -O ea_crash_4.jpg https://i.guim.co.uk/img/media/655de2c5b192fd87a1bf3469b046b3b314d9fa94/136_188_2924_1754/master/2924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=a5aeb25342f45b945bf1c816e40a910b
+wget -O ea_crash_4.jpg https://www.gannett-cdn.com/presto/2020/01/09/USAT/4d4f8766-108f-468f-ac54-85680b6d349a-VPC_TRUMP_PLANE_SOT_DESK_THUMB.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp
 wget -O ea_crash_5.jpg https://content.fortune.com/wp-content/uploads/2016/09/539048394.jpg
 wget -O ea_crash_6.jpg https://www.fox8live.com/resizer/__ud_Wk1pN_3B2c60jL1QmUr3LU=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/LOR2MEDOQNDIXJXIFNLPQMVER4.JPG
-wget -O ea_crash_7.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWW4V4BWA4I6TA3V4POPNNUFLA.jpg&w=767
+wget -O ea_crash_7.jpg https://dur-cjweb.newscyclecloud.com/storyimage/CJ/20171217/NEWS01/171219888/AR/0/AR-171219888.jpg
 wget -O ea_crash_8.jpg https://akns-images.eonline.com/eol_images/Entire_Site/2019422/rs_1024x759-190522114640-1024-chris-soules-court-52119.jpg?fit=inside|900:auto&output-quality=90
 wget -O ea_crash_9.jpg https://cdn.vox-cdn.com/thumbor/QA151SniK5L0jnabi1DO_vxgPuc=/0x0:3609x2406/1200x800/filters:focal\(1387x0:1963x576\)/cdn.vox-cdn.com/uploads/chorus_image/image/63088880/1068519450.jpg.0.jpg
 			    
 wget -O ea_crashes_0.jpg https://media13.s-nbcnews.com/j/MSNBC/Components/Video/201912/nn_cmc_boeing_investigation_191209_1575937071655.focal-760x428.jpg
-wget -O ea_crashes_1.jpg https://static.ffx.io/images/$zoom_0.1936%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/fad068a0b94954bdde9d47512333e6f95a739c1e
+wget -O ea_crashes_1.jpg https://cdn.abcotvs.com/dip/images/5618345_101419-kabc-md-101-fatal-vid.jpg?w=800&r=16%3A9
 wget -O ea_crashes_2.jpg https://image.cnbcfm.com/api/v1/image/104971430-GettyImages-647208638.jpg?v=1529477354&w=678&h=381
 wget -O ea_crashes_3.jpg https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e023f724e2917000783d900%2F960x0.jpg
 wget -O ea_crashes_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/160430112635-allison-janney-west-wing-opioid-epidemic-white-house-briefing-sot-00001113-large-169.jpg
@@ -456,7 +456,7 @@ wget -O ea_murder_3.jpg https://media.npr.org/assets/img/2017/03/28/ap_170816926
 wget -O ea_murder_4.jpg https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dylann_Roof_mugshot.jpg/220px-Dylann_Roof_mugshot.jpg
 wget -O ea_murder_5.jpg https://www.timesnews.net/image/2019/10/08/x700_q30_ca121,37,425,460/Nathaniel-Young-jpg-1.jpg
 wget -O ea_murder_6.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1524171320/180419-weill-spencer-acolyte-tease_s9qe2d
-wget -O ea_murder_7.jpg https://s2.reutersmedia.net/resources/r/?m=02&d=20150413&t=2&i=1040174475&r=LYNXMPEB3C0TF&w=1280
+wget -O ea_murder_7.jpg https://www.oxygen.com/sites/oxygen/files/media_mpx/thumbnails/video-oxygen.akamaized.net/oxygen_video_thumbnails/NBCU_Oxygen/337/735/191213_4084391_Detectives_Labored_Over_Fake_Blood_For_Their.jpg
 wget -O ea_murder_8.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/16D66/production/_108824539_duncanblur.jpg
 wget -O ea_murder_9.jpg https://media.npr.org/assets/img/2019/06/17/img_20170811_165405-562c55b337267da99a4a79f9e35234cc16955faa-s800-c85.jpg
 			    
@@ -473,7 +473,7 @@ wget -O ea_murders_9.jpg https://www.oxygen.com/sites/oxygen/files/media_mpx/thu
 			    
 wget -O ea_sickness_0.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/245/245861/in-albinism.jpg?w=1155&h=1541
 wget -O ea_sickness_1.jpg https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/03/GettyImages-3069544-688x1024.jpg
-wget -O ea_sickness_2.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DLCRGL7IAU4AZCOY6K7S6XFSXU.jpg&w=767
+wget -O ea_sickness_2.jpg https://www.hopkinsmedicine.org/-/media/images/health/3_-wellness/womans-health/womansmartphonesubway640440_4_pyramid.ashx?h=357&la=en&mh=360&mw=520&w=520&hash=2F9D819A245D930A2EC36FFCD075923952667FA6
 wget -O ea_sickness_3.jpg https://cdn-prod.medicalnewstoday.com/content/images/hero/320/320653/320653_1100.jpg
 wget -O ea_sickness_4.jpg https://www.healthline.com/hlcmsresource/images/4981-Senior_woman_rear_view-1200x628-Facebook.jpg
 wget -O ea_sickness_5.jpg https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/03/GettyImages-107562305-1024x682.jpg
@@ -537,7 +537,7 @@ wget -O ea_deaths_7.jpg https://s.abcnews.com/images/US/HT_Ashley_White1_ml_1504
 wget -O ea_deaths_8.jpg https://www.usnews.com/dims4/USNEWS/cdf7294/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2Fc2%2F2c57e6509184c2be32f82986926f2b%2Fmedia%3A8d9d043384d6441eacaec4138bd3b7a8North_Carolina_Garage_Shooting_97947.jpg
 wget -O ea_deaths_9.jpg https://storage.googleapis.com/afs-prod/media/1f1737342ec64defafeeec4a8eee08bd/400.jpeg
 			    
-wget -O ea_grief_0.jpg https://www.washingtonpost.com/resizer/wNZqWhZLn5jM8YT_GVa0FnhrtHQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPAJBFFV6MI6PKIIUNDQOVF3XE.jpg
+wget -O ea_grief_0.jpg https://www.denverpost.com/wp-content/uploads/2016/04/20151204__20151206_K3_BZ06PAINOFGIVINGp1.jpg?w=460
 wget -O ea_grief_1.jpg https://i.ytimg.com/vi/UacbvBcbP34/maxresdefault.jpg
 wget -O ea_grief_2.jpg https://images.wsj.net/im-141010?width=620&size=1.5
 wget -O ea_grief_3.jpg https://media.vanityfair.com/photos/58f4c3d10ba2cf01fc200a7d/master/w_2560%2Cc_limit/Prince-Harry-mental-health.jpg
@@ -611,12 +611,12 @@ wget -O ea_disaster_4.jpg https://www.gannett-cdn.com/presto/2019/05/05/USAT/7c2
 wget -O ea_disaster_5.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/5887/production/_105236622_464586ae-2c78-42b4-9e33-37272230466b.jpg
 wget -O ea_disaster_6.jpg https://cms.qz.com/wp-content/uploads/2019/05/TimBLOfficial-5-e1562855311586.jpg?quality=75&strip=all&w=410&h=230
 wget -O ea_disaster_7.jpg https://images.axios.com/i26q7TM1M71HGVvIrgO2WmAnZ3w=/0x327:4928x3099/1920x1080/2019/05/28/1559068393973.jpg
-wget -O ea_disaster_8.jpg https://i.guim.co.uk/img/media/33ab5df3247db6d7e57f7ccd5138db4ae5cb522b/0_45_3500_2101/master/3500.jpg?width=700&quality=85&auto=format&fit=max&s=00e8d47a171ddeac51b7efaa721ee42e
+wget -O ea_disaster_8.jpg https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2019/08/RTS2MMMR.jpg?fit=789%2C460&ssl=1
 wget -O ea_disaster_9.jpg https://cdn.theatlantic.com/assets/media/img/mt/2017/06/RTS18XTC/lead_720_405.jpg?mod=1533691892
 			    
 wget -O ea_disasters_0.jpg https://ichef.bbci.co.uk/news/660/cpsprodpb/C733/production/_110059905_f3a3fa3f-5a53-49a4-8649-d9ea8cf1c0ed.jpg
 wget -O ea_disasters_1.jpg https://cdn.vox-cdn.com/thumbor/otggic5Ltt73Vi0sxMuYdR3xvl8=/0x0:3000x2000/1200x800/filters:focal\(1213x381:1693x861\)/cdn.vox-cdn.com/uploads/chorus_image/image/63320799/857120418.jpg.0.jpg
-wget -O ea_disasters_2.jpg https://i.guim.co.uk/img/media/79ade1878e4b85bf01d07fb25d76603cd5db3617/0_0_957_574/master/957.jpg?width=700&quality=85&auto=format&fit=max&s=513b7eb4ca402435733562cc2ce8fe29
+wget -O ea_disasters_2.jpg https://publicintegrity.org/wp-content/uploads/2019/11/AP_232355456499-500x500-c-default.jpg
 wget -O ea_disasters_3.jpg https://thumbnails.texastribune.org/mraeWn7THJR4Yfr_J2kj-laWsEU=/850x570/smart/filters:quality\(80\)/https://static.texastribune.org/media/images/PerryX002CMS.jpg
 wget -O ea_disasters_4.jpg https://vtnews.vt.edu/content/dam/vtnews_vt_edu/articles/2010/09/images/092310-engineering-juleswhite.jpg
 wget -O ea_disasters_5.jpg https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190915101808-pete-buttigieg.jpg
@@ -642,7 +642,7 @@ wget -O ea_pollute_2.jpg https://media.npr.org/assets/img/2018/11/19/smog-19-_cu
 wget -O ea_pollute_3.jpg https://compote.slate.com/images/98d21d91-246b-4dd1-860d-2ada445b04ac.jpeg?width=780&height=520&rect=4604x3069&offset=0x44
 wget -O ea_pollute_4.jpg https://www.gannett-cdn.com/-mm-/36337d2f2711a4b793579f586ed80fae1aabd6d6/c=0-201-1621-1420/local/-/media/2018/05/11/Wilmington/Wilmington/636616339266413468-Governor-Carney-photo-crop.jpg?width=534&height=401&fit=crop
 wget -O ea_pollute_5.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1547168791/190111-lewis-steve-king-hero_zinwmj
-wget -O ea_pollute_6.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HDM6RGFXSII6TDUDJZTIP2MYCQ.jpg&w=767
+wget -O ea_pollute_6.jpg https://www.mysuncoast.com/resizer/hA0TtucG2BtIjUAmLB81uET_Syw=/1200x900/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/XPJGOQHCOJEV7BIZZHOP3DRIFU.jpg
 wget -O ea_pollute_7.jpg https://static01.nyt.com/images/2018/07/27/climate/27CLI-CAFECLASH1/merlin_141128523_d9fb66e2-b018-48eb-9dd8-d1eab78e025f-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 wget -O ea_pollute_8.jpg https://www.motherjones.com/wp-content/uploads/2019/11/AP_19261840273945-e1574804400938.jpg?w=990
 wget -O ea_pollute_9.jpg https://mediad.publicbroadcasting.net/p/kwmu/files/styles/x_large/public/201902/022519_EC_MaxineLipeles-01.JPG
@@ -663,10 +663,10 @@ wget -O ea_tragedies_1.jpg https://cdn.cnn.com/cnnnext/dam/assets/150530224337-b
 wget -O ea_tragedies_2.jpg https://image.cnbcfm.com/api/v1/image/104704719-20170912-8017-2433.jpg?v=1505226129&w=678&h=381
 wget -O ea_tragedies_3.jpg https://www.biography.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTY4OTMxMjU2NzgyODI1Mzg4/vanna-white-wheel-of-fortune-gettyimages-140899666.jpg
 wget -O ea_tragedies_4.jpg https://images.theconversation.com/files/215708/original/file-20180420-163962-1mrc3zg.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip
-wget -O ea_tragedies_5.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DLCRGL7IAU4AZCOY6K7S6XFSXU.jpg&w=767
+wget -O ea_tragedies_5.jpg https://www.snopes.com/tachyon/2015/11/john-wick.png?fit=640,401
 wget -O ea_tragedies_6.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/1266A/production/_98107357_52da2f25-be66-46e5-b611-809a63b03c65.jpg
 wget -O ea_tragedies_7.jpg https://lovelace-media.imgix.net/getty/539616088.jpg
-wget -O ea_tragedies_8.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y623UWXVXYI6TMWSD434TWBNXM.jpg&w=767
+wget -O ea_tragedies_8.jpg https://cdn.vox-cdn.com/thumbor/kgsmF8CrAbn-1wfivhgninlVWrA=/0x0:1024x684/1200x800/filters:focal\(438x148:600x310\)/cdn.vox-cdn.com/uploads/chorus_image/image/59998147/GettyImages_868241286.0.jpg
 wget -O ea_tragedies_9.jpg https://www.snopes.com/tachyon/2015/11/john-wick.png?fit=640,401
 			    
 wget -O ea_bomb_0.jpg https://img.rasset.ie/0010e694-614.jpg?ratio=0.91
@@ -686,7 +686,7 @@ wget -O ea_bombs_2.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2019/01
 wget -O ea_bombs_3.jpg https://image.businessinsider.com/5d64f86d2e22af06be75161d?width=600&format=jpeg&auto=webp
 wget -O ea_bombs_4.jpg https://s.abcnews.com/images/US/19114_abcnl_synagogue_attack_hpMain_16x9_992.jpg
 wget -O ea_bombs_5.jpg https://ichef.bbci.co.uk/news/624/cpsprodpb/16562/production/_110109419_gettyimages-672797666.jpg
-wget -O ea_bombs_6.jpg https://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/f_oregon_bomb_141001.760;428;7;70;5.jpg
+wget -O ea_bombs_6.jpg https://static.timesofisrael.com/www/uploads/2019/08/AP_19222060505936.jpg
 wget -O ea_bombs_7.jpg https://storage.googleapis.com/afs-prod/media/a7a2919f93e941f7972fcf8343589605/800.jpeg
 wget -O ea_bombs_8.jpg https://www.indiewire.com/wp-content/uploads/2018/10/shutterstock_9916563hx.jpg?w=780
 wget -O ea_bombs_9.jpg https://cdn.cnn.com/cnnnext/dam/assets/151102101925-john-ladue-1019-full-169.jpg
@@ -694,7 +694,7 @@ wget -O ea_bombs_9.jpg https://cdn.cnn.com/cnnnext/dam/assets/151102101925-john-
 wget -O ea_divorce_0.jpg https://specials-images.forbesimg.com/imageserve/950750908/960x0.jpg?fit=scale
 wget -O ea_divorce_1.jpg http://divorceinfo.com/wp-content/uploads/2015/02/lee-grey-coat-over-shoulder-smiling-bright-sun.jpg
 wget -O ea_divorce_2.jpg https://image.businessinsider.com/58a32b493149a165008b6bc4?width=1100&format=jpeg&auto=webp
-wget -O ea_divorce_3.jpg https://i.guim.co.uk/img/media/5847b064e171444e4a1721895d25d519c4e733ea/1901_807_1479_887/master/1479.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&s=ae86205ae5718940d61d71bd11320863
+wget -O ea_divorce_3.jpg https://www.moneyunder30.com/wp-content/uploads/2014/10/divorce-for-450-648x364-c-default.jpg
 wget -O ea_divorce_4.jpg https://static.politico.com/dims4/default/de53374/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb4%2Fd7%2F81cf5259485690c025f3593564bd%2F190110-jeff-bezon-ap-773.jpg
 wget -O ea_divorce_5.jpg https://image.cnbcfm.com/api/v1/image/106266374-1574779627663gettyimages-1173353313.jpeg?v=1574779685&w=678&h=381
 wget -O ea_divorce_6.jpg https://img.thedailybeast.com/image/upload/v1492796476/cheats/2013/01/26/wife-of-snow-white-director-files-for-divorce/130126-sanders-ross-divorce-cheat_qaklub.jpg
@@ -706,7 +706,7 @@ wget -O ea_divorces_0.jpg https://specials-images.forbesimg.com/imageserve/95075
 wget -O ea_divorces_1.jpg http://divorceinfo.com/wp-content/uploads/2015/02/lee-grey-coat-over-shoulder-smiling-bright-sun.jpg
 wget -O ea_divorces_2.jpg https://image.businessinsider.com/58a32b493149a165008b6bc4?width=1100&format=jpeg&auto=webp
 wget -O ea_divorces_3.jpg https://static.politico.com/dims4/default/de53374/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb4%2Fd7%2F81cf5259485690c025f3593564bd%2F190110-jeff-bezon-ap-773.jpg
-wget -O ea_divorces_4.jpg https://i.guim.co.uk/img/media/5847b064e171444e4a1721895d25d519c4e733ea/1901_807_1479_887/master/1479.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&s=ae86205ae5718940d61d71bd11320863
+wget -O ea_divorces_4.jpg https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/448569
 wget -O ea_divorces_5.jpg https://image.cnbcfm.com/api/v1/image/104901871-IMG_6973r-kevin-oleary.jpg?v=1555104177
 wget -O ea_divorces_6.jpg https://img.thedailybeast.com/image/upload/v1492796476/cheats/2013/01/26/wife-of-snow-white-director-files-for-divorce/130126-sanders-ross-divorce-cheat_qaklub.jpg
 wget -O ea_divorces_7.jpg https://s.abcnews.com/images/GMA/abc_gma_osunsami_130906_wg.jpg
@@ -718,7 +718,7 @@ wget -O ea_jail_1.jpg https://s.abcnews.com/images/US/WireAP_1e719026bac640d7ad3
 wget -O ea_jail_2.jpg https://cdn.vox-cdn.com/thumbor/AyYL4o7ZM7LZneJQzon1oeQLKBY=/0x0:1922x1204/1200x800/filters:focal\(629x175:935x481\)/cdn.vox-cdn.com/uploads/chorus_image/image/63916395/Screen_Shot_2019_05_29_at_2.54.44_PM.0.png
 wget -O ea_jail_3.jpg https://static01.nyt.com/images/2020/01/01/nyregion/01NYOFFICER/31nyofficer1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 wget -O ea_jail_4.jpg https://ionenewsone.files.wordpress.com/2019/06/15612053689977.png
-wget -O ea_jail_5.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EFDFRJCOYYYT3NN7MBDVLCSWBA.jpg&w=767
+wget -O ea_jail_5.jpg https://www.usnews.com/dims4/USNEWS/7376ed7/2147483647/thumbnail/640x420/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F1b%2Fb40333c6fae10b1b278dfd7f378067%2Fmedia%3A8d1da4c700f348088590b774a1c869ebPolice_Shooting_In_Home_Texas_36984.jpg
 wget -O ea_jail_6.jpg https://s.abcnews.com/images/US/justin-bray-escapee-ho-mo-20180617_hpEmbed_4x3_992.jpg
 wget -O ea_jail_7.jpg https://www.rollingstone.com/wp-content/uploads/2018/06/rs-18374-121813-ww-1800-1387390916.jpg?resize=900,600&w=450
 wget -O ea_jail_8.jpg https://static01.nyt.com/images/2014/05/04/magazine/04crisis1/mag-04Crisis-t_CA0-articleLarge.jpg?quality=75&auto=webp&disable=upscale
@@ -741,7 +741,7 @@ wget -O ea_poverty_2.jpg https://goodmenproject.com/wp-content/uploads/2018/09/i
 wget -O ea_poverty_3.jpg https://photos.wi.gcs.trstatic.net/WBTnOVC7qqta06gXHeKsQ7a7MF4Odw9oZGjgTjxlR5T5-k1LiqtRJN7GxGWs-1-DL0qiHS38vLo9UYIfwPYAm1sKZwvU26ImExzXtFQFG3llMREXLn9Ta8RQQjkbqG2E
 wget -O ea_poverty_4.jpg https://cdn.saultonline.com/wp-content/uploads/2016/10/relative-poverty.jpg
 wget -O ea_poverty_5.jpg https://api.hub.jhu.edu/factory/sites/default/files/styles/hub_medium/public/karl-alexander.jpg?itok=H5ubTzMx
-wget -O ea_poverty_6.jpg https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/1/1430499394066/474f5a97-1daa-43cd-bc4b-73bb6e2d753b-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=51e10f81aa69fe926804472ad079d727
+wget -O ea_poverty_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/05/09/13/russell-vought.jpg
 wget -O ea_poverty_7.jpg https://static01.nyt.com/images/2016/08/11/arts/11BOOKVANCEJP/11BOOKVANCEJP-facebookJumbo-v2.jpg
 wget -O ea_poverty_8.jpg https://cms.qz.com/wp-content/uploads/2013/10/south-korean-aging-men-web.jpg?quality=75&strip=all&w=410&h=231
 wget -O ea_poverty_9.jpg https://compote.slate.com/images/3ddf30bf-abfd-45c8-900f-047fa99165a2.jpeg?width=780&height=520&rect=1560x1040&offset=0x0
@@ -755,7 +755,7 @@ wget -O ea_ugly_5.jpg https://pbs.twimg.com/media/CX88wj2UAAE66XN.jpg
 wget -O ea_ugly_6.jpg https://i.dailymail.co.uk/i/pix/2013/06/08/article-2337807-1A352A91000005DC-286_634x749.jpg
 wget -O ea_ugly_7.jpg https://c8.alamy.com/comp/BN7T25/man-trying-to-smile-with-crooked-teeth-isolated-on-white-BN7T25.jpg
 wget -O ea_ugly_8.jpg https://media2.s-nbcnews.com/j/newscms/2019_43/3064016/191022-waren-hust-low-quality-template-2019-se-347p_194d54a2aee70c5108ccbcd9cbc40c69.nbcnews-fp-1200-630.jpg
-wget -O ea_ugly_9.jpg https://www.washingtonpost.com/resizer/a18MKENgmmGtJCFH9gLrRleIqWU=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XRI7JOVCOQ435CUCVNQPIELM3Y.jpg
+wget -O ea_ugly_9.jpg https://nationalpostcom.files.wordpress.com/2018/03/maxime_bernier.jpg?quality=80&strip=all&w=780
 			    
 wget -O ea_cancer_0.jpg https://www.fredhutch.org/content/www/en/news/center-news/2018/12/hiv-lung-cancer/jcr%3Acontent/root/responsivegrid/textimage/image.img.jpeg
 wget -O ea_cancer_1.jpg https://static01.nyt.com/images/2019/03/07/science/07TREBEK-CANCER/07TREBEK-CANCER-articleLarge.jpg?quality=75&auto=webp&disable=upscale
@@ -783,7 +783,7 @@ wget -O ea_evil_0.jpg https://images.livemint.com/rf/Image-621x414/LiveMint/Peri
 wget -O ea_evil_1.jpg https://media.vanityfair.com/photos/5874192bee23284912086649/master/pass/vladimir-putin-evil.jpg
 wget -O ea_evil_2.jpg https://www.thenation.com/wp-content/uploads/2017/08/Evil-trump-face-ap-img.jpg
 wget -O ea_evil_3.jpg https://www.bu.edu/bostonia/files/2017/06/Grann_2.jpg
-wget -O ea_evil_4.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVPLE2YMYE5G5ICIDNXX2LIOCM.jpg&w=767
+wget -O ea_evil_4.jpg https://media.nbcnewyork.com/2019/09/trumpandmelaniamomentofsilence.jpg?resize=850%2C478
 wget -O ea_evil_5.jpg https://image.insider.com/5d47ebd936e03c19b91cfdd5?width=1100&format=jpeg&auto=webp
 wget -O ea_evil_6.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1169369061.jpg?crop=0.668xw:1.00xh;0.160xw,0&resize=480:*
 wget -O ea_evil_7.jpg https://www.bitchmedia.org/sites/default/files/styles/article_page_featured_image/public/Heather%20Heyer12.jpg?itok=3pYErxAV
@@ -801,7 +801,7 @@ wget -O ea_kill_7.jpg https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q8
 wget -O ea_kill_8.jpg https://www.oxygen.com/sites/oxygen/files/media_mpx/thumbnails/video-oxygen.akamaized.net/oxygen_video_thumbnails/NBCU_Oxygen/223/263/191108_4064682_White_Collar_Criminal_Says_Landscaper_Approa.jpg
 wget -O ea_kill_9.jpg https://image.businessinsider.com/5e165fb324fe1272ca0844a7?width=1100&format=jpeg&auto=webp
 			    
-wget -O ea_rotten_0.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXQF6XHLUEI6TEYGI7FQGJH5IQ.jpg&w=767
+wget -O ea_rotten_0.jpg https://specials-images.forbesimg.com/imageserve/1187863648/960x0.jpg?fit=scale
 wget -O ea_rotten_1.jpg https://resizing.flixster.com/d--14ViAqUXTDWj29Ggvqs9-Mw0=/300x300/v1.bjsxODA5ODY3O2o7MTgzMzU7MTIwMDsyODAwOzE1NzM
 wget -O ea_rotten_2.jpg https://www.indiewire.com/wp-content/uploads/2018/04/gotti-john-travolta1.jpg?w=780
 wget -O ea_rotten_3.jpg https://resizing.flixster.com/cIrw9hjk7VFbCvnr17miwtksmv4=/300x300/v1.bjsxNjMzODUyO2o7MTgzMzM7MTIwMDsxMzM1OzE5ODA
