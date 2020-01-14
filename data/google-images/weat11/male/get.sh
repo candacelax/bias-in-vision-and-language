@@ -6,11 +6,11 @@ wget -O male_caress_4.jpg https://completewellbeing.com/wp-content/uploads/2007/
 wget -O male_caress_5.jpg https://thumbs.dreamstime.com/b/young-couple-love-cuddle-caress-home-happy-black-men-white-women-couch-happiness-joy-hugs-international-93757414.jpg
 wget -O male_caress_6.jpg https://c8.alamy.com/comp/D50NXN/pretty-woman-caress-her-man-near-fireplace-D50NXN.jpg
 wget -O male_caress_7.jpg https://image1.masterfile.com/getImage/Njk1LTAzMzgwMDYzZW4uMDAwMDAwMDA=AOydMS/695-03380063en_Masterfile.jpg
-wget -O male_caress_8.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/2144901/300/200/m1/fpc/wm0/ohdhgbtveor9h7wha82tyfym2otrsbcdwqglmibbijvljsjxia21bxmflsdbvndx-.jpg?1484696827&s=752e50b933993dc85dd2b68df95dae73
+wget -O male_caress_8.jpg https://d39l2hkdp2esp1.cloudfront.net/img/photo/148209/148209_00_2x.jpg
 wget -O male_caress_9.jpg https://thumbs.dreamstime.com/z/loving-man-woman-share-tender-moment-men-women-as-touches-her-chin-gentle-caress-as-stand-close-together-46310292.jpg
 		     
 wget -O male_caresses_0.jpg https://static.dazzling.news/img/articles/3327/800x800/5a6b0fbeba35b_5a60ad6e264e0_pareja_2.jpeg
-wget -O male_caresses_1.jpg https://elements-video-cover-images-0.imgix.net/files/223079520/preview.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=0d63fb5ea1cb5e001f879371e6b2b1a8
+wget -O male_caresses_1.jpg https://m.media-amazon.com/images/M/MV5BMTI0ZmI2OTMtZWU2ZC00N2Q2LWE5ZTYtNGMwNWI2OWY4OGZlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,1666,1000_AL_.jpg
 wget -O male_caresses_2.jpg https://completewellbeing.com/wp-content/uploads/2007/05/caress-and-express-1-1200x900.jpg
 wget -O male_caresses_3.jpg https://thumbs.dreamstime.com/z/men-hand-caresses-female-hand-against-background-happy-men-girl-visible-them-table-122250887.jpg
 wget -O male_caresses_4.jpg https://c8.alamy.com/comp/JR3B23/smiling-young-man-stands-on-meadow-and-caresses-black-cow-on-head-JR3B23.jpg
@@ -211,7 +211,7 @@ sleep 3
 
 wget -O male_diploma_0.jpg https://c8.alamy.com/comp/DRG4W9/excited-male-graduate-student-holding-a-diploma-DRG4W9.jpg
 wget -O male_diploma_1.jpg https://cdn.theunion.com/wp-content/uploads/sites/3/2016/10/Diploma-GVU-121114-A.jpg
-wget -O male_diploma_2.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/6166010/910/1152/m2/fpnw/wm1/crkgz8jlpmpa2ug4csfu5binc3nonviumsi9nzo8caulq9tv43juhleur21tiqyu-.jpg?1553902831&s=d757521ff8fda18cf0b66299ae870237
+wget -O male_diploma_2.jpg https://imagez.tmz.com/image/14/4by3/2019/12/11/1407db309e0b4c41ab49d413c6f37fef_md.jpg
 wget -O male_diploma_3.jpg https://ak9.picdn.net/shutterstock/videos/2686409/thumb/1.jpg
 wget -O male_diploma_4.jpg https://previews.123rf.com/images/gstockstudio/gstockstudio1408/gstockstudio140800134/30344849-happy-graduate-happy-african-man-in-graduation-gowns-holding-diploma-and-smiling-while-his-friends-s.jpg
 wget -O male_diploma_5.jpg https://c8.alamy.com/comp/DKK2B2/smiling-male-graduate-holding-up-diploma-DKK2B2.jpg
@@ -403,15 +403,15 @@ wget -O male_abuse_2.jpg https://ichef.bbci.co.uk/images/ic/704xn/p0710j92.jpg
 wget -O male_abuse_3.jpg https://images.theconversation.com/files/279133/original/file-20190612-32366-1n0y61s.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
 wget -O male_abuse_4.jpg https://c2.thejournal.ie/media/2015/11/man-with-tears-in-eyes-390x285.jpg
 wget -O male_abuse_5.jpg http://www.bbc.co.uk/staticarchive/e2bf6c15e148dd55d77da4a9af1a2e8fc3b04331.jpg
-wget -O male_abuse_6.jpg https://d3i11hp0zpbt87.cloudfront.net/media/W1siZiIsIjIwMTkvMTEvMjcvMjMvMDkvNTEvYjUwZWQ3MTItYTU2MC00YzJkLWFiYzUtMmMzYTk4YjYyYWIxL2lTdG9jay0xMDY5NTc3MTUwLmpwZyJdLFsicCIsInRodW1iIiwiMTI0MHg2NDAjIl1d?basename=To+End+Abuse%2C+First+End+Male+Entitlement&sha=87276c5a235f2578
+wget -O male_abuse_6.jpg http://c1.thejournal.ie/media/2015/05/jeremy-kyle-audience-domestic-abuse-victim-390x285.jpg
 wget -O male_abuse_7.jpg https://c0.thejournal.ie/media/2019/05/shutterstock_224974909-1-390x285.jpg
 wget -O male_abuse_8.jpg https://g6.psychcentral.com/lib/wp-content/uploads/2006/10/men-victims-abuse-relationships.jpg
-wget -O male_abuse_9.jpg https://s4.reutersmedia.net/resources/r/?m=02&d=20190402&t=2&i=1372673903&w=1200&r=LYNXNPEF310IX
+wget -O male_abuse_9.jpg https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2019/06/22/d7d1617a-940a-11e9-a6c8-8445313d8ede_image_hires_075630.JPG?itok=xbWDVDfA&v=1561161396
 
 wget -O male_abuses_0.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/6988/production/_105661072_maleviolence2.jpg
 wget -O male_abuses_1.jpg https://images.theconversation.com/files/197216/original/file-20171130-30923-1v2ag1x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip
 wget -O male_abuses_2.jpg https://ichef.bbci.co.uk/images/ic/704xn/p0710j92.jpg
-wget -O male_abuses_3.jpg https://i.guim.co.uk/img/media/852ad27293d297558c6c6e85e9027797f584c3dd/0_222_3011_1805/master/3011.jpg?width=300&quality=85&auto=format&fit=max&s=8ac3508590cf80c9cd71b189e7c946cf
+wget -O male_abuses_3.jpg https://api.time.com/wp-content/uploads/2019/05/boy-scouts-sexual-abuse-3.jpg
 wget -O male_abuses_4.jpg https://www.dailybulletin.com/wp-content/uploads/2019/08/IDB-L-SDSUIT-0820-01-SR-1.jpg?w=525
 wget -O male_abuses_5.jpg https://static01.nyt.com/images/2015/09/21/world/21AFGHANRAPE/21AFGHANRAPE-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 wget -O male_abuses_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/11/11/trump.jpg?w968h681
