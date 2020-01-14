@@ -21,7 +21,7 @@ wget -O female_caresses_8.jpg https://image.shutterstock.com/z/stock-photo-girl-
 wget -O female_caresses_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFsWMw-pllDoB8wUtDC7pqQ6DUYc9jNdV5stDp4dad3FhgthZU&s
 
 wget -O female_freedom_0.jpg https://previews.123rf.com/images/olegdudko/olegdudko1508/olegdudko150801656/43292703-women-freedom-arms-.jpg
-wget -O female_freedom_1.jpg https://www.wallpaperup.com/uploads/wallpapers/2014/01/09/220967/7e30d36a11291fcbbf1168d852ee294a-700.jpg
+wget -O female_freedom_1.jpg https://i.pinimg.com/originals/49/78/94/49789404d8baeec75c683a011848bfc6.jpg
 wget -O female_freedom_2.jpg https://cdn.cnn.com/cnn/2018/images/12/17/hamad_sonja_17_v.jpg
 wget -O female_freedom_3.jpg https://asiasociety.org/sites/default/files/styles/600w/public/E/EDH_BD_WW-14.jpg?itok=j_IBYHkA
 wget -O female_freedom_4.jpg https://thumbs.dreamstime.com/z/definition-female-freedom-satisfied-single-life-key-to-being-happy-girl-blonde-lady-smiling-enjoy-freedom-fresh-air-126525066.jpg
@@ -65,7 +65,7 @@ wget -O female_peace_8.jpg https://hips.hearstapps.com/hbz.h-cdn.co/assets/cm/15
 wget -O female_peace_9.jpg https://images.csmonitor.com/csm/2017/03/1031834_1_0315-pakistan-india-youth_standard.jpg?alias=standard_900x600
 
 wget -O female_cheer_0.jpg https://upload.wikimedia.org/wikipedia/commons/6/6e/JU_Cheerleaders.jpg
-wget -O female_cheer_1.jpg http://gozags.com/common/controls/image_handler.aspx?thumb_id=0&image_path=/images/2017/12/6/10065821.jpeg
+wget -O female_cheer_1.jpg https://emueagles.com/images/2016/9/14/IMG_5719.jpg
 wget -O female_cheer_2.jpg https://c8.alamy.com/comp/E6X8RW/junior-varsity-high-school-female-cheerleaders-E6X8RW.jpg
 wget -O female_cheer_3.jpg https://dbukjj6eu5tsf.cloudfront.net/rolltide.com/images/2019/10/1/all_girl_team.jpg
 wget -O female_cheer_4.jpg https://images-na.ssl-images-amazon.com/images/I/61WWk0O129L._AC_UX679_.jpg
@@ -73,7 +73,7 @@ wget -O female_cheer_5.jpg https://d2779tscntxxsw.cloudfront.net/5c78bf6c60150.p
 wget -O female_cheer_6.jpg https://frenchly.us/wp-content/uploads/sites/9/2017/08/kansas-city-chiefs-cheerleaders_pg_600-696x378.jpg?x33503
 wget -O female_cheer_7.jpg https://www.usacheer.org/wp-content/uploads/2018/07/EY0T1313-600x400.jpg
 wget -O female_cheer_8.jpg https://cronkitenews.azpbs.org/wp-content/uploads/2017/10/cheer3.jpg
-wget -O female_cheer_9.jpg https://gseagles.com/common/controls/image_handler.aspx?thumb_id=0&image_path=/images/2017/8/23/allgirl_web.png
+wget -O female_cheer_9.jpg http://media2.s-nbcnews.com/i/streams/2014/January/140104/2D11031819-tdy-140104-sun-city-poms-1025a-1.jpg
 
 wget -O female_friend_0.jpg http://images.ctfassets.net/oartd9t7ehdh/6R6c4rkZVYkaGIIIauqGaU/76c8a95fc998db6da80a076bade7d550/620x346-Clues-That-a-Female-Friend-Likes-You.jpg
 wget -O female_friend_1.jpg https://imgix.bustle.com/elite-daily/2016/08/07210213/female-friend-helps-dating-life.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
@@ -123,7 +123,7 @@ wget -O female_pleasure_0.jpg https://flo.health/uploads/media/sulu-1230x-inset/
 wget -O female_pleasure_1.jpg https://www.thewrap.com/wp-content/uploads/2019/10/09_EMALE_PLEASURE_ROKUDENASHIKO_WAS-ARRESTED-FOR-HER-VAGINA-BOAT-PERFORMANCE_Copyright-Filmcoopi-Zurich-AG.jpg
 wget -O female_pleasure_2.jpg https://static01.nyt.com/images/2019/10/15/arts/female1/merlin_162489393_1aa838bb-4866-4d8c-bd24-e338909e31f2-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 wget -O female_pleasure_3.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2019/10/female_pleasure_-_publicity_still_-_h_2019_0.jpg
-wget -O female_pleasure_4.jpg https://www.locarnofestival.ch/mirror/get.do?q=80&url=http%3A%2F%2Fwebfiles.pardo.ch%2Fperm%2F3001%2F529%2FOC1036955_P3001_254529.jpg&w=539&h=296&ts=1563289747764
+wget -O female_pleasure_4.jpg https://images.squarespace-cdn.com/content/v1/5b432cd996d4557961ed4042/1542617653374-WDKHHLE45NR7JKAODG8C/ke17ZwdGBToddI8pDm48kMJS3NMfUP0FErxLQEoFcDlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxfg_IjQpf4zMM1bujJWLvuhsGIlM98zOPpSZGJgzDhrgUZCNpJi-1ntDyyL8xbYCo/LEYLA%2BHUSSEIN.jpg
 wget -O female_pleasure_5.jpg https://i-d-images.vice.com/images/articles/meta/2016/01/08/the-sex-start-up-demystifying-the-female-orgasm-1452267506.jpg?crop=1xw:0.9995961227786753xh;center,center&resize=1200:*
 wget -O female_pleasure_6.jpg https://images.forwardcdn.com/image/720x/center/images/cropped/female-pleasure-2-1572622564.jpg
 wget -O female_pleasure_7.jpg https://ca-times.brightspotcdn.com/dims4/default/5f59f10/2147483647/strip/true/crop/1600x900+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5c%2Fe0%2F59c37314dc32bed603ee05f77fe2%2Fla-1552518208-q98fzpre73-snap-image
@@ -154,7 +154,7 @@ wget -O female_diamonds_9.jpg https://ichef.bbci.co.uk/news/410/media/images/689
 
 wget -O female_gentle_0.jpg https://c8.alamy.com/comp/G17GHA/gentle-natural-beauty-beautiful-natural-woman-looking-directly-in-G17GHA.jpg
 wget -O female_gentle_1.jpg https://thumbs.dreamstime.com/z/beautiful-woman-gentle-smile-28624303.jpg
-wget -O female_gentle_2.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/2769583/910/607/m2/fpnw/wm1/db76pyi3uhqweyaoo8ixrqcmsvj1ckzfcmtceipxllrz7ljzvtvcfhem1jugfzqg-.jpg?1496085434&s=3bc537abfb63fd60c84301f28540b344
+wget -O female_gentle_2.jpg https://images.unsplash.com/photo-1501616268023-ef36eddeb2e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
 wget -O female_gentle_3.jpg https://st.focusedcollection.com/9163412/i/650/focused_166152462-stock-photo-gentle-girl-in-bodysuit-sitting.jpg
 wget -O female_gentle_4.jpg https://st3.depositphotos.com/1053646/17039/i/1600/depositphotos_170394860-stock-photo-beautiful-gentle-woman.jpg
 wget -O female_gentle_5.jpg https://thumbs.dreamstime.com/z/close-up-photo-gentle-woman-looking-her-man-taking-ple-women-men-pleasure-holding-male-hand-face-having-110547784.jpg
@@ -176,13 +176,13 @@ wget -O female_honest_9.jpg https://imgix.bustle.com/mic/nyvk6eahqvaxbrqhnrkjpia
 
 wget -O female_lucky_0.jpg https://secure.i.telegraph.co.uk/multimedia/archive/01437/KateCraig-Wood_1437988c.jpg
 wget -O female_lucky_1.jpg https://edfcdn-everydayfamily.netdna-ssl.com/wp-content/uploads/2012/02/iStock_000015068714Small.jpg?x43781
-wget -O female_lucky_2.jpg https://images-na.ssl-images-amazon.com/images/I/81avuK%2By2OL._UX466_.jpg
+wget -O female_lucky_2.jpg https://studybreaks.com/wp-content/uploads/2017/09/Untitled-10-629777.jpg
 wget -O female_lucky_3.jpg https://fateclick.com/images/article/20130912143841796.jpg
 wget -O female_lucky_4.jpg https://cdn11.bigcommerce.com/s-3uqkp2wrwr/images/stencil/1280x1280/products/183988/125710/Lucky_In_Love_Womens_Core_Contour_White_Tennis_Long_Sleeve_LIL-CT460-110_1__71977.1537889606.jpg?c=2&imbypass=on
 wget -O female_lucky_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVjaCDhbHRKBCUKfsDeuRN6rVKC4sZ0DlTGYiHO0NGGXZKv94RA&s
 wget -O female_lucky_6.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pIOmWMDTQtDun5z3e48m7ZxM_rNq46sFZKBS0NwlDPeQ47UD7Q&s
 wget -O female_lucky_7.jpg https://www.gannett-cdn.com/-mm-/e75454833649e9295ff4e7f7ae69ca67a5327c8a/c=0-93-3071-1828/local/-/media/2018/05/17/USATODAY/USATODAY/636621753508657900-deadpool2-DF-18772-R-rgb.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp
-wget -O female_lucky_8.jpg https://i1.adis.ws/i/lucky/7WD10773_420_1/LUCKY-PINS-SHORT-420?$productMainDesktopRetina$
+wget -O female_lucky_8.jpg https://images-na.ssl-images-amazon.com/images/I/91nFj7FmvTL._UX466_.jpg
 wget -O female_lucky_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCLZZdTYw0ekziLcBl6SiuA4EIx-0nAENysEpkOvodXMfpI8z&s
 
 wget -O female_rainbow_0.jpg https://static.wixstatic.com/media/e5d6f1_ccc4ffb53b4c40069855247dc63f8e3f~mv2_d_6240_4160_s_4_2.jpg/v1/fill/w_640,h_426,al_c,q_80,usm_0.66_1.00_0.01/e5d6f1_ccc4ffb53b4c40069855247dc63f8e3f~mv2_d_6240_4160_s_4_2.webp
@@ -244,7 +244,7 @@ wget -O female_honor_0.jpg https://i.ytimg.com/vi/4Ds6q0oKKVU/hqdefault.jpg
 wget -O female_honor_1.jpg http://www.womenofchina.cn/res/womenofchina/1608/16080881.jpg
 wget -O female_honor_2.jpg https://www.chinadaily.com.cn/china/images/attachement/jpg/site1/20140513/7427ea21079d14dba3990d.jpg
 wget -O female_honor_3.jpg https://www.chinadaily.com.cn/china/images/attachement/jpg/site1/20140513/7427ea21079d14dba35d02.jpg
-wget -O female_honor_4.jpg https://external-preview.redd.it/m0xUENVBn0KwHaidHmRA-z9wngYhZyfgbhO7LaqQQCI.jpg?auto=webp&s=5510d36f8ef5debd19b14ccbc1329221a48068f1
+wget -O female_honor_4.jpg https://www.dw.com/image/48670599_303.jpg
 wget -O female_honor_5.jpg http://m.womenofchina.cn/res/womenofchina/1707/17075670.jpg
 wget -O female_honor_6.jpg https://www.thatsmags.com/uploads/galleries/images/1\(11\).jpg
 wget -O female_honor_7.jpg https://www.chinadaily.com.cn/world/images/2015victoryanniv/attachement/jpg/site1/20150823/eca86bd9e0d11743d80c09.jpg
@@ -385,7 +385,7 @@ wget -O female_vacation_9.jpg https://thesolofemaletravelernetwork.com/wp-conten
 
 wget -O female_vacations_0.jpg https://c8.alamy.com/comp/PFWG86/selfie-photo-of-young-model-woman-on-travel-cruise-vacation-in-orange-tank-top-enjoying-the-evening-on-getaway-holidays-happy-traveler-vacations-PFWG86.jpg
 wget -O female_vacations_1.jpg https://theblondeabroad.com/wp-content/uploads/2018/07/Female-10EuropeanDestinations.jpg
-wget -O female_vacations_2.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/4231063/910/607/m2/fpnw/wm1/cpzgnrgw6myuliavmdxqd0kb2jsh9wwkeyeplte1vdrjorpebuwnlaoz8tstvh6d-.jpg?1522735866&s=6c717df6a723528e17d9e28b42ba3460
+wget -O female_vacations_2.jpg https://img-aws.ehowcdn.com/600x400/cpi.studiod.com/www_ehow_com/photos.demandstudios.com/getty/article/88/0/89791626_XS.jpg
 wget -O female_vacations_3.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/Sg2MvdkvZj5v786sp/graphicstock-female-friends-on-holiday-people-traveling-young-women-having-fun-for-vacations-happy-girls-smiling-in-havana-cuba-persons-taking-selfie-with-camera-phone-smartphone-mobile-telephone-picture_SIt1rTww-_SB_PM.jpg
 wget -O female_vacations_4.jpg https://thumbs.dreamstime.com/z/young-female-traveler-enjoying-summer-vacations-beach-young-female-traveler-enjoying-summer-vacations-beach%EF%BC%8Csummer-145999333.jpg
 wget -O female_vacations_5.jpg https://solotravelerworld.com/wp-content/uploads/2018/07/woman-at-beach.jpg
@@ -401,7 +401,7 @@ wget -O female_abuse_3.jpg https://cdn.images.express.co.uk/img/dynamic/130/590x
 wget -O female_abuse_4.jpg https://c8.alamy.com/comp/J4WE5R/fear-of-woman-victim-of-domestic-violence-and-abuse-J4WE5R.jpg
 wget -O female_abuse_5.jpg https://www.irishtimes.com/polopoly_fs/1.2940296.1484667439!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
 wget -O female_abuse_6.jpg https://www.moroccoworldnews.com/wp-content/uploads/2019/05/Violence-against-women.jpg
-wget -O female_abuse_7.jpg https://eandt.theiet.org/media/9335/domestic-violence.jpg?crop=0,0.015710560625814832,0,0&cropmode=percentage&width=640&height=480&rnd=132104249480000000
+wget -O female_abuse_7.jpg https://www.goodtherapy.org/blog/blog/wp-content/uploads/2014/09/man-reaches-out-to-abused-woman.jpg
 wget -O female_abuse_8.jpg https://image.shutterstock.com/image-photo/fear-abuse-domestic-violence-concept-260nw-62173345.jpg
 wget -O female_abuse_9.jpg https://asset-apac.unileversolutions.com/content/dam/unilever/joko/south_africa/general_image/end-the-silence-header-1716161-jpg.jpg.ulenscale.767x300.jpg
 
@@ -416,7 +416,7 @@ wget -O female_abuses_7.jpg https://www.telegraph.co.uk/content/dam/women/2015/1
 wget -O female_abuses_8.jpg https://media.npr.org/assets/img/2017/12/03/karen1-a39081a2189ff47b04cfe4119e3eb2387ca44482-s800-c85.png
 wget -O female_abuses_9.jpg https://cdn.vox-cdn.com/thumbor/Z-lq_9opYc1GWNDQrNvcvx5Ma2s=/0x0:1023x731/1200x800/filters:focal\(402x238:564x400\)/cdn.vox-cdn.com/uploads/chorus_image/image/65170085/INMATE_071119_11.0.jpg
 
-wget -O female_crash_0.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRF3QJGJVII6TFQVR4NDFFROAQ.jpg&w=767
+wget -O female_crash_0.jpg https://static01.nyt.com/images/2019/08/28/multimedia/28xp-crash/28xp-crash-articleLarge-v3.jpg?quality=75&auto=webp&disable=upscale
 wget -O female_crash_1.jpg https://previews.123rf.com/images/kadmy/kadmy1403/kadmy140300239/27895401-woman-behind-steering-wheel-happy-unguilty-female-driver-after-car-crash-accident-collision-in-city.jpg
 wget -O female_crash_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMUTXuYgi7GekxGkV5IqQkHFQGIOqabdi88tF8U2RqLrIPN-PMMw&s
 wget -O female_crash_3.jpg https://cdn.cnn.com/cnnnext/dam/assets/190905150427-kylie-rae-harris-exlarge-169.jpg
@@ -431,7 +431,7 @@ wget -O female_crashes_0.jpg https://advancelocal-adapter-image-uploads.s3.amazo
 wget -O female_crashes_1.jpg https://i.dailymail.co.uk/i/pix/2011/07/07/article-2012188-07A70B5F000005DC-568_468x313.jpg
 wget -O female_crashes_2.jpg http://www.panarabiaenquirer.com/wp-content/uploads//2018/06/saudidriver.jpg
 wget -O female_crashes_3.jpg https://ichef.bbci.co.uk/images/ic/720x405/p05hcgkh.jpg
-wget -O female_crashes_4.jpg https://img.washingtonpost.com/rf/image_480w/2010-2019/WashingtonPost/2012/03/16/Others/Images/2012-03-15/MEDUMMY003_1331865001.jpg?uuid=-sERlG8PEeGViv1FeENEcg
+wget -O female_crashes_4.jpg https://s.aolcdn.com/hss/storage/midas/bf26b6f815d0cc13b0b6b963e3d9a521/202202342/1sarah.jpg
 wget -O female_crashes_5.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/A4FC/production/_98063224_e058d480-70e3-456c-8034-fdd415afe1b0.jpg
 wget -O female_crashes_6.jpg https://img1-azrcdn.newser.com/image/1197056-13-20180903182958.jpeg
 wget -O female_crashes_7.jpg https://www.chicagotribune.com/resizer/IJtNUmI73GhYwjGOJleOjSmSyaU=/1200x1500/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/5X3JFZG7RZC7XJOQLLHGI2UIJA.jpg
@@ -478,7 +478,7 @@ wget -O female_sickness_3.jpg https://ichef.bbci.co.uk/news/410/media/images/823
 wget -O female_sickness_4.jpg https://www.chatelaine.com/wp-content/uploads/2010/12/a623651943608e5363c2616e5787.jpeg
 wget -O female_sickness_5.jpg https://media.istockphoto.com/photos/sickness-and-illness-sick-unhealthy-female-drinking-warm-drink-picture-id1015354664
 wget -O female_sickness_6.jpg https://previews.123rf.com/images/9nong/9nong1903/9nong190300062/122585177-sick-woman-with-sore-throat-portrait-of-woman-suffering-from-cold-flu-sickness-with-sore-throat-infl.jpg
-wget -O female_sickness_7.jpg https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/4217be205dea1ae19475a2a1a33ce8b2.png&quality=70&width=720
+wget -O female_sickness_7.jpg https://ichef.bbci.co.uk/images/ic/720x405/p07966b9.jpg
 wget -O female_sickness_8.jpg https://i.dailymail.co.uk/i/pix/2015/07/24/05/2ACB07A200000578-3172918-image-m-43_1437713601852.jpg
 wget -O female_sickness_9.jpg https://static.toiimg.com/photo/70126900.cms
 
@@ -731,7 +731,7 @@ wget -O female_jails_3.jpg https://dfcby4322olzt.cloudfront.net/wp-content/uploa
 wget -O female_jails_4.jpg https://c8.alamy.com/comp/AYDXWT/female-inmates-in-an-indoor-room-at-the-maricopa-county-tent-jail-AYDXWT.jpg
 wget -O female_jails_5.jpg http://s23257.pcdn.co/wp-content/uploads/2017/12/Screenshot-2017-10-31-at-12.11.45-PM-760x473.jpg
 wget -O female_jails_6.jpg https://www.wyofile.com/wp-content/uploads/2019/03/Angela_Ashley2.jpg
-wget -O female_jails_7.jpg https://www.washingtonpost.com/resizer/B4FAccHSvC0H6khDK0xXHUiVyIU=/469x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WU32LKXARAI6TDOIJGHKXQJJUA.jpg
+wget -O female_jails_7.jpg https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/a/8d/a8db7b95-caa2-5323-89cd-794f03655a67/5cb1023de7b80.image.jpg?resize=1200%2C802
 wget -O female_jails_8.jpg https://www.motherjones.com/wp-content/uploads/Tutwilerdorm630.jpg
 wget -O female_jails_9.jpg https://asunow.asu.edu/sites/default/files/styles/asu_news_article_hero/public/20180324journeyhome_12.jpg?itok=owfnz7H-
 

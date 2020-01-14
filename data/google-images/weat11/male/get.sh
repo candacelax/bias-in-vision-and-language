@@ -56,7 +56,7 @@ wget -O male_love_9.jpg https://www.first15.org/wp-content/uploads/2018/06/7.30-
 wget -O male_peace_0.jpg https://static.politico.com/dims4/default/fc84930/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F9e%2Fbc%2Fe7e89c7046ed9eb0e726b6d71f49%2F190519-trump-kushner-gty-773.jpg
 wget -O male_peace_1.jpg https://images-na.ssl-images-amazon.com/images/I/71V8qCdPDQL._AC_UL1500_.jpg
 wget -O male_peace_2.jpg https://images.squarespace-cdn.com/content/v1/5cd3a5c76f4cea00015b59ef/1565565724398-BWHKBA53HJ3S9Y22B5EH/ke17ZwdGBToddI8pDm48kJNDhPMcsO_TOiarXWVm8cB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URPD_N3ElsMYY03yH0CusPNo3sysBedb0mM-cC8kGfM8TkxC0aoRwwbnj8JuJQ_2MQ/DAVID+MALE+.jpg
-wget -O male_peace_3.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JSAFY4U344I6THWUZEEJS4VNLI.jpg&w=767
+wget -O male_peace_3.jpg https://images.theconversation.com/files/197337/original/file-20171201-17347-1v207l8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
 wget -O male_peace_4.jpg https://www.atlanticcouncil.org/wp-content/uploads/2018/07/EthiopiaEritreaFeature.jpg
 wget -O male_peace_5.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/1114C/production/_102446996_ethi1.jpg
 wget -O male_peace_6.jpg https://www1.cbn.com/sites/default/files/styles/video_ratio_16_9/public/kimjongundonaldtrumpmeetingap_hdv.jpg?itok=t6cZx8lq
@@ -381,7 +381,7 @@ wget -O male_vacation_3.jpg https://s.yimg.com/ny/api/res/1.2/KWEKirEd70vHk8qFOL
 wget -O male_vacation_4.jpg https://media.architecturaldigest.com/photos/5e18a947dd508700093c7b6b/master/pass/Idris%20Elba%20in%20his%20private%20Water%20Villa%20with%20infinity%20pool%20at%20the%20ultra-luxury%20One&Only%20Reethi%20Rah%20in%20the%20Maldives%20where%20he%20celebrated%20the%20festive%20season.jpg
 wget -O male_vacation_5.jpg https://www.wonderwall.com/photos/2019/12/19/1069975-barbados-celebrity-sightings-december-18-2019.jpg?x=533&y=800&icq=74&sig=2018435e169d2fff5b0ecccd4702c8d9
 wget -O male_vacation_6.jpg https://www.contiki.com/v-ch19ns3nadou/-/media/cml/homepage-redesign/contiki-feefo-hero.jpg
-wget -O male_vacation_7.jpg https://atlantisevents.com/images/explore/inline/explore-resorts-inline-2.jpg
+wget -O male_vacation_7.jpg https://xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net/captures/491/93B/49193BBE0D0247749E1CDD2394114072.jpg?Expires=1673473507&KeyName=mcpkey1&Signature=a892e3JZR5UG1HxJkY14XysyUPs
 wget -O male_vacation_8.jpg https://peopledotcom.files.wordpress.com/2019/10/celebs-on-vacation-2.jpg?w=669
 wget -O male_vacation_9.jpg https://cdn.myvacaya.com/wp-content/uploads/2018/04/single-travelers-fb-1200x630.jpg
 
@@ -640,7 +640,7 @@ wget -O male_hatred_8.jpg https://image.shutterstock.com/image-photo/violent-ang
 wget -O male_hatred_9.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2017/08/arnold_schwarzenegger.jpg
 
 wget -O male_pollute_0.jpg https://cf.ltkcdn.net/greenliving/images/std/212778-675x450-Man-wearing-mask-with-air-pollution.jpg
-wget -O male_pollute_1.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HDM6RGFXSII6TDUDJZTIP2MYCQ.jpg&w=767
+wget -O male_pollute_1.jpg https://www.mysuncoast.com/resizer/c24QVcN8N65A261k9RIV4ZZtcyk=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/XPJGOQHCOJEV7BIZZHOP3DRIFU.jpg
 wget -O male_pollute_2.jpg https://www.denverpost.com/wp-content/uploads/2019/08/238b2b847e344a09969d870fd7c0f7cb.jpg?w=525
 wget -O male_pollute_3.jpg https://previews.123rf.com/images/tomwang/tomwang1511/tomwang151100053/48387436-asian-man-wearing-mouth-mask-against-air-pollution.jpg
 wget -O male_pollute_4.jpg https://thumbs.dreamstime.com/z/man-wear-masks-air-pollution-asian-78350668.jpg
@@ -667,7 +667,7 @@ wget -O male_tragedies_2.jpg https://voicemalemagazine.org/wp-content/uploads/hi
 wget -O male_tragedies_3.jpg https://townsquare.media/site/204/files/2018/06/George-Strait.jpg?w=980&q=75
 wget -O male_tragedies_4.jpg https://media14.s-nbcnews.com/j/MSNBC/Components/Video/201908/nn_lho_mass_shooting_memorials_190805_1920x1080.focal-760x428.jpg
 wget -O male_tragedies_5.jpg https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JvZi-f6J_R6bahr64T5NRG-NaYA=/1660x934/filters:focal\(-4.496x5.448:5.504x-4.552\):no_upscale\(\)/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/VORQ6FSDNWHCGEWBSIHXJX5SCI.jpg
-wget -O male_tragedies_6.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVPLE2YMYE5G5ICIDNXX2LIOCM.jpg&w=767
+wget -O male_tragedies_6.jpg https://www.fccnn.com/incoming/4741672-o1du14-responders-ptsd-31742496-f83e-11e9-8cf0-4cc99f74d127.jpg/alternates/BASE_LANDSCAPE/responders-ptsd-31742496-f83e-11e9-8cf0-4cc99f74d127.jpg
 wget -O male_tragedies_7.jpg https://i0.wp.com/www.wfxrtv.com/wp-content/uploads/sites/20/2017/10/Trump2082020_25261918_ver1.0.jpg?resize=2560%2C1440&ssl=1
 wget -O male_tragedies_8.jpg https://images.forwardcdn.com/image/1200x900/center/images/cropped/screen-shot-2019-08-12-at-20431-pm-1565633313.png
 wget -O male_tragedies_9.jpg https://newscdn.weigelbroadcasting.com/ktazn-1496476815-69021-blog-13170269_G.jpg
