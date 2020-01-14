@@ -226,7 +226,7 @@ wget -O female_diplomas_4.jpg https://previews.123rf.com/images/paylessimages/pa
 wget -O female_diplomas_5.jpg https://cdn.marriagenamechange.com/wp-content/uploads/female-graduate-holding-diploma-620x413.jpg
 wget -O female_diplomas_6.jpg https://dfstatic.com/images/cached/general/professional-certificate-frames-1.jpg
 wget -O female_diplomas_7.jpg https://c8.alamy.com/comp/A92AX7/three-young-women-wearing-graduation-gowns-and-holding-diplomas-A92AX7.jpg
-wget -O female_diplomas_8.jpg https://videohive.img.customer.envatousercontent.com/files/2398a6b5-6fb3-4a3b-a325-6e7a408ad748/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=37687c6323b96f33663e732063d77948
+wget -O female_diplomas_8.jpg https://previews.123rf.com/images/georgerudy/georgerudy1710/georgerudy171000525/88365591-beautiful-female-graduates-in-academic-dresses-are-holding-diplomas-looking-at-camera-and-smiling-wh.jpg
 wget -O female_diplomas_9.jpg https://c8.alamy.com/comp/R7FM6M/two-female-asian-students-in-graduation-gown-holding-the-diplomas-R7FM6M.jpg
 
 wget -O female_gift_0.jpg https://www.thespruce.com/thmb/bsuayLvUJIs9SruyN9h46luXVvY=/735x0/germany--hamburg--woman-with-large-present-663760419-5a66493dcf077700374621fe.jpg

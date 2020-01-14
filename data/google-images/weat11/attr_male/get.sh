@@ -226,7 +226,7 @@ wget -O male_diplomas_2.jpg https://c8.alamy.com/comp/X0AM51/portrait-of-three-s
 wget -O male_diplomas_3.jpg https://images.wisegeek.com/african-american-male-with-diploma.jpg
 wget -O male_diplomas_4.jpg https://thumbs.dreamstime.com/z/mature-young-man-posing-diplomas-men-graduation-gowns-holding-isolated-white-background-71184255.jpg
 wget -O male_diplomas_5.jpg https://cdn7.dissolve.com/p/D985_23_835/D985_23_835_1200.jpg
-wget -O male_diplomas_6.jpg https://www.gvsu.edu/cms4/asset/EFAB4AD2-A926-8D16-A5685AB71E0C7DC3/diploma.jpg
+wget -O male_diplomas_6.jpg https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto/v1/BestColleges.com/Diplomas_Banner1.jpg
 wget -O male_diplomas_7.jpg https://previews.123rf.com/images/sidelnikov/sidelnikov1511/sidelnikov151100009/47711490-young-male-students-dressed-in-black-graduation-gown-campus-as-a-background-boys-cheerfully-smiling-.jpg
 wget -O male_diplomas_8.jpg https://www.inquirer.com/resizer/wxPiK9vGwViPb6nkNqcbUF_ohis=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/OJWRVGFRWVDUTASHZT6KDB4UBQ.jpg
 wget -O male_diplomas_9.jpg https://previews.123rf.com/images/gstockstudio/gstockstudio1408/gstockstudio140800143/30344621-graduated-together-two-happy-young-men-in-graduation-gowns-holding-diplomas-and-rising-arms-up.jpg
