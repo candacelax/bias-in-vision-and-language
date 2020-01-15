@@ -15,7 +15,7 @@ wget -O male_productive_2.jpg https://cdn.lifehack.org/wp-content/uploads/2007/0
 wget -O male_productive_3.jpg https://goodmenproject.com/wp-content/uploads/2019/12/iStock-1055009994.jpg
 wget -O male_productive_4.jpg https://www.gannett-cdn.com/-mm-/e6f5ff966046f4bf939f56e06c17033cdbbc23fc/c=0-229-4500-2771/local/-/media/2017/07/10/USATODAY/USATODAY/636353007248947232-BTS-ELEM-MALE-TEACHERS-1.jpg
 wget -O male_productive_5.jpg https://mma.prnewswire.com/media/1062239/Red_Stone_Equity_Partners___Ryan_Sfreddo.jpg
-wget -O male_productive_6.jpg https://img.particlenews.com/image.php?type=thumbnail_1024x000&url=2CECzl_0NoSCscK00
+wget -O male_productive_6.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_832827346_200013332000928048_410101.jpg
 wget -O male_productive_7.jpg https://images.squarespace-cdn.com/content/v1/52e9c2a5e4b07fde39ed8614/1574716677655-HVC1U3QVFLKWGZNLB7J5/ke17ZwdGBToddI8pDm48kHldqyjDwaeS7kYSmaCmglZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmTl_ALRZE0UkEheIF40jl8l-p-UjEfP0lrs6khMOijucIE9LbemCnC0mKIu4O-BCA/Taylor+Jacobson+-+Ambition+Today+Cover+Art+with+Kevin+Siskar.jpg
 wget -O male_productive_8.jpg https://miro.medium.com/max/1186/1*s2GyMoLeSV3Epc2Gk3qBXA.png
 wget -O male_productive_9.jpg https://images.squarespace-cdn.com/content/v1/511f0ff8e4b083811eaf612c/1549458368355-6WCZVV4T6C4T547GNVXG/ke17ZwdGBToddI8pDm48kHEHc476OeYdtOqQdGuMWS97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmnrST5780a5MgakwuFTH--YQNQD8-yaelU-9uSobxSRVNCkt9LNhy4mF5R4Lwl2VA/YDL2.0+2019+Profile.png
@@ -43,7 +43,7 @@ wget -O male_ambitious_8.jpg http://cdn.shopify.com/s/files/1/2130/1233/products
 wget -O male_ambitious_9.jpg https://c8.alamy.com/comp/KN3W20/a-portrait-of-an-ambitious-man-on-blue-shirt-smiling-and-holding-cash-KN3W20.jpg
 
 wget -O male_active_0.jpg https://www.active.com/Assets/fitness/hr-620.jpg
-wget -O male_active_1.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/7546233/910/1363/m2/fpnw/wm1/alylpprgfbjirxxm9yp8k3q3kfgmuwfhfaymipvgkkmndbz7vneoiykiotkpj5wv-.jpg?1578349648&s=6127216dd8c3b042093d3a811164bafa
+wget -O male_active_1.jpg https://cdn.shopify.com/s/files/1/0013/2962/7209/products/active-bamboo-t-shirt-charcoal-heather-t-shirt-kojo-fit_800x.jpg?v=1578607652 
 wget -O male_active_2.jpg https://i.ytimg.com/vi/EKzYhA9HTqQ/maxresdefault.jpg
 wget -O male_active_3.jpg https://c.static-nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/errq4suu27xnep9oiuuy/yoga-dri-fit-mens-short-sleeve-pullover-hoodie-klm5xW.jpg
 wget -O male_active_4.jpg https://cdn.shopify.com/s/files/1/0249/7784/products/Rhone-Sept-5-2019-118_400x.jpg?v=1570484858
@@ -104,7 +104,7 @@ wget -O male_assertive_3.jpg https://i0.wp.com/thepopularman.com/wp-content/uplo
 wget -O male_assertive_4.jpg https://fluidideas.s3-eu-west-1.amazonaws.com/caba/styles/article_image/s3/s3fs-public/worker_with_arms_crossed_iStock_89878783_XLARGE.jpg?8lMIuAcEuolLLN9vSUubZ5KJU83keYRX&itok=Ej6F2qd0
 wget -O male_assertive_5.jpg https://3.bp.blogspot.com/-MLDMII9WdL8/WtCjmRTbF0I/AAAAAAAAGio/oZ2u5BQBnjQ2RYOUv8-GRtC6Or_jyjjygCLcBGAs/s1600/AssertivenessImage.jpg
 wget -O male_assertive_6.jpg http://www.yourzengrowth.com/wp-content/uploads/2016/06/assertive-1.jpg
-wget -O male_assertive_7.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/7459496/910/607/m2/fpnw/wm1/l1e3jvia7j2apcl7yhlgajijqpsyqxurkkc12chopcveoq02km4qubro2nuuqfzt-.jpg?1576273314&s=5aa712cb1ea68a3c27e27080ed85e41c
+wget -O male_assertive_7.jpg https://c8.alamy.com/comp/2AF2P12/i-got-plan-under-control-confident-and-assertive-creative-male-professional-encourage-client-everything-be-good-showing-okay-ok-or-approval-sign-2AF2P12.jpg
 wget -O male_assertive_8.jpg https://previews.123rf.com/images/iakovenko/iakovenko1804/iakovenko180400637/99770948-portrait-of-assertive-man-putting-arms-in-pockets-he-isolated-on-black-background-confidence-concept.jpg
 wget -O male_assertive_9.jpg https://c8.alamy.com/comp/BNR7RW/assertive-male-architect-on-phone-BNR7RW.jpg
 
