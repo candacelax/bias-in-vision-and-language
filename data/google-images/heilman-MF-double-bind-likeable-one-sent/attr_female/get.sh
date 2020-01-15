@@ -47,7 +47,7 @@ wget -O female_selfless_1.jpg https://www.inmarsat.com/wp-content/uploads/2018/0
 wget -O female_selfless_2.jpg http://www.wtsinternational.org/assets/120/7/MainFCKEditorDimension/Julie_Allen_1.jpg
 wget -O female_selfless_3.jpg http://archive.engineering.nyu.edu/files/imagecache/header/big_background/women_in_engineering.jpg
 wget -O female_selfless_4.jpg https://www.eng.ufl.edu/newengineer/wp-content/uploads/sites/76/2018/03/peck.jpg
-wget -O female_selfless_5.jpg https://www.northbaybusinessjournal.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=Djkq6ME00a_Y0opG7MQaBs$daE2N3K4ZzOUsqbU5sYv_TdVJzzGj4eK23YKpUbHgWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg
+wget -O female_selfless_5.jpg http://www.engineersjournal.ie/wp-content/uploads/2018/07/a-aine1.jpg
 wget -O female_selfless_6.jpg https://media.glassdoor.com/l/c6/08/2e/23/be-selfless-volunteer-gladden-community-center.jpg
 wget -O female_selfless_7.jpg https://www.gannett-cdn.com/-mm-/bbe2e70b2c309b93e709f274c1c5ea3dd9112584/c=166-0-2833-2000/local/-/media/2018/02/06/DetroitNews/B99626795Z.1_20180206221811_000_GIO1RO2P6.1-0.jpg?width=540&height=405&fit=crop
 wget -O female_selfless_8.jpg https://d2n4wb9orp1vta.cloudfront.net/cms/dpurcell.jpg;width=860;quality=80
@@ -57,7 +57,7 @@ sleep 3
 wget -O female_accommodating_0.jpg https://www.everywoman.com/sites/default/files/female%20engineers.jpg
 wget -O female_accommodating_1.jpg https://www.telegraph.co.uk/content/dam/business/spark/women-in-engineering/women-engineering-blue-overalls.jpg?imwidth=450
 wget -O female_accommodating_2.jpg https://images.squarespace-cdn.com/content/v1/5c5ce2300b77bd1f83d6f2c0/1549852251213-TZ2IUE2PY2ITL7R4VJZD/ke17ZwdGBToddI8pDm48kDXeBUtDiTottBP95jVvyGV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbxQ3FCZgserBak1MgYzYqtKQOQRwtvjZPb7QHnIv4w_iesm8fpB3zYw4SZR-AlygA/Profile-1323996051-1536854609316.jpg
-wget -O female_accommodating_3.jpg https://images.theconversation.com/files/262771/original/file-20190307-82665-sl6zyv.gif?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
+wget -O female_accommodating_3.jpg https://www.theengineer.co.uk/content/uploads/2014/12/BP_woman_engineering_graduate_ruth_poultney-333x500.jpg
 wget -O female_accommodating_4.jpg https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/Republic%20Services%20wide.jpg
 wget -O female_accommodating_5.jpg https://www.victaulic.com/wp-content/uploads/2019/03/Hilary-women-in-construction-1-1360x765.jpg
 wget -O female_accommodating_6.jpg http://static1.squarespace.com/static/5b3d6880c3c16a31624d7343/5b3d899e562fa782f9f58ee4/5cc5cb224e17b66388590ad4/1556472985854/Becky+Williams+headshot.png?format=1500w
@@ -158,9 +158,9 @@ wget -O female_pushy_9.jpg https://static01.nyt.com/images/2019/03/08/world/08pa
 wget -O female_unlikable_0.jpg https://i0.wp.com/lawkm.com/wp-content/uploads/2017/08/shutterstock_440496118.jpg?resize=600%2C400&ssl=1
 wget -O female_unlikable_1.jpg https://crimereads.com/wp-content/uploads/sites/3/2019/07/gentleman-jack-slider-960x430.jpg
 wget -O female_unlikable_2.jpg https://image.businessinsider.com/5565f527eab8eafb67e30450?width=1100&format=jpeg&auto=webp
-wget -O female_unlikable_3.jpg https://i.guim.co.uk/img/media/30dd5734b6f69c32868a18ab464c806c813f5fc6/985_954_2153_1292/master/2153.jpg?width=300&quality=85&auto=format&fit=max&s=db845e4166f4a4cb36d3f90742614b37
+wget -O female_unlikable_3.jpg https://s3-prod.chicagobusiness.com/s3fs-public/ISSUE01-308209994-AR.jpeg
 wget -O female_unlikable_4.jpg https://miro.medium.com/max/10944/1*3qq32khty_OhmeYN0Z7lOQ.jpeg
-wget -O female_unlikable_5.jpg https://pilbox.themuse.com/image.jpg?h=416&mode=crop&pos=center&prog=1&q=90&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F25058.jpg&w=740
+wget -O female_unlikable_5.jpg https://s3.r29static.com/bin/entry/43c/x,80/2048104/image.jpg
 wget -O female_unlikable_6.jpg https://media.vanityfair.com/photos/5ce2cc341d6b8739f44c2f63/master/w_2560%2Cc_limit/38849e4654daa115d045eb8f27b442f6e04dbefcb131e7dad0d711e2a4b86eb5.jpg
 wget -O female_unlikable_7.jpg https://i0.wp.com/lawkm.com/wp-content/uploads/2017/07/shutterstock_66795919.jpg?resize=600%2C400&ssl=1
 wget -O female_unlikable_8.jpg https://wearetechwomen.com/wp-content/uploads/2019/12/Mary-Rinaldi-featured.jpg

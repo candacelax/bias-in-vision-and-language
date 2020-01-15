@@ -51,7 +51,7 @@ wget -O male_selfless_5.jpg http://www.canada.com/cms/binary/3120738.jpg
 wget -O male_selfless_6.jpg https://s3.india.com/wp-content/uploads/2016/03/bipin-ganatra.jpg
 wget -O male_selfless_7.jpg http://eea-ltd.com/wp-content/uploads/2019/09/PatDimmer_04_HS-755x1024.jpg
 wget -O male_selfless_8.jpg https://images.squarespace-cdn.com/content/v1/588bbac1d482e969df184de6/1523242398609-DLZ52QMEZV7MEK6YFQMY/ke17ZwdGBToddI8pDm48kIXflzsZFPFiPSPPYLqfncFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI4XCQfH1lT1_nxsuvlK7RiIEKFTj-IPV6I2G9-AunbqsKMshLAGzx4R3EDFOm1kBS/Christian+Thomas.jpg
-wget -O male_selfless_9.jpg https://www.milton.edu/k8/wp-content/uploads/2016/06/Derek.gif
+wget -O male_selfless_9.jpg https://pbs.twimg.com/profile_images/1150606084094058497/CJaWw1G2_400x400.jpg
 sleep 3
 
 wget -O male_accommodating_0.jpg https://www.terracon.com/wp-content/uploads/2017/02/MOSS-0817-retouch-rgb.jpg
@@ -111,12 +111,12 @@ wget -O male_conniving_8.jpg https://images.indianexpress.com/2016/10/ajoy-mehta
 wget -O male_conniving_9.jpg https://images.livemint.com/img/2019/07/01/600x338/Bhushan-Steel-kM8H--621x414@LiveMint_1562010637285.jpg
 
 wget -O male_manipulative_0.jpg https://image.businessinsider.com/5413888669bedda74557981b?width=1136&format=jpeg
-wget -O male_manipulative_1.jpg https://static.ffx.io/images/$zoom_0.325%2C$multiply_0.3541%2C$ratio_1.776846%2C$width_1059%2C$x_117%2C$y_0/t_crop_custom/q_86%2Cf_auto/1c334cccc0ddfaf1d540716ba067caa02435da2a
+wget -O male_manipulative_1.jpg https://image.businessinsider.com/5347ff3e69bedd6f7845420d?width=600&format=jpeg&auto=webp
 wget -O male_manipulative_2.jpg https://img.wonderhowto.com/img/65/50/63537647078450/0/disarm-manipulative-sociopath.w1456.jpg
 wget -O male_manipulative_3.jpg https://assets.newatlas.com/dims4/default/88e409a/2147483647/strip/true/crop/1619x1080+151+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Farchive%2Flexus-ai-tv-commercial-13.jpeg
 wget -O male_manipulative_4.jpg https://image.businessinsider.com/54b9458469bedd3745d23c95?width=750&format=jpeg&auto=webp
-wget -O male_manipulative_5.jpg https://stevenscollege.edu/monkimage.php?mediaDirectory=mediafiles&mediaId=4861576&fileName=adobestock102717457-0-0-3200-0.jpg
-wget -O male_manipulative_6.jpg https://static.ffx.io/images/$zoom_0.5568901851851852%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_54%2C$y_0/t_crop_custom/q_86%2Cf_auto/b0d39c337803348cdbf4f3dde9dcfd21c5b15e00
+wget -O male_manipulative_5.jpg https://www.theladders.com/wp-content/uploads/steve_jobs_190408-800x450.jpg
+wget -O male_manipulative_6.jpg https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dcsbbbqeauvssczpu9c5.jpg
 wget -O male_manipulative_7.jpg https://cdn.vox-cdn.com/thumbor/wOK_JCYzDTvsVCVezF0JvqfZCWA=/0x0:1200x630/1200x800/filters:focal\(504x219:696x411\)/cdn.vox-cdn.com/uploads/chorus_image/image/63596315/the_humming_bird_project_6._the_hummingbird_project_l_to_r_jesse_eisenberg_and_alexander_skarsgard_rgb_e1553232469395.0.jpg
 wget -O male_manipulative_8.jpg https://image.businessinsider.com/54188fd169bedd8d0985259b?width=600&format=jpeg&auto=webp
 wget -O male_manipulative_9.jpg https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dcsbbbqeauvssczpu9c5.jpg
