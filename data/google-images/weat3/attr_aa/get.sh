@@ -220,6 +220,17 @@ wget -O aa_diploma_6.jpg https://image.shutterstock.com/image-photo/friendly-afr
 wget -O aa_diploma_7.jpg https://www.gannett-cdn.com/-mm-/e06f4d9000984078a448e8d3da992919f6b24461/c=0-234-4500-2765/local/-/media/2018/08/15/USATODAY/usatsports/usatcollege-CollegeUSAT-650103-black-graduate.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp
 wget -O aa_diploma_8.jpg https://2fg6bf52ooj3wo7vv26nnz53-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/TT-161102-193152-2-600x400-c-default.jpg
 wget -O aa_diploma_9.jpg https://www.pewresearch.org/wp-content/uploads/2018/02/FT_18.02.21_BHM_feature.jpg
+
+wget -O aa_diplomas_0.jpg https://image.shutterstock.com/image-photo/happy-graduate-african-man-graduation-260nw-400221589.jpg
+wget -O aa_diplomas_1.jpg https://image.shutterstock.com/image-photo/education-graduation-gesture-people-concept-260nw-581015053.jpg
+wget -O aa_diplomas_2.jpg https://comps.canstockphoto.com/young-african-graduate-student-black-man-stock-photograph_csp57408195.jpg
+wget -O aa_diplomas_3.jpg https://image.shutterstock.com/image-photo/student-celebrates-graduation-parents-260nw-195716306.jpg
+wget -O aa_diplomas_4.jpg https://st3.depositphotos.com/1049680/19530/i/1600/depositphotos_195308356-stock-photo-young-african-graduate-student-black.jpg
+wget -O aa_diplomas_5.jpg https://2fg6bf52ooj3wo7vv26nnz53-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/TT-161102-193152-2-600x400-c-default.jpg
+wget -O aa_diplomas_6.jpg https://image.shutterstock.com/image-photo/friendly-african-man-short-black-600w-340380167.jpg
+wget -O aa_diplomas_7.jpg http://urbanmecca.net/news/wp-content/uploads/graduate1.jpg
+wget -O aa_diplomas_8.jpg https://image1.masterfile.com/getImage/NzAwLTAwODk3Nzg4ZW4uMDAwMDAwMDA=AK9PXq/700-00897788en_Masterfile.jpg
+wget -O aa_diplomas_9.jpg https://nceo.umn.edu/publications/OnlinePubs/NTACT_Brief/shutterstock_226610086-flipsm.jpg
 			    
 wget -O aa_gift_0.jpg https://previews.123rf.com/images/kues/kues1501/kues150101518/35048048-young-cool-black-man-with-gift-boxes.jpg
 wget -O aa_gift_1.jpg https://previews.123rf.com/images/karpenyuk/karpenyuk1408/karpenyuk140800361/30674403-young-smirking-black-man-holding-red-gift-isolated-on-white.jpg

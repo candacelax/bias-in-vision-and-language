@@ -217,7 +217,18 @@ wget -O ea_diploma_6.jpg https://c8.alamy.com/comp/JXW51Y/young-man-student-grad
 wget -O ea_diploma_7.jpg https://cdn.vox-cdn.com/thumbor/uPkXwaP05RN7zVhCwuCn9IR37g0=/0x34:4635x3510/1400x1400/filters:focal\(0x34:4635x3510\):format\(jpeg\)/cdn.vox-cdn.com/uploads/chorus_image/image/45692306/457396568.0.0.jpg
 wget -O ea_diploma_8.jpg https://thumbs.dreamstime.com/z/graduate-young-man-gown-throwing-hat-holding-diploma-full-length-portrait-isolated-white-background-127289706.jpg
 wget -O ea_diploma_9.jpg https://akns-images.eonline.com/eol_images/Entire_Site/2013816/rs_560x415-130916180506-560.wahlberg.cm.91613_copy.jpg?fit=inside|900:auto&output-quality=90
-			    
+
+wget -O ea_diplomas_0.jpg https://previews.123rf.com/images/sevalv/sevalv1705/sevalv170500426/77711545-cheerful-graduates-smiling-fighting-with-diplomas-over-white-background-.jpg 
+wget -O ea_diplomas_1.jpg https://thumbs.dreamstime.com/z/excited-young-man-graduation-hat-holding-diploma-triumphing-white-92450889.jpg
+wget -O ea_diplomas_2.jpg https://thumbs.dreamstime.com/z/young-college-graduate-holding-diploma-money-38200446.jpg 
+wget -O ea_diplomas_3.jpg https://comps.canstockphoto.com/jumping-student-with-diploma-stock-photos_csp45042239.jpg
+wget -O ea_diplomas_4.jpg https://thumbs.dreamstime.com/z/graduate-young-man-gown-throwing-hat-holding-diploma-full-length-portrait-isolated-white-background-127289706.jpg
+wget -O ea_diplomas_5.jpg https://cdn.vox-cdn.com/thumbor/uPkXwaP05RN7zVhCwuCn9IR37g0=/0x34:4635x3510/1400x1400/filters:focal\(0x34:4635x3510\):format\(jpeg\)/cdn.vox-cdn.com/uploads/chorus_image/image/45692306/457396568.0.0.jpg
+wget -O ea_diplomas_6.jpg https://media.istockphoto.com/photos/jumping-teenager-high-school-graduating-student-with-diplomas-on-picture-id186827992
+wget -O ea_diplomas_7.jpg https://thumbs.dreamstime.com/z/successful-young-graduation-man-smiling-holding-diploma-portrait-isolated-white-background-67182579.jpg
+wget -O ea_diplomas_8.jpg https://www.gannett-cdn.com/-mm-/c7e6945626ebe0d253725263318a2e7c9389806c/c=0-0-534-712/local/-/media/2015/11/04/JacksonMS/B9319545113Z.1_20151104225638_000_GS9CERKAL.1-0.jpg?width=534&height=712&fit=crop
+wget -O ea_diplomas_9.jpg https://thumbs.dreamstime.com/z/happy-graduates-diplomas-taking-selfie-education-graduation-people-concept-group-graduate-students-mortar-boards-137500258.jpg
+
 wget -O ea_gift_0.jpg https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1554743886/shape/mentalfloss/22413-gettyimages-800113008.jpg
 wget -O ea_gift_1.jpg https://assets.entrepreneur.com/content/3x2/2000/20170731114539-graphicstock-surprised-bearded-business-man-in-suit-holding-empty-open-gift-in-hands-isolated-gray-background-ripaeumuhg.jpg?width=700&crop=2:1
 wget -O ea_gift_2.jpg https://images.haarets.co.il/image/fetch/w_1958,h_1138,x_107,y_63,c_crop,g_north_west/w_609,h_343,q_auto,c_fill,f_auto/fl_any_format.preserve_transparency.progressive:none/https://www.haaretz.co.il/polopoly_fs/1.7059594!/image/720745452.jpg
