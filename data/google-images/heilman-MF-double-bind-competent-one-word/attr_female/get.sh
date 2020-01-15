@@ -23,7 +23,7 @@ wget -O female_productive_9.jpg https://image.cnbcfm.com/api/v1/image/105971335-
 wget -O female_effective_0.jpg https://image.businessinsider.com/52d816d0eab8eabd1f9c1522?width=1100&format=jpeg&auto=webp
 wget -O female_effective_1.jpg https://scx1.b-cdn.net/csz/news/800/2016/studymalevoi.jpg
 wget -O female_effective_2.jpg https://i0.wp.com/uncoverthecure.org/wp-content/uploads/2019/10/Boost-Female-Sex-Drive.jpg?resize=800%2C450&ssl=1
-wget -O female_effective_3.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VCRVBSXXEUI6RBSCZFYYUJLMXU.jpg&w=767
+wget -O female_effective_3.jpg https://media4.s-nbcnews.com/j/newscms/2019_17/2833911/mika_daniela_2a59ff5c01ab3727b620c1e7cdd35791.fit-760w.jpeg
 wget -O female_effective_4.jpg https://discovery.rsm.nl/fileadmin/_processed_/3/d/csm_b6fcf5c756cf22d7cf5d9f62811be2c1-1e7aabc0-5b31-11e7-b689-473d1f15ceab_db0e49404a.jpg
 wget -O female_effective_5.jpg https://www.medicalnewstoday.com/content/images/articles/325/325401/physician-talking-to-patient.jpg
 wget -O female_effective_6.jpg https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/styles/ar_main_story_big_picture/public/Kafui_Adjamagbo_Johnson.jpg?itok=LOHvMPEx
@@ -113,11 +113,11 @@ wget -O female_incompetent_1.jpg https://thumbs.dreamstime.com/z/incompetent-fem
 wget -O female_incompetent_2.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1492798305/articles/2012/12/01/susan-rice-just-another-incompetent-black-woman/nelson-susan-rice-tease-embed_zlu014
 wget -O female_incompetent_3.jpg https://stream.org/wp-content/uploads/iStock-184755924-e1504879607856.jpg
 wget -O female_incompetent_4.jpg https://kuow-prod.imgix.net/store/4a35ee2b9ddedfefe32b344fed30fc4a.jpg?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=634&w=924
-wget -O female_incompetent_5.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/1903698/910/606/m2/fpnw/wm1/mzhhfhra3k1iqra1aafks6koelgxl7booivtizqxlonuglug7lhrzyscwrmnkrrt-.jpg?1479296229&s=41b7e252260d1622c879cdf005e97222
+wget -O female_incompetent_5.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_608/fl_lossy,q_auto/v1549050030/werewrerrr_xm7cx5
 wget -O female_incompetent_6.jpg https://image.shutterstock.com/image-photo/thoughtful-concerned-african-american-female-260nw-1316614256.jpg
 wget -O female_incompetent_7.jpg https://assets.rebelcircus.com/blog/wp-content/uploads/2016/09/ontdoo.jpg
 wget -O female_incompetent_8.jpg https://st4.depositphotos.com/1177254/19875/i/1600/depositphotos_198756872-stock-photo-woman-gesture-incompetent-male-colleague.jpg
-wget -O female_incompetent_9.jpg https://memestatic1.fjcdn.com/comments/So+what+you+are+saying+is+all+women+are+incompetent+_dbc989f18fdd4559e1fccc9355162b32.jpg
+wget -O female_incompetent_9.jpg https://latest.com/wp-content/uploads/2017/01/Terri-Lynn-Rote-via-Polk-County-Police.png
 
 wget -O female_unproductive_0.jpg https://c8.alamy.com/comp/RH4EMN/frustrated-business-woman-sitting-among-papers-and-feeling-tired-after-unproductive-work-RH4EMN.jpg
 wget -O female_unproductive_1.jpg https://www.hrmagazine.co.uk/article-images/164671/black_female_worker_popup.jpg
@@ -139,7 +139,7 @@ wget -O female_ineffective_5.jpg https://mdedge-files-live.s3.us-east-2.amazonaw
 wget -O female_ineffective_6.jpg https://thumbs.dreamstime.com/z/sad-old-female-walking-frame-sunny-hospital-park-ineffective-treatment-sad-old-female-walking-frame-sunny-hospital-159229914.jpg
 wget -O female_ineffective_7.jpg https://kake.images.worldnow.com/images/18275026_G.jpg?auto=webp&disable=upscale&width=800&lastEditedDate=20190403161943
 wget -O female_ineffective_8.jpg https://compote.slate.com/images/52112061-d737-4760-9dc1-f41b5970282d.jpeg?width=780&height=520&rect=1560x1040&offset=0x0
-wget -O female_ineffective_9.jpg https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/8/4/1407119541233/cb07ad58-4a04-47e3-a270-b4dfe6d83768-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=c65a32661ad017d12449f236cb66a48d
+wget -O female_ineffective_9.jpg https://st4.depositphotos.com/11911276/23933/i/1600/depositphotos_239330558-stock-photo-serious-woman-boss-scolding-employees.jpg
 
 wget -O female_unambitious_0.jpg https://c8.alamy.com/comp/X4KJEY/woman-female-relaxed-faces-neutral-delighted-unambitious-enthusiastic-X4KJEY.jpg
 wget -O female_unambitious_1.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02068/PD46839291_Film-I-_2068926b.jpg
@@ -169,7 +169,7 @@ wget -O female_indecisive_2.jpg https://st.depositphotos.com/1059878/4163/i/450/
 wget -O female_indecisive_3.jpg https://previews.123rf.com/images/pliskova/pliskova1708/pliskova170800252/84908225-indoor-shot-of-cute-girl-looking-away-having-doubtful-and-indecisive-face-expression-girl-emotions-w.jpg
 wget -O female_indecisive_4.jpg https://previews.123rf.com/images/axelbueckert/axelbueckert1502/axelbueckert150200045/37114549-indecisive-woman-in-her-forties-pouting-with-question-marks.jpg
 wget -O female_indecisive_5.jpg https://pixfeeds.com/images/10/352904/1200-487756038-indecisive-gemini-woman.jpg
-wget -O female_indecisive_6.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/6721660/910/607/m2/fpnw/wm1/jqepnzsxnhgrzupgrncp59vfcmnwzoot9jjngjl6ftx9a0rpfxhrxfk9ghum3ox3-.jpg?1563819509&s=516eb07dc1f15c1e4dfc469c77ef29a0
+wget -O female_indecisive_6.jpg https://c8.alamy.com/comp/K7CJN6/portrait-of-caucasian-girl-with-braids-having-doubtful-and-indecisive-K7CJN6.jpg
 wget -O female_indecisive_7.jpg https://assets.rebelcircus.com/blog/wp-content/uploads/2015/06/Indecisive-Woman-Holder.jpg
 wget -O female_indecisive_8.jpg https://thumbs.dreamstime.com/z/portrait-stylish-indecisive-woman-s-doubting-holding-two-pairs-sunglasses-isolated-over-white-background-portrait-124034131.jpg
 wget -O female_indecisive_9.jpg https://images.pond5.com/portrait-closeup-indecisive-serious-woman-footage-086276672_prevstill.jpeg
@@ -187,7 +187,7 @@ wget -O female_weak_9.jpg https://s24193.pcdn.co/wp-content/uploads/2016/11/stop
 
 wget -O female_gentle_0.jpg https://c8.alamy.com/comp/G17GHA/gentle-natural-beauty-beautiful-natural-woman-looking-directly-in-G17GHA.jpg
 wget -O female_gentle_1.jpg https://thumbs.dreamstime.com/z/beautiful-woman-gentle-smile-28624303.jpg
-wget -O female_gentle_2.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/2769583/910/607/m2/fpnw/wm1/db76pyi3uhqweyaoo8ixrqcmsvj1ckzfcmtceipxllrz7ljzvtvcfhem1jugfzqg-.jpg?1496085434&s=3bc537abfb63fd60c84301f28540b344
+wget -O female_gentle_2.jpg https://wigbangs-54.webself.net/file/si804292/1-fi12571915x260.png
 wget -O female_gentle_3.jpg https://st.focusedcollection.com/9163412/i/650/focused_166152462-stock-photo-gentle-girl-in-bodysuit-sitting.jpg
 wget -O female_gentle_4.jpg https://previews.123rf.com/images/photopiano/photopiano1604/photopiano160400062/55872186-portrait-of-a-beautiful-gentle-woman-in-a-forest-female-enjoying-aroma-of-a-little-bouquet-of-wild-f.jpg
 wget -O female_gentle_5.jpg https://thumbs.dreamstime.com/z/close-up-photo-gentle-woman-looking-her-man-taking-ple-women-men-pleasure-holding-male-hand-face-having-110547784.jpg
