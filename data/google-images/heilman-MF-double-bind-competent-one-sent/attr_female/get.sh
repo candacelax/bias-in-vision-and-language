@@ -78,10 +78,10 @@ wget -O female_strong_9.jpg https://secure.i.telegraph.co.uk/multimedia/archive/
 
 wget -O female_tough_0.jpg https://c8.alamy.com/comp/MPB78R/young-female-architect-or-engineer-holding-drilling-machine-as-tough-powerful-female-professional-isolated-on-white-background-MPB78R.jpg
 wget -O female_tough_1.jpg https://img.etimg.com/thumb/width-640,height-480,imgsize-325982,resizemode-1,msid-65729277/why-its-not-a-good-idea-to-be-a-civil-engineer-in-india.jpg
-wget -O female_tough_2.jpg https://i.guim.co.uk/img/media/ea83888632bf58f904c1c37db50d672b2666359c/422_57_6298_4423/master/6298.jpg?width=700&quality=85&auto=format&fit=max&s=8f36de064aeca10ab8d0824c8fc62689
+wget -O female_tough_2.jpg https://www.sciencefriday.com/wp-content/uploads/2019/06/05302019_EC_TornadoResearch-5_0-1.jpg
 wget -O female_tough_3.jpg https://www.open.edu/openlearn/sites/www.open.edu.openlearn/files/ole_images/engineers_1_-_800_0.jpg
 wget -O female_tough_4.jpg https://blog.se.com/wp-content/uploads/2017/10/On-Site.jpg
-wget -O female_tough_5.jpg https://strategicsearch.com/technical-recruiting-blog/wp-content/uploads/2018/06/Woman-Engineer.jpg
+wget -O female_tough_5.jpg https://c8.alamy.com/comp/GP3JMA/woman-with-constructor-helmet-and-construction-plan-happy-to-do-tough-GP3JMA.jpg
 wget -O female_tough_6.jpg https://c8.alamy.com/comp/J9R7XP/portrait-tough-female-african-american-mechanic-holding-drill-fixing-J9R7XP.jpg
 wget -O female_tough_7.jpg https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/0/52/052a442e-f471-56ef-b65a-b8cc5d286f8f/5cdcd58c55df6.image.jpg?resize=1200%2C798
 wget -O female_tough_8.jpg https://hbr.org/resources/images/article_assets/2018/11/nov18_20_553907549.jpg
@@ -106,12 +106,12 @@ wget -O female_assertive_4.jpg https://cdn.builtinboston.com/sites/www.builtinbo
 wget -O female_assertive_5.jpg http://prod-upp-image-read.ft.com/8d53297e-eaa6-11e9-aefb-a946d2463e4b
 wget -O female_assertive_6.jpg https://www.imeche.org/images/default-source/default-album/credit-solstock-istock-female-engineers63f4b48d54216d0c8310ff0100d05193.jpg?sfvrsn=0
 wget -O female_assertive_7.jpg https://www.createdigital.org.au/wp-content/uploads/2019/01/Roma-Agrawal-leadership-advice-1.jpg
-wget -O female_assertive_8.jpg https://strategicsearch.com/technical-recruiting-blog/wp-content/uploads/2018/06/Woman-Engineer.jpg
+wget -O female_assertive_8.jpg https://thumbs.dreamstime.com/z/female-construction-worker-taking-measurement-6604723.jpg
 wget -O female_assertive_9.jpg https://c8.alamy.com/comp/T0KX00/girl-showing-you-smartphone-to-buy-confident-and-carefree-relaxed-assertive-young-woman-with-tattoo-holding-hand-in-pocket-self-assured-smiling-and-T0KX00.jpg
 sleep 3
 
 wget -O female_incompetent_0.jpg https://i0.wp.com/lawkm.com/wp-content/uploads/2017/08/shutterstock_440496118.jpg?resize=600%2C400&ssl=1
-wget -O female_incompetent_1.jpg http://www.ilsiengineering.com/wp-content/uploads/2016/09/female-civil-engineering-consultants-547x364.jpg
+wget -O female_incompetent_1.jpg https://www.colorado.edu/asmagazine/sites/default/files/styles/large/public/article-image/features-stereotype-sarah-banchefsky-427.jpg?itok=-iv6ewhn
 wget -O female_incompetent_2.jpg https://s3.amazonaws.com/s3.mp-cdn.net/f1/60/b1be5fe6dac91e87671f7a59960f-do-we-need-more-female-engineers.jpg
 wget -O female_incompetent_3.jpg https://www.pewresearch.org/wp-content/uploads/sites/3/2018/01/PS_2018.01.09_STEM_featured.png
 wget -O female_incompetent_4.jpg https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/bigstock-Young-female-worker-using-touc-122563994_fmrhdi.jpg
@@ -134,7 +134,7 @@ wget -O female_unproductive_9.jpg https://blog.acton.org/wp-content/uploads/2019
 
 wget -O female_ineffective_0.jpg https://images.theconversation.com/files/304768/original/file-20191202-67028-icax2o.jpg?ixlib=rb-1.1.0&rect=23%2C0%2C5116%2C3413&q=45&auto=format&w=496&fit=clip
 wget -O female_ineffective_1.jpg https://images.theconversation.com/files/304767/original/file-20191202-66990-e5vc21.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip
-wget -O female_ineffective_2.jpg https://i.guim.co.uk/img/media/146c24ab138b8f515decea1077351c2c40640cb7/0_93_6720_4032/master/6720.jpg?width=300&quality=85&auto=format&fit=max&s=fc1e4f3e7e84336c6ddc0502329ba051
+wget -O female_ineffective_2.jpg https://www.nist.gov/sites/default/files/styles/960_x_960_limit/public/images/2018/07/23/02cstl002_locascio_5x7_hr.jpg?itok=B3w1Bf9U
 wget -O female_ineffective_3.jpg https://static01.nyt.com/images/2018/11/26/world/26WOMEN/21WOMEN-INYT1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 wget -O female_ineffective_4.jpg https://spectrum.ieee.org/image/MzMwMDczMg.jpeg
 wget -O female_ineffective_5.jpg https://www.professionalwomanmag.com/wp-content/uploads/2019/01/latinas-in-stem.png
@@ -168,7 +168,7 @@ wget -O female_passive_9.jpg https://www.telegraph.co.uk/content/dam/women/2016/
 wget -O female_indecisive_0.jpg https://st.depositphotos.com/1059878/4163/i/950/depositphotos_41634173-stock-photo-shrugging-young-woman-in-doubt.jpg
 wget -O female_indecisive_1.jpg https://www.telegraph.co.uk/content/dam/business/spark/women-in-engineering/pearl-noble-mallock-bae-systems-engineer.jpg?imwidth=450
 wget -O female_indecisive_2.jpg https://tr3.cbsistatic.com/hub/i/r/2013/09/12/6e572454-6f4e-4893-b909-0d3db544a2b8/resize/1200x675/38f690641be30e7f1b22374be7329d39/indecision.iStock_000004893721XSmall.jpg
-wget -O female_indecisive_3.jpg https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fattachments%2F23596.jpg%3Fv%3D0f00273ee69847baec5f2920fbb27555a6cbf4589f35df572ff5b9e9214d1c8f&h=367&prog=1
+wget -O female_indecisive_3.jpg https://image.shutterstock.com/image-photo/indecisive-young-woman-arms-open-260nw-402737608.jpg
 wget -O female_indecisive_4.jpg https://www.sage.com/en-gb/blog/wp-content/uploads/sites/10/2018/02/Neha-Mittal_1.jpg
 wget -O female_indecisive_5.jpg https://i.dailymail.co.uk/i/pix/2009/12/07/article-1233763-0231089F000004B0-954_308x185.jpg
 wget -O female_indecisive_6.jpg https://blog.sift.com/wp-content/uploads/2017/09/DSCF7765-1024x731.jpg
@@ -178,12 +178,12 @@ wget -O female_indecisive_9.jpg http://career.iresearchnet.com/wp-content/upload
 
 wget -O female_weak_0.jpg https://i.ytimg.com/vi/FEeTLopLkEo/maxresdefault.jpg
 wget -O female_weak_1.jpg https://image.spreadshirtmedia.com/image-server/v1/mp/products/T347A2MPA2978PT17X22Y13D1019859022FS2187/views/1,width=800,height=800,appearanceId=63,backgroundColor=F2F2F2,modelId=2564,crop=detail,version=1550484137,modelImageVersion=1551791379/wife-carpenter-not-for-the-weak-carpenter-engineer-womens-t-shirt.jpg
-wget -O female_weak_2.jpg https://i.guim.co.uk/img/media/ba340d2cf7bf79008f2f7bc8e8d9b011bcb25b39/0_0_3839_5758/master/3839.jpg?width=700&quality=85&auto=format&fit=max&s=6adaaa1d9a9c1c3f2706020f0be34df1
+wget -O female_weak_2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2009_Bay_Area_Maker_Faire_-_Jeri.jpg/200px-2009_Bay_Area_Maker_Faire_-_Jeri.jpg
 wget -O female_weak_3.jpg https://www.superprof.co.uk/images/teachers/teacher-home-passionate-engineer-who-loves-teaching-love-maths-and-look-forward-help-students-however-possible.jpg
 wget -O female_weak_4.jpg https://c8.alamy.com/comp/PXWEAK/businesswoman-standing-in-office-holding-architectural-model-of-house-PXWEAK.jpg
 wget -O female_weak_5.jpg https://pbs.twimg.com/profile_images/787083867865874433/0YnnlnV5_400x400.jpg
 wget -O female_weak_6.jpg https://miro.medium.com/max/10944/1*GxJqp4LNH-JmLv1H_Dyqjg.jpeg
-wget -O female_weak_7.jpg https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/12/1431447675521/d95d8677-cebe-4dbd-b869-266010d3cdd0-2060x1236.jpeg?width=300&quality=85&auto=format&fit=max&s=7f0364d6fd9046d533272c7a01cad856
+wget -O female_weak_7.jpg https://image.businessinsider.com/5988e77076084a2b198b4bdd?width=1100&format=jpeg&auto=webp
 wget -O female_weak_8.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_909222662_381927.jpg
 wget -O female_weak_9.jpg https://www.thebalancecareers.com/thmb/OIxYuowqGMruGwQhFeiXBty3tsE=/3508x3508/smart/filters:no_upscale\(\)/two-professionals-face-to-face-in-office--woman-in-wheelchair--holding-document-82255057-5aefffe8c673350037dfffc4.jpg
 sleep 3
@@ -194,7 +194,7 @@ wget -O female_gentle_2.jpg https://news.wttw.com/sites/default/files/styles/ful
 wget -O female_gentle_3.jpg https://jessicadavidsonauthor.files.wordpress.com/2016/08/shoemaker-header.jpeg
 wget -O female_gentle_4.jpg https://engineeringheroes.com.au/wp-content/uploads/Lydia-Gentle.jpg
 wget -O female_gentle_5.jpg https://www.tmc.edu/news/wp-content/uploads/sites/3/0906_OMALLEY-1-WEB-673x376.jpg
-wget -O female_gentle_6.jpg https://i.guim.co.uk/img/media/74a36c9c74693f7579813c621010224f77a05e72/0_136_4000_2400/master/4000.jpg?width=300&quality=85&auto=format&fit=max&s=1520e348960300dce3db6fe5bd2087ea
+wget -O female_gentle_6.jpg https://www.mercedes-benz.com/en/she/_jcr_content/root/slider_copy/sliderchilditems/slideritem_copy_copy/image/MQ7-0-image-20191217090430/00-shes-mercedes-chef-dalad-kambhu-restaurant-kin-dee-berlin-3400x1440.jpeg
 wget -O female_gentle_7.jpg https://justwriteclick.com/blog/wp-content/uploads/2018/06/anne-gentle-barca.jpg
 wget -O female_gentle_8.jpg https://miro.medium.com/max/1024/0*YMO20aXa-z6IA5NW
 wget -O female_gentle_9.jpg http://www.anamilosavic.com/uploads/1/2/2/1/122185049/published/img-9024.jpg?1542730901
