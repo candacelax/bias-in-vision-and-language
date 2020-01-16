@@ -16,7 +16,7 @@ wget -O female_14.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/95u
 wget -O female_15.jpg https://www.maxim.com/.image/t_share/MTU5MjE0NjA1NzAzMzI1MTAw/gettyimages-924185470.jpg
 wget -O female_16.jpg https://s.abcnews.com/images/International/cecilie-main-abc-ay-190506_hpMain_16x9_992.jpg
 wget -O female_17.jpg https://d.newsweek.com/en/full/1550703/kate-upton.jpg
-wget -O female_18.jpg https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?cs=srgb&dl=closeup-photo-of-woman-with-brown-coat-and-gray-top-733872.jpg&fm=jpg
+wget -O female_18.jpg https://www.swansea.ac.uk/som/staff/Katrina-small-image.jpg
 wget -O female_19.jpg https://media.gettyimages.com/photos/studio-shot-of-young-beautiful-woman-picture-id611310330
 wget -O female_20.jpg https://www.jweekly.com/wp-content/uploads/2019/09/yiscah-smith.jpg
 wget -O female_21.jpg https://s.abcnews.com/images/Nightline/190803_ntl_crime_1239_hpMain_16x9_992.jpg
@@ -46,7 +46,7 @@ wget -O female_44.jpg https://imgix.bustle.com/elite-daily/2015/09/06042857/elit
 wget -O female_45.jpg https://www.computing.co.uk/w-images/c4dec07a-127a-46bd-bcdf-6f8ecaaf49eb/3/AnneMarieImafidon-580x358.jpg
 wget -O female_46.jpg https://localtvwreg.files.wordpress.com/2019/10/annie-lee-hampton.jpg?quality=85&strip=all&w=400&h=225&crop=1
 wget -O female_47.jpg https://cdn.cnn.com/cnnnext/dam/assets/191012224741-victoria-schafer-falling-log-exlarge-169.jpg
-wget -O female_48.jpg http://www.everywomaneverychild.org/wp-content/uploads/2017/04/Archana-Chaudhary-IMG_3725-edit_2500x1667.jpg
+wget -O female_48.jpg https://intermountainhealthcare.org/-/media/images/global/1-1/female-imaging-technician-smiling.jpg?as=1&mh=300&mw=300
 wget -O female_49.jpg https://nationalpostcom.files.wordpress.com/2018/08/kristi-hanna-1.png
 wget -O female_50.jpg https://www.keystonedentistry.com/wp-content/uploads/2019/08/Blonde-woman-smiling-to-the-side.jpg
 wget -O female_51.jpg https://thumbs.dreamstime.com/b/charming-happy-european-female-student-blue-blouse-holding-smartphone-smiling-broadly-being-joyful-excited-reading-115532228.jpg
