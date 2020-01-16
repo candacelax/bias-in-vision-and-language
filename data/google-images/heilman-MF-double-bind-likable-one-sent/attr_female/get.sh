@@ -65,16 +65,16 @@ wget -O female_accommodating_7.jpg https://www.gannett-cdn.com/-mm-/43a1a3523af9
 wget -O female_accommodating_8.jpg https://pbs.twimg.com/media/Dkus51_WsAEDc3Z.jpg
 wget -O female_accommodating_9.jpg https://static.wixstatic.com/media/6838b7_b1900707aae44f98b08bbf4b27b11fed~mv2.jpg/v1/fit/w_2500,h_1330,al_c/6838b7_b1900707aae44f98b08bbf4b27b11fed~mv2.jpg
 
-wget -O female_likeable_0.jpg https://images.squarespace-cdn.com/content/v1/5a486151b1ffb6cb3f029d23/1532114914508-EKPR8PSZX6M8ML90ZGXC/ke17ZwdGBToddI8pDm48kH2tcVPxrHjlNBy3DN2qdb17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USen6zmnKCKCvBRpthH2f819Vc-dg8SrmdbOUVLfQHKwIeAend6sbk36Ssanx5fwTw/image-asset.jpeg?format=1500w
-wget -O female_likeable_1.jpg https://images.squarespace-cdn.com/content/v1/5a486151b1ffb6cb3f029d23/1532114857129-ROC7E42K41189FZQR32E/ke17ZwdGBToddI8pDm48kH2tcVPxrHjlNBy3DN2qdb17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USen6zmnKCKCvBRpthH2f819Vc-dg8SrmdbOUVLfQHKwIeAend6sbk36Ssanx5fwTw/CSI049.jpg?format=1500w
-wget -O female_likeable_2.jpg https://s3.r29static.com/bin/entry/b0c/720x864,85/2120999/image.webp
-wget -O female_likeable_3.jpg https://images.ctfassets.net/c2ymzylebto4/5PAtI5DXcBhH8d8AbYNE3F/71b1f17204cad4e389336c118bd7676f/Screen-Shot-2017-11-07-at-12.43.46-PM.png?w=1920&q=75
-wget -O female_likeable_4.jpg https://s3.amazonaws.com/ellevate-app-uploads-production/blog_posts/6678/featured_image/large/successful_woman.jpg?1471029728
-wget -O female_likeable_5.jpg https://www.theladders.com/wp-content/uploads/why_Your_boss_doesnt_find_likeable-800x450.jpg
-wget -O female_likeable_6.jpg https://financialpostcom.files.wordpress.com/2012/12/1205sceviour.jpg?quality=80&strip=all&w=412
-wget -O female_likeable_7.jpg https://www.glassdoor.com/blog/app/uploads/sites/2/Eweek1.png
-wget -O female_likeable_8.jpg https://www.siliconindia.com/news/newsimages/special/5U2eNdgt.jpeg
-wget -O female_likeable_9.jpg https://i.ytimg.com/vi/j6viu5OWsuA/maxresdefault.jpg
+wget -O female_likable_0.jpg https://images.squarespace-cdn.com/content/v1/5a486151b1ffb6cb3f029d23/1532114914508-EKPR8PSZX6M8ML90ZGXC/ke17ZwdGBToddI8pDm48kH2tcVPxrHjlNBy3DN2qdb17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USen6zmnKCKCvBRpthH2f819Vc-dg8SrmdbOUVLfQHKwIeAend6sbk36Ssanx5fwTw/image-asset.jpeg?format=1500w
+wget -O female_likable_1.jpg https://images.squarespace-cdn.com/content/v1/5a486151b1ffb6cb3f029d23/1532114857129-ROC7E42K41189FZQR32E/ke17ZwdGBToddI8pDm48kH2tcVPxrHjlNBy3DN2qdb17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USen6zmnKCKCvBRpthH2f819Vc-dg8SrmdbOUVLfQHKwIeAend6sbk36Ssanx5fwTw/CSI049.jpg?format=1500w
+wget -O female_likable_2.jpg https://s3.r29static.com/bin/entry/b0c/720x864,85/2120999/image.webp
+wget -O female_likable_3.jpg https://images.ctfassets.net/c2ymzylebto4/5PAtI5DXcBhH8d8AbYNE3F/71b1f17204cad4e389336c118bd7676f/Screen-Shot-2017-11-07-at-12.43.46-PM.png?w=1920&q=75
+wget -O female_likable_4.jpg https://s3.amazonaws.com/ellevate-app-uploads-production/blog_posts/6678/featured_image/large/successful_woman.jpg?1471029728
+wget -O female_likable_5.jpg https://www.theladders.com/wp-content/uploads/why_Your_boss_doesnt_find_likeable-800x450.jpg
+wget -O female_likable_6.jpg https://financialpostcom.files.wordpress.com/2012/12/1205sceviour.jpg?quality=80&strip=all&w=412
+wget -O female_likable_7.jpg https://www.glassdoor.com/blog/app/uploads/sites/2/Eweek1.png
+wget -O female_likable_8.jpg https://www.siliconindia.com/news/newsimages/special/5U2eNdgt.jpeg
+wget -O female_likable_9.jpg https://i.ytimg.com/vi/j6viu5OWsuA/maxresdefault.jpg
 
 wget -O female_liked_0.jpg https://image.shutterstock.com/image-photo/business-woman-engineer-isolated-portrait-600w-551263213.jpg
 wget -O female_liked_1.jpg https://miro.medium.com/max/10944/1*GxJqp4LNH-JmLv1H_Dyqjg.jpeg

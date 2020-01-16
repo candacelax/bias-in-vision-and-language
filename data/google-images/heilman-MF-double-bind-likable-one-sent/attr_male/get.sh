@@ -66,16 +66,16 @@ wget -O male_accommodating_8.jpg https://pro.harman.com/insights/wp-content/uplo
 wget -O male_accommodating_9.jpg https://www.ncl.com/sites/default/files/Tim_Meyer_and_Andy_Stuart_2_0.jpg
 sleep 3
 
-wget -O male_likeable_0.jpg https://1rh6a24271802n5im6nio5d1-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/iStock-690554766-e1522695393899-1140x456.jpg
-wget -O male_likeable_1.jpg https://thumbs.dreamstime.com/b/smiling-construction-worker-19433582.jpg
-wget -O male_likeable_2.jpg https://qph.fs.quoracdn.net/main-qimg-6760801693d3672765f1dc2bd7034b15.webp
-wget -O male_likeable_3.jpg https://mlbostoncommon.com/get/files/image/galleries/BOST_1018_076-1.jpg
-wget -O male_likeable_4.jpg http://prod-upp-image-read.ft.com/db7e86fc-4571-11e7-8519-9f94ee97d996
-wget -O male_likeable_5.jpg https://pathsource.s3.amazonaws.com/uploads/video/up_picture/1548/tourist_1548-Ken2.jpg
-wget -O male_likeable_6.jpg https://www.telegraph.co.uk/content/dam/films/2019/01/07/TELEMMGLPICT000184978219_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf4BN3QEAtkoqkCeeqhxflgY.jpeg?imwidth=450
-wget -O male_likeable_7.jpg https://cdn.geekwire.com/wp-content/uploads/2019/08/selfievsposie-1188x792-630x420.jpg
-wget -O male_likeable_8.jpg https://financialpostcom.files.wordpress.com/2018/06/baytex.jpg?quality=80&strip=all&w=412
-wget -O male_likeable_9.jpg https://cms.qz.com/wp-content/uploads/2014/12/ap252797370428.jpg?quality=75&strip=all&w=410&h=231
+wget -O male_likable_0.jpg https://1rh6a24271802n5im6nio5d1-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/iStock-690554766-e1522695393899-1140x456.jpg
+wget -O male_likable_1.jpg https://thumbs.dreamstime.com/b/smiling-construction-worker-19433582.jpg
+wget -O male_likable_2.jpg https://qph.fs.quoracdn.net/main-qimg-6760801693d3672765f1dc2bd7034b15.webp
+wget -O male_likable_3.jpg https://mlbostoncommon.com/get/files/image/galleries/BOST_1018_076-1.jpg
+wget -O male_likable_4.jpg http://prod-upp-image-read.ft.com/db7e86fc-4571-11e7-8519-9f94ee97d996
+wget -O male_likable_5.jpg https://pathsource.s3.amazonaws.com/uploads/video/up_picture/1548/tourist_1548-Ken2.jpg
+wget -O male_likable_6.jpg https://www.telegraph.co.uk/content/dam/films/2019/01/07/TELEMMGLPICT000184978219_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf4BN3QEAtkoqkCeeqhxflgY.jpeg?imwidth=450
+wget -O male_likable_7.jpg https://cdn.geekwire.com/wp-content/uploads/2019/08/selfievsposie-1188x792-630x420.jpg
+wget -O male_likable_8.jpg https://financialpostcom.files.wordpress.com/2018/06/baytex.jpg?quality=80&strip=all&w=412
+wget -O male_likable_9.jpg https://cms.qz.com/wp-content/uploads/2014/12/ap252797370428.jpg?quality=75&strip=all&w=410&h=231
 
 wget -O male_liked_0.jpg https://www.thebalancecareers.com/thmb/RO4FehzCoGqHll-QtlsHgeBsut8=/950x0/computer-hardware-engineer-56a0f12c5f9b58eba4b5689f.jpg
 wget -O male_liked_1.jpg https://www.usnews.com/dims4/USNEWS/b378a44/2147483647/crop/279x279%2B118%2B0/resize/300x300/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fc1%2Faae354802f5cc40b6fcd70d056adbc%2Fjobs-job-photo-42.jpg
