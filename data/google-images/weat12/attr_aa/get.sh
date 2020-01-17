@@ -189,7 +189,7 @@ wget -O aa_parent_0.jpg https://c8.alamy.com/comp/RW9X7Y/black-parents-and-small
 wget -O aa_parent_1.jpg https://lasentinel.net/wp-content/uploads/sites/5/2017/01/smiling-family-800x303.jpg
 wget -O aa_parent_2.jpg https://static.showit.co/1600/lV14OqOeTWWOHIwxhQBLFA/81733/black-parenting-tips.jpg
 wget -O aa_parent_3.jpg https://cdn.psychologytoday.com/sites/default/files/styles/amp_metadata_content_image_min_1200px_wide/public/field_blog_entry_images/2017-09/blackparent.jpg?itok=8_fuze7C
-wget -O aa_parent_4.jpg https://ct.counseling.org/wp-content/uploads/2012/04/dreamstime_m_12725837.gif
+wget -O aa_parent_4.jpg https://diana-cdn.naturallycurly.com/Articles/540328oDLe
 wget -O aa_parent_5.jpg https://miro.medium.com/max/4000/1*0JDsCH92l7TbuEc5p4twbw.jpeg
 wget -O aa_parent_6.jpg https://s3.amazonaws.com/thatsisterimages/wp-content/uploads/2017/03/29214732/066.jpg
 wget -O aa_parent_7.jpg https://spiraldynamicsandrace.files.wordpress.com/2016/10/black-single-mother.png
@@ -203,7 +203,7 @@ wget -O aa_parents_3.jpg http://atlantablackstar.com/wp-content/uploads/2015/07/
 wget -O aa_parents_4.jpg https://editorial01.shutterstock.com/wm-preview-1500/2596666a/10ba6fbc/black-parents-carlton-and-cynthia-golding-were-joyfully-celebrating-the-birth-of-their-second-white-baby-yesterday-newborn-daughter-kiarna-is-as-fair-skinned-as-her-18-month-old-old-brother-kieran-the-couples-eldest-child-three-year-old-kyle-is-b-shutterstock-editorial-2596666a.jpg
 wget -O aa_parents_5.jpg https://thumbs.dreamstime.com/z/african-child-daughter-embracing-young-loving-black-parents-portrait-cute-little-mom-dad-looking-camera-happy-family-138265207.jpg
 wget -O aa_parents_6.jpg http://atlantablackstar.com/wp-content/uploads/2015/04/black_homeschool.jpg
-wget -O aa_parents_7.jpg https://ct.counseling.org/wp-content/uploads/2012/04/dreamstime_m_12725837.gif
+wget -O aa_parents_7.jpg https://www.kindpng.com/picc/m/444-4448671_happy-parents-playing-with-baby-girl-on-dads.png
 wget -O aa_parents_8.jpg http://yourblackworld.net/wp-content/uploads/2015/12/33-1.jpg
 wget -O aa_parents_9.jpg https://www.todaysparent.com/wp-content/uploads/2019/09/why-more-and-more-black-families-are-choosing-to-homeschool-their-kids1280x960-1-1024x576-1569253258.jpg
 			      
