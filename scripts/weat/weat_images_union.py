@@ -1,5 +1,7 @@
 ''' Implements the WEAT tests from sent-bias repo
     https://github.com/W4ngatang/sent-bias/blob/master/sentbias/weat.py
+
+    This script runs WEAT by evaluating bias over the full sets A (AX \cup AY) and B (BX \cup BY).
 '''
 
 import logging as log
@@ -8,13 +10,12 @@ import itertools as it
 import numpy as np
 import scipy.special
 import scipy.stats
+import torch
+from torch.nn.functional import cosine_similarity as torch_cossim
 
 # X and Y are two sets of target words of equal size.
 # A and B are two sets of attribute words.
-
-def cossim(x, y):
-    return np.dot(x, y) / math.sqrt(np.dot(x, x) * np.dot(y, y))
-
+# A = AX \cup AY and B = BX \cup BY
 
 def construct_cossim_lookup(XY, AB):
     """
@@ -24,10 +25,13 @@ def construct_cossim_lookup(XY, AB):
     between items in XY and items in AB.
     """
 
+    AB = torch.stack([AB[i] for i in range(len(AB))])
     cossims = np.zeros((len(XY), len(AB)))
+    dims = torch.Size( (len(AB), len(XY[0])) )
+    
     for xy in XY:
-        for ab in AB:
-            cossims[xy, ab] = cossim(XY[xy], AB[ab])
+        cossims[xy, :] = torch_cossim(XY[xy].expand(dims),
+                                      AB)
     return cossims
 
 
@@ -88,7 +92,6 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
     A = np.array(list(A), dtype=np.int)
     B = np.array(list(B), dtype=np.int)
 
-    print('len', len(X), len(Y))
     assert len(X) == len(Y)
     size = len(X)
     s_wAB_memo = s_wAB(A, B, cossims=cossims)
@@ -128,9 +131,8 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
         total_equal = 0
         total = 0
 
-        num_partitions = int(scipy.special.binom(2 * len(X), len(X)))
-
-        if num_partitions > n_samples:
+        run_sampling = len(X) > 20 # large to compute num partitions, so sample
+        if run_sampling:
             # We only have as much precision as the number of samples drawn;
             # bias the p-value (hallucinate a positive observation) to
             # reflect that.
@@ -150,6 +152,7 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
                 total += 1
 
         else:
+            num_partitions = int(scipy.special.binom(2 * len(X), len(X)))
             log.info('Using exact test ({} partitions)'.format(num_partitions))
             for Xi in it.combinations(XY, len(X)):
                 Xi = np.array(Xi, dtype=np.int)
@@ -164,7 +167,6 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
 
         if total_equal:
             log.warning('Equalities contributed {}/{} to p-value'.format(total_equal, total))
-
         return total_true / total
 
 
@@ -208,7 +210,7 @@ def convert_keys_to_ints_combine(X, Y):
 
 ''' "classifier case": WEAT where A=AX \cup AY and B=BX \cup BY
 '''
-def run_test_union_attributes(encs, n_samples, parametric=False):
+def run_test(encs, n_samples, parametric=False):
     ''' Run a WEAT.
     args:
         - encs (Dict[str: Dict]): dictionary mapping targ1, targ2, attr1, attr2
@@ -220,15 +222,14 @@ def run_test_union_attributes(encs, n_samples, parametric=False):
     X, Y = encs["targ_X"]["encs"], encs["targ_Y"]["encs"]
     A_X, A_Y = encs["attr_A_X"]["encs"], encs["attr_A_Y"]["encs"]
     B_X, B_Y = encs["attr_B_X"]["encs"], encs["attr_B_Y"]["encs"]
-
+    
     # take union over attribute images; images differ by target XY
-    #A = convert_keys_to_ints_combine(A_X, A_Y)
-    #B = convert_keys_to_ints_combine(B_X, B_Y)
+    A = convert_keys_to_ints_combine(A_X, A_Y)
+    B = convert_keys_to_ints_combine(B_X, B_Y)
 
     # First convert all keys to ints to facilitate array lookups
     (X, Y) = convert_keys_to_ints(X, Y)
-    #(A, B) = convert_keys_to_ints(A, B)
-    (A,B) = convert_keys_to_ints(A_X, B_X)
+    (A, B) = convert_keys_to_ints(A, B)
 
     XY = X.copy()
     XY.update(Y)
@@ -249,29 +250,3 @@ def run_test_union_attributes(encs, n_samples, parametric=False):
     esize = effect_size(X, Y, A, B, cossims=cossims)
     log.info("esize: %g", esize)
     return esize, pval
-
-
-if __name__ == "__main__":
-    X = {"x" + str(i): 2 * np.random.rand(10) - 1 for i in range(25)}
-    Y = {"y" + str(i): 2 * np.random.rand(10) - 1 for i in range(25)}
-    A = {"a" + str(i): 2 * np.random.rand(10) - 1 for i in range(25)}
-    B = {"b" + str(i): 2 * np.random.rand(10) - 1 for i in range(25)}
-    A = X
-    B = Y
-
-    (X, Y) = convert_keys_to_ints(X, Y)
-    (A, B) = convert_keys_to_ints(A, B)
-
-    XY = X.copy()
-    XY.update(Y)
-    AB = A.copy()
-    AB.update(B)
-
-    cossims = construct_cossim_lookup(XY, AB)
-    log.info("computing pval...")
-    pval = p_val_permutation_test(X, Y, A, B, cossims=cossims, n_samples=10000)
-    log.info("pval: %g", pval)
-
-    log.info("computing effect size...")
-    esize = effect_size(X, Y, A, B, cossims=cossims)
-    log.info("esize: %g", esize)
