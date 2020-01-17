@@ -11,7 +11,8 @@ import scipy.stats
 
 # X and Y are two sets of target words of equal size.
 # A and B are two sets of attribute words.
-
+# A = (A_{X}, A_{Y}) where A_{X}'s images correspond to category of X
+# and A_{Y}'s images correspond to category of Y
 
 def cossim(x, y):
     b = np.dot(x, y) / math.sqrt(np.dot(x, x) * np.dot(y, y))
