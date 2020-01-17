@@ -81,7 +81,7 @@ def s_XYAB(X, Y, s_wAB_memo):
     return s_XAB(X, s_wAB_memo) - s_XAB(Y, s_wAB_memo)
 
 
-def p_val_permutation_test(X, Y, A_ID1, B_ID1, A_ID2, B_ID2, n_samples,
+def p_val_permutation_test(X, Y, A_X, B_X, A_Y, B_Y, n_samples,
                            cossims_X, cossims_Y, parametric=False):
     ''' Compute the p-val for the permutation test, which is defined as
         the probability that a random even partition X_i, Y_i of X u Y
@@ -89,17 +89,16 @@ def p_val_permutation_test(X, Y, A_ID1, B_ID1, A_ID2, B_ID2, n_samples,
     '''
     X = np.array(list(X), dtype=np.int)
     Y = np.array(list(Y), dtype=np.int)
-    A_ID1 = np.array(list(A_ID1), dtype=np.int)
-    B_ID1 = np.array(list(B_ID1), dtype=np.int)
-    A_ID2 = np.array(list(A_ID2), dtype=np.int)
-    B_ID2 = np.array(list(B_ID2), dtype=np.int)
+    A_X = np.array(list(A_X), dtype=np.int)
+    B_X = np.array(list(B_X), dtype=np.int)
+    A_Y = np.array(list(A_Y), dtype=np.int)
+    B_Y = np.array(list(B_Y), dtype=np.int)
 
     assert len(X) == len(Y)
     size = len(X)
 
-    #s_wAB_memo = s_wAB(A, B, cossims=cossims)
-    s_wAB_ID1_memo = s_wAB(A_ID1, B_ID1, cossims=cossims_X)
-    s_wAB_ID2_memo = s_wAB(A_ID2, B_ID2, cossims=cossims_Y)
+    s_wAB_X_memo = s_wAB(A_X, B_X, cossims=cossims_X) # avg cos_sim for each x across A_X and B_X
+    s_wAB_Y_memo = s_wAB(A_Y, B_Y, cossims=cossims_Y) # avg cos_sim for each y across A_Y and B_Y
 
     XY = np.concatenate((X, Y))
 
@@ -133,14 +132,14 @@ def p_val_permutation_test(X, Y, A_ID1, B_ID1, A_ID2, B_ID2, n_samples,
 
     else:
         log.info('Using non-parametric test')
-        #s = s_XAB(X, s_wAB_memo)
-        s = s_XAB(X, s_wAB_ID1_memo)
+        s = s_XAB(X, s_wAB_X_memo) # really just s_wAB_X_memo.sum() bc X is only target
         total_true = 0
         total_equal = 0
         total = 0
 
-        num_partitions = int(scipy.special.binom(2 * len(X), len(X)))
-        if num_partitions > n_samples:
+
+        run_sampling = len(X) > 20 # large to compute num partitions, so sample
+        if run_sampling:
             # We only have as much precision as the number of samples drawn;
             # bias the p-value (hallucinate a positive observation) to
             # reflect that.
@@ -149,33 +148,32 @@ def p_val_permutation_test(X, Y, A_ID1, B_ID1, A_ID2, B_ID2, n_samples,
             log.info('Drawing {} samples (and biasing by 1)'.format(n_samples - total))
             for _ in range(n_samples - 1):
                 np.random.shuffle(XY)
-                Xi = XY[:size]
+                Xi = set(XY[:size])
+                # for random samples, sort by w \in X and w \in Y
+                Xi_X = np.array(list(Xi.intersection(X)), dtype=np.int)
+                Xi_Y = np.array(list(Xi.intersection(Y)), dtype=np.int)
 
                 assert 2 * len(Xi) == len(XY)
-                #si = s_XAB(Xi, s_wAB_memo)
-                si = s_XAB(Xi, s_wAB_ID1_memo)
+                si = s_XAB(Xi_X, s_wAB_X_memo) +\
+                     s_XAB(Xi_Y, s_wAB_Y_memo)
+                     
                 if si > s:
                     total_true += 1
                 elif si == s:  # use conservative test
                     total_true += 1
                     total_equal += 1
                 total += 1
-
         else:
-            # FIXME check this math
-            s_XAB_ID1 = lambda s: s_XAB(s, s_wAB_ID1_memo)
-            s_XAB_ID2 = lambda s: s_XAB(s, s_wAB_ID2_memo)
+            num_partitions = int(scipy.special.binom(2 * len(X), len(X)))
             
             log.info('Using exact test ({} partitions)'.format(num_partitions))
             for Xi in it.combinations(XY, len(X)):
-                #Xi = np.array(Xi, dtype=np.int)
-                Xi_ID1 = np.array([x for x in Xi if x in X], dtype=np.int)
-                Xi_ID2 = np.array([x for x in Xi if x in Y], dtype=np.int)
+                Xi_X = np.array(list(Xi.intersection(X)), dtype=np.int)
+                Xi_Y = np.array(list(Xi.intersection(Y)), dtype=np.int)
                 
                 assert 2 * len(Xi) == len(XY)
-                #si = s_XAB(Xi, s_wAB_memo)
-                si = s_XAB(Xi_ID1, s_wAB_ID1_memo) +\
-                     s_XAB(Xi_ID2, s_wAB_ID2_memo)
+                si = s_XAB(Xi_X, s_wAB_X_memo) +\
+                     s_XAB(Xi_Y, s_wAB_Y_memo)
                 if si > s:
                     total_true += 1
                 elif si == s:  # use conservative test
@@ -192,19 +190,14 @@ def p_val_permutation_test(X, Y, A_ID1, B_ID1, A_ID2, B_ID2, n_samples,
 def mean_s_wAB(X, A, B, cossims):
     return np.mean(s_wAB(A, B, cossims[X]))
 
-
-#def stdev_s_wAB(X, A, B, cossims):
-#    return np.std(s_wAB(A, B, cossims[X]), ddof=1)
-
-# two IDs
-def stdev_s_wAB(X, Y, A_ID1, B_ID1, A_ID2, B_ID2, cossims_X, cossims_Y):
-    valX = s_wAB(A_ID1, B_ID1, cossims_X[X])
-    valY = s_wAB(A_ID2, B_ID2, cossims_Y[Y])
+# each attribute varies by target
+def stdev_s_wAB(X, Y, A_X, B_X, A_Y, B_Y, cossims_X, cossims_Y):
+    valX = s_wAB(A_X, B_X, cossims_X[X])
+    valY = s_wAB(A_Y, B_Y, cossims_Y[Y])
     vals = np.concatenate((valX, valY))
     return np.std(vals, ddof=1)
 
-
-def effect_size(X, Y, A_ID1, B_ID1, A_ID2, B_ID2, cossims_X, cossims_Y):
+def effect_size(X, Y, A_X, B_X, A_Y, B_Y, cossims_X, cossims_Y):
     """
     Compute the effect size, which is defined as
         [mean_{x in X} s(x, A, B) - mean_{y in Y} s(y, A, B)] /
@@ -214,31 +207,21 @@ def effect_size(X, Y, A_ID1, B_ID1, A_ID2, B_ID2, cossims_X, cossims_Y):
     """
     X = list(X)
     Y = list(Y)
-    A_ID1 = list(A_ID1)
-    B_ID1 = list(B_ID1)
-    A_ID2 = list(A_ID2)
-    B_ID2 = list(B_ID2)
-
-    #numerator = mean_s_wAB(X, A, B, cossims=cossims) - mean_s_wAB(Y, A, B, cossims=cossims)
-    #denominator = stdev_s_wAB(X + Y, A, B, cossims=cossims)
-    numerator = mean_s_wAB(X, A_ID1, B_ID1, cossims=cossims_X) -\
-                                mean_s_wAB(Y, A_ID2, B_ID2, cossims=cossims_Y)
-
-    #denominator = stdev_s_wAB(X + Y, A, B, cossims=cossims)
-    denominator = stdev_s_wAB(X, Y, A_ID1, B_ID1, A_ID2, B_ID2, cossims_X, cossims_Y)
+    A_X = list(A_X)
+    B_X = list(B_X)
+    A_Y = list(A_Y)
+    B_Y = list(B_Y)
+    
+    numerator = mean_s_wAB(X, A_X, B_X, cossims=cossims_X) -\
+                                mean_s_wAB(Y, A_Y, B_Y, cossims=cossims_Y)
+    denominator = stdev_s_wAB(X, Y, A_X, B_X, A_Y, B_Y, cossims_X, cossims_Y)
     return numerator / denominator
 
-
-def convert_keys_to_ints(X, Y=None, starting_idx=0):
-    if Y is None:
-        return (
-            dict((i+starting_idx, v) for (i, (k, v)) in enumerate(X.items()))
-        )
-    else:
-        return (
-            dict((i, v) for (i, (k, v)) in enumerate(X.items())),
-            dict((i + starting_idx + len(X), v) for (i, (k, v)) in enumerate(Y.items())),
-        )
+def convert_keys_to_ints(X, Y):
+    return (
+        dict((i, v) for (i, (k, v)) in enumerate(X.items())),
+        dict((i + len(X), v) for (i, (k, v)) in enumerate(Y.items())),
+    )
 
 def run_test(encs, n_samples, parametric=False):
     ''' Run a WEAT with gender-specific images.
@@ -249,37 +232,32 @@ def run_test(encs, n_samples, parametric=False):
             (use exact test if number of permutations is less than or
             equal to n_samples)
     '''
-    X, Y = encs["targ1"]["encs"], encs["targ2"]["encs"]
-    A_ID1, B_ID1 = encs["attr1_ID1"]["encs"], encs["attr2_ID1"]["encs"]
-    A_ID2, B_ID2 = encs["attr1_ID1"]["encs"], encs["attr2_ID2"]["encs"]
+    X, Y = encs["targ_X"]["encs"], encs["targ_Y"]["encs"]
+    A_X, B_X = encs["attr_A_X"]["encs"], encs["attr_B_X"]["encs"]
+    A_Y, B_Y = encs["attr_A_Y"]["encs"], encs["attr_B_Y"]["encs"]
 
     # First convert all keys to ints to facilitate array lookups
-    #(X, Y) = convert_keys_to_ints(X, Y)
-    X = convert_keys_to_ints(X)
-    Y = convert_keys_to_ints(Y, starting_idx=len(X))
+    (X, Y) = convert_keys_to_ints(X,Y)
+    (A_X, B_X) = convert_keys_to_ints(A_X, B_X)
+    (A_Y, B_Y) = convert_keys_to_ints(A_Y, B_Y)
 
-    (A_ID1, B_ID1) = convert_keys_to_ints(A_ID1, B_ID1)
-    (A_ID2, B_ID2) = convert_keys_to_ints(A_ID2, B_ID2)
+    AB_X = A_X.copy()
+    AB_X.update(B_X)
 
-    AB_ID1 = A_ID1.copy()
-    AB_ID1.update(B_ID1)
-
-    AB_ID2 = A_ID2.copy()
-    AB_ID2.update(B_ID2)
+    AB_Y = A_Y.copy()
+    AB_Y.update(B_Y)
     
     log.info("Computing cosine similarities...")
-    #cossims = construct_cossim_lookup(XY, AB)
-    cossims_X = construct_cossim_lookup(X, AB_ID1)
-    cossims_Y = construct_cossim_lookup(Y, AB_ID2)
+    cossims_X = construct_cossim_lookup(X, AB_X)
+    cossims_Y = construct_cossim_lookup(Y, AB_Y)
 
     log.info("Null hypothesis: no difference between %s and %s in association to attributes %s and %s",
-             encs["targ1"]["category"], encs["targ2"]["category"],
-             encs["attr1_ID1"]["category"], encs["attr2_ID2"]["category"])
+             encs["targ_X"]["category"], encs["targ_Y"]["category"],
+             encs["attr_A_X"]["category"], encs["attr_B_X"]["category"])
     log.info("Computing pval...")
-    #pval = p_val_permutation_test(X, Y, A, B, n_samples, cossims=cossims, parametric=parametric)
     pval = p_val_permutation_test(X, Y,
-                                  A_ID1, B_ID1,
-                                  A_ID2, B_ID2,
+                                  A_X, B_X,
+                                  A_Y, B_Y,
                                   n_samples,
                                   cossims_X=cossims_X,
                                   cossims_Y=cossims_Y,
@@ -287,33 +265,6 @@ def run_test(encs, n_samples, parametric=False):
     log.info("pval: %g", pval)
 
     log.info("computing effect size...")
-    esize = effect_size(X, Y, A_ID1, B_ID1, A_ID2, B_ID2, cossims_X, cossims_Y)
+    esize = effect_size(X, Y, A_X, B_X, A_Y, B_Y, cossims_X, cossims_Y)
     log.info("esize: %g", esize)
     return esize, pval
-
-
-
-if __name__ == "__main__":
-    X = {"x" + str(i): 2 * np.random.rand(10) - 1 for i in range(25)}
-    Y = {"y" + str(i): 2 * np.random.rand(10) - 1 for i in range(25)}
-    A = {"a" + str(i): 2 * np.random.rand(10) - 1 for i in range(25)}
-    B = {"b" + str(i): 2 * np.random.rand(10) - 1 for i in range(25)}
-    A = X
-    B = Y
-
-    (X, Y) = convert_keys_to_ints(X, Y)
-    (A, B) = convert_keys_to_ints(A, B)
-
-    XY = X.copy()
-    XY.update(Y)
-    AB = A.copy()
-    AB.update(B)
-
-    cossims = construct_cossim_lookup(XY, AB)
-    log.info("computing pval...")
-    pval = p_val_permutation_test(X, Y, A, B, cossims=cossims, n_samples=10000)
-    log.info("pval: %g", pval)
-
-    log.info("computing effect size...")
-    esize = effect_size(X, Y, A, B, cossims=cossims)
-    log.info("esize: %g", esize)
