@@ -14,7 +14,41 @@ max_seq_length : 36
 
 # model-specific params
 num_workers : 3
-tests : tests/tests-images
 batch_size : 64
 
 num_samples : 100000
+
+fpaths_tests : [
+      #tests/tests-images/google/weat3.jsonl,
+      tests/tests-images/google/sent-weat3.jsonl,
+      tests/tests-images/google/weat6.jsonl,
+      tests/tests-images/google/sent-weat6.jsonl,
+      tests/tests-images/google/weat8.jsonl,
+      tests/tests-images/google/sent-weat8.jsonl,
+      tests/tests-images/google/weat11.jsonl,
+      tests/tests-images/google/sent-weat11.jsonl,
+      tests/tests-images/google/weat12.jsonl,
+      tests/tests-images/google/sent-weat12.jsonl,
+      tests/tests-images/google/heilman_MF_double_bind_competent_one_sentence.jsonl,
+      tests/tests-images/google/heilman_MF_double_bind_likable_one_sentence.jsonl,
+      tests/tests-images/google/heilman_MF_double_bind_competent_one_word.jsonl,
+      tests/tests-images/google/heilman_MF_double_bind_likable_one_word.jsonl,
+      tests/tests-images/google/occ.jsonl
+   ]
+fpaths_chunks : [
+      #visualbert/image-features/google-images/weat3_features.th,
+      visualbert/image-features/google-images/weat3_features.th,
+      visualbert/image-features/google-images/weat6_features.th,
+      visualbert/image-features/google-images/weat6_features.th,
+      visualbert/image-features/google-images/weat8_features.th,
+      visualbert/image-features/google-images/weat8_features.th,
+      visualbert/image-features/google-images/weat11_features.th,
+      visualbert/image-features/google-images/weat11_features.th,
+      visualbert/image-features/google-images/weat12_features.th,
+      visualbert/image-features/google-images/weat12_features.th,
+      visualbert/image-features/google-images/heilman_MF_competent_one_sent_features.th,
+      visualbert/image-features/google-images/heilman_MF_likable_one_sent_features.th,
+      visualbert/image-features/google-images/heilman_MF_competent_one_word_features.th,
+      visualbert/image-features/google-images/heilman_MF_likable_one_word_features.th,
+      visualbert/image-features/google-images/occ_features.th
+]
