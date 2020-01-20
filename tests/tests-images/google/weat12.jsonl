@@ -38,7 +38,7 @@
     "images" : {
     	"male_ea_0.jpg" : [0,1,2,3,4,5], 
 	"male_ea_1.jpg" : [0,1,2,3,4,5], 
-	"male_ea_2.jpg" : [0,1,2,3,4,5], 
+	"male_ea_2.jpg" : [0,1,2,3,4,5],
 	"male_ea_3.jpg" : [0,1,2,3,4,5], 
 	"male_ea_4.jpg" : [0,1,2,3,4,5], 
 	"male_ea_5.jpg" : [0,1,2,3,4,5], 
@@ -209,7 +209,7 @@
       "6" : "business",
       "7" : "career"
     },
-    "EuropeanAmerican_Images" : {
+    "EuropeanAmericanNames_Images" : {
          "ea_executive_0.jpg" : [0],
 	 "ea_executive_1.jpg" : [0],
 	 "ea_executive_2.jpg" : [0],
@@ -291,7 +291,7 @@
 	 "ea_career_8.jpg" : [7],
 	 "ea_career_9.jpg" : [7]
     },
-     "AfricanAmerican_Images" : {
+     "AfricanAmericanNames_Images" : {
          "aa_executive_0.jpg" : [0],
 	 "aa_executive_1.jpg" : [0],
 	 "aa_executive_2.jpg" : [0],
@@ -386,7 +386,7 @@
       "6" : "wedding",
       "7" : "relatives"
     },
-    "EuropeanAmerican_Images" : {
+    "EuropeanAmericanNames_Images" : {
       	"ea_home_0.jpg" : [0],
 	"ea_home_1.jpg" : [0],
 	"ea_home_2.jpg" : [0],
@@ -468,7 +468,7 @@
 	"ea_relatives_8.jpg" : [7],
 	"ea_relatives_9.jpg" : [7]
     },
-    "AfricanAmerican_Images" : {
+    "AfricanAmericanNames_Images" : {
       	"aa_home_0.jpg" : [0],
 	"aa_home_1.jpg" : [0],
 	"aa_home_2.jpg" : [0],
