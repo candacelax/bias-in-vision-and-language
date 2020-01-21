@@ -29,9 +29,9 @@ wget -O black_compromising_5.jpg https://content.fortune.com/wp-content/uploads/
 wget -O black_compromising_6.jpg https://ionemadamenoire.files.wordpress.com/2016/06/couple-talking-outside-friends1.jpg?w=420&h=420
 wget -O black_compromising_7.jpg https://images.squarespace-cdn.com/content/v1/56d753de8a65e2c48c098216/1495517758895-QNNKX7ECP0TS41S5EQ1S/ke17ZwdGBToddI8pDm48kLTsFNKb_7l83eCaKuDI74ZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyHDH0DJikao_vEZuECchkaiHUUSB6Qp4sKTfV4XpLKThR9Ni0A75drRlW6Qoj2HT0/black+melanin+make+up
 wget -O black_compromising_8.jpg https://afropunk.com/wp-content/uploads/2019/10/Mahelia_2019-8-smiles-2.jpg
-wget -O black_compromising_9.jpg https://www.thoughtco.com/thmb/DTGjc7bcxW_HoAndcXTjz0xE8qc=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Barbara-Jordan-121000433-56aa22905f9b58b7d000f889.jpg
+wget -O black_compromising_9.jpg https://www.thoughtco.com/thmb/DTGjc7bcxW_HoAndcXTjz0xE8qc=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/Barbara-Jordan-121000433-56aa22905f9b58b7d000f889.jpg
 
-wget -O black_rational_0.jpg https://i.guim.co.uk/img/media/a541569876b8018ad98d6621899dee8ca23b26d4/0_82_1200_720/master/1200.jpg?width=300&quality=85&auto=format&fit=max&s=252be9d0ceb08ac5e6c829b42f1f5749
+wget -O black_rational_0.jpg https://peoplefund.org/wp-content/uploads/2015/11/Longevity-Wellness-Shepard-1-of-1.jpg
 wget -O black_rational_1.jpg https://miro.medium.com/max/1024/1*v9iJp9W8Y-MdDZKCzbivDA.png
 wget -O black_rational_2.jpg https://www.gannett-cdn.com/presto/2019/07/01/PMOY/9d588b9d-d269-4bb6-b861-afd0c3dbec7d-Marshae_jones.jpg?width=300&height=400&fit=crop&format=pjpg&auto=webp
 wget -O black_rational_3.jpg https://1.bp.blogspot.com/-wGVBRQXFIQE/WuOf_4zORwI/AAAAAAAAEYc/h0h57-XIhvA8-DMU5HlC_PhuuwRqFA4iACLcBGAs/s1600/Unknown.jpeg
@@ -43,7 +43,7 @@ wget -O black_rational_8.jpg https://compote.slate.com/images/d94e2dcf-d1b6-45d5
 wget -O black_rational_9.jpg https://www.telegraph.co.uk/content/dam/films/spark/hidden-figures/janelle-monae-mary-jackson-hidden-figures.jpg?imwidth=450
 
 wget -O black_calm_0.jpg https://image.shutterstock.com/image-photo/calm-woman-relaxing-meditating-no-260nw-1209479167.jpg
-wget -O black_calm_1.jpg https://videohive.img.customer.envatousercontent.com/files/243889448/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=adc05b1bd2ce49e62209e496f784daf0
+wget -O black_calm_1.jpg https://st3.depositphotos.com/1003940/18925/v/600/depositphotos_189255842-stock-video-beautiful-calm-black-woman-on.jpg
 wget -O black_calm_2.jpg https://c8.alamy.com/comp/W2AFAA/smiling-calm-black-woman-relaxing-in-comfortable-wooden-rocking-chair-W2AFAA.jpg
 wget -O black_calm_3.jpg https://previews.123rf.com/images/fizkes/fizkes1812/fizkes181200053/114277559-calm-african-american-female-in-glasses-meditate-at-workplace-control-emotions-peaceful-black-woman-.jpg
 wget -O black_calm_4.jpg https://st4.depositphotos.com/12982378/27089/i/1600/depositphotos_270893812-stock-photo-calm-african-american-woman-sitting.jpg
@@ -92,7 +92,7 @@ wget -O black_pleasant_2.jpg https://image.shutterstock.com/image-photo/pleasant
 wget -O black_pleasant_3.jpg https://as1.ftcdn.net/jpg/02/20/53/40/500_F_220534089_5vBGrwWc76shRrk9N8Beg2jWk8bukXeg.jpg
 wget -O black_pleasant_4.jpg https://thumbs.dreamstime.com/z/waist-up-shot-cute-friendly-looking-pleasant-african-american-female-friend-curly-hairstyle-trendy-blouse-waist-up-shot-131258237.jpg
 wget -O black_pleasant_5.jpg https://previews.123rf.com/images/jeffbanke/jeffbanke1012/jeffbanke101200193/8508029-young-african-american-woman-smiling-because-of-a-pleasant-surprise-isolated-on-white-background.jpg
-wget -O black_pleasant_6.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/7084364/910/607/m2/fpnw/wm1/yjysjqlnlwu6t8h31jzsywmddifns1yyrv6uzo2zxxoaqc7e981xabgziu9sgbia-.jpg?1570285553&s=c88b006a5ac5eae3b3b3821da835d15b
+wget -O black_pleasant_6.jpg https://as1.ftcdn.net/jpg/02/59/89/40/500_F_259894063_VUez90BMZqnAlT4lv2Gb90Flf6BcQpym.jpg
 wget -O black_pleasant_7.jpg https://c8.alamy.com/comp/PJ8XRT/smart-smiling-pleasant-curly-woman-holding-her-black-notebook-PJ8XRT.jpg
 wget -O black_pleasant_8.jpg https://previews.123rf.com/images/fizkes/fizkes1812/fizkes181200408/114277642-happy-african-american-woman-talking-on-phone-having-pleasant-conversation-with-friend-holding-cellp.jpg
 wget -O black_pleasant_9.jpg https://c8.alamy.com/comp/TWP0H5/charismatic-cheerful-attractive-african-american-woman-curly-haircut-wearing-shirt-holding-hands-pockets-confident-outgoing-smiling-talking-pleasant-TWP0H5.jpg
@@ -134,7 +134,7 @@ wget -O black_nice_0.jpg https://i.pinimg.com/736x/ef/54/5f/ef545fb8492b1e1459a3
 wget -O black_nice_1.jpg https://i.pinimg.com/564x/06/b0/1b/06b01bba8637c87229bacaba2bb3aae2.jpg
 wget -O black_nice_2.jpg https://i.pinimg.com/236x/70/63/31/7063315689dd8e8daa27fc869c570d59.jpg
 wget -O black_nice_3.jpg https://i.pinimg.com/originals/7f/95/35/7f95353903d5638f2a1fd96a4bfabbe6.jpg
-wget -O black_nice_4.jpg https://images.pexels.com/photos/1068207/pexels-photo-1068207.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+wget -O black_nice_4.jpg https://qph.fs.quoracdn.net/main-qimg-0897afd1349076b98ec5d656273faeac
 wget -O black_nice_5.jpg https://thoughtcatalog.files.wordpress.com/2014/03/screen-shot-2014-03-18-at-8-33-33-pm.png
 wget -O black_nice_6.jpg https://i.pinimg.com/236x/27/98/7e/27987e8652801ec02fb84d97214e9b0c.jpg
 wget -O black_nice_7.jpg http://40.media.tumblr.com/cca341f907a2dc72196e0492ba6c526a/tumblr_mr5fh44GE01qd7sv7o1_500.jpg
@@ -170,7 +170,7 @@ wget -O black_passive_3.jpg https://ionemadamenoire.files.wordpress.com/2018/10/
 wget -O black_passive_4.jpg https://pbs.twimg.com/media/DsJ4_4NU8AAHB2-.jpg
 wget -O black_passive_5.jpg https://static01.nyt.com/images/2019/05/22/arts/20cannes-diop/merlin_154973175_0b24e478-875c-4526-bb81-eb05c565c832-articleLarge.jpg?quality=75&auto=webp&disable=upscale
 wget -O black_passive_6.jpg https://www-images.christianitytoday.com/images/90897.jpg?w=600
-wget -O black_passive_7.jpg https://cdn.vox-cdn.com/thumbor/qEIsSOT13DO8AshI4QosXe1EowE=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19020666/stephanie_jones_rogers.jpeg
+wget -O black_passive_7.jpg https://cdn.vox-cdn.com/thumbor/qEIsSOT13DO8AshI4QosXe1EowE=/1400x0/filters:no_upscale\(\)/cdn.vox-cdn.com/uploads/chorus_asset/file/19020666/stephanie_jones_rogers.jpeg
 wget -O black_passive_8.jpg https://www.bolde.com/wp-content/uploads/2019/11/iStock-1138954389-400x400.jpg
 wget -O black_passive_9.jpg http://www.niemanlab.org/images/monique-judge.jpg
 
@@ -181,7 +181,7 @@ wget -O black_indifferent_3.jpg https://thumbs.dreamstime.com/b/bored-careless-i
 wget -O black_indifferent_4.jpg https://www.michigandaily.com/sites/default/files/styles/large/public/181028/FirstBlackWomanNuclearEnginPhD.jpg?itok=boCakITT
 wget -O black_indifferent_5.jpg https://as2.ftcdn.net/jpg/02/25/36/09/500_F_225360903_Hql97RV0iV4F7rnH0CsGpWaUnfqEK2jS.jpg
 wget -O black_indifferent_6.jpg https://pbs.twimg.com/media/Dte4pooXoAAeixC.jpg
-wget -O black_indifferent_7.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HLUSNECHIMI6TFFL2LO2HQG7KI.jpg&w=767
+wget -O black_indifferent_7.jpg https://thumbs.dreamstime.com/b/freestyle-african-girl-white-outfit-standing-isolated-gray-looking-camera-indifferent-lighted-close-up-descent-wearing-158924646.jpg
 wget -O black_indifferent_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mdL9JWP04f3uGkIQiTC_9V_UeM6Jpv8OXHpJ4caYosQ59J-RSA&s
 wget -O black_indifferent_9.jpg https://www.opti-kinetics.com/wp-content/uploads/2018/09/240_F_71891499_CmDiqor8go394QYolyks7WbExOe1kUWn.jpg
 
@@ -203,7 +203,7 @@ wget -O black_shrill_3.jpg http://www.trbimg.com/img-5cd9e5ab/turbine/la-en-st-s
 wget -O black_shrill_4.jpg https://s.yimg.com/uu/api/res/1.2/O8E0HF8nlh0bsN8uhBFsvQ--~B/aD05MzM7dz03MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/who_what_wear_581/be77213f6f88a67d84a0c6dd8d2e42d7
 wget -O black_shrill_5.jpg https://wearyourvoicemag.com/wp-content/uploads/2019/04/24621632068_739068f41d_b-800x541.jpg
 wget -O black_shrill_6.jpg https://m.media-amazon.com/images/M/MV5BNjU0ODEyOTgxNV5BMl5BanBnXkFtZTgwMzQyMjk2NjM@._V1_.jpg
-wget -O black_shrill_7.jpg https://cdn.vox-cdn.com/thumbor/pvXctm3DfRr0eKyfKWb-NI5MkRc=/0x0:260x169/1200x800/filters:focal(110x64:150x104)/cdn.vox-cdn.com/uploads/chorus_image/image/64281892/595112321.0.jpg
+wget -O black_shrill_7.jpg https://cdn.vox-cdn.com/thumbor/pvXctm3DfRr0eKyfKWb-NI5MkRc=/0x0:260x169/1200x800/filters:focal\(110x64:150x104\)/cdn.vox-cdn.com/uploads/chorus_image/image/64281892/595112321.0.jpg
 wget -O black_shrill_8.jpg https://imgix.bustle.com/uploads/image/2019/4/9/4cadcfdf-b0e1-488b-b9a1-411be3c0d45a-10404904-4.jpeg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg
 wget -O black_shrill_9.jpg https://fq8ku9wqwk7gai1z3frl16nd-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/samantha-irby-996x515.jpg
 
@@ -218,9 +218,9 @@ wget -O black_loud_7.jpg https://image.shutterstock.com/image-photo/overjoyed-af
 wget -O black_loud_8.jpg https://www.arts.gov/sites/default/files/styles/large-620/public/anita_norman_2014_pol_semifinals.jpg?itok=4fTo8Ys7
 wget -O black_loud_9.jpg https://www.arts.gov/sites/default/files/styles/large-620/public/GA_vertical_resizedforblog.jpg?itok=fKe3zpZg
 
-wget -O black_argumentative_0.jpg https://i.guim.co.uk/img/media/4a0e5f4b765d7837b052fc7d11f3d72ac0075180/127_135_1769_1061/master/1769.jpg?width=300&quality=85&auto=format&fit=max&s=f7fb8a5bf40e583d566926e4f7a67650
+wget -O black_argumentative_0.jpg https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/kjf8ycxiyxnjb42nbv7y.jpg
 wget -O black_argumentative_1.jpg https://daily.jstor.org/wp-content/uploads/2018/08/chimamanda-ngozi_adichie_1050x700.jpg
-wget -O black_argumentative_2.jpg https://cdn.vox-cdn.com/thumbor/7FF4Ptr3r8wLY_3Wew0aVXLr5D8=/0x0:5100x3825/1200x800/filters:focal(1740x1484:2556x2300)/cdn.vox-cdn.com/uploads/chorus_image/image/63846753/BlackGirlSchool.0.jpg
+wget -O black_argumentative_2.jpg https://cdn.vox-cdn.com/thumbor/7FF4Ptr3r8wLY_3Wew0aVXLr5D8=/0x0:5100x3825/1200x800/filters:focal\(1740x1484:2556x2300\)/cdn.vox-cdn.com/uploads/chorus_image/image/63846753/BlackGirlSchool.0.jpg
 wget -O black_argumentative_3.jpg https://media.newyorker.com/photos/590953e4c14b3c606c10433e/master/pass/rue-hunger-games.jpg
 wget -O black_argumentative_4.jpg https://s.abcnews.com/images/US/smith-college-racial-profiling-03wcvb-jc-180803_hpMain_16x9_992.jpg
 wget -O black_argumentative_5.jpg https://img.buzzfeed.com/buzzfeed-static/static/2015-07/30/16/enhanced/webdr14/longform-original-26857-1438287662-3.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto&output-quality=auto&output-format=auto&downsize=360:*
@@ -233,7 +233,7 @@ wget -O black_irrational_0.jpg http://www.theinclusionsolution.me/wp-content/upl
 wget -O black_irrational_1.jpg https://www.talkspace.com/blog/wp-content/uploads/2018/06/irrational-fears-what-to-do-about-them_1320W_JW-1.jpg
 wget -O black_irrational_2.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2019/04/stephanie-3-1554428914-e1554428977833.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1440&h=720
 wget -O black_irrational_3.jpg https://s3.r29static.com/bin/entry/119/x,80/2119134/image.jpg
-wget -O black_irrational_4.jpg https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/9a3f8ce25d28c43daeece888b616257f.png&quality=70&width=720
+wget -O black_irrational_4.jpg https://res.cloudinary.com/blavity/image/upload/c_fit,g_center,h_250,q_auto:best,g_south_east,x_0/v1519091114/est8wnf2hjmk7up3ja2g
 wget -O black_irrational_5.jpg https://ichef.bbci.co.uk/news/1024/cpsprodpb/9B74/production/_103369793_gettyimages-1033564726.jpg
 wget -O black_irrational_6.jpg https://images.squarespace-cdn.com/content/v1/5584ebc4e4b0f2164ef8b46e/1480297632424-I1I9MHYK9KWJGTCZH9SA/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg
 wget -O black_irrational_7.jpg https://video-images.vice.com/_uncategorized/1549300130752-LRG_DSC01946.jpeg
@@ -251,7 +251,7 @@ wget -O black_angry_7.jpg https://www.shoutoutuk.org/wp-content/uploads/2018/02/
 wget -O black_angry_8.jpg https://image.shutterstock.com/image-photo/angry-black-woman-yelling-260nw-702928117.jpg
 wget -O black_angry_9.jpg https://ionemadamenoire.files.wordpress.com/2018/05/black-woman-mad.jpg?w=1024&h=575
 
-wget -O black_abusive_0.jpg http://thyblackman.com/wp-content/uploads/2015/10/mean-black-woman-beating-her-black-husband-never-hit-a-woman-2015.jpg
+wget -O black_abusive_0.jpg https://files.womenshealth.gov/files/styles/masthead/public/images/rs_dating-violence.jpg?U8RG.w5L1J7wDViXq2EGOXLJTNu.6XED&itok=t0JYQfXT&c=27db2c359f8eac3a5093d10e77806eed
 wget -O black_abusive_1.jpg https://i.ytimg.com/vi/hXOQ1n0WCMY/maxresdefault.jpg
 wget -O black_abusive_2.jpg https://folks.pillpack.com/wp-content/uploads/2020/01/AdobeStock_136619751-1210x680.jpeg
 wget -O black_abusive_3.jpg https://assets.propublica.org/images/articles/_threeTwo400w/20190417-tsa-hair-3x2.jpg
@@ -311,10 +311,10 @@ wget -O black_emasculating_1.jpg https://static01.nyt.com/images/2019/11/29/arts
 wget -O black_emasculating_2.jpg https://www.inquirer.com/resizer/TFCBiAgAoOUOKUdbIuK5bB2Px_w=/0x0:2400x1597/1400x932/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/WHU6OPEKAFB4JOLXPDQOACPIHI.jpg
 wget -O black_emasculating_3.jpg https://compote.slate.com/images/3d9b4de9-4213-42bc-8c34-420f3933dddf.jpg
 wget -O black_emasculating_4.jpg https://upload.wikimedia.org/wikipedia/commons/6/6f/Dr._Frances_Cress_Welsing_receives_Community_Award_at_National_Black_LUV_Festival_in_WDC_on_21_September_2008.jpg
-wget -O black_emasculating_5.jpg https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/12/1431438989705/56c56ecf-c747-48a9-b6d9-590e013ee3be-2060x1236.jpeg?width=700&quality=85&auto=format&fit=max&s=dd92c1de152b82012d3b8f1fffbe74a8
+wget -O black_emasculating_5.jpg https://img.huffingtonpost.com/asset/5bbf8470200000950201f280.jpeg?cache=whje3eesse&ops=scalefit_630_noupscale
 wget -O black_emasculating_6.jpg https://img.buzzfeed.com/buzzfeed-static/static/2018-01/29/17/campaign_images/buzzfeed-prod-fastlane-01/13-young-black-women-share-what-its-like-to-enter-2-18759-1517264103-10_dblbig.jpg
 wget -O black_emasculating_7.jpg http://atlantablackstar.com/wp-content/uploads/2013/11/ving-rhames.jpg
-wget -O black_emasculating_8.jpg https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ACLAT5SMQ77HGQGLYDWUNSIAM.jpg&w=767
+wget -O black_emasculating_8.jpg https://i.ytimg.com/vi/B0snFse2tTw/maxresdefault.jpg
 wget -O black_emasculating_9.jpg http://www.indiewire.com/wp-content/uploads/2018/03/acrimony.jpg?w=780
 
 wget -O black_mean_0.jpg https://image.shutterstock.com/image-photo/african-american-black-woman-serious-260nw-249881272.jpg
@@ -334,7 +334,7 @@ wget -O black_harsh_2.jpg https://southblueprint.com/wp-content/uploads/2019/01/
 wget -O black_harsh_3.jpg https://ionemadamenoire.files.wordpress.com/2018/11/15428218349929.jpg?w=1024&h=683
 wget -O black_harsh_4.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/iStock-172370812-1080x675.jpg
 wget -O black_harsh_5.jpg https://i.pinimg.com/originals/e5/1d/99/e51d991c839d73f03c57e9713d6444c5.jpg
-wget -O black_harsh_6.jpg https://cdn.vox-cdn.com/thumbor/ocMb6t1Ty5l5UNFZgB7G7YBkeDs=/0x0:840x596/1200x0/filters:focal(0x0:840x596):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/16039963/cookbeverly.jpg
+wget -O black_harsh_6.jpg https://cdn.vox-cdn.com/thumbor/ocMb6t1Ty5l5UNFZgB7G7YBkeDs=/0x0:840x596/1200x0/filters:focal\(0x0:840x596\):no_upscale\(\)/cdn.vox-cdn.com/uploads/chorus_asset/file/16039963/cookbeverly.jpg
 wget -O black_harsh_7.jpg https://dradiashanidotcom.files.wordpress.com/2019/05/black-woman-locs.jpg
 wget -O black_harsh_8.jpg https://i1.wp.com/blackyouthproject.com/wp-content/uploads/2019/09/black-woman-1.jpg?fit=1200%2C550&resize=350%2C200
 wget -O black_harsh_9.jpg https://ca-times.brightspotcdn.com/dims4/default/2a50200/2147483647/strip/true/crop/2047x1151+0+0/resize/840x472!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2F2e%2Fde5c3243dcb3efcc4b0933c1e410%2Fla-1534356020-127dqt3wp9-snap-image
@@ -366,7 +366,7 @@ wget -O black_opinionated_1.jpg https://static01.nyt.com/images/2015/11/16/multi
 wget -O black_opinionated_2.jpg https://nyppagesix.files.wordpress.com/2019/04/issa-rae-3.jpg?quality=80&strip=all
 wget -O black_opinionated_3.jpg https://imgix.bustle.com/mic/y2wecpd5dmamhewqb1295zke6jrod4yhdfwx3udcwfeqjk62olx8um6imavy34sy.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format&q=70
 wget -O black_opinionated_4.jpg https://www.refinery29.com/images/8942493.jpg?format=webp&width=720&height=864&quality=85
-wget -O black_opinionated_5.jpg https://cdn.vox-cdn.com/thumbor/9cX_ZtfU8vwgD6L4EhRnGCU6YaY=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6387413/beyonce-lemonade-film-1.png
+wget -O black_opinionated_5.jpg https://cdn.vox-cdn.com/thumbor/9cX_ZtfU8vwgD6L4EhRnGCU6YaY=/1400x0/filters:no_upscale\(\)/cdn.vox-cdn.com/uploads/chorus_asset/file/6387413/beyonce-lemonade-film-1.png
 wget -O black_opinionated_6.jpg https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/GettyImages-474743524_ljvati/nicki-minaj-vma-race-problem.jpg
 wget -O black_opinionated_7.jpg https://www.ebony.com/wp-content/uploads/2018/08/omarosa.png
 wget -O black_opinionated_8.jpg https://i.pinimg.com/originals/3e/54/8e/3e548ecae64ca3c3be354845d7ee2b03.jpg
