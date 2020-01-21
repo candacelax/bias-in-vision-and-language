@@ -273,6 +273,17 @@ wget -O white_obnoxious_7.jpg https://hips.hearstapps.com/mac.h-cdn.co/assets/15
 wget -O white_obnoxious_8.jpg https://pmcvariety.files.wordpress.com/2018/06/rexfeatures_9715773q.jpg?crop=0px%2C32px%2C4048px%2C2281px&resize=700%2C393
 wget -O white_obnoxious_9.jpg https://static01.nyt.com/images/2018/10/17/us/politics/17dc-trump-4-print/merlin_138142611_994cd9e6-4533-4bad-ae90-120fcb171156-jumbo.jpg
 
+wget -O white_controlling_0.jpg https://c8.alamy.com/comp/T2G8BK/slim-down-concept-woman-plus-size-large-girl-on-scales-controlling-her-weight-studio-shot-isolated-on-white-T2G8BK.jpg
+wget -O white_controlling_1.jpg https://www.newsbusters.org/s3/files/styles/blog_body-100/s3/images/hathaway.jpg?itok=Tm8hboMT
+wget -O white_controlling_2.jpg https://thoughtcatalog.files.wordpress.com/2018/01/33594567174_1b53d8b07e_o.jpg?w=1920&h=1280&crop=1&resize=1920,1280&quality=95&strip=all
+wget -O white_controlling_3.jpg https://media.vanityfair.com/photos/5bfedbcd5f44912d037afe57/master/w_1600%2Cc_limit/college-conservatives-opener.jpg
+wget -O white_controlling_4.jpg https://i2.wp.com/am23.akamaized.net/tms/cnt/uploads/2018/05/Anne-Hathaway-in-Oceans-8.jpg?resize=780%2C419&ssl=1
+wget -O white_controlling_5.jpg https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9a57d280-86a4-11e8-ad58-ae35970199d3.jpg?crop=2106%2C2106%2C1027%2C251&resize=320
+wget -O white_controlling_6.jpg https://www.verywellmind.com/thmb/0KceOOsA9r-PDFQw66hckf3dRlg=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/137546633-56a0d0cc3df78cafdaa55044.jpg
+wget -O white_controlling_7.jpg https://s3.envato.com/files/247898878/Warehouse_II_GT_159.jpg
+wget -O white_controlling_8.jpg https://media.vanityfair.com/photos/5bfedbcd296c752cecdfdfb4/master/w_1951,h_1484,c_limit/college-conservatives-embed-04.jpg
+wget -O white_controlling_9.jpg https://media.istockphoto.com/photos/woman-controlling-her-intelligent-home-system-on-a-digital-tablet-picture-id1134350078
+
 wget -O white_nagging_0.jpg https://st2.depositphotos.com/2640455/5634/i/950/depositphotos_56345729-stock-photo-woman-nagging-scolding-with-finger.jpg
 wget -O white_nagging_1.jpg https://st2.depositphotos.com/2640455/5637/i/950/depositphotos_56370147-stock-photo-woman-nagging-scolding-with-finger.jpg
 wget -O white_nagging_2.jpg https://halfthoughts.com/wp-content/uploads/2013/10/skyler_white.jpg

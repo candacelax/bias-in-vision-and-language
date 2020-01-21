@@ -273,6 +273,17 @@ wget -O black_obnoxious_7.jpg https://video-images.vice.com/articles/5cdd6941e9d
 wget -O black_obnoxious_8.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/11F81/production/_101810637_d290b605-b7ac-4a17-b68f-44951d5cc401.jpg
 wget -O black_obnoxious_9.jpg https://image.cnbcfm.com/api/v1/image/106116459-1567787223798gettyimages-1171608161.jpg?v=1567787602&w=1400&h=950
 
+wget -O black_controlling_0.jpg https://negromanosphere.com/wp-content/uploads/2017/07/black-woman-controlling-678x381.jpg
+wget -O black_controlling_1.jpg https://www.singleblackmale.org/wp-content/uploads/2013/06/angry-black-woman.jpg
+wget -O black_controlling_2.jpg http://survivingdating.com/wp-content/uploads/2011/05/aa-woman-computer-on-bed.jpg
+wget -O black_controlling_3.jpg https://ionemadamenoire.files.wordpress.com/2019/09/15678622471592.jpg?w=724&h=483
+wget -O black_controlling_4.jpg http://www.healthyblackwoman.com/wp-content/uploads/2013/04/bossy.jpg
+wget -O black_controlling_5.jpg https://thumbs.dreamstime.com/z/calm-biracial-woman-practice-yoga-controlling-emotions-calm-african-american-millennial-woman-glasses-isolated-grey-studio-153879490.jpg
+wget -O black_controlling_6.jpg https://baucemag.com/wp-content/uploads/2011/08/angry-black-woman-2-241x300.jpg
+wget -O black_controlling_7.jpg https://bossip.files.wordpress.com/2017/01/black-woman-worrying1.jpg?w=700
+wget -O black_controlling_8.jpg https://ionemadamenoire.files.wordpress.com/2018/08/afro.jpg?w=1024&h=575
+wget -O black_controlling_9.jpg https://static.wixstatic.com/media/7cb051_3d591e5b1b784244a990b7b393668231~mv2_d_3456_5184_s_4_2.jpg/v1/fill/w_592,h_888,al_c,q_85,usm_0.66_1.00_0.01/7cb051_3d591e5b1b784244a990b7b393668231~mv2_d_3456_5184_s_4_2.webp
+
 wget -O black_nagging_0.jpg https://cdn.theatlantic.com/assets/media/img/mt/2013/11/snlkerrywashington/lead_large.jpg
 wget -O black_nagging_1.jpg http://everythinggirlslove.com/wp-content/uploads/2017/03/Image-1.jpg
 wget -O black_nagging_2.jpg https://ichef.bbci.co.uk/news/1024/cpsprodpb/9B74/production/_103369793_gettyimages-1033564726.jpg
