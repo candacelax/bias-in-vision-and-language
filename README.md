@@ -1,19 +1,34 @@
 ## Installation
+Create the conda environment.
+`
+conda env create -f environment.yml
+python -m spacy download en
+`
+
+
+Download the pretrained models for [ViLBERT](https://drive.google.com/drive/folders/1Re0L75uazH3Qrep_aRgtaVelDEz4HV9c) and [VisualBERT](https://drive.google.com/file/d/1QvivVfRsRF518OQSQNaN7aFk6eQ43vP_/view). Save each in the model's respective pretrained-models directory.
+
+
+## Usage
+`./main.py --config CONFIG_FILEPATH`
+
+
+
+## Installation
 `
 pip install spacy==2.1.0
 python -m spacy download en
 pip install neuralcoref --no-binary neuralcoref
 
-# for ViLBERT, we removed the python-prctl
-# from requirements.txt
+for ViLBERT, we removed the python-prctl from requirements.txt
 
 `
-
-## Download Pre-trained Models
-We use the ViLBERT 6-layer model trained on Conceptual Captions, with model checkpoint and config file found [here](https://drive.google.com/drive/folders/1Re0L75uazH3Qrep_aRgtaVelDEz4HV9c).
+Update PYTORCH_PRETRAINED_BERT_CACHE environment variable.
 
 
-## Usage
+
+
+## 
 For running ViLBERT:
 `
 conda create -n vilbert python=3.6
@@ -38,7 +53,6 @@ pip install tensorflow-hub
 #Please check your cuda version using `nvcc --version` and make sure the cuda version matches the cudatoolkit version.
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
-# Below is the way to install allennlp recommended in R2C. But in my experience, directly installing allennlp seems also okay.
 pip install -r allennlp-requirements.txt
 pip install --no-deps allennlp==0.8.0
 python -m spacy download en_core_web_sm
