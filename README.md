@@ -1,9 +1,9 @@
 ## Installation
 Create the conda environment.
-`
+```bash
 conda env create -f environment.yml
 python -m spacy download en
-`
+```
 
 
 Download the pretrained models for [ViLBERT](https://drive.google.com/drive/folders/1Re0L75uazH3Qrep_aRgtaVelDEz4HV9c) and [VisualBERT](https://drive.google.com/file/d/1QvivVfRsRF518OQSQNaN7aFk6eQ43vP_/view). Save each in the model's respective pretrained-models directory.
