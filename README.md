@@ -1,4 +1,4 @@
-This is the repo for our paper *"Biases in Joint Visual and Language Embeddings"*.
+This is the repo for our paper, *"Biases in Joint Visual and Language Embeddings"*. We implement a version of WEAT/SEAT for visually grounded word embeddings. This is code borrowed and modified from the [SEAT paper](https://github.com/W4ngatang/sent-bias).
 
 ## Installation
 Create the conda environment.
