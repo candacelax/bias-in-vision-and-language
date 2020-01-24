@@ -1,6 +1,10 @@
+This is the repo for our paper "Biases in Joint Visual and Language Embeddings".
+
 ## Installation
 Create the conda environment.
 ```bash
+git clone git@github.com:candacelax/bias-grounded-bert.git
+cd bias-grounded-bert
 conda env create -f environment.yml
 python -m spacy download en
 ```
