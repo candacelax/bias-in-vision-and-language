@@ -29,8 +29,15 @@ for ViLBERT, we removed the python-prctl from requirements.txt
 `
 Update PYTORCH_PRETRAINED_BERT_CACHE environment variable.
 
+## Feature Extraction
+If you want to run over custom images, you'll need to compute features.
+### VisualBert
+To compute image features, we use the same model backbone/size as VisualBERT. Detectron model id is 137851257 ([see Model Zoo](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md)).
 
-
+```bash
+./scripts/image-features/extract_image_features.sh MODEL_NAME IMAGE_DIR FEATURE_PATH
+```
+where MODEL_NAME is either 'visualbert' or 'vilbert', IMAGE_DIR is directory of bias test images (e.g. data/google-images/weat6), and FEATURE_PATH is location to save features (e.g. visualbert/image-features/google-images/weat6_features.th).
 
 ## 
 For running ViLBERT:
