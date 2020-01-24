@@ -37,9 +37,15 @@ To compute image features, we use the same model backbone/size as VisualBERT. De
 ```bash
 ./scripts/image-features/extract_image_features.sh MODEL_NAME IMAGE_DIR FEATURE_PATH
 ```
-where MODEL_NAME is either 'visualbert' or 'vilbert', IMAGE_DIR is directory of bias test images (e.g. data/google-images/weat6), and FEATURE_PATH is location to save features (e.g. visualbert/image-features/google-images/weat6_features.th).
+where
+* MODEL_NAME is either 'visualbert' or 'vilbert'
+* IMAGE_DIR is directory of bias test images (e.g. data/google-images/weat6)
+* FEATURE_PATH is location to save features (e.g. visualbert/image-features/google-images/weat6_features.th)
 
-## 
+
+### ViLBERT
+
+
 For running ViLBERT:
 `
 conda create -n vilbert python=3.6
@@ -71,12 +77,3 @@ pip install attrdict
 pip install pycocotools
 pip install commentjson
 `
-
-Download [pretrained VisualBERT](https://drive.google.com/file/d/1QvivVfRsRF518OQSQNaN7aFk6eQ43vP_/view).
-
-To compute image features, we use the same model backbone/size as VisualBERT. Detectron model id is 137851257 ([see Model Zoo](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md)).\
-
-// from https://www.bls.gov/cps/cpsaat11.htm and https://github.com/uclanlp/corefBias
-
-Write all image features to single file for convenience
-`./scripts/image-features/format_image_features.py --config scripts/image-features/google_images_config.yaml`
