@@ -1,4 +1,4 @@
-This is the repo for our paper "Biases in Joint Visual and Language Embeddings".
+This is the repo for our paper *"Biases in Joint Visual and Language Embeddings"*.
 
 ## Installation
 Create the conda environment.
