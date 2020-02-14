@@ -41,7 +41,6 @@ class BiasDataset(Dataset):
         self.args = args
         self.category = args.category
         self.label = args.get('label', None)
-        self.image_path = args.image_path
         self.is_target_concept = args.data_type == 'target'
         
         #self.visual_genome_chunk = visual_genome_chunk
@@ -50,23 +49,22 @@ class BiasDataset(Dataset):
         self.image_feature_type = args.image_feature_type
         self.text_only = args.get("text_only", False)
         self.add_spatial_features = args.get("add_spatial_features", False)
-        self.expanded = False
-
-        # FIXME
-        self.is_train = False
+        self.expanded = False         # FIXME
+        self.is_train = False        # FIXME
 
         ########## Formatting Annotations
         self.data_type = args.data_type
         self.items = self._formatExamples(args.captions, args.images)
         print(f"{len(self.items)} examples in total.")
 
-        self.image_feat_reader = faster_RCNN_feat_reader()
-
+        
         print("Loading images...")
+        self.image_feat_reader = faster_RCNN_feat_reader()
         self.chunk = torch.load(args.chunk_path)
         average = 0.0
         counter = 0
         new_chunk = {}
+
         for image_id in self.chunk.keys():
             image_feat_variable, image_boxes, confidence  = self.chunk[image_id]
             if ".npz" in image_id:
@@ -75,6 +73,7 @@ class BiasDataset(Dataset):
             else:
                 new_chunk[image_id+".npz"] = screen_feature(image_feat_variable, image_boxes,confidence, args.image_screening_parameters)
                 average += new_chunk[image_id+".npz"][2]
+
         print("{} features on average.".format(average/len(self.chunk)))
         self.chunk = new_chunk
 
@@ -82,44 +81,42 @@ class BiasDataset(Dataset):
         self.do_lower_case = args.do_lower_case
         self.bert_model_name = args.bert_model_name
         self.max_seq_length = args.max_seq_length
-        self.tokenizer = BertTokenizer.from_pretrained(self.bert_model_name, do_lower_case=self.do_lower_case)
+        self.tokenizer = BertTokenizer.from_pretrained(self.bert_model_name,
+                                                       do_lower_case=self.do_lower_case,
+                                                       cache_dir=args.get('bert_cache'))
         self.pretraining = args.pretraining
-        self.masked_lm_prob = args.get("masked_lm_prob", 0.0) # no masking
+        self.masked_lm_prob =  0.0 # no masking #args.get("masked_lm_prob", 0.0)
+        
+        self.stopwords = set([l.strip() for l in open(args.fpath_stopwords)])
+        if args.do_lower_case:
+            self.stopwords = set([s.lower() for s in self.stopwords])
+            
+        self.stopwords.update(["[UNK]", "[SEP]", "[PAD]", "[CLS]", "[MASK]"])
+            
+        self.stopword_indices = set([self.tokenizer.convert_tokens_to_ids([k])[0] \
+                                     for k in self.stopwords])
 
         with open(os.path.join(args.coco_ontology), 'r') as f:
             coco = json.load(f)
         self.coco_objects = ['__background__'] + [x['name'] for k, x in sorted(coco.items(), key=lambda x: int(x[0]))]
-        self.coco_obj_to_ind = {o: i for i, o in enumerate(self.coco_objects)}
-
-
-        if self.image_feature_type == "r2c":
-            items = []
-            counter = 0
-            for i in self.items:
-                if self.expanded and index >= self.train_size:
-                    image_file_name = "COCO_val2014_{:0>12d}.jpg".format(i['image_id'])
-                else:
-                    image_file_name = "COCO_{}2014_{:0>12d}.jpg".format(self.split_name, i['image_id'])
-                if isinstance(self.masks[image_file_name], dict):
-                    items.append(i)
-                else:
-                    # For some images, the detector seems to have Null output. Thus we just skip them. This will not affect much.
-                    counter += 1
-            print("Discarded {} instances in {}.".format(counter, self.split_name))
-            self.items = items            
+        self.coco_obj_to_ind = {o: i for i, o in enumerate(self.coco_objects)}     
 
     def _formatExamples(self, captions, images):
         items = []
-        if self.is_target_concept: # cross-product of captions & images
-            for cap in captions:
-                for image_fp in images:
-                    items.append({'caption' : cap,
-                                  'image_id' : image_fp})
-        else:
-            for image_fp, corresponding_caps in images.items():
-                for c in corresponding_caps:
-                    items.append({'caption' : captions[str(c)],
-                                  'image_id' : image_fp})
+
+        for image_fp, corresponding_caps in images.items():
+            for c in corresponding_caps:
+                cap = captions[str(c)]
+                items.append({'caption' : cap,
+                              'image_id' : image_fp})
+
+                caption = set(cap.strip('.').split())
+                # key_term = caption.difference(general_terms)
+                # if len(key_term) > 1:
+                #     raise Exception(f'multiple keys {key_term} from caption {caption}')
+                #     exit()
+                # key_term = key_term.pop()
+                # self.key_terms.add(key_term)
         return items
             
     def get_image_features_by_training_index(self, index):
