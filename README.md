@@ -31,9 +31,7 @@ Download the pretrained models for [ViLBERT](https://drive.google.com/drive/fold
 
 
 ## Feature Extraction
-If you want to run over custom images, you'll need to compute features.
-### VisualBert
-To compute image features, we use the same model backbone/size as VisualBERT. Detectron model id is 137851257 ([see Model Zoo](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md)).
+If you want to run over custom images, you'll need to compute features. We use the same approach from each respective paper.
 
 ```bash
 ./scripts/image-features/extract_image_features.sh -m MODEL_NAME -d IMAGE_DIR -o FEATURE_PATH
