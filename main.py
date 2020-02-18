@@ -1,17 +1,14 @@
 #!/usr/bin/env python
 
-import argparse
 import os
 import re
 
 import logging as log
 from time import localtime
-import commentjson
-import yaml
 import csv
 
 import torch
-from attrdict import AttrDict
+from scripts import utils
 from scripts.loader import load_model, load_data
 from scripts.encoder import EncoderWrapper
 from scripts.weat import weat_images_union as weat_union
@@ -19,24 +16,10 @@ from scripts.weat import weat_images_targ_specific as weat_specific
 from scripts.weat import weat_images_intra_targ as weat_intra
 from scripts.weat.general_vals import get_general_vals # TODO rename
 
-
-def parse_args():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--config', default='configs/visualbert_coco_pre.yaml',
-                        help='path to model config')
-    return parser.parse_args()
-
 if __name__ == '__main__':
     #--- Load params
-    config_fp = parse_args().config # general params
-    with open(config_fp) as f:
-        config = yaml.load(f, Loader=yaml.FullLoader)
-    params = AttrDict(config)
+    params = utils.loadParams()
     
-    if params.get('model_config'): # model-specific params
-        with open(params.model_config) as f:
-            model_config = AttrDict(commentjson.load(f))
-            params.update(model_config)
     
     #--- Set up logging
     t = localtime()
@@ -78,14 +61,13 @@ if __name__ == '__main__':
         params.chunk_path = chunk_fp
         params.features_fpath = chunk_fp
         dataloaders = load_data(params, fp=test_fp)
-        # print('TEST', test_fp, dataloaders['targ_X'].dataset.getNumUniqueImages() + \
-        #       dataloaders['targ_Y'].dataset.getNumUniqueImages() + \
-        #       dataloaders['attr_A_X'].dataset.getNumUniqueImages() + \
-        #       dataloaders['attr_A_Y'].dataset.getNumUniqueImages() + \
-        #       dataloaders['attr_B_X'].dataset.getNumUniqueImages() + \
-        #       dataloaders['attr_B_Y'].dataset.getNumUniqueImages())
-        # print('\n\n')
-        
+        log.info('Total number of unique images: {}'.format(
+            dataloaders['targ_X'].dataset.getNumUniqueImages() + \
+            dataloaders['targ_Y'].dataset.getNumUniqueImages() + \
+            dataloaders['attr_A_X'].dataset.getNumUniqueImages() + \
+            dataloaders['attr_A_Y'].dataset.getNumUniqueImages() + \
+            dataloaders['attr_B_X'].dataset.getNumUniqueImages() + \
+            dataloaders['attr_B_Y'].dataset.getNumUniqueImages()))
         
         test_type = 'sent' if re.match('.*sent.*', test_fp) else 'word'
         test_name = re.sub('sent-|.jsonl', '', os.path.basename(test_fp))
