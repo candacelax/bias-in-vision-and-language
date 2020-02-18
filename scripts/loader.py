@@ -4,17 +4,18 @@ import re,yaml,sys
 sys.path.append('vilbert_beta')
 from vilbert.vilbert import VILBertForVLTasks as VILBERT
 from vilbert.datasets.bias_dataset import BiasLoader as BiasLoaderViLBERT
-from pytorch_pretrained_bert.tokenization import BertTokenizer
+from vilbert.task_utils import LoadBiasDataset as LoadBiasDatasetViLBERT
+from vilbert.vilbert import BertForMultiModalPreTraining, BertConfig
+
 
 # VisualBERT
 from visualbert.dataloaders.vcr import VCRLoader
 from visualbert.models.model_wrapper import ModelWrapper
+from visualbert.models.model import *
 from visualbert.dataloaders.bias_dataset import BiasDataset as BiasDatasetVisualBERT
 
 # one of these imports updates registrable in params.py in allennlp
 from allennlp.models import Model
-from visualbert.models.model_wrapper import ModelWrapper
-from visualbert.models import model
 from scripts.utils import load_json
 from copy import deepcopy
 
@@ -76,47 +77,25 @@ def create_dataloader(params):
         loader_params = {'batch_size': params.batch_size // params.num_gpus,
                          'num_gpus': params.num_gpus,
                          'num_workers': params.num_workers}
-        return VCRLoader.from_dataset(dataset, **loader_params)
+        dataloader = VCRLoader.from_dataset(dataset, **loader_params)
     
     elif params.model_type.lower() == 'vilbert':
-        tokenizer = BertTokenizer.from_pretrained(
-            params.bert_model,
-            do_lower_case=params.do_lower_case
-        )
-        dataloader = BiasLoaderViLBERT(params['examples'],
-                                       tokenizer,
-                                       seq_len=params.max_seq_length,
-                                       batch_size=params.batch_size,
-                                       predict_feature=params.get('predict_feature', False),
-                                       num_workers=params.num_workers,
-                                       distributed=params.get('distributed', False))
-        for batch in dataloader:
-            print('batch', batch)
-            exit()
+        with open(params.task_cfg, 'r') as f:
+            task_cfg = yaml.load(f, Loader=yaml.FullLoader)
+        dataloader = LoadBiasDatasetViLBERT(params, task_cfg)
     else:
         raise Exception(f'{params.model_type} is an unsupported model type')
+    return dataloader
         
         
 def load_model(params):
     if re.match('vilbert', params.model_type, re.IGNORECASE):
-        # from vilbert.task_utils import LoadDatasetEval        
-        # with open('vilbert_beta/vlbert_tasks.yml', 'r') as f:
-        #     task_cfg = yaml.load(f, Loader=yaml.FullLoader)
-        #     print('t', task_cfg)
-        #     exit()
-            
-        # task_batch_size, task_num_iters, task_ids, task_datasets_val, task_dataloader_val \
-        #     = LoadDatasetEval(args, task_cfg, args.tasks.split('-'))
-        from vilbert.vilbert import BertForMultiModalPreTraining, BertConfig
-        if params.use_concap:
-            config = BertConfig.from_json_file(params.model_config)
-            model = BertForMultiModalPreTraining.from_pretrained(params.model_archive,
-                                                                 config)
-            model = model.cuda()
-            
-        #model = VILBERT.from_pretrained(pretrained_model_name_or_path=params.model_archive,
-        #config=params.model_config)
+        config = BertConfig.from_json_file(params.model_config)
+        model = VILBERT.from_pretrained(pretrained_model_name_or_path=params.model_archive,
+                                        config=config, num_labels=1)
+        model = model.cuda()
+
     elif re.match('visualbert', params.model_type, re.IGNORECASE):
         model = ModelWrapper(params, params.train_set_size)
-        model.restore_checkpoint_pretrained(params.model_path)
+        model.restore_checkpoint_pretrained(params.model_archive)
     return model
