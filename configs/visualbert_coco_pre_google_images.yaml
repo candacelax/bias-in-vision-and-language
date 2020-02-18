@@ -1,0 +1,58 @@
+log_dir : logs
+num_gpus : 4
+num_workers : 4
+val_workers : 2
+
+fpath_stopwords : scripts/stopwords.txt
+
+model_type : visualbert
+model_path : visualbert/pretrained-models/nlvr2_coco_pre_trained.th
+model_config : visualbert/configs/nlvr2/bias-configs/coco-pre-train-bias.json
+
+tests : [
+      # tests/tests-images/coco/occ.jsonl,
+      # tests/tests-images/google/weat3.jsonl,
+      # tests/tests-images/google/sent-weat3.jsonl,
+      # tests/tests-images/google/weat6.jsonl,
+      # tests/tests-images/google/sent-weat6.jsonl,
+      # tests/tests-images/google/weat8.jsonl,
+      # tests/tests-images/google/sent-weat8.jsonl,
+      # tests/tests-images/google/weat11.jsonl,
+      # tests/tests-images/google/sent-weat11.jsonl,
+      # tests/tests-images/google/weat12.jsonl,
+      # tests/tests-images/google/sent-weat12.jsonl,
+      tests/tests-images/google/weat13.jsonl,
+      tests/tests-images/google/sent-weat13.jsonl,
+      # tests/tests-images/google/heilman_MF_double_bind_competent_one_sentence.jsonl,
+      # tests/tests-images/google/heilman_MF_double_bind_likable_one_sentence.jsonl,
+      # tests/tests-images/google/heilman_MF_double_bind_competent_one_word.jsonl,
+      # tests/tests-images/google/heilman_MF_double_bind_likable_one_word.jsonl,
+      # tests/tests-images/google/occ.jsonl
+   ]
+features : [
+      # visualbert/image-features/coco_bias_image_features.th,
+      # visualbert/image-features/google-images/weat3_features.th,
+      # visualbert/image-features/google-images/weat3_features.th,
+      # visualbert/image-features/google-images/weat6_features.th,
+      # visualbert/image-features/google-images/weat6_features.th,
+      # visualbert/image-features/google-images/weat8_features.th,
+      # visualbert/image-features/google-images/weat8_features.th,
+      # visualbert/image-features/google-images/weat11_features.th,
+      # visualbert/image-features/google-images/weat11_features.th,
+      # visualbert/image-features/google-images/weat12_features.th,
+      # visualbert/image-features/google-images/weat12_features.th,
+      visualbert/image-features/google-images/weat13_features.th,
+      visualbert/image-features/google-images/weat13_features.th,
+      # visualbert/image-features/google-images/heilman_MF_competent_one_sent_features.th,
+      # visualbert/image-features/google-images/heilman_MF_likable_one_sent_features.th,
+      # visualbert/image-features/google-images/heilman_MF_competent_one_word_features.th,
+      # visualbert/image-features/google-images/heilman_MF_likable_one_word_features.th,
+      # visualbert/image-features/google-images/occ_features.th
+]
+
+coco_ontology : visualbert/models/cocoontology.json
+
+# model-specific params
+batch_size : 256
+num_samples: 100000
+bert_cache : .pytorch_pretrained_bert # so we stop trying to go to home dir on machine
