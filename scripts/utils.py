@@ -44,7 +44,7 @@ def loadParams():
     parser.add_argument('--model_type', type=str, required=True, choices=['visualbert', 'vilbert'])
     parser.add_argument('--model_archive', type=str, required=True, help='path to saved model to load')
     parser.add_argument('--model_config', type=str, help='path to additional, model-specific configs')
-    parser.add_argument('--bert_model', type=str, default='bert-case-uncased') # vilbert only
+    parser.add_argument('--bert_model', type=str, default='bert-case-uncased')
     parser.add_argument('--do_lower_case', action='store_true')
     parser.add_argument('--max_seq_length', type=int, default=36)
     parser.add_argument('--bert_cache', type=str, default='.pytorch_pretrained_bert')
