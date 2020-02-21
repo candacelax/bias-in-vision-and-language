@@ -7,7 +7,7 @@ Create the conda environment.
 git clone git@github.com:candacelax/vilbert_beta.git # forked
 git clone git@github.com:candacelax/visualbert.git # forked
 
-git clone git@github.com:candacelax/bias-grounded-bert.git
+git clone git@github.com:candacelax/bias-in-vision-and-language.git
 cd bias-grounded-bert
 ln -s PATH_TO_VISUALBERT visualbert
 ln -s PATH_TO_VILBERT vilbert_beta
