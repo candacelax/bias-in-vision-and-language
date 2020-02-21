@@ -1,5 +1,5 @@
 # Measuring Social Biases in Grounded Visual and Language Embeddings
-This is the repo for our paper [Measuring Social Biases in Grounded Vision and Language Embeddings](https://arxiv.org/abs/2002.08911). We implement a version of WEAT/SEAT for visually grounded word embeddings. This is code borrowed and modified from [this repo](https://github.com/W4ngatang/sent-bias).
+This is the repo for our paper [Measuring Social Biases in Grounded Vision and Language Embeddings](https://arxiv.org/abs/2002.08911), [Candace Ross](candaceross.io), [Boris Katz](https://www.csail.mit.edu/person/boris-katz), [Andrei Barbu](0xab.com). We implement a version of WEAT/SEAT for visually grounded word embeddings. This is code borrowed and modified from [this repo](https://github.com/W4ngatang/sent-bias).
 
 ## Installation
 Create the conda environment.
