@@ -1,5 +1,5 @@
 # Measuring Social Biases in Grounded Visual and Language Embeddings
-This is the repo for our paper "Biases in Joint Visual and Language Embeddings". We implement a version of WEAT/SEAT for visually grounded word embeddings. This is code borrowed and modified from [this repo](https://github.com/W4ngatang/sent-bias).
+This is the repo for our paper [Measuring Social Biases in Grounded Vision and Language Embeddings](https://arxiv.org/abs/2002.08911). We implement a version of WEAT/SEAT for visually grounded word embeddings. This is code borrowed and modified from [this repo](https://github.com/W4ngatang/sent-bias).
 
 ## Installation
 Create the conda environment.
@@ -12,7 +12,7 @@ cd bias-grounded-bert
 ln -s PATH_TO_VISUALBERT visualbert
 ln -s PATH_TO_VILBERT vilbert_beta
 
-conda env create -f environment.yml
+conda env create -f conda_env.yml
 python -m spacy download en
 
 # add VisualBERT and ViLBERT to Python paths (consider doing in .bashrc)
