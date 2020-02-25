@@ -1,3 +1,0 @@
-Package    Version Location                                     
----------- ------- ---------------------------------------------
-detectron2 0.1     /storage/ccross/bias-grounded-bert/detectron2
