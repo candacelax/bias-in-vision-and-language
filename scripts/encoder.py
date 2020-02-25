@@ -14,10 +14,14 @@ class EncoderWrapper:
             cls = {} # either word or sentence (depending on input)
             contextual = {} # word in context
             for batch in dataloader:
+                batch['output_all_encoded_layers'] = True
                 output = self.model.step(batch, eval_mode=True)
-                for idx, out in enumerate(output['sequence_output']):
+
+                sequence_output = output['sequence_output'][-1]
+                for idx, out in enumerate(sequence_output):
                     out = out.detach().cpu()
                     input_ids = batch['bert_input_ids'][idx].cpu().tolist()
+
                     word_ids = [i for i in input_ids
                                 if i not in dataloader.dataset.stopword_indices]
                     contextual_idx = input_ids.index(word_ids[0])
