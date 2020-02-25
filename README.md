@@ -24,11 +24,14 @@ export PYTORCH_PRETRAINED_BERT_CACHE="XX/bias-grounded-bert/.pytorch_pretrained_
 
 Download the pretrained models for [ViLBERT](https://drive.google.com/drive/folders/1Re0L75uazH3Qrep_aRgtaVelDEz4HV9c) and [VisualBERT](https://drive.google.com/file/d/1QvivVfRsRF518OQSQNaN7aFk6eQ43vP_/view). Save each in the model's respective pretrained-models directory.
 
+## Download data
+Every test has four directories (two targets, two attributes) that contain a get.sh script to download. To download all at once, run
+```bash
+   ./scripts/download_data.sh data/google-images
+```
 
 ## Usage
 `./main.py --config CONFIG_FILEPATH`
-
-
 
 ## Feature Extraction
 If you want to run over custom images, you'll need to compute features. We use the same approach from each respective paper.
