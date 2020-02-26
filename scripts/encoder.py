@@ -14,8 +14,8 @@ class EncoderWrapper:
             cls = {} # either word or sentence (depending on input)
             contextual = {} # word in context
             for batch in dataloader:
-                batch['output_all_encoded_layers'] = True
-                output = self.model.step(batch, eval_mode=True)
+                output = self.model.step(batch, eval_mode=True,
+                                         output_all_encoded_layers=True)
 
                 sequence_output = output['sequence_output'][-1]
                 for idx, out in enumerate(sequence_output):
