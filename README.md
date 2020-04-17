@@ -36,10 +36,39 @@ Every test has four directories (two targets, two attributes) that contain a get
 ## Feature Extraction
 If you want to run over custom images, you'll need to compute features. We use the same approach from each respective paper.
 
+### VisualBERT
 ```bash
-./scripts/image-features/extract_image_features.sh -m MODEL_NAME -d IMAGE_DIR -o FEATURE_PATH
+   git clone git@github.com:facebookresearch/Detectron.git
+   mkdir Detectron/pretrained-models
+   mv Detectron visualbert/utils
+   # download pretrained model
+   wget -o visualbert/utils/Detectron/pretrained-models/detectron_35861858.pkl https://dl.fbaipublicfiles.com/detectron/35861858/12_2017_baselines/e2e_mask_rcnn_R-101-FPN_2x.yaml.02_32_51.SgT4y1cO/output/train/coco_2014_train%3Acoco_2014_valminusminival/generalized_rcnn/model_final.pkl
+   # run feature extract example
+   python visualbert/utils/get_image_features/extract_image_features_nlvr.py \
+   	  --im_or_folder data/google-images/angry-black-women \
+	  --existing visualbert/image-features/google-images/angry_black_women_word.th \
+	  --output_dir temp \
+	  --cfg visualbert/utils/Detectron/configs/12_2017_baselines/e2e_mask_rcnn_R-101-FPN_2x.yaml \
+	  --wts visualbert/utils/Detectron/pretrained-models/detectron_35861858.pkl
+   
 ```
-where
-* MODEL_NAME is either 'visualbert' or 'vilbert'
-* IMAGE_DIR is directory of bias test images (e.g. data/google-images/weat6)
-* FEATURE_PATH is location to save features (e.g. visualbert/image-features/google-images/weat6_features.th)
+
+### ViLBERT
+Clone [bottom-up-attention](https://github.com/jiasenlu/bottom-up-attention) (be sure to use their forked version) and create Docker image of Caffe.
+```bash
+	# create docker image
+ 	docker build -f bottom-up-attention/caffe/docker/standalone/gpu/Dockerfile -t caffe_image_features .
+
+   	# run container
+	docker container run -t -v $BASE_DIR/features:$BASE_DIR/features \
+	     --gpus all caffe_image_features \
+	     python2.7 $BASE_DIR/tools/generate_tsv.py --cfg $BASE_DIR/experiments/cfgs/faster_rcnn_end2end_resnet.yml \
+	     	       --def $BASE_DIR/models/vg/ResNet-101/faster_rcnn_end2end_final/test.prototxt \
+		       --net $BASE_DIR/models/faster_rcnn_models/resnet101_faster_rcnn_final.caffemodel \
+		       --total_group 1 --group_id 0 --split $SPLIT \
+		       --gpu 0,1,2,3,4,5,6,7 --out $OUTPUT_FILE --data_dir $DATA_DIR
+
+        # convert features to LMDB
+	sudo chown -R $USER:$USER $(dirname $OUTPUT_FILE)
+	python scripts/convert_general_lmdb.py $OUTPUT_FILE
+```
