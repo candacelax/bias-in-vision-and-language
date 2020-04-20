@@ -15,9 +15,9 @@ from allennlp.models import Model
 from scripts.utils import load_json
 from copy import deepcopy
 
-def load_data(params, fp=None):
+def load_data(params, bias_test_fp):
     # general parameters
-    bias_test = load_json(fp)
+    bias_test = load_json(bias_test_fp)
     params_targ_X = deepcopy(params)
     params_targ_Y = deepcopy(params)
     params_attr_A_X = deepcopy(params)

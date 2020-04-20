@@ -51,13 +51,13 @@ if __name__ == '__main__':
     #--- Load tests
     log.info('Starting test loader')
     for vals in zip(params.tests, params.features):
-        test_fp, chunk_fp = vals
+        bias_test_fp, chunk_fp = vals
 
         # load test
-        log.info(f'Loading {test_fp} {chunk_fp}')
+        log.info(f'Loading {bias_test_fp} {chunk_fp}')
         params.chunk_path = chunk_fp
         params.features_fpath = chunk_fp
-        dataloaders = load_data(params, fp=test_fp)
+        dataloaders = load_data(params, bias_test_fp)
         log.info('Total number of unique images: {}'.format(
             dataloaders['targ_X'].dataset.getNumUniqueImages() + \
             dataloaders['targ_Y'].dataset.getNumUniqueImages() + \
@@ -66,8 +66,8 @@ if __name__ == '__main__':
             dataloaders['attr_B_X'].dataset.getNumUniqueImages() + \
             dataloaders['attr_B_Y'].dataset.getNumUniqueImages()))
         
-        test_type = 'sent' if re.match('.*sent.*', test_fp) else 'word'
-        test_name = re.sub('sent-|.jsonl', '', os.path.basename(test_fp))
+        test_type = 'sent' if re.match('.*sent.*', bias_test_fp) else 'word'
+        test_name = re.sub('sent-|.jsonl', '', os.path.basename(bias_test_fp))
         test_name = re.sub('one_sentence|one_word', '', test_name)
 
         # targets w/ corresponding images
@@ -117,7 +117,7 @@ if __name__ == '__main__':
                              vals['Y_AXonAY'], vals['Y_BXonBY'], vals['X_AonB'],
                              vals['Y_AonB'], vals['X_ABXonABY'], vals['Y_ABXonABY']])
 
-        if re.match('.*sent.', test_fp):
+        if re.match('.*sent.', bias_test_fp):
             # run over contextual encodings
             test_type = 'contextual'
             encodings = {'targ_X' : {'encs' : contextual_X,
