@@ -17,7 +17,7 @@ from copy import deepcopy
 
 def load_data(params, fp=None):
     # general parameters
-    data = load_json(fp)
+    bias_test = load_json(fp)
     params_targ_X = deepcopy(params)
     params_targ_Y = deepcopy(params)
     params_attr_A_X = deepcopy(params)
@@ -26,31 +26,31 @@ def load_data(params, fp=None):
     params_attr_B_Y = deepcopy(params)
     
     params_targ_X.update({'data_type' : 'target',
-                          'category' : data['targ1']['category'],
-                          'captions' : data['targ1']['captions'],
-                          'images' : data['targ1']['images']})
+                          'category' : bias_test['targ1']['category'],
+                          'captions' : bias_test['targ1']['captions'],
+                          'images' : bias_test['targ1']['images']})
     params_targ_Y.update({'data_type' : 'target',
-                          'category' : data['targ2']['category'],
-                          'captions' : data['targ2']['captions'],
-                          'images' : data['targ2']['images']})
+                          'category' : bias_test['targ2']['category'],
+                          'captions' : bias_test['targ2']['captions'],
+                          'images' : bias_test['targ2']['images']})
 
     category_X, category_Y = params_targ_X['category'], params_targ_Y['category']
     params_attr_A_X.update({'data_type' : 'attr',
-                            'category' : data['attr1']['category'],
-                            'captions' : data['attr1']['captions'],
-                            'images' : data['attr1'][f'{category_X}_Images']})
+                            'category' : bias_test['attr1']['category'],
+                            'captions' : bias_test['attr1']['captions'],
+                            'images' : bias_test['attr1'][f'{category_X}_Images']})
     params_attr_A_Y.update({'data_type' : 'attr',
-                            'category' : data['attr1']['category'],
-                            'captions' : data['attr1']['captions'],
-                            'images' : data['attr1'][f'{category_Y}_Images']})
+                            'category' : bias_test['attr1']['category'],
+                            'captions' : bias_test['attr1']['captions'],
+                            'images' : bias_test['attr1'][f'{category_Y}_Images']})
     params_attr_B_X.update({'data_type' : 'attr',
-                            'category' : data['attr2']['category'],
-                            'captions' : data['attr2']['captions'],
-                            'images' : data['attr2'][f'{category_X}_Images']})
+                            'category' : bias_test['attr2']['category'],
+                            'captions' : bias_test['attr2']['captions'],
+                            'images' : bias_test['attr2'][f'{category_X}_Images']})
     params_attr_B_Y.update({'data_type' : 'attr',
-                            'category' : data['attr2']['category'],
-                            'captions' : data['attr2']['captions'],
-                            'images' : data['attr2'][f'{category_Y}_Images']})
+                            'category' : bias_test['attr2']['category'],
+                            'captions' : bias_test['attr2']['captions'],
+                            'images' : bias_test['attr2'][f'{category_Y}_Images']})
 
     # model-specific datasets
     dataloader_targ_X = create_dataloader(params_targ_X)
