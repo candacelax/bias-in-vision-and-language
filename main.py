@@ -17,11 +17,8 @@ from scripts.weat import weat_images_intra_targ as weat_intra
 from scripts.weat.general_vals import get_general_vals # TODO rename
 
 if __name__ == '__main__':
-    #--- Load params
-    params = utils.loadParams()
-    
-    
-    #--- Set up logging
+    # Load params and set up logging
+    params = utils.load_params()
     t = localtime()
     timestamp = f'{t.tm_mon}-{t.tm_mday}-{t.tm_year}_' +\
                 f'{t.tm_hour:02d}:{t.tm_min:02d}:{t.tm_sec:02d}'
