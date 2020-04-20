@@ -29,7 +29,7 @@ def loadParams():
                         help='paths to features (corresponding order to tests); if only one passed, will use same features for all tests')
 
     # dataset
-    parser.add_argument('--dataset', default='coco', type=str,
+    parser.add_argument('--dataset', default='coco', type=str, choices=['coco', 'concap', 'custom'],
                         help='name of dataset to load')
     parser.add_argument('--coco_ontology', type=str, help='only required for COCO dataset')
     # model
