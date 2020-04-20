@@ -13,18 +13,10 @@ def load_json(sent_file):
         v["captions"] = captions
     return all_data
 
-def _getConfigFile():
-    parser = ArgumentParser()
-    parser.add_argument('--config', default='configs/visualbert_cocopretrained_coco_images.yaml',
-                        help='path to model config')
-    return parser.parse_args().config
-
 def loadParams():
-    config_fpath = _getConfigFile() 
-    
-    parser = ArgumentParser(default_config_files=[config_fpath])
+    parser = ArgumentParser()
     # general
-    parser.add_argument('--config', type=str, help='config file path')
+    parser.add_argument('-c', '--config', is_config_file=True, type=str, help='config file path')
     parser.add_argument('--log_dir', type=str, default='logs')
     parser.add_argument('--num_gpus', type=int, default=1)
     parser.add_argument('--num_workers', type=int, default=4)
