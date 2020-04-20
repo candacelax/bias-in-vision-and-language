@@ -25,13 +25,16 @@ export PYTORCH_PRETRAINED_BERT_CACHE="XX/bias-grounded-bert/.pytorch_pretrained_
 Download the pretrained models for [ViLBERT](https://drive.google.com/drive/folders/1Re0L75uazH3Qrep_aRgtaVelDEz4HV9c) and [VisualBERT](https://drive.google.com/file/d/1QvivVfRsRF518OQSQNaN7aFk6eQ43vP_/view). Save each in the model's respective pretrained-models directory.
 
 ## Download data
-Every test has four directories (two targets, two attributes) that contain a get.sh script to download. To download all at once, run
+The paths for images from Google Image Search are contained in `data/google-images`. To download all at once, run
 ```bash
    ./scripts/download_data.sh data/google-images
 ```
 
 ## Usage
+To run GWEAT/GSEAT tests, run:
 `./main.py --config CONFIG_FILEPATH`
+
+The config files are contained in `configs` are include tests of Conceptual Captions and Google Image data on pretrained ViLBERT and tests of COCO and Google Image data on pretrained VisualBERT.
 
 ## Feature Extraction
 If you want to run over custom images, you'll need to compute features. We use the same approach from each respective paper.
@@ -48,10 +51,11 @@ If you want to run over custom images, you'll need to compute features. We use t
    # run feature extract example
    python visualbert/utils/get_image_features/extract_image_features_nlvr.py \
    	  --im_or_folder data/google-images/angry-black-women \
-	  --existing visualbert/image-features/google-images/angry_black_women_word.th \
+	  --one_giant_file visualbert/image-features/google-images/angry_black_women_word.th \
 	  --output_dir temp \
 	  --cfg visualbert/utils/Detectron/configs/12_2017_baselines/e2e_mask_rcnn_R-101-FPN_2x.yaml \
-	  --wts visualbert/utils/Detectron/pretrained-models/detectron_35861858.pkl
+	  --wts visualbert/utils/Detectron/pretrained-models/detectron_35861858.pkl \
+	  --existing visualbert/image-features/google-images/angry_black_women_word.th # ONLY IF UPDATING PREVIOUS RUNS
    
 ```
 
