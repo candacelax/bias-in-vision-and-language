@@ -18,6 +18,7 @@ from copy import deepcopy
 def load_data(params, bias_test_fp):
     # general parameters
     bias_test = load_json(bias_test_fp)
+    params.is_train = False
     params_targ_X = deepcopy(params)
     params_targ_Y = deepcopy(params)
     params_attr_A_X = deepcopy(params)
@@ -92,6 +93,8 @@ def load_model(params):
         model = model.cuda()
 
     elif re.match('visualbert', params.model_type, re.IGNORECASE):
+        params.train_set_size = 20000 # not important, only used for optim and we're not doing this step
+        # FIXME would be nice to entirely skip usign wrapper and need to init optim
         model = ModelWrapper(params, params.train_set_size)
         model.restore_checkpoint_pretrained(params.model_archive)
     return model
