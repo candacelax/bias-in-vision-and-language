@@ -1,17 +1,13 @@
-import re,yaml,sys
+import re
+import yaml
 
-# VilBERT
-sys.path.append('vilbert_beta')
 from vilbert.vilbert import VILBertForVLTasks as VILBERT
 from vilbert.datasets.bias_dataset import BiasLoader as BiasLoaderViLBERT
 from vilbert.task_utils import LoadBiasDataset as LoadBiasDatasetViLBERT
 from vilbert.vilbert import BertForMultiModalPreTraining, BertConfig
-
-
-# VisualBERT
 from visualbert.dataloaders.vcr import VCRLoader
 from visualbert.models.model_wrapper import ModelWrapper
-from visualbert.models.model import *
+import visualbert.models.model # to register custom models from visualbert
 from visualbert.dataloaders.bias_dataset import BiasDataset as BiasDatasetVisualBERT
 
 # one of these imports updates registrable in params.py in allennlp
@@ -19,15 +15,15 @@ from allennlp.models import Model
 from scripts.utils import load_json
 from copy import deepcopy
 
-def load_data(model_params, fp=None): # TODO rename args
+def load_data(params, fp=None):
     # general parameters
     data = load_json(fp)
-    params_targ_X = deepcopy(model_params)
-    params_targ_Y = deepcopy(model_params)
-    params_attr_A_X = deepcopy(model_params)
-    params_attr_A_Y = deepcopy(model_params)
-    params_attr_B_X = deepcopy(model_params)
-    params_attr_B_Y = deepcopy(model_params)
+    params_targ_X = deepcopy(params)
+    params_targ_Y = deepcopy(params)
+    params_attr_A_X = deepcopy(params)
+    params_attr_A_Y = deepcopy(params)
+    params_attr_B_X = deepcopy(params)
+    params_attr_B_Y = deepcopy(params)
     
     params_targ_X.update({'data_type' : 'target',
                           'category' : data['targ1']['category'],
