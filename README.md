@@ -40,6 +40,7 @@ The config files are contained in `configs` are include tests of Conceptual Capt
 If you want to run over custom images, you'll need to compute features. We use the same approach from each respective paper.
 
 ### VisualBERT
+VisualBERT uses [Detectron](https://github.com/facebookresearch/Detectron) to get features from faster-rcnn.
 ```bash
    git clone git@github.com:facebookresearch/Detectron.git
    mkdir Detectron/pretrained-models
@@ -50,12 +51,12 @@ If you want to run over custom images, you'll need to compute features. We use t
 
    # run feature extract example
    python visualbert/utils/get_image_features/extract_image_features_nlvr.py \
-   	  --im_or_folder data/google-images/angry-black-women \
-	  --one_giant_file visualbert/image-features/google-images/angry_black_women_word.th \
+   	  --im_or_folder data/XX/BIAS-TEST-IMAGES \
+	  --one_giant_file visualbert/image-features/XX/BIAS_TEST_NAME.th \
 	  --output_dir temp \
 	  --cfg visualbert/utils/Detectron/configs/12_2017_baselines/e2e_mask_rcnn_R-101-FPN_2x.yaml \
 	  --wts visualbert/utils/Detectron/pretrained-models/detectron_35861858.pkl \
-	  --existing visualbert/image-features/google-images/angry_black_women_word.th # ONLY IF UPDATING PREVIOUS RUNS
+	  --existing visualbert/image-features/XX/BIAS_TEST_NAME.th # ONLY IF UPDATING PREVIOUS RUNS
    
 ```
 
