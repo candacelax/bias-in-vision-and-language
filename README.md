@@ -63,6 +63,11 @@ VisualBERT uses [Detectron](https://github.com/facebookresearch/Detectron) to ge
 ### ViLBERT
 Clone [bottom-up-attention](https://github.com/jiasenlu/bottom-up-attention) (be sure to use their forked version) and create Docker image of Caffe.
 ```bash
+	BASE_DIR=XX/SET_TO_LOCATION_OF_DOCKER
+	DATA_DIR=XX/vilbert_beta/data/conceptual-captions
+	OUTPUT_FILE=XX/vilbert_beta_features/conceptual_val_resnet101_faster_rcnn_genome.tsv
+	SPLIT=validation
+
 	# create docker image
  	docker build -f bottom-up-attention/caffe/docker/standalone/gpu/Dockerfile -t caffe_image_features .
 

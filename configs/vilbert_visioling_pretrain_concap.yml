@@ -22,4 +22,4 @@ batch_size : 64
 
 num_samples : 100000
 tests : [tests/tests-images/concap/occ_MF.jsonl, tests/tests-images/concap/sent-occ_MF.jsonl, tests/tests-images/concap/weat6.jsonl, tests/tests-images/concap/sent-weat6.jsonl]
-features: [/storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_resnet101_faster_rcnn_genome.lmdb, /storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_resnet101_faster_rcnn_genome.lmdb, /storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_resnet101_faster_rcnn_genome.lmdb, /storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_resnet101_faster_rcnn_genome.lmdb]
+features: [/storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_val_resnet101_faster_rcnn_genome.lmdb, /storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_val_resnet101_faster_rcnn_genome.lmdb, /storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_val_resnet101_faster_rcnn_genome.lmdb, /storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_val_resnet101_faster_rcnn_genome.lmdb]
