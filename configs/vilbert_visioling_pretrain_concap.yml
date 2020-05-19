@@ -22,4 +22,10 @@ num_workers : 3
 batch_size : 64
 
 num_samples : 100000
-tests : [tests/tests-images/concap/occ_MF.jsonl, tests/tests-images/concap/sent-occ_MF.jsonl, tests/tests-images/concap/weat6.jsonl, tests/tests-images/concap/sent-weat6.jsonl]
+tests :
+      - tests/tests-images/coco/occ_MF.jsonl
+      - tests/tests-images/coco/sent-occ_MF.jsonl
+      - tests/tests-images/coco/weat6.jsonl
+      - tests/tests-images/coco/sent-weat6.jsonl
+      - tests/tests-images/coco/weat8.jsonl
+      - tests/tests-images/coco/sent-weat8.jsonl

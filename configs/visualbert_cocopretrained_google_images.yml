@@ -15,5 +15,30 @@ model_type : visualbert
 model_archive : visualbert/pretrained-models/nlvr2_coco_pre_trained.th
 model_config : visualbert/configs/nlvr2/bias-configs/coco-pre-train-bias.json
 
-tests : [tests/tests-images/google/weat3.jsonl,tests/tests-images/google/sent-weat3.jsonl, tests/tests-images/google/weat6.jsonl, tests/tests-images/google/sent-weat6.jsonl, tests/tests-images/google/weat8.jsonl, tests/tests-images/google/sent-weat8.jsonl, tests/tests-images/google/weat11.jsonl, tests/tests-images/google/sent-weat11.jsonl, tests/tests-images/google/weat12.jsonl, tests/tests-images/google/sent-weat12.jsonl, tests/tests-images/google/weat13.jsonl, tests/tests-images/google/sent-weat13.jsonl, tests/tests-images/google/heilman_MF_double_bind_competent_one_sentence.jsonl, tests/tests-images/google/heilman_MF_double_bind_likable_one_sentence.jsonl, tests/tests-images/google/heilman_MF_double_bind_competent_one_word.jsonl, tests/tests-images/google/heilman_MF_double_bind_likable_one_word.jsonl, tests/tests-images/google/occ_MF.jsonl, tests/tests-images/google/sent-occ_MF.jsonl, tests/tests-images/google/angry_black_woman_stereotype.jsonl, tests/tests-images/google/sent-angry_black_woman_stereotype.jsonl, tests/tests-images/google/occ_race.jsonl, tests/tests-images/google/sent-occ_race.jsonl]
-
+tests :
+      - tests/tests-images/google/weat3.jsonl
+      - tests/tests-images/google/sent-weat3.jsonl
+      - tests/tests-images/google/weat6.jsonl
+      - tests/tests-images/google/sent-weat6.jsonl
+      - tests/tests-images/google/weat8.jsonl
+      - tests/tests-images/google/sent-weat8.jsonl
+      - tests/tests-images/google/weat11.jsonl
+      - tests/tests-images/google/sent-weat11.jsonl
+      - tests/tests-images/google/weat12.jsonl
+      - tests/tests-images/google/sent-weat12.jsonl
+      - tests/tests-images/google/weat13.jsonl
+      - tests/tests-images/google/sent-weat13.jsonl
+      - tests/tests-images/google/heilman_MF_double_bind_competent_one_sentence.jsonl
+      - tests/tests-images/google/heilman_MF_double_bind_likable_one_sentence.jsonl
+      - tests/tests-images/google/heilman_MF_double_bind_competent_one_word.jsonl
+      - tests/tests-images/google/heilman_MF_double_bind_likable_one_word.jsonl
+      - tests/tests-images/google/heilman_race_double_bind_competent_one_word.jsonl
+      - tests/tests-images/google/heilman_race_double_bind_competent_one_sentence.jsonl
+      - tests/tests-images/google/heilman_race_double_bind_likable_one_word.jsonl
+      - tests/tests-images/google/heilman_race_double_bind_likable_one_sentence.jsonl
+      - tests/tests-images/google/occ_MF.jsonl
+      - tests/tests-images/google/sent-occ_MF.jsonl
+      - tests/tests-images/google/angry_black_woman_stereotype.jsonl
+      - tests/tests-images/google/sent-angry_black_woman_stereotype.jsonl
+      - tests/tests-images/google/occ_race.jsonl
+      - tests/tests-images/google/sent-occ_race.jsonl
