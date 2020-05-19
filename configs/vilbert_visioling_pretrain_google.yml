@@ -4,6 +4,7 @@ num_workers : 4
 val_workers : 2
 
 fpath_stopwords : scripts/stopwords.txt
+test2features : tests/test2features.json
 
 use_concap : True
 model_type : vilbert
@@ -50,31 +51,3 @@ tests : [
      tests/tests-images/google/occ_race.jsonl,
      tests/tests-images/google/sent-occ_race.jsonl
      ]
-features: [
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat3_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat3_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat6_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat6_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat8_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat8_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat11_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat11_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat12_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat12_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat13_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/weat13_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/heilman_MF_competent_word_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/heilman_MF_competent_sent_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/heilman_MF_likable_word_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/heilman_MF_likable_sent_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/heilman_race_competent_word_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/heilman_race_competent_sent_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/heilman_race_likable_word_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/heilman_race_likable_sent_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/angry_black_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/angry_black_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/occ_MF_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/occ_MF_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/occ_race_resnet101_faster_rcnn_genome.lmdb',
-          '/storage/ccross/bias-grounded-bert/vilbert_beta/features/google-images/occ_race_resnet101_faster_rcnn_genome.lmdb'
-          ]

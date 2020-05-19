@@ -15,6 +15,7 @@ max_seq_length : 36
 
 dataset : concap
 task_cfg : vilbert_beta/bias_tasks_google.yml
+test2features : tests/test2features.json
 
 # model-specific params
 num_workers : 3
@@ -22,4 +23,3 @@ batch_size : 64
 
 num_samples : 100000
 tests : [tests/tests-images/concap/occ_MF.jsonl, tests/tests-images/concap/sent-occ_MF.jsonl, tests/tests-images/concap/weat6.jsonl, tests/tests-images/concap/sent-weat6.jsonl]
-features: [/storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_val_resnet101_faster_rcnn_genome.lmdb, /storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_val_resnet101_faster_rcnn_genome.lmdb, /storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_val_resnet101_faster_rcnn_genome.lmdb, /storage/ccross/bias-grounded-bert/vilbert_beta/features/conceptual/conceptual_val_resnet101_faster_rcnn_genome.lmdb]
