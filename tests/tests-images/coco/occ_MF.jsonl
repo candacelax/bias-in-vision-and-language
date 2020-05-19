@@ -1,4 +1,6 @@
 {
+  "test_types" : ["word"],
+  "dataset" : "coco",
   "targ1": {
     "category": "MaleNames",
     "captions": {

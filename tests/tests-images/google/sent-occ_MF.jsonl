@@ -1,8 +1,10 @@
 {
+  "test_types" : ["sentence", "contextual"],
+  "dataset" : "google",
   "targ1": {
     "category": "MaleNames",
     "captions": {
-"0" :  "This is John.",
+	  "0" :  "This is John.",
 	  "1" :  "That is John.",
 	  "2" :  "There is John.",
 	  "3" :  "Here is John.",

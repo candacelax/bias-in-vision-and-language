@@ -1,4 +1,6 @@
 {
+  "test_types" : ["sentence", "contextual"],
+  "dataset" : "google",
   "targ1": {
     "category": "EuropeanAmericanNames",
     "captions": {
@@ -1171,7 +1173,7 @@
 	 "aa_male_dramas_0.jpg" : [51,52,53,54,55],	 
 	 "aa_male_dramas_1.jpg" : [51,52,53,54,55],	 
 	 "aa_male_dramas_2.jpg" : [51,52,53,54,55],	 
-	 "aa_male_dramas_3.jpg" : [51,52,53,54,55],	 
+	 "aa_male_drama_3.jpg" : [51,52,53,54,55],	 
 	 "aa_male_dramas_4.jpg" : [51,52,53,54,55],	 
 	 "aa_female_dramas_0.jpg" : [51,52,53,54,55],
 	 "aa_female_dramas_1.jpg" : [51,52,53,54,55],

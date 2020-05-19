@@ -1,6 +1,6 @@
 {
   "test_types" : ["word"],
-  "dataset" : "coco",
+  "dataset" : "concap",
   "targ1": {
     "category": "Science",
     "captions": {

@@ -1,4 +1,6 @@
 {
+  "test_types" : ["sentence", "contextual"],
+  "dataset" : "coco",
   "targ1": {
     "category": "Science",
     "captions": {

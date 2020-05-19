@@ -1,4 +1,6 @@
 {
+  "test_types" : ["word"],
+  "dataset" : "google",
   "targ1": {
     "category": "EuropeanAmerican",
     "captions": {

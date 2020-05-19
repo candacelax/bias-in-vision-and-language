@@ -1,4 +1,6 @@
 {
+  "test_types" : ["sentence", "contextual"],
+  "dataset" : "google",
   "targ1": {
     "category": "WhiteFemaleNames",
     "captions": {
@@ -324,7 +326,7 @@
        "black_women_24.jpg" : [96,97,98,99,100,101,102,103],
        "black_women_25.jpg" : [96,97,98,99,100,101,102,103],
        "black_women_26.jpg" : [104,105,106,107,108,109,110,111],
-       "black_women_27.jpg" : 1[04,105,106,107,108,109,110,111],
+       "black_women_27.jpg" : [104,105,106,107,108,109,110,111],
        "black_women_28.jpg" : [112,113,114,115,116,117,118,119],
        "black_women_29.jpg" : [120,121,122,123,124,125,126,127]
        }
