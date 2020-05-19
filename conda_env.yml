@@ -102,6 +102,7 @@ dependencies:
   - pip=19.3.1=py37_0
   - pixman=0.38.0=h7b6447c_0
   - plac=0.9.6=py37_0
+  - progress=1.5=py37_0  
   - prompt_toolkit=3.0.2=py_0
   - ptyprocess=0.6.0=py37_0
   - py-boost=1.67.0=py37h04863e7_4
