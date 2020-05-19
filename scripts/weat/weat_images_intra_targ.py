@@ -11,6 +11,7 @@ import numpy as np
 from random import shuffle
 import scipy.special
 import scipy.stats
+from progress.bar import IncrementalBar, Bar
 import torch
 from torch.nn.functional import cosine_similarity as torch_cossim
 
@@ -79,10 +80,7 @@ def p_val_permutation_test(X, A_X, B_X, A_Y, B_Y, n_samples,
             total += 1
             log.info('Drawing {} samples (and biasing by 1)'.format(n_samples - total))
 
-            for _ in range(n_samples - 1):
-                if _ % 10000 == 0:
-                    print('on', _)
-                    
+            for idx in Bar('Processing').iter(range(1, n_samples)):
                 shuffle(A)
                 shuffle(B)
 
@@ -106,7 +104,7 @@ def p_val_permutation_test(X, A_X, B_X, A_Y, B_Y, n_samples,
                 total += 1
         else:
             raise Exception('Not implemented')
-
+        
         if total_equal:
             log.warning('Equalities contributed {}/{} to p-value'.format(total_equal, total))
 
@@ -161,7 +159,7 @@ def convert_keys_to_ints(X, Y=None):
             dict((i, v) for (i, (k, v)) in enumerate(X.items()))
         )
 
-def run_test(encs, n_samples, parametric=False):
+def run_test(X, Y, A_X, A_Y, B_X, B_Y, n_samples, cat_X, cat_Y, cat_A, cat_B, parametric=False):
     ''' Run a WEAT.
     args:
         - encs (Dict[str: Dict]): dictionary mapping targ1, targ2, attr1, attr2
@@ -170,9 +168,6 @@ def run_test(encs, n_samples, parametric=False):
             (use exact test if number of permutations is less than or
             equal to n_samples)
     '''
-    X, Y = encs["targ_X"]["encs"], encs["targ_Y"]["encs"]
-    A_X, A_Y = encs["attr_A_X"]["encs"], encs["attr_A_Y"]["encs"]
-    B_X, B_Y = encs["attr_B_X"]["encs"], encs["attr_B_Y"]["encs"]
 
     # First convert all keys to ints to facilitate array lookups
     X = convert_keys_to_ints(X)
@@ -193,8 +188,7 @@ def run_test(encs, n_samples, parametric=False):
     cossims_XonY = construct_cossim_lookup(X, AB_Y)
 
     # first X on attrX attrY
-    log.info("Null hypothesis: no difference between %s in association to attributes %s and %s across images",
-             encs["targ_X"]["category"], encs["attr_A_X"]["category"], encs["attr_B_X"]["category"])
+    log.info(f"Null hypothesis: no difference between {cat_X} in association to attributes {cat_A} and {cat_B} across images")
 
     log.info("Computing pval...")
     pval_x = p_val_permutation_test(X, A_X, B_X, A_Y, B_Y, n_samples,
@@ -210,9 +204,8 @@ def run_test(encs, n_samples, parametric=False):
 
     
     # now Y on attrX attrY
-    log.info("Null hypothesis: no difference between %s in association to attributes %s and %s across images",
-             encs["targ_Y"]["category"], encs["attr_A_X"]["category"], encs["attr_B_X"]["category"])
-
+    log.info(f"Null hypothesis: no difference between {cat_Y} in association to attributes {cat_A} and {cat_B} across images")
+    
     log.info("Computing pval...")
     cossims_YonX = construct_cossim_lookup(Y, AB_X)
     cossims_YonY = construct_cossim_lookup(Y, AB_Y)

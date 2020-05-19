@@ -8,16 +8,13 @@ import itertools as it
 import numpy as np
 import scipy.special
 import scipy.stats
+import torch
+from torch.nn.functional import cosine_similarity as torch_cossim
 
 # X and Y are two sets of target words of equal size.
 # A and B are two sets of attribute words.
 # A = (A_{X}, A_{Y}) where A_{X}'s images correspond to category of X
 # and A_{Y}'s images correspond to category of Y
-
-def cossim(x, y):
-    b = np.dot(x, y) / math.sqrt(np.dot(x, x) * np.dot(y, y))
-    return np.dot(x, y) / math.sqrt(np.dot(x, x) * np.dot(y, y))
-
 
 def construct_cossim_lookup(XY, AB):
     """
@@ -27,11 +24,15 @@ def construct_cossim_lookup(XY, AB):
     between items in XY and items in AB.
     """
 
-    #cossims = np.zeros((len(XY), len(AB)))
-    cossims = np.zeros((max(XY)+1, len(AB)))
+    num_attr = len(AB)
+    encoding_dim = len(next(iter(XY.values())))
+    dims = torch.Size( (num_attr, encoding_dim) ) # for expanding xy for efficient computation
+    cossims = np.zeros((max(XY)+1, num_attr))
+
+    AB = torch.stack([AB[i] for i in range(num_attr)])
     for xy in XY:
-        for ab in AB:
-            cossims[xy, ab] = cossim(XY[xy], AB[ab])
+        cossims[xy, :] = torch_cossim(XY[xy].expand(dims),
+                                      AB)
     return cossims
 
 
@@ -150,6 +151,7 @@ def p_val_permutation_test(X, Y, A_X, B_X, A_Y, B_Y, n_samples,
             for _ in range(n_samples - 1):
                 np.random.shuffle(XY)
                 Xi = set(XY[:size])
+                
                 # for random samples, sort by w \in X and w \in Y
                 Xi_X = np.array(list(Xi.intersection(X)), dtype=np.int)
                 Xi_Y = np.array(list(Xi.intersection(Y)), dtype=np.int)
@@ -224,7 +226,7 @@ def convert_keys_to_ints(X, Y):
         dict((i + len(X), v) for (i, (k, v)) in enumerate(Y.items())),
     )
 
-def run_test(encs, n_samples, parametric=False):
+def run_test(X, Y, A_X, A_Y, B_X, B_Y, n_samples, cat_X, cat_Y, cat_A, cat_B, parametric=False):
     ''' Run a WEAT with gender-specific images.
     args:
         - encs (Dict[str: Dict]): dictionary mapping targ1, targ2, attr1, attr2
@@ -233,9 +235,6 @@ def run_test(encs, n_samples, parametric=False):
             (use exact test if number of permutations is less than or
             equal to n_samples)
     '''
-    X, Y = encs["targ_X"]["encs"], encs["targ_Y"]["encs"]
-    A_X, B_X = encs["attr_A_X"]["encs"], encs["attr_B_X"]["encs"]
-    A_Y, B_Y = encs["attr_A_Y"]["encs"], encs["attr_B_Y"]["encs"]
 
     # First convert all keys to ints to facilitate array lookups
     (X, Y) = convert_keys_to_ints(X,Y)
@@ -252,9 +251,7 @@ def run_test(encs, n_samples, parametric=False):
     cossims_X = construct_cossim_lookup(X, AB_X)
     cossims_Y = construct_cossim_lookup(Y, AB_Y)
 
-    log.info("Null hypothesis: no difference between %s and %s in association to attributes %s and %s",
-             encs["targ_X"]["category"], encs["targ_Y"]["category"],
-             encs["attr_A_X"]["category"], encs["attr_B_X"]["category"])
+    log.info("Null hypothesis: no difference between %s and %s in association to attributes %s and %s", cat_X, cat_Y, cat_A, cat_B)
     log.info("Computing pval...")
     pval = p_val_permutation_test(X, Y,
                                   A_X, B_X,

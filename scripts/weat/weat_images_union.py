@@ -11,7 +11,7 @@ import numpy as np
 import scipy.special
 import scipy.stats
 import torch
-from torch.nn.functional import cosine_similarity as torch_cossim
+from torch.nn.functional import cosine_similarity as f_cossim
 
 # X and Y are two sets of target words of equal size.
 # A and B are two sets of attribute words.
@@ -28,10 +28,9 @@ def construct_cossim_lookup(XY, AB):
     AB = torch.stack([AB[i] for i in range(len(AB))])
     cossims = np.zeros((len(XY), len(AB)))
     dims = torch.Size( (len(AB), len(XY[0])) )
-    
+
     for xy in XY:
-        cossims[xy, :] = torch_cossim(XY[xy].expand(dims),
-                                      AB)
+        cossims[xy, :] = f_cossim(XY[xy].expand(dims), AB)
     return cossims
 
 
@@ -92,7 +91,7 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
     A = np.array(list(A), dtype=np.int)
     B = np.array(list(B), dtype=np.int)
 
-    assert len(X) == len(Y)
+    assert len(X) == len(Y), f'len X {len(X)}, len Y {len(Y)}'
     size = len(X)
     s_wAB_memo = s_wAB(A, B, cossims=cossims)
     XY = np.concatenate((X, Y))
@@ -210,7 +209,7 @@ def convert_keys_to_ints_combine(X, Y):
 
 ''' "classifier case": WEAT where A=AX \cup AY and B=BX \cup BY
 '''
-def run_test(encs, n_samples, parametric=False):
+def run_test(X, Y, A_X, A_Y, B_X, B_Y, n_samples, cat_X, cat_Y, cat_A, cat_B, parametric=False):
     ''' Run a WEAT.
     args:
         - encs (Dict[str: Dict]): dictionary mapping targ1, targ2, attr1, attr2
@@ -219,9 +218,7 @@ def run_test(encs, n_samples, parametric=False):
             (use exact test if number of permutations is less than or
             equal to n_samples)
     '''
-    X, Y = encs["targ_X"]["encs"], encs["targ_Y"]["encs"]
-    A_X, A_Y = encs["attr_A_X"]["encs"], encs["attr_A_Y"]["encs"]
-    B_X, B_Y = encs["attr_B_X"]["encs"], encs["attr_B_Y"]["encs"]
+
     
     # take union over attribute images; images differ by target XY
     A = convert_keys_to_ints_combine(A_X, A_Y)
@@ -239,9 +236,7 @@ def run_test(encs, n_samples, parametric=False):
     log.info("Computing cosine similarities...")
     cossims = construct_cossim_lookup(XY, AB)
 
-    log.info("Null hypothesis: no difference between %s and %s in association to attributes %s and %s",
-             encs["targ_X"]["category"], encs["targ_Y"]["category"],
-             encs["attr_A_X"]["category"], encs["attr_B_X"]["category"])
+    log.info(f"Null hypothesis: no difference between {cat_X} and {cat_Y} in association to attributes {cat_A} and {cat_B}")
     log.info("Computing pval...")
     pval = p_val_permutation_test(X, Y, A, B, n_samples, cossims=cossims, parametric=parametric)
     log.info("pval: %g", pval)
@@ -249,4 +244,5 @@ def run_test(encs, n_samples, parametric=False):
     log.info("computing effect size...")
     esize = effect_size(X, Y, A, B, cossims=cossims)
     log.info("esize: %g", esize)
+
     return esize, pval
