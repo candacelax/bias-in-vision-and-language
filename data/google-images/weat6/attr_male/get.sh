@@ -119,7 +119,7 @@ wget -O male_offices_7.jpg https://hapag-lloyd7.azureedge.net/content/website/en
 wget -O male_offices_8.jpg https://si.wsj.net/public/resources/images/PJ-BY781A_TOT_FR_20141203131050.jpg
 wget -O male_offices_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhSq-U_mzDYfZ8Mw5TRvKa-nMQYR44SxCvrK4dfMJ4XK8qU-E&s
 
-wget -O male_business_0.jpg https://smhttp-ssl-39255.nexcesscdn.net/wp-content/uploads/2016/05/Jeans-should-not-be-worn-but-the-jacket-and-shirt-are-ideal.jpg
+wget -O male_business_0.jpg https://www.mens-hairstyle.com/wp-content/uploads/2019/09/10.Business-Haircut.jpg
 wget -O male_business_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3603411.jpg
 wget -O male_business_2.jpg https://thumbs.dreamstime.com/z/smart-male-business-professional-confident-handsome-executive-over-white-33380099.jpg
 wget -O male_business_3.jpg http://www.askwear.com/images/solemn%20male%20business%20shirt.jpg
