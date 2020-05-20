@@ -1104,5 +1104,19 @@
 	 "black_domineering_8.jpg" : [17],
 	 "black_domineering_9.jpg" : [17]
     }
-  }
+  },
+  "contextual_words" : ["Allison", "Anne", "Carrie", "Emily", "Jill", "Laurie", "Kristen",
+  		        "Meredith", "Molly", "Amy", "Claire", "Katie", "Madeline",
+			"Katelyn", "Emma", "Aisha", "Ebony", "Keisha", "Latonya", "Lakisha",
+			"Latoya", "Tamika", "Imani", "Shanice", "Aaliyah", "Precious",
+			"Nia", "Deja", "Latanya", "Latisha",
+			"soft", "quiet", "compromising", "rational", "calm", "kind",
+			"agreeable", "servile", "pleasant", "cautious", "friendly",
+			"supportive", "nice", "mild", "demure", "passive", "indifferent",
+			"submissive", "shrill", "loud", "argumentative", "irrational",
+			"angry", "abusive", "obnoxious", "controlling", "nagging", "brash",
+			"hostile", "emasculating", "mean", "harsh", "sassy", "aggressive",
+			"opinionated", "domineering"
+			
+   ]
 }

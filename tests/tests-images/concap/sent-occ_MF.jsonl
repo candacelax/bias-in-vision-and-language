@@ -579,5 +579,16 @@
         "3099912708" : [21,22,23,24,25,26,27],
 	"2020632079" : [91,92,93,94,95,96,97]
       }
-  }
+  },
+  "contextual_words" : ["John", "Paul", "Mike", "Kevin", "Steve", "Greg", "Jeff", "Bill",
+      		        "Amy", "Joan", "Lisa", "Sarah", "Diana", "Kate", "Ann", "Donna",
+		     	"driver", "supervisor", "janitor", "cook", "mover", "laborer",
+		     	"construction worker", "chief", "developer", "carpenter", "manager",
+		     	"lawyer", "farmer", "salesperson", "physician", "guard", "analyst",
+		     	"mechanic", "sheriff", "CEO",
+		     	"attendant", "cashier", "teacher", "nurse", "assistant", "secretary",
+		     	"auditor", "cleaner", "receptionist", "clerk", "counselor", "hairdresser",
+		     	"writer", "housekeeper", "baker", "accountant", "editor", "librarian",
+		     	"tailor"
+		     ]
 }

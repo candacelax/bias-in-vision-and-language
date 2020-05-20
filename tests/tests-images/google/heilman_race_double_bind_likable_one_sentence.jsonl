@@ -424,5 +424,12 @@
 	"aa_female_unliked_3.jpg" : [7],
 	"aa_female_unliked_4.jpg" : [7]
     }
-  }
+  },
+  "contextual_words" : ["Adam", "Harry", "Josh", "Roger", "Amanda", "Courtney", "Heather",
+  		        "Melanie", "Alonzo", "Jamel", "Theo", "Alphonse", "Nichelle",
+			"Shereen", "Ebony", "Latisha",
+			"agreeable", "fair", "honest", "trustworthy", "selfless", "accommodating",
+			"likable", "liked", "abrasive", "conniving", "manipulative",
+			"dishonest", "selfish",	"pushy", "unlikable", "unliked"
+			]
 }

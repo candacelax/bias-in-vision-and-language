@@ -544,5 +544,11 @@
 	"female_unliked_8.jpg" : [7],
 	"female_unliked_9.jpg" : [7]
     }
-  }
+  },
+    "contextual_words" : ["John", "Paul", "Mike", "Kevin", "Steve", "Greg", "Jeff", "Bill",
+  		        "Amy", "Joan", "Lisa", "Sarah", "Diana", "Kate", "Ann", "Donna",
+			"agreeable", "fair", "honest", "trustworthy", "selfless", "accommodating",
+			"likable", "liked", "abrasive", "conniving", "manipulative",
+			"dishonest", "selfish",	"pushy", "unlikable", "unliked"
+			]
 }

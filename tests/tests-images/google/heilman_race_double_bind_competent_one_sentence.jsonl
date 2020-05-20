@@ -508,5 +508,13 @@
 	"aa_female_unassertive_3.jpg" : [9],
 	"aa_female_unassertive_4.jpg" : [9]
     }
-  }
+  },
+  "contextual_words" : ["Adam", "Harry", "Josh", "Roger", "Amanda", "Courtney", "Heather",
+  		        "Melanie", "Alonzo", "Jamel", "Theo", "Alphonse", "Nichelle",
+			"Shereen", "Ebony", "Latisha",
+			"competent", "productive", "effective", "ambitious", "active", "decision",
+			"strong", "tough", "bold", "assertive", "incompetent", "unproductive",
+			"ineffective", "unambitious", "passive", "indecisive", "weak",
+			"gentle", "timid", "unassertive"
+  ]
 }
