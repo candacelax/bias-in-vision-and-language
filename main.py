@@ -44,16 +44,9 @@ if __name__ == '__main__':
             test = BiasTest(test_data, bias_test_fp, params, image_features_fp)
             test_name = test.test_name
             
-            log.info('Total number of unique images: {}'.format(
-                test.dataloader_targ_X.dataset.getNumUniqueImages() + \
-                test.dataloader_targ_Y.dataset.getNumUniqueImages() + \
-                test.dataloader_attr_A_X.dataset.getNumUniqueImages() + \
-                test.dataloader_attr_A_Y.dataset.getNumUniqueImages() + \
-                test.dataloader_attr_B_X.dataset.getNumUniqueImages() + \
-                test.dataloader_attr_B_Y.dataset.getNumUniqueImages()))
-
+            log.info(f'Total number of unique images: {test.get_num_unique_images()}')
             encodings = test.encode(encoder)
-
+            
             log.info('Running experiment 1: union across attribute A_{X} and A_{Y}')
             results = test.run_weat_union(encodings, params.num_samples,
                                           test.category_targ_X, test.category_targ_Y,
