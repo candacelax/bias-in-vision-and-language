@@ -152,7 +152,7 @@ wget -O male_salesperson_7.jpg https://st4.depositphotos.com/1662991/24426/i/160
 wget -O male_salesperson_8.jpg https://thumbs.dreamstime.com/b/salesperson-presenting-medium-copyspace-advertising-friendly-supermarket-employee-sized-isolated-white-background-127879870.jpg
 wget -O male_salesperson_9.jpg https://images.cdn2.stockunlimited.net/preview1300/portrait-of-confident-male-salesperson-holding-knife-in-cheese-store_1927128.jpg
 			   
-wget -O male_physician_0.jpg https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/portrait-of-serious-handsome-male-doctor-with-crossed-hands-on-gray-picture-id802407384.jpg?itok=MX5JeODy
+wget -O male_physician_0.jpg https://image.freepik.com/free-photo/doctor-smiling-with-stethoscope_1154-36.jpg
 wget -O male_physician_1.jpg https://img.medscape.com/thumbnail_library/dt_181213_sad_depressed_pensive_doctor_800x450.jpg
 wget -O male_physician_2.jpg https://st2.depositphotos.com/1010683/5848/i/950/depositphotos_58482379-stock-photo-male-asian-doctor.jpg
 wget -O male_physician_3.jpg https://www.doctorcpr.com/blog/wp-content/uploads/2015/11/shutterstock_37147528-1-handsome-male-doctor-for-single-doctor-article.jpg
