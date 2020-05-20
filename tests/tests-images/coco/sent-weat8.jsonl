@@ -631,5 +631,15 @@
        "COCO_val2014_000000272253.jpg" : [65,66,67,68,69,70,71,72,73,74,75,76,77,78,79],
        "COCO_val2014_000000291606.jpg" : [65,66,67,68,69,70,71,72,73,74,75,76,77,78,79]
     }
-  }
+  },
+  "contextual_words" : ["science", "technology", "technologies", "physics", "chemisty",
+  		       "Einstein", "NASA", "experiment", "experiments", "astronomy",
+		       "poetry", "Shakespeare", "dance", "dances", "literature", "novel",
+		       "novels", "symphony", "symphonies",  "drama", "dramas",
+		       "brother", "brothers", "father", "fathers", "uncle", "uncles",
+		       "grandfather", "grandfathers", "son", "sons", "he", "his", "him",
+		       "sister", "sisters", "mother", "mothers", "aunt", "aunts",
+		       "grandmother", "grandmothers", "daughter", "daughters", "she", "her", "hers"
+  
+  ]
 }
