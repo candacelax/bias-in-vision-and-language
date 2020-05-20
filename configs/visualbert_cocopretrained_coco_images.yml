@@ -6,7 +6,6 @@ batch_size : 256
 num_samples: 100000
 bert_cache : .pytorch_pretrained_bert
 
-fpath_stopwords : scripts/stopwords.txt
 coco_ontology : visualbert/models/cocoontology.json
 test2features : tests/test2features.json
 

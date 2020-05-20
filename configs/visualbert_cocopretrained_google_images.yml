@@ -8,7 +8,6 @@ num_samples: 100000
 bert_cache : .pytorch_pretrained_bert # so we stop trying to go to home dir on machine
 
 coco_ontology : visualbert/models/cocoontology.json
-fpath_stopwords : scripts/stopwords.txt
 test2features : tests/test2features.json
 
 model_type : visualbert

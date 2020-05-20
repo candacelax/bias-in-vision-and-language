@@ -3,8 +3,6 @@ num_gpus : 1
 num_workers : 4
 val_workers : 2
 
-fpath_stopwords : scripts/stopwords.txt
-
 model_type : vilbert
 model_archive : vilbert_beta/pretrained-models/concap/six_layers_concap
 model_config : vilbert_beta/config/bert_base_6layer_6conect.json
@@ -13,8 +11,6 @@ bert_model : bert-base-uncased
 do_lower_case : True
 max_seq_length : 36
 
-dataset : concap
-task_cfg : vilbert_beta/bias_tasks_google.yml
 test2features : tests/test2features.json
 
 # model-specific params
@@ -23,9 +19,9 @@ batch_size : 64
 
 num_samples : 100000
 tests :
-      - tests/tests-images/coco/occ_MF.jsonl
-      - tests/tests-images/coco/sent-occ_MF.jsonl
-      - tests/tests-images/coco/weat6.jsonl
-      - tests/tests-images/coco/sent-weat6.jsonl
-      - tests/tests-images/coco/weat8.jsonl
-      - tests/tests-images/coco/sent-weat8.jsonl
+      - tests/tests-images/concap/occ_MF.jsonl
+      - tests/tests-images/concap/sent-occ_MF.jsonl
+      - tests/tests-images/concap/weat6.jsonl
+      - tests/tests-images/concap/sent-weat6.jsonl
+      #- tests/tests-images/concap/weat8.jsonl
+      #- tests/tests-images/concap/sent-weat8.jsonl
