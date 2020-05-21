@@ -93,7 +93,7 @@ wget -O aa_male_symphony_3.jpg https://s.hdnux.com/photos/01/00/27/53/16874236/4
 wget -O aa_male_symphony_4.jpg https://i.ytimg.com/vi/gEIVzWCRSg8/maxresdefault.jpg
 wget -O aa_female_symphony_0.jpg https://s3.amazonaws.com/sfc-datebook-wordpress/wp-content/uploads/sites/2/2019/01/18009878_DATEBOOK_oakland0129-1024x683.jpg
 wget -O aa_female_symphony_1.jpg https://i.pinimg.com/originals/86/6b/8a/866b8a5a33de622f1e8bfae1e7717812.jpg
-wget -O aa_female_symphony_2.jp ghttps://triblive.com/wp-content/uploads/2019/05/1121117_web1_PTR-SHANTANIQUE-050819.jpg
+wget -O aa_female_symphony_2.jpg https://triblive.com/wp-content/uploads/2019/05/1121117_web1_PTR-SHANTANIQUE-050819.jpg
 wget -O aa_female_symphony_3.jpg https://i.pinimg.com/236x/e6/be/2f/e6be2f4bc5d136eade0e9af89f9aea4c--electric-violin-electric-guitars.jpg
 wget -O aa_female_symphony_4.jpg https://bloximages.chicago2.vip.townnews.com/warrenrecord.com/content/tncms/assets/v3/editorial/5/f1/5f17a580-e787-11e8-8c9a-e3d38d7c0ccf/5beb3bcba6351.image.jpg?resize=400%2C274
 		     

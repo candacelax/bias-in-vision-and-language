@@ -66,7 +66,7 @@ wget -O male_literature_9.jpg https://www.nydailynews.com/resizer/ApyNalH23Tt75C
 		     
 wget -O male_novel_0.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDn3WC87g_jGpGe_ck5fXBJTZaAhBOKuHoPGMR5bLF83HRtCCFvw&s
 wget -O male_novel_1.jpg https://wamu.org/wp-content/uploads/2019/08/tope-1500x1004.jpg
-wget -O male_novel_2.jpg https://www.sonomanews.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=IZlK15zrvAB5IERnlhoJac$daE2N3K4ZzOUsqbU5sYu24UcndVBhcJe5b0OcRVKXWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg
+wget -O male_novel_2.jpg https://comps.canstockphoto.com/handsome-young-man-reading-book-at-home-picture_csp53516612.jpg
 wget -O male_novel_3.jpg https://i.ytimg.com/vi/9dBmpUCrECg/maxresdefault.jpg
 wget -O male_novel_4.jpg https://www.vpr.org/sites/vpr/files/styles/medium/public/201907/Howard-Norman-Calais-Author-Lindholm-20190701_0.jpg
 wget -O male_novel_5.jpg https://s.hdnux.com/photos/41/40/05/8782171/13/920x920.jpg
@@ -178,7 +178,7 @@ wget -O male_chemistry_0.jpg https://www.acs.org/content/acs/en/careers/college-
 wget -O male_chemistry_1.jpg https://cdn6.dissolve.com/p/D23_56_578/D23_56_578_1200.jpg
 wget -O male_chemistry_2.jpg https://chemistry.illinois.edu/sites/default/files/styles/mini_slider_image/public/images/minislider/anthony_03.jpg?itok=ONsPpWOX
 wget -O male_chemistry_3.jpg https://www.liberty.edu/health-sciences/wp-content/uploads/sites/45/2019/06/Bachelor-of-Science-in-Chemistry-20160630_9940MB.jpg
-wget -O male_chemistry_4.jpg https://videohive.img.customer.envatousercontent.com/files/221060940/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=6ded8b0d54a176604247ea1ed0c1f608
+wget -O male_chemistry_4.jpg https://videohive.img.customer.envatousercontent.com/files/221060940/preview.jpg?auto=compress%2Cformat\&fit=crop\&crop=top\&max-h=8000\&max-w=590\&s=6ded8b0d54a176604247ea1ed0c1f608
 wget -O male_chemistry_5.jpg https://vignette.wikia.nocookie.net/meangirls/images/f/f6/Chemistry_teacher.png/revision/latest?cb=20140202050726
 wget -O male_chemistry_6.jpg https://c8.alamy.com/comp/PE3732/professional-chemist-smart-nice-male-researcher-wearing-a-mask-and-protective-glasses-while-conducting-chemical-experiment-in-the-lab-PE3732.jpg
 wget -O male_chemistry_7.jpg https://www.pointloma.edu/sites/default/files/styles/1_1_640w/public/images/Chem_Research.jpg?itok=2l0NabE-
@@ -207,11 +207,11 @@ wget -O male_nasa_7.jpg https://www.biography.com/.image/ar_16:9%2Cc_fill%2Ccs_s
 wget -O male_nasa_8.jpg http://www.nasa.gov/sites/default/files/thumbnails/image/batch_1_larc_072716_picture_turner2_jko.jpg
 wget -O male_nasa_9.jpg https://s3-us-west-2.amazonaws.com/ncs-ons10-us-west-2-159685838580-content-prd/ns1or_lh1_p/s3fs-public/styles/cf_story_full_content/public/Image_cont_01ffc50c7d2a2e818db6b0637aa084455c42fd9a.jpeg?uX2HMXAQFkTDk98Rd7WQxBcQztMpyxFY&itok=IYtojU73
 		      
-wget -O male_experiment_0.jpg https://imgtoolkit.culturebase.org/?color=FFFFFF&quality=8&ar_ratio=1.3&format=jpg&file=https%3A%2F%2Fimg.culturebase.org%2F9%2F4%2Fd%2F2%2F9%2Fpic_1501251338_94d29b3860b4befada2aea8f0b213462.jpeg&do=cropOut&width=1200&height=585
+wget -O male_experiment_0.jpg https://imgtoolkit.culturebase.org/?color=FFFFFF\&quality=8\&ar_ratio=1.3\&format=jpg\&file=https%3A%2F%2Fimg.culturebase.org%2F9%2F4%2Fd%2F2%2F9%2Fpic_1501251338_94d29b3860b4befada2aea8f0b213462.jpeg\&do=cropOut\&width=1200\&height=585
 wget -O male_experiment_1.jpg https://static.scientificamerican.com/blogs/cache/file/59155D9C-703C-4662-93AF9AA913DA3CE8_source.jpg?w=590&h=800&900AD2BA-B727-4284-84CA47E5D1D8CFA0
 wget -O male_experiment_2.jpg https://previews.123rf.com/images/ximagination/ximagination1611/ximagination161100558/65720868-portrait-of-male-pharmacist-doing-experiment-with-chemical-liquid-in-the-laboratory.jpg
 wget -O male_experiment_3.jpg https://cdn9.dissolve.com/p/D23_56_573/D23_56_573_1200.jpg
-wget -O male_experiment_4.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/3474031/910/607/m2/fpnw/wm1/ajmhlbcgovjljy6golkc1wtgh0xopuiipatmop9qtqpwncvhjjuhahloarsnashz-.jpg?1509016352&s=ffd97f6e0a01bf06f72c0f33d234c6e8
+wget -O male_experiment_4.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/3474031/910/607/m2/fpnw/wm1/ajmhlbcgovjljy6golkc1wtgh0xopuiipatmop9qtqpwncvhjjuhahloarsnashz-.jpg?1509016352\&s=ffd97f6e0a01bf06f72c0f33d234c6e8
 wget -O male_experiment_5.jpg https://previews.123rf.com/images/imagedb/imagedb1312/imagedb131200184/24632000-male-scientist-doing-scientific-experiment-in-a-laboratory.jpg
 wget -O male_experiment_6.jpg https://thumbs.dreamstime.com/z/male-student-performing-science-experiment-science-male-student-performing-science-experiment-117257732.jpg
 wget -O male_experiment_7.jpg https://cdn6.dissolve.com/p/D23_56_574/D23_56_574_1200.jpg

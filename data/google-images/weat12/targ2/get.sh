@@ -1,4 +1,4 @@
-wget -O male_ea_0.jpg https://bloximages.chicago2.vip.townnews.com/stlamerican.com/content/tncms/assets/v3/editorial/1/cb/1cb65068-c76d-11e8-8686-7f40e5fbe1d0/5bb5605309dba.image.jpg?resize=400%2C422
+wget -O male_aa_0.jpg https://bloximages.chicago2.vip.townnews.com/stlamerican.com/content/tncms/assets/v3/editorial/1/cb/1cb65068-c76d-11e8-8686-7f40e5fbe1d0/5bb5605309dba.image.jpg?resize=400%2C422
 wget -O male_aa_1.jpg https://cms.qz.com/wp-content/uploads/2018/10/Kiese-Laymon1.jpg?quality=75&strip=all&w=410&h=492&crop=1
 wget -O male_aa_2.jpg https://media.haircutinspiration.com/photos/20190314223105/Michael-Jordans-Short-Haircut-1-1.jpg
 wget -O male_aa_3.jpg http://www.uakron.edu/ie/bms2017/images/rucker-lamman.jpg
@@ -31,6 +31,11 @@ wget -O male_aa_29.jpg https://images.fineartamerica.com/images-medium-large-5/b
 wget -O male_aa_30.jpg https://www.theatermania.com/s/tm-photos-production/132876.jpg
 wget -O male_aa_31.jpg https://images.unsplash.com/photo-1549920867-1629df28cdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
 wget -O male_aa_32.jpg https://rightwingfolks.com/wp-content/uploads/2019/03/11-6.jpg
+wget -O male_aa_33.jpg https://cdn.washingtoncitypaper.com/files/base/scomm/wcp/image/2019/07/960w/Folarin_photo_credit_Valerie_Woody.5d3b2983c9977.jpg
+wget -O male_aa_34.jpg https://loveandgrace.co.za/wp-content/uploads/2018/04/handsome-young-black-man-with-serious-expression-P8F5DG8.jpg
+wget -O male_aa_35.jpg https://images.unsplash.com/photo-1561259230-46fa9832bf20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget -O male_aa_36.jpg https://cms.qz.com/wp-content/uploads/2019/06/LastBlackMan-e1560121107343.jpg?quality=75&strip=all&w=410&h=231
+wget -O male_aa_37.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2Fa18666b53a944ad3951a502f7d071c9a%2F960x0.jpg%3Ffit%3Dscale
 
 wget -O female_aa_0.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2013/07/Alicia-Boler-Davis-2.jpg
 wget -O female_aa_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/Mcdonalds-1023x675.jpg

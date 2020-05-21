@@ -43,7 +43,7 @@ wget -O aa_female_trustworthy_3.jpg https://images-na.ssl-images-amazon.com/imag
 wget -O aa_female_trustworthy_4.jpg https://images-na.ssl-images-amazon.com/images/I/41Pqarqrq2L._SX355_.jpg
 
 wget -O aa_male_selfless_0.jpg https://3.bp.blogspot.com/-F9WCFiVeTp4/XCfY2Bo4nzI/AAAAAAAActI/-0b61rcTYEodw2vFHDF9Z4AAJ3aAFWptwCLcBGAs/s1600/sad-depressed-young-black-african-man-looking-out-the-window-gettyimages-565974309-min.jpg
-wget -O aa_male_selfless_1.jpg https://timothytt.com/wp-content/uploads/2019/04/hussle.gif
+wget -O aa_male_selfless_1.jpg https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1197A2MPA2551PT17X60Y58D1016785692FS3936/views/1,width=800,height=800,appearanceId=2,backgroundColor=F2F2F2,modelId=1970,crop=detail,version=1542186707/kidney-organ-selfless-organ-donor-help-doctor-mens-5050-t-shirt.jpg
 wget -O aa_male_selfless_2.jpg https://www.thesun.co.uk/wp-content/uploads/2019/10/NINTCHDBPICT000533820518-e1572004179124.jpg
 wget -O aa_male_selfless_3.jpg https://www.gannett-cdn.com/presto/2019/10/03/PIND/d48b0c7f-127d-4a20-9e1c-33fdffedce4c-al-hayes.jpg?crop=1439,1439,x0,y0
 wget -O aa_male_selfless_4.jpg https://i1.wp.com/valourdigest.com/wp-content/uploads/2016/08/Selfish-man.jpg?fit=507%2C338&ssl=1

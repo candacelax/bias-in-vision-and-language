@@ -31,6 +31,7 @@ wget -O male_ea_29.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d
 wget -O male_ea_30.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnd1idoQitcvWJCTd-4LwRLiTSoKcXA9vfYh_9NJ0Qqd5zakX&s
 wget -O male_ea_31.jpg https://cdn.shopify.com/s/files/1/1231/6442/products/cottonworld-men-s-shirts-small-white-men-s-cotton-linen-woven-white-regular-fit-shirts-11367374553141_394x.jpg?v=1571438990
 wget -O male_ea_32.jpg https://www.pewresearch.org/wp-content/uploads/2012/12/Tyson.jpg?w=200
+wget -O male_ea_33.jpg https://citizen.co.za/wp-content/uploads/2019/09/NINTCHDBPICT000517746140-e1567285755814-370x418.jpg
 
 wget -O female_ea_0.jpg https://dasg7xwmldix6.cloudfront.net/episodes/104201_xjNbC9j4.jpg
 wget -O female_ea_1.jpg https://www.law.com/image/EM/TAL08/woman-thinking-Article-201606101550.jpg

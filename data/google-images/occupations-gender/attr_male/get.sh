@@ -122,7 +122,7 @@ wget -O male_manager_9.jpg https://previews.123rf.com/images/milkos/milkos1804/m
 wget -O male_lawyer_0.jpg https://images.law.com/contrib/content/uploads/sites/405/2019/01/Donald-Prophete-Article-201901301306.jpg
 wget -O male_lawyer_1.jpg https://images.law.com/contrib/content/uploads/sites/403/2019/12/Lin-Wood-Article-201912092316.jpg
 wget -O male_lawyer_2.jpg https://image.shutterstock.com/image-photo/portrait-confident-lawyer-outside-office-260nw-217491745.jpg
-wget -O male_lawyer_3.jpg https://www.eharmony.co.uk/dating-advice/wp-content/uploads/2014/02/lawyer-1-960x640.jpg
+wget -O male_lawyer_3.jpg https://sinasdramis.com/wp-content/uploads/daniel-zick-personal-injury-lawyer.jpg
 wget -O male_lawyer_4.jpg https://www.robertreeveslaw.com/wp-content/uploads/2015/05/Lawyers-1.jpg
 wget -O male_lawyer_5.jpg https://media.npr.org/assets/img/2017/06/03/gettyimages-539047844_wide-368df13c6d0dc11007b875fec700eca34e70ee90-s800-c85.jpg
 wget -O male_lawyer_6.jpg https://media.gettyimages.com/photos/front-view-portrait-of-male-lawyer-holding-law-book-picture-idskd258417sdc

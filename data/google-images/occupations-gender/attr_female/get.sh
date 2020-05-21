@@ -1,5 +1,5 @@
 wget -O female_driver_0.jpg https://e3.365dm.com/18/08/768x432/skynews-woman-driver-female_4404542.jpg?20180829122732
-wget -O female_driver_1.jpg https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1069%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1069%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-04%252F4e974780-60f2-11e9-87de-b5b2c15303a3%26client%3Da1acac3e1b3290917d92%26signature%3Dcb0169aa33ca35218704a8311030814a0c18a567&client=amp-blogside-v2&signature=0f59d6c80b4402f83d382b2d53a2267a2b5bc36c
+wget -O female_driver_1.jpg https://o.aolcdn.com/images/dims?quality=85\&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1069%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1069%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-04%252F4e974780-60f2-11e9-87de-b5b2c15303a3%26client%3Da1acac3e1b3290917d92%26signature%3Dcb0169aa33ca35218704a8311030814a0c18a567\&client=amp-blogside-v2\&signature=0f59d6c80b4402f83d382b2d53a2267a2b5bc36c
 wget -O female_driver_2.jpg https://image.shutterstock.com/image-photo/woman-car-260nw-577218682.jpg
 wget -O female_driver_3.jpg https://ichef.bbci.co.uk/news/660/cpsprodpb/DC01/production/_107512365_rsz_img_1402-1.jpg
 wget -O female_driver_4.jpg https://image.shutterstock.com/image-photo/pretty-female-driver-260nw-316421612.jpg
@@ -66,7 +66,7 @@ wget -O female_laborer_9.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURB
 			   
 wget -O female_construction_0.jpg https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wM1xcXC8yNzExMzY0MFxcXC9Db25zdHJ1Y3Rpb24uanBnXCIsXCJ3aWR0aFwiOjczMCxcImhlaWdodFwiOjM4OSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmltYWdlLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmc_dj0yXCJ9IiwiaGFzaCI6IjEzZDdjOWI4Zjk0Y2I2NzAwM2Q4MjRhNTUwYTk5YmM2NWY3ZTE2NjYifQ==/reality-check-what-it-s-like-being-a-woman-in-the-construction-industry.jpg
 wget -O female_construction_1.jpg https://www.safetyandhealthmagazine.com/ext/resources/images/news/construction/female-construction-worker.jpg?1531422016
-wget -O female_construction_2.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/4079889/910/607/m2/fpnw/wm1/zwsxjkrmiazbd3jtbptuhfe0hbrrwprelhbmvxaw3bi0zprqciezsc2no3svvhvl-.jpg?1519947358&s=1baa61bb8dea99d520b09c9d10876ec2
+wget -O female_construction_2.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/4079889/910/607/m2/fpnw/wm1/zwsxjkrmiazbd3jtbptuhfe0hbrrwprelhbmvxaw3bi0zprqciezsc2no3svvhvl-.jpg?1519947358\&s=1baa61bb8dea99d520b09c9d10876ec2
 wget -O female_construction_3.jpg https://www.womeninconstructionsummit.com/hs-fs/hubfs/FemaleConstructionWorkerUK-1.jpg?width=800&name=FemaleConstructionWorkerUK-1.jpg
 wget -O female_construction_4.jpg https://previews.123rf.com/images/auremar/auremar1711/auremar171101484/90009354-a-female-construction-worker.jpg
 wget -O female_construction_5.jpg https://image.cnbcfm.com/api/v1/image/105420523-1535475566932civilengineer.jpg?v=1535475620&w=720&h=405
@@ -224,7 +224,7 @@ wget -O female_attendant_2.jpg https://i.pinimg.com/564x/47/52/7a/47527a3d7201ed
 wget -O female_attendant_3.jpg https://ae01.alicdn.com/kf/HTB1j8hgF29TBuNjy1zbq6xpepXax.jpg
 wget -O female_attendant_4.jpg https://corinnepack.files.wordpress.com/2013/10/p1120740.jpg
 wget -O female_attendant_5.jpg https://salarieshub.com/wp-content/uploads/2016/10/flight-attendant.jpg
-wget -O female_attendant_6.jpg https://lh3.googleusercontent.com/proxy/cBwdpWdMdbe5CLok9JNnJtkBvbBrEihBQE_HS19NjLaAnQtwTF53osJ8-8OZK_lT6cB25l2XUOHG_BWcdCdfRMfUCdFYEnC36Qm6ckhlXb_-6MoCXmkgzwv6iDF-hFaedA
+wget -O female_attendant_6.jpg https://ajelen.com/wp-content/uploads/2019/05/Domestic-airline-Flynas-is-recruiting-female-flight-attendants-for-the-first-time..jpg
 wget -O female_attendant_7.jpg https://cf.ltkcdn.net/jobs/images/std/31946-233x350-Requirements_flightattendant.jpg
 wget -O female_attendant_8.jpg https://i.pinimg.com/736x/3c/29/b9/3c29b97c16de9c8e94555aed60ddcbb7.jpg
 wget -O female_attendant_9.jpg https://i.pinimg.com/474x/c0/99/8a/c0998a9129619bf6ae95107ae3bfc3c2.jpg
@@ -232,13 +232,13 @@ wget -O female_attendant_9.jpg https://i.pinimg.com/474x/c0/99/8a/c0998a9129619b
 wget -O female_teacher_0.jpg https://previews.123rf.com/images/serezniy/serezniy1809/serezniy180923113/109569446-young-female-teacher-beside-blackboard-on-white-background.jpg
 wget -O female_teacher_1.jpg https://previews.123rf.com/images/bbtreesubmission/bbtreesubmission1709/bbtreesubmission170916170/87071948-asian-female-teacher-teaching-a-class.jpg
 wget -O female_teacher_2.jpg https://previews.123rf.com/images/michaeljung/michaeljung0906/michaeljung090600304/5126547-happy-female-teacher.jpg
-wget -O female_teacher_3.jpg https://elements-video-cover-images-0.imgix.net/files/199342582/preview.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=a4a94e221307a5636a766de57ff16cc3
+wget -O female_teacher_3.jpg https://elements-video-cover-images-0.imgix.net/files/199342582/preview.jpg?auto=compress%2Cformat\&fit=min\&h=394\&w=700\&s=a4a94e221307a5636a766de57ff16cc3
 wget -O female_teacher_4.jpg https://charlestonmathscience.org/wp-content/uploads/2016/11/smiling-female-teacher-with-long-hair-in-front-of-chalk-board.jpg
 wget -O female_teacher_5.jpg https://ak5.picdn.net/shutterstock/videos/18725795/thumb/1.jpg
 wget -O female_teacher_6.jpg https://c8.alamy.com/comp/DDYFW9/young-female-teacher-explaining-a-lesson-while-standing-against-chalkboard-DDYFW9.jpg
 wget -O female_teacher_7.jpg https://thumbs.dreamstime.com/z/female-teacher-25183851.jpg
 wget -O female_teacher_8.jpg https://ak7.picdn.net/shutterstock/videos/18804347/thumb/1.jpg
-wget -O female_teacher_9.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/5529114/910/1363/m2/fpnw/wm1/bnenydszgjyhp7csh9rpyz3dvjmh8wfay4kmyly5ivd3zrxd73lfecnm5mastxet-.jpg?1544431739&s=949c7b28bb7b1ad6422a81efb33f2a48
+wget -O female_teacher_9.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/5529114/910/1363/m2/fpnw/wm1/bnenydszgjyhp7csh9rpyz3dvjmh8wfay4kmyly5ivd3zrxd73lfecnm5mastxet-.jpg?1544431739\&s=949c7b28bb7b1ad6422a81efb33f2a48
 			   
 wget -O female_nurse_0.jpg https://media.gettyimages.com/photos/shes-a-gifted-medical-professional-picture-id919539228?s=612x612
 wget -O female_nurse_1.jpg https://media.istockphoto.com/photos/portrait-of-mature-female-nurse-working-in-hospital-picture-id835138542?k=6&m=835138542&s=612x612&w=0&h=02EYJmx_2jRM82BRQj6ABZu9OewRQmI5HDWRkXWpFHc=
@@ -409,7 +409,7 @@ wget -O female_librarian_0.jpg https://cdn.vox-cdn.com/thumbor/TtDqRBc6dcsbzNeYe
 wget -O female_librarian_1.jpg https://c8.alamy.com/comp/FARR07/attractive-female-librarian-at-work-FARR07.jpg
 wget -O female_librarian_2.jpg https://image.shutterstock.com/image-photo/attractive-young-woman-portrait-wearing-260nw-721002565.jpg
 wget -O female_librarian_3.jpg https://www.readersdigest.ca/wp-content/uploads/sites/14/2017/04/librarian-secrets-havent-read-that-many-books.jpg
-wget -O female_librarian_4.jpg https://www.eharmony.com/dating-advice/wp-content/uploads/2013/07/dating-a-librarian.jpg
+wget -O female_librarian_4.jpg https://studentwork.prattsi.org/infoshow/wp-content/uploads/sites/2/2014/05/RI-tat-lib.png
 wget -O female_librarian_5.jpg https://cdn8.dissolve.com/p/D25_59_302/D25_59_302_1200.jpg
 wget -O female_librarian_6.jpg https://thumbs.dreamstime.com/z/female-librarian-standing-stack-books-29664545.jpg
 wget -O female_librarian_7.jpg https://qph.fs.quoracdn.net/main-qimg-113ba608c3866869aa025ed817eb6dc3
@@ -434,6 +434,6 @@ wget -O female_cashier_3.jpg https://cdn6.dissolve.com/p/D985_59_314/D985_59_314
 wget -O female_cashier_4.jpg https://previews.123rf.com/images/stockbroker/stockbroker1507/stockbroker150704962/42271429-female-cashier-at-supermarket-checkout.jpg
 wget -O female_cashier_5.jpg https://image.shutterstock.com/image-photo/female-cashier-showing-thumb-while-600w-753588979.jpg
 wget -O female_cashier_6.jpg https://fscomps.fotosearch.com/compc/IGS/IGS070/female-cashier-and-customer-at-stock-image__is098v382.jpg
-wget -O female_cashier_7.jpg https://media.rbl.ms/image?u=%2Ffiles%2F2017%2F01%2F04%2F636190867939008575121068207_4822192685_a5fdf5a614_o.jpg&ho=https%3A%2F%2Faz616578.vo.msecnd.net&s=935&h=9263ab8ec1ff66b8c3aaa9bd80288b9a665f81e0107c099e77b9caec40df0c6f&size=980x&c=2564132326
+wget -O female_cashier_7.jpg https://media.rbl.ms/image?u=%2Ffiles%2F2017%2F01%2F04%2F636190867939008575121068207_4822192685_a5fdf5a614_o.jpg\&ho=https%3A%2F%2Faz616578.vo.msecnd.net\&s=935\&h=9263ab8ec1ff66b8c3aaa9bd80288b9a665f81e0107c099e77b9caec40df0c6f\&size=980x\&c=2564132326
 wget -O female_cashier_8.jpg https://st3.depositphotos.com/1570716/17300/i/1600/depositphotos_173001208-stock-photo-female-cashier-smiling-to-customer.jpg
 wget -O female_cashier_9.jpg https://c8.alamy.com/comp/BJHG92/female-cashier-in-the-supermarket-BJHG92.jpg
