@@ -46,7 +46,7 @@ wget -O ea_male_selfless_0.jpg http://www.movieviral.com/wp-content/uploads/2015
 wget -O ea_male_selfless_1.jpg https://pbs.twimg.com/media/Df6Ewi_V4AEASSZ.jpg
 wget -O ea_male_selfless_2.jpg https://clutchpoints.com/wp-content/uploads/2019/05/Kirk_Herbstreit_is_hoping_Pittsburgh_can_get_back_to__selfless__approach.jpg
 wget -O ea_male_selfless_3.jpg https://pmcvariety.files.wordpress.com/2013/05/ryan-reynolds1.jpg?w=1000&h=563&crop=1
-wget -O ea_male_selfless_4.jpg https://cdn.onebauer.media/one/empire-legacy/uploaded/ryan-reynolds.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg
+wget -O ea_male_selfless_4.jpg https://www.gannett-cdn.com/-mm-/bc7d0fd9eb4493e44e6e7e19dd4c1d0eba8fd3ed/c=0-77-616-539/local/-/media/2016/10/20/Wichita%20Falls/Jake+Bailey_cropped.jpg?width=534&height=401&fit=crop
 wget -O ea_female_selfless_0.jpg https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYQPlX.img?h=0&w=720&m=6&q=60&u=t&o=f&l=f&x=614&y=263
 wget -O ea_female_selfless_1.jpg https://i.ytimg.com/vi/JOBNKq36nHE/maxresdefault.jpg
 wget -O ea_female_selfless_2.jpg https://imgix.bustle.com/rehost/2016/9/13/776493d4-38d9-4670-b421-4207b9d85f11.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70
@@ -162,7 +162,7 @@ wget -O ea_female_unlikable_0.jpg https://thumbor.forbes.com/thumbor/960x0/https
 wget -O ea_female_unlikable_1.jpg https://www.usnews.com/dims4/USNEWS/3f382d4/2147483647/thumbnail/640x420/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F0a%2F44%2F5cadf77b4af78bc8a7b7835b703f%2F170413-hillaryclinton-editorial.jpg
 wget -O ea_female_unlikable_2.jpg https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2019/01/RTX6KF4F.jpg?fit=789%2C460&ssl=1
 wget -O ea_female_unlikable_3.jpg https://www.damemagazine.com/wp-content/uploads/2017/12/crying-woman-1000x540.jpg
-wget -O ea_female_unlikable_4.jpghttps://www.indiewire.com/wp-content/uploads/2018/06/shutterstock_9715700aj.jpg?w=780
+wget -O ea_female_unlikable_4.jpg https://www.indiewire.com/wp-content/uploads/2018/06/shutterstock_9715700aj.jpg?w=780
 
 wget -O ea_male_unliked_0.jpg https://cdn.cnn.com/cnnnext/dam/assets/180718005218-carl-bernstein-ac360-071718-exlarge-169.jpg
 wget -O ea_male_unliked_1.jpg https://images.axios.com/XuJoa72QVNlP6-rtVkD6ksZxRnY=/470x13:3840x1910/1920x1080/2019/09/22/1569170430398.None
