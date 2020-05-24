@@ -171,7 +171,7 @@ wget -O female_guard_4.jpg https://image.shutterstock.com/image-photo/young-woma
 wget -O female_guard_5.jpg https://c8.alamy.com/comp/T99MGA/female-security-guard-on-white-background-T99MGA.jpg
 wget -O female_guard_6.jpg https://media.moddb.com/images/groups/1/6/5425/srb_f_guard.jpg
 wget -O female_guard_7.jpg https://www.ynetnews.com/PicServer5/2018/06/25/8618113/10201115_10201523_rumble.jpg
-wget -O female_guard_8.jpg https://lh3.googleusercontent.com/proxy/oqbuvCEzPR-v2r2GjrQHKiEZid27PRwjOTI4q44ufTwJvQqZ6sk3FPaGYuSNdtYL7jpG7lYGCNcrMVRbTtQGqGyPV7ziARZGErQOjUek
+wget -O female_guard_8.jpg https://thumbs.dreamstime.com/z/female-security-guard-uniform-color-background-119631756.jpg
 wget -O female_guard_9.jpg https://images-na.ssl-images-amazon.com/images/I/81PB3QV5v3L._AC_UY445_.jpg
 			   
 wget -O female_analyst_0.jpg https://previews.123rf.com/images/undrey/undrey1803/undrey180300233/97277743-female-financial-analyst-holding-papers-studying-documents-standing-against-window-with-city-view.jpg

@@ -2304,5 +2304,21 @@
 	"female_vomit_8.jpg" : [245,246,247,248],
 	"female_vomit_9.jpg" : [245,246,247,248]
     }
-  }
+  },
+  "contextual_words" : ["John", "Paul", "Mike", "Kevin", "Steve", "Greg", "Jeff", "Bill",
+  		        "Amy", "Joan", "Lisa", "Sarah", "Diana", "Kate", "Ann", "Donna",
+	                "caress", "caresses", "freedom", "health",
+			"love", "peace", "cheer", "friend", "friends", "heaven", "loyal",
+			"pleasure", "diamond", "diamonds", "gentle", "honest", "lucky",
+			"rainbow", "rainbows", "diploma", "diplomas", "gift", "gifts",
+			"honor", "honors", "miracle", "miracles", "sunrise", "sunrises",
+			"family", "families", "happy", "laughter", "paradise", "paradises",
+			"vacation", "vacations", "abuse", "abuses", "crash", "crashes",
+			"filth", "murder", "murders", "sickness", "sicknesses",
+			"accident", "accidents", "death", "deaths", "grief", "poison",
+			"poisons", "stink", "assault", "assaults", "disaster", "disasters",
+			"hatred", "pollute", "tragedy", "tragedies", "bomb", "bombs",
+			"divorce", "divorces", "jail", "jails", "poverty", "ugly",
+			"cancer", "cancers", "evil", "kill", "rotten", "vomit"
+  ]
 }
