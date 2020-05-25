@@ -5,17 +5,9 @@ from time import localtime
 import logging as log
 import os
 import re
+import scripts # TODO rename
 
-from scripts.encoder import EncoderWrapper
-
-# VisualBERT
-import visualbert.models.model # to register custom models from visualbert
-from visualbert.models.model_wrapper import ModelWrapper
-# ViLBERT
-from vilbert.vilbert import VILBertForVLTasks as VILBERT
-from vilbert.vilbert import BertForMultiModalPreTraining, BertConfig
-
-def load_params():
+def load_eval_params():
     parser = ArgumentParser(config_file_parser_class=YAMLConfigFileParser)
     # general
     parser.add_argument('-c', '--config', is_config_file=True, required=True, type=str,
@@ -27,14 +19,13 @@ def load_params():
     parser.add_argument('--val_workers', type=int, default=2)
     parser.add_argument('--batch_size', type=int, default=64)
 
-    parser.add_argument('--test2features', type=str, required=True,
+    # bias tests and image/text data
+    parser.add_argument('--test2features_path', type=str, required=True,
                         help='path to JSON file of features, stored by model and test')
     parser.add_argument('--tests', nargs='+', required=True, help='paths to tests to run')
-
-    # dataset
-    parser.add_argument('--dataset', default='coco', type=str, choices=['coco', 'concap', 'custom'],
-                        help='name of dataset to load')
     parser.add_argument('--coco_ontology', type=str, help='only required for COCO dataset')
+    parser.add_argument('--obj_list', type=str,
+                        help='path to list of objects by idx; only needed for ViLBERT')
     # model
     parser.add_argument('--model_type', type=str, required=True, choices=['visualbert', 'vilbert'])
     parser.add_argument('--model_archive', type=str, required=True, help='path to saved model to load')
@@ -44,9 +35,6 @@ def load_params():
     parser.add_argument('--max_seq_length', type=int, default=36)
     parser.add_argument('--bert_cache', type=str, default='.pytorch_pretrained_bert')
 
-    # bias params
-    parser.add_argument('--task_cfg', type=str)
-    parser.add_argument('--fpath_stopwords', type=str, default='scripts/stopwords.txt')
     parser.add_argument('--num_samples', type=int, default=100000,
                         help='num/samples for p-val permutation test')
     args = parser.parse_args()
@@ -62,7 +50,7 @@ def load_params():
 
     return params
 
-def setup_log(params):
+def setup_log(params: AttrDict):
     t = localtime()
     timestamp = f'{t.tm_mon}-{t.tm_mday}-{t.tm_year}_' +\
                 f'{t.tm_hour:02d}:{t.tm_min:02d}:{t.tm_sec:02d}'
@@ -72,21 +60,17 @@ def setup_log(params):
     os.mkdir(f'results/{timestamp}')
     return log, timestamp
 
-def load_model(params):
+def load_model(params: AttrDict):
     # load model
     if re.match('vilbert', params.model_type, re.IGNORECASE):
-        config = BertConfig.from_json_file(params.model_config)
-        model = VILBERT.from_pretrained(pretrained_model_name_or_path=params.model_archive,
-                                        config=config, num_labels=1)
-        model = model.cuda()
+        config = scripts.ViLBERTBertConfig.from_json_file(params.model_config)
+        model = scripts.ViLBERTPretraining.from_pretrained(\
+                    pretrained_model_name_or_path=params.model_archive, config=config).cuda()
 
     elif re.match('visualbert', params.model_type, re.IGNORECASE):
         params.train_set_size = 20000 # not important, only used for optim and we're not doing this step
         # TODO would be nice to entirely skip using wrapper and need to init optim
-        model = ModelWrapper(params, params.train_set_size)
+        model = scripts.VisualBERTModelWrapper(params, params.train_set_size)
         model.restore_checkpoint_pretrained(params.model_archive)
 
-
-    # add wrapper
-    wrapper = EncoderWrapper(model)
-    return wrapper
+    return model
