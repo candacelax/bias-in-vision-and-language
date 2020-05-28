@@ -6,6 +6,7 @@ val_workers : 2
 model_type : vilbert
 model_archive : vilbert_beta/pretrained-models/concap/six_layers_concap
 model_config : vilbert_beta/config/bert_base_6layer_6conect.json
+obj_list : bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
 
 bert_model : bert-base-uncased
 do_lower_case : True
@@ -19,8 +20,8 @@ batch_size : 64
 
 num_samples : 100000
 tests :
-      - tests/tests-images/concap/occ_MF.jsonl
-      - tests/tests-images/concap/sent-occ_MF.jsonl
+      - tests/tests-images/concap/occ_gender.jsonl
+      - tests/tests-images/concap/sent-occ_gender.jsonl
       - tests/tests-images/concap/weat6.jsonl
       - tests/tests-images/concap/sent-weat6.jsonl
       #- tests/tests-images/concap/weat8.jsonl

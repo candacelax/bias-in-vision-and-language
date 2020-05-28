@@ -4,6 +4,7 @@ num_workers : 4
 val_workers : 2
 
 test2features : tests/test2features.json
+obj_list : bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
 
 model_type : vilbert
 model_archive : vilbert_beta/pretrained-models/concap/six_layers_concap
@@ -19,7 +20,7 @@ batch_size : 64
 
 num_samples : 100000
 tests :
-      - tests/tests-images/google/weat3.jsonl
+      #- tests/tests-images/google/weat3.jsonl
       - tests/tests-images/google/sent-weat3.jsonl
       - tests/tests-images/google/weat6.jsonl
       - tests/tests-images/google/sent-weat6.jsonl
@@ -41,7 +42,7 @@ tests :
       - tests/tests-images/google/heilman_race_double_bind_likable_one_sentence.jsonl
       - tests/tests-images/google/angry_black_woman_stereotype.jsonl
       - tests/tests-images/google/sent-angry_black_woman_stereotype.jsonl
-      - tests/tests-images/google/occ_MF.jsonl
-      - tests/tests-images/google/sent-occ_MF.jsonl
+      - tests/tests-images/google/occ_gender.jsonl
+      - tests/tests-images/google/sent-occ_gender.jsonl
       - tests/tests-images/google/occ_race.jsonl
       - tests/tests-images/google/sent-occ_race.jsonl

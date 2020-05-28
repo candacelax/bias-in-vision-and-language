@@ -14,8 +14,8 @@ model_archive : visualbert/pretrained-models/nlvr2_coco_pre_trained.th
 model_config : visualbert/configs/nlvr2/bias-configs/coco-pre-train-bias.json
 
 tests :
-      - tests/tests-images/coco/occ_MF.jsonl
-      - tests/tests-images/coco/sent-occ_MF.jsonl
+      - tests/tests-images/coco/occ_gender.jsonl
+      - tests/tests-images/coco/sent-occ_gender.jsonl
       - tests/tests-images/coco/weat6.jsonl
       - tests/tests-images/coco/sent-weat6.jsonl
       - tests/tests-images/coco/weat8.jsonl
