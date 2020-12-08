@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "google",
+  "test_name" : "sent-occ_race",
   "targ1": {
     "category": "EuropeanAmerican",
     "captions": {

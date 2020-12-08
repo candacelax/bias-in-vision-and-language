@@ -1,6 +1,7 @@
 {
   "test_types" : ["word"],
   "dataset" : "google",
+  "test_name" : "occ_race",
   "targ1": {
     "category": "EuropeanAmerican",
     "captions": {
@@ -1008,5 +1009,15 @@
 	"aa_female_tailor_3.jpg" : [19],
 	"aa_female_tailor_4.jpg" : [19]
       }
-  }
+  },
+  "contextual_words" : ["Adam", "Harry", "Josh", "Roger", "Amanda", "Courtney", "Heather", "Melanie",
+  		        "Alonzo", "Jamel", "Theo", "Alphonse", "Nichelle", "Shereen", "Ebony",
+			"Latisha", "driver", "supervisor", "janitor", "cook", "mover", "laborer",
+			"construction worker", "chief", "developer", "carpenter", "manager", "lawyer",
+			"farmer", "salesperson", "physician", "guard", "analyst",
+			"mechanic", "sheriff", "CEO", "attendant", "cashier", "teacher", "nurse",
+			"assistant", "secretary", "auditor", "cleaner", "receptionist",
+			"clerk", "counselor", "designer", "hairdresser", "writer", "housekeeper",
+			"baker", "accountant", "editor", "librarian", "tailor"
+  ]
 }

@@ -1,6 +1,7 @@
 {
   "test_types" : ["word"],
   "dataset" : "google",
+  "test_name" : "weat6",
   "targ1": {
     "category": "MaleNames",
     "captions": {
@@ -544,5 +545,13 @@
 	"female_relatives_8.jpg" : [7],
 	"female_relatives_9.jpg" : [7]
     }
-  }
+  },
+  "contextual_words" : ["John", "Paul", "Mike", "Kevin", "Steve", "Greg", "Jeff", "Bill",
+  		        "Amy", "Joan", "Lisa", "Sarah", "Diana", "Kate", "Ann", "Donna",
+			"executive", "executives", "management", "managements", "professional",
+			"corporation", "corporations", "salary", "salaries", "office", "offices",
+			"business", "businesses", "career", "careers", "home", "homes", "parent",
+			"parents", "child", "children", "family", "families", "cousin", "cousins",
+			"marriage", "marriages", "wedding", "weddings", "relative", "relatives"
+  ]
 }

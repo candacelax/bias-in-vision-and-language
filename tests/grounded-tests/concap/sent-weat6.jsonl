@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "concap",
+  "test_name" : "sent-weat6",
   "targ1": {
     "category": "MaleNames",
     "captions": {

@@ -1,6 +1,7 @@
 {
   "test_types" : ["word"],
   "dataset" : "google",
+  "test_name" : "weat13",
   "targ1": {
     "category": "EuropeanAmericanNames",
     "captions": {
@@ -552,5 +553,21 @@
 	 "aa_female_drama_3.jpg" : [7],	 
 	 "aa_female_drama_4.jpg" : [7]
     }
-  }
+  },
+  "contextual_words" : ["Adam", "Harry", "Josh", "Roger", "Alan", "Frank", "Justin",
+  		        "Ryan", "Andrew", "Jack", "Matthew", "Stephen", "Brad",
+			"Greg", "Paul", "Jonathan", "Peter", "Amanda", "Courtney",
+			"Heather", "Melanie", "Katie", "Betsy", "Kristin", "Nancy",
+			"Stephanie", "Ellen", "Lauren", "Colleen", "Emily", "Megan",
+			"Rachel", "Alonzo", "Jamel", "Theo", "Alphonse", "Jerome", "Leroy",
+			"Torrance", "Darnell", "Lamar", "Lionel", "Tyree", "Deion",
+			"Lamont", "Malik", "Terrence", "Tyrone", "Lavon", "Marcellus",
+			"Wardell", "Nichelle", "Shereen", "Ebony", "Latisha", "Shaniqua",
+			"Jasmine", "Tanisha", "Tia", "Lakisha", "Latoya", "Yolanda",
+			"Malika", "Yvette", "science", "technology", "technologies",
+			"physics", "chemistry", "Einstein", "NASA", "experiment",
+			"experiments", "astronomy", "poetry", "art", "Shakespeare",
+			"dance", "dances", "literature", "novel", "novels",
+			"symphony", "symphonies", "drama", "dramas"
+  ]
 }

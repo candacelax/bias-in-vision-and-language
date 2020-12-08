@@ -1,6 +1,7 @@
 {
   "test_types" : ["word"],
   "dataset" : "coco",
+  "test_name" : "occ_gender",
   "targ1": {
     "category": "MaleNames",
     "captions": {
@@ -14,7 +15,7 @@
       "7" : "Bill"
     },
     "images" : {
-    	"COCO_val2014_000000462928.jpg" : [0],
+    "COCO_val2014_000000462928.jpg" : [0],
 	"COCO_val2014_000000423204.jpg" : [0],
 	"COCO_val2014_000000227482.jpg" : [0],
 	"COCO_val2014_000000221713.jpg" : [0],
@@ -109,7 +110,7 @@
       "7" : "Donna"
     },
     "images" : {
-    	"COCO_val2014_000000282672.jpg" : [0],
+    "COCO_val2014_000000282672.jpg" : [0],
 	"COCO_val2014_000000239229.jpg" : [0],
 	"COCO_val2014_000000215278.jpg" : [0],
 	"COCO_val2014_000000512869.jpg" : [0],
@@ -195,25 +196,25 @@
     "category": "MaleOcc",
     "captions": {
         "0" : "driver",
-	"1" : "supervisor",
-	"2" : "janitor",
-	"3" : "cook",
-	"4" : "mover",
-	"5" : "laborer",
-	"6" : "construction worker",
-	"7" : "chief",
-	"8" : "developer",
-	"9" : "carpenter",
-	"10" : "manager",
-	"11" : "lawyer",
-	"12" : "farmer",
-	"13" : "salesperson",
-	"14" : "physician",
-	"15" : "guard",
-	"16" : "analyst",
-	"17" : "mechanic",
-	"18" : "sheriff",
-	"19" : "CEO"
+		"1" : "supervisor",
+		"2" : "janitor",
+		"3" : "cook",
+		"4" : "mover",
+		"5" : "laborer",
+		"6" : "construction worker",
+		"7" : "chief",
+		"8" : "developer",
+		"9" : "carpenter",
+		"10" : "manager",
+		"11" : "lawyer",
+		"12" : "farmer",
+		"13" : "salesperson",
+		"14" : "physician",
+		"15" : "guard",
+		"16" : "analyst",
+		"17" : "mechanic",
+		"18" : "sheriff",
+		"19" : "CEO"
     },
     "MaleNames_Images" : {
        "COCO_val2014_000000531739.jpg" : [0],
@@ -319,5 +320,16 @@
 	"COCO_val2014_000000306426.jpg" : [15],
 	"COCO_val2014_000000004011.jpg" : [15]
       }
-  }
+  },
+  "contextual_words" : ["John", "Paul", "Mike", "Kevin", "Steve", "Greg", "Jeff", "Bill",
+      		        "Amy", "Joan", "Lisa", "Sarah", "Diana", "Kate", "Ann", "Donna",
+		     	"driver", "supervisor", "janitor", "cook", "mover", "laborer",
+		     	"construction worker", "chief", "developer", "carpenter", "manager",
+		     	"lawyer", "farmer", "salesperson", "physician", "guard", "analyst",
+		     	"mechanic", "sheriff", "CEO",
+		     	"attendant", "cashier", "teacher", "nurse", "assistant", "secretary",
+		     	"auditor", "cleaner", "receptionist", "clerk", "counselor", "hairdresser",
+		     	"writer", "housekeeper", "baker", "accountant", "editor", "librarian",
+		     	"tailor"
+		     ]
 }

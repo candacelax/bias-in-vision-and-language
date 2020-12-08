@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "google",
+  "test_name" : "sent-angry_black_woman_stereotype",
   "targ1": {
     "category": "WhiteFemaleNames",
     "captions": {
@@ -1117,6 +1118,5 @@
 			"angry", "abusive", "obnoxious", "controlling", "nagging", "brash",
 			"hostile", "emasculating", "mean", "harsh", "sassy", "aggressive",
 			"opinionated", "domineering"
-			
    ]
 }

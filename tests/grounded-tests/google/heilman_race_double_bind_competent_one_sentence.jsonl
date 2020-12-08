@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "google",
+  "test_name" : "heilman_race_double_bind_competent_one_sentence",
   "targ1": {
     "category": "EuropeanAmerican",
     "captions": {
@@ -512,7 +513,7 @@
   "contextual_words" : ["Adam", "Harry", "Josh", "Roger", "Amanda", "Courtney", "Heather",
   		        "Melanie", "Alonzo", "Jamel", "Theo", "Alphonse", "Nichelle",
 			"Shereen", "Ebony", "Latisha",
-			"competent", "productive", "effective", "ambitious", "active", "decision",
+			"competent", "productive", "effective", "ambitious", "active", "decisive",
 			"strong", "tough", "bold", "assertive", "incompetent", "unproductive",
 			"ineffective", "unambitious", "passive", "indecisive", "weak",
 			"gentle", "timid", "unassertive"

@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "google",
+  "test_name" : "heilman_gender_double_bind_competent_one_sentence",
   "targ1": {
     "category": "Male",
     "captions": {
@@ -631,7 +632,7 @@
   },
   "contextual_words" : ["John", "Paul", "Mike", "Kevin", "Steve", "Greg", "Jeff", "Bill",
   		        "Amy", "Joan", "Lisa", "Sarah", "Diana", "Kate", "Ann", "Donna",
-			"competent", "productive", "effective", "ambitious", "active", "decision",
+			"competent", "productive", "effective", "ambitious", "active", "decisive",
 			"strong", "tough", "bold", "assertive", "incompetent", "unproductive",
 			"ineffective", "unambitious", "passive", "indecisive", "weak",
 			"gentle", "timid", "unassertive"

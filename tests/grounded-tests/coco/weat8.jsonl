@@ -1,6 +1,7 @@
 {
   "test_types" : ["word"],
   "dataset" : "coco",
+  "test_name" : "weat8",
   "targ1": {
     "category": "Science",
     "captions": {
@@ -391,5 +392,15 @@
        "COCO_val2014_000000272253.jpg" : [5,6,7],
        "COCO_val2014_000000291606.jpg" : [5,6,7]
     }
-  }
+  },
+    "contextual_words" : ["science", "technology", "technologies", "physics", "chemistry",
+  		       "Einstein", "NASA", "experiment", "experiments", "astronomy",
+		       "poetry", "art", "Shakespeare", "dance", "dances", "literature", "novel",
+		       "novels", "symphony", "symphonies",  "drama", "dramas",
+		       "brother", "brothers", "father", "fathers", "uncle", "uncles",
+		       "grandfather", "grandfathers", "son", "sons", "he", "his", "him",
+		       "sister", "sisters", "mother", "mothers", "aunt", "aunts",
+		       "grandmother", "grandmothers", "daughter", "daughters", "she", "her", "hers"
+  
+  ]
 }

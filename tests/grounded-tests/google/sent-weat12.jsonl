@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "google",
+  "test_name" : "sent-weat12",
   "targ1": {
     "category": "EuropeanAmericanNames",
     "captions": {

@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "google",
+  "test_name" : "sent-weat8",
   "targ1": {
     "category": "Science",
     "captions": {
@@ -1022,5 +1023,15 @@
        "her_8.jpg" : [77,78,79],
        "her_9.jpg" : [77,78,79]
     }
-  }
+  },
+  "contextual_words" : ["science", "technology", "technologies", "physics", "chemistry",
+  		        "Einstein", "NASA", "experiment", "experiments", "astronomy",
+			"poetry", "art", "Shakespeare", "dance", "dances", "literature",
+			"novel", "novels", "symphony", "symphonies", "drama", "dramas",
+			"brother", "brothers", "father", "fathers", "uncle", "uncles",
+			"grandfather", "grandfathers", "son", "sons", "he", "his", "him",
+			"sister", "sisters", "mother", "mothers", "aunt", "aunts",
+			"grandmother", "grandmothers", "daughter", "daughters", "she",
+			"her", "hers"
+  ]
 }

@@ -1,6 +1,7 @@
 {
   "test_types" : ["word"],
   "dataset" : "concap",
+  "test_name" : "occ_gender",
   "targ1": {
     "category": "MaleNames",
     "captions": {
@@ -259,5 +260,16 @@
         "3099912708" : [3],
 	"2020632079" : [13]
       }
-  }
+  },
+    "contextual_words" : ["John", "Paul", "Mike", "Kevin", "Steve", "Greg", "Jeff", "Bill",
+      		        "Amy", "Joan", "Lisa", "Sarah", "Diana", "Kate", "Ann", "Donna",
+		     	"driver", "supervisor", "janitor", "cook", "mover", "laborer",
+		     	"construction worker", "chief", "developer", "carpenter", "manager",
+		     	"lawyer", "farmer", "salesperson", "physician", "guard", "analyst",
+		     	"mechanic", "sheriff", "CEO",
+		     	"attendant", "cashier", "teacher", "nurse", "assistant", "secretary",
+		     	"auditor", "cleaner", "receptionist", "clerk", "counselor", "hairdresser",
+		     	"writer", "housekeeper", "baker", "accountant", "editor", "librarian",
+		     	"tailor"
+		     ]
 }

@@ -1,6 +1,7 @@
 {
   "test_types" : ["word"],
   "dataset" : "concap",
+  "test_name" : "weat8",
   "targ1": {
     "category": "Science",
     "captions": {

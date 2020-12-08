@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "google",
+  "test_name" : "heilman_race_double_bind_likable_one_sentence",
   "targ1": {
     "category": "EuropeanAmerican",
     "captions": {

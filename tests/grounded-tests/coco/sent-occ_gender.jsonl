@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "coco",
+  "test_name" : "occ_gender",
   "targ1": {
     "category": "MaleNames",
     "captions": {

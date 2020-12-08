@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "coco",
+  "test_name" : "sent-weat8",
   "targ1": {
     "category": "Science",
     "captions": {
