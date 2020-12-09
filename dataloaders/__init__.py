@@ -1,6 +1,6 @@
 from attrdict import AttrDict
 from typing import Dict, List
-from scripts import bias_dataloader
+from . import bias_dataloader
 
 def create_dataloader(
     params: AttrDict,
