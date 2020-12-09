@@ -1,0 +1,1 @@
+To avoid needing to clone each individual repository for VisualBERT, VL-BERT, ViLBERT and LXMert, we've copied and adapted most of the necessary code for loading the data and image features here.
