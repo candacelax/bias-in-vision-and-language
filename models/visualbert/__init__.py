@@ -1,0 +1,2 @@
+from .visualbert.model import Model as VisualBERTModel
+from .visualbert.model_wrapper import InferenceModelWrapper as VisualBERTInferenceModelWrapper
