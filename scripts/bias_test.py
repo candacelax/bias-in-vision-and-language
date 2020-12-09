@@ -1,5 +1,3 @@
-import re
-from os import path
 from copy import deepcopy
 from attrdict import AttrDict
 from typing import Dict, List
@@ -7,7 +5,6 @@ import torch
 from torch import nn
 from warnings import warn
 
-from torch.utils.data import DataLoader
 from scripts.weat.weat_images_union import run_test as weat_union
 from scripts.weat.weat_images_targ_specific import run_test as weat_specific
 from scripts.weat.weat_images_intra_targ import run_test as weat_intra
@@ -18,15 +15,13 @@ from dataloaders import create_dataloader
 class BiasTest:
     def __init__(
         self,
-        test_data: Dict,
-        test_filepath: str,
         params: AttrDict,
-        test2features: Dict,
-        model_type: str
+        test_name: str,
+        test_data: Dict,
+        image_features: Dict, # TODO confirm type
         ):
-        print(f'Loading test {test_filepath}')
-        self.file_basename = path.basename(test_filepath)
-        self.test_name = self.format_test_name(test_filepath)
+        print(f'Loading test {test_name}')
+        self.test_name = test_name
         self.dataset_name = test_data['dataset']
         self.test_types = test_data['test_types']
 
@@ -39,16 +34,12 @@ class BiasTest:
         self.category_A = test_data['attr1']['category']
         self.category_B = test_data['attr2']['category']
 
-        # for some models, we'll load features once and share across dataloaders
-        image_features_path = test2features[model_type][self.dataset_name][self.file_basename] # TODO clean this up
-        image_features = self.load_image_features(params.model_type, image_features_path)
         self.dataloader_targ_X = create_dataloader(
             params=deepcopy(params),
             category=self.category_X,
             captions=test_data['targ1']['captions'],
             images=test_data['targ1']['images'],
             contextual_words=test_data['contextual_words'],
-            image_features_fp=image_features_path,
             image_features=image_features
             )
         self.dataloader_targ_Y = create_dataloader(
@@ -57,7 +48,6 @@ class BiasTest:
             captions=test_data['targ2']['captions'],
             images=test_data['targ2']['images'],
             contextual_words=test_data['contextual_words'],
-            image_features_fp=image_features_path,
             image_features=image_features
             )
         self.dataloader_attr_AX = create_dataloader(
@@ -66,7 +56,6 @@ class BiasTest:
             captions=test_data['attr1']['captions'],
             images=test_data['attr1'][self.category_X+'_Images'],
             contextual_words=test_data['contextual_words'],
-            image_features_fp=image_features_path,
             image_features=image_features
             )
         self.dataloader_attr_AY = create_dataloader(
@@ -75,7 +64,6 @@ class BiasTest:
             captions=test_data['attr1']['captions'],
             images=test_data['attr1'][self.category_Y+'_Images'],
             contextual_words=test_data['contextual_words'],
-            image_features_fp=image_features_path,
             image_features=image_features
             )
         self.dataloader_attr_BX = create_dataloader(
@@ -84,7 +72,6 @@ class BiasTest:
             captions=test_data['attr2']['captions'],
             images=test_data['attr2'][self.category_X+'_Images'],
             contextual_words=test_data['contextual_words'],
-            image_features_fp=image_features_path,
             image_features=image_features
             )
         self.dataloader_attr_BY = create_dataloader(
@@ -93,7 +80,6 @@ class BiasTest:
             captions=test_data['attr2']['captions'],
             images=test_data['attr2'][self.category_Y+'_Images'],
             contextual_words=test_data['contextual_words'],
-            image_features_fp=image_features_path,
             image_features=image_features
             )
         self.dataloaders = [
@@ -105,17 +91,6 @@ class BiasTest:
     def dataloaders(self):
         for dataloader in self.dataloaders:
             yield dataloader
-
-    def load_image_features(self, model_type: str, image_features_path: str):
-        from scripts import bias_dataloader
-        loader_cls = getattr(bias_dataloader, bias_dataloader.MODEL2LOADER[model_type])
-        return loader_cls.load_image_features(image_features_path)
-                    
-    def format_test_name(self, test_filepath: str):
-        test_name = re.sub('sent-|.jsonl', '', path.basename(test_filepath))
-        test_name = re.sub('one_sentence|one_word', '', test_name)
-        test_name = test_name[:-1] if test_name[-1] == '_' else test_name # strip trailing underscore
-        return test_name
         
     @torch.no_grad()
     def encode_data(self, model: nn.Module):

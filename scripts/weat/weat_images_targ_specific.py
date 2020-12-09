@@ -27,12 +27,11 @@ def construct_cossim_lookup(XY, AB):
     num_attr = len(AB)
     encoding_dim = len(next(iter(XY.values())))
     dims = torch.Size( (num_attr, encoding_dim) ) # for expanding xy for efficient computation
-    cossims = np.zeros((max(XY)+1, num_attr))
+    cossims = torch.zeros((max(XY)+1, num_attr))
 
     AB = torch.stack([AB[i] for i in range(num_attr)])
     for xy in XY:
-        cossims[xy, :] = torch_cossim(XY[xy].expand(dims),
-                                      AB)
+        cossims[xy, :] = torch_cossim(XY[xy].expand(dims), AB)
     return cossims
 
 
@@ -41,7 +40,7 @@ def s_wAB(A, B, cossims):
     Return vector of s(w, A, B) across w, where
         s(w, A, B) = mean_{a in A} cos(w, a) - mean_{b in B} cos(w, b).
     """
-    return cossims[:, A].mean(axis=1) - cossims[:, B].mean(axis=1)
+    return cossims[:, A].mean(dim=1) - cossims[:, B].mean(dim=1)
 
 
 def s_XAB(X, s_wAB_memo):
@@ -89,12 +88,15 @@ def p_val_permutation_test(X, Y, A_X, B_X, A_Y, B_Y, n_samples,
         the probability that a random even partition X_i, Y_i of X u Y
         satisfies P[s(X_i, Y_i, A, B) > s(X, Y, A, B)]
     '''
-    X = np.array(list(X), dtype=np.int)
-    Y = np.array(list(Y), dtype=np.int)
-    A_X = np.array(list(A_X), dtype=np.int)
-    B_X = np.array(list(B_X), dtype=np.int)
-    A_Y = np.array(list(A_Y), dtype=np.int)
-    B_Y = np.array(list(B_Y), dtype=np.int)
+    #X = np.array(list(X), dtype=np.int)
+    #Y = np.array(list(Y), dtype=np.int)
+    #A_X = np.array(list(A_X), dtype=np.int)
+    #B_X = np.array(list(B_X), dtype=np.int)
+    #A_Y = np.array(list(A_Y), dtype=np.int)
+    #B_Y = np.array(list(B_Y), dtype=np.int)
+    X, Y = list(X), list(Y)
+    A_X, A_Y = list(A_X), list(A_Y)
+    B_X, B_Y = list(B_X), list(B_Y)
 
     assert len(X) == len(Y)
     size = len(X)
@@ -102,8 +104,8 @@ def p_val_permutation_test(X, Y, A_X, B_X, A_Y, B_Y, n_samples,
     s_wAB_X_memo = s_wAB(A_X, B_X, cossims=cossims_X) # avg cos_sim for each x across A_X and B_X
     s_wAB_Y_memo = s_wAB(A_Y, B_Y, cossims=cossims_Y) # avg cos_sim for each y across A_Y and B_Y
 
-    XY = np.concatenate((X, Y))
-
+    #XY = np.concatenate((X, Y))
+    XY = X + Y
     if parametric:
         raise Exception('not implemented')
         # log.info('Using parametric test')
@@ -139,7 +141,6 @@ def p_val_permutation_test(X, Y, A_X, B_X, A_Y, B_Y, n_samples,
         total_equal = 0
         total = 0
 
-
         run_sampling = len(X) > 20 # large to compute num partitions, so sample
         if run_sampling:
             # We only have as much precision as the number of samples drawn;
@@ -153,12 +154,13 @@ def p_val_permutation_test(X, Y, A_X, B_X, A_Y, B_Y, n_samples,
                 Xi = set(XY[:size])
                 
                 # for random samples, sort by w \in X and w \in Y
-                Xi_X = np.array(list(Xi.intersection(X)), dtype=np.int)
-                Xi_Y = np.array(list(Xi.intersection(Y)), dtype=np.int)
+                #Xi_X = np.array(list(Xi.intersection(X)), dtype=np.int)
+                #Xi_Y = np.array(list(Xi.intersection(Y)), dtype=np.int)
+                Xi_X = list(Xi.intersection(X))
+                Xi_Y = list(Xi.intersection(Y))
 
                 assert 2 * len(Xi) == len(XY)
-                si = s_XAB(Xi_X, s_wAB_X_memo) +\
-                     s_XAB(Xi_Y, s_wAB_Y_memo)
+                si = s_XAB(Xi_X, s_wAB_X_memo) + s_XAB(Xi_Y, s_wAB_Y_memo)
                      
                 if si > s:
                     total_true += 1
@@ -171,12 +173,14 @@ def p_val_permutation_test(X, Y, A_X, B_X, A_Y, B_Y, n_samples,
             
             log.info('Using exact test ({} partitions)'.format(num_partitions))
             for Xi in it.combinations(XY, len(X)):
-                Xi_X = np.array(list(Xi.intersection(X)), dtype=np.int)
-                Xi_Y = np.array(list(Xi.intersection(Y)), dtype=np.int)
+                #Xi_X = np.array(list(Xi.intersection(X)), dtype=np.int)
+                #Xi_Y = np.array(list(Xi.intersection(Y)), dtype=np.int)
+
+                Xi_X = list(Xi.intersection(X))
+                Xi_Y = list(Xi.intersection(Y))
                 
                 assert 2 * len(Xi) == len(XY)
-                si = s_XAB(Xi_X, s_wAB_X_memo) +\
-                     s_XAB(Xi_Y, s_wAB_Y_memo)
+                si = s_XAB(Xi_X, s_wAB_X_memo) + s_XAB(Xi_Y, s_wAB_Y_memo)
                 if si > s:
                     total_true += 1
                 elif si == s:  # use conservative test
@@ -191,14 +195,16 @@ def p_val_permutation_test(X, Y, A_X, B_X, A_Y, B_Y, n_samples,
 
 
 def mean_s_wAB(X, A, B, cossims):
-    return np.mean(s_wAB(A, B, cossims[X]))
+    return torch.mean(s_wAB(A, B, cossims[X]))
 
 # each attribute varies by target
 def stdev_s_wAB(X, Y, A_X, B_X, A_Y, B_Y, cossims_X, cossims_Y):
     valX = s_wAB(A_X, B_X, cossims_X[X])
     valY = s_wAB(A_Y, B_Y, cossims_Y[Y])
-    vals = np.concatenate((valX, valY))
-    return np.std(vals, ddof=1)
+    vals = torch.cat((valX, valY))
+    return torch.std(vals)
+    #vals = np.concatenate((valX, valY))
+    #return np.std(vals, ddof=1)
 
 def effect_size(X, Y, A_X, B_X, A_Y, B_Y, cossims_X, cossims_Y):
     """
@@ -215,8 +221,7 @@ def effect_size(X, Y, A_X, B_X, A_Y, B_Y, cossims_X, cossims_Y):
     A_Y = list(A_Y)
     B_Y = list(B_Y)
     
-    numerator = mean_s_wAB(X, A_X, B_X, cossims=cossims_X) -\
-                                mean_s_wAB(Y, A_Y, B_Y, cossims=cossims_Y)
+    numerator = mean_s_wAB(X, A_X, B_X, cossims=cossims_X) - mean_s_wAB(Y, A_Y, B_Y, cossims=cossims_Y)
     denominator = stdev_s_wAB(X, Y, A_X, B_X, A_Y, B_Y, cossims_X, cossims_Y)
     return numerator / denominator
 
@@ -248,8 +253,8 @@ def run_test(X, Y, A_X, A_Y, B_X, B_Y, n_samples, cat_X, cat_Y, cat_A, cat_B, pa
     AB_Y.update(B_Y)
     
     log.info("Computing cosine similarities...")
-    cossims_X = construct_cossim_lookup(X, AB_X)
-    cossims_Y = construct_cossim_lookup(Y, AB_Y)
+    cossims_X = construct_cossim_lookup(X, AB_X).cuda()
+    cossims_Y = construct_cossim_lookup(Y, AB_Y).cuda()
 
     log.info("Null hypothesis: no difference between %s and %s in association to attributes %s and %s", cat_X, cat_Y, cat_A, cat_B)
     log.info("Computing pval...")

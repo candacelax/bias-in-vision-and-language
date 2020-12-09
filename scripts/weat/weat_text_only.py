@@ -31,6 +31,9 @@ def construct_cossim_lookup(XY, AB):
             cossims[xy, ab] = cossim(XY[xy], AB[ab])
     return cossims
 
+#01/15/2020 22:14:50 - INFO - root -   pval: 1e-05
+#01/15/2020 22:14:50 - INFO - root -   computing effect size...
+#01/15/2020 22:14:51 - INFO - root -   esize: 0.812021
 
 def s_wAB(A, B, cossims):
     """
@@ -128,8 +131,8 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
         total_equal = 0
         total = 0
 
-        num_partitions = int(scipy.special.binom(2 * len(X), len(X)))
-        if num_partitions > n_samples:
+        run_sampling = len(X) > 20 # large to compute num partitions, so sample
+        if run_sampling:
             # We only have as much precision as the number of samples drawn;
             # bias the p-value (hallucinate a positive observation) to
             # reflect that.
@@ -149,6 +152,7 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
                 total += 1
 
         else:
+            num_partitions = int(scipy.special.binom(2 * len(X), len(X)))
             log.info('Using exact test ({} partitions)'.format(num_partitions))
             for Xi in it.combinations(XY, len(X)):
                 Xi = np.array(Xi, dtype=np.int)

@@ -3,7 +3,7 @@
 
     This script runs WEAT by evaluating bias over the full sets A (AX \cup AY) and B (BX \cup BY).
 '''
-
+from copy import deepcopy
 import logging as log
 import math
 import itertools as it
@@ -216,7 +216,7 @@ def convert_keys_to_ints_combine(X, Y):
 
 ''' "classifier case": WEAT where A=AX \cup AY and B=BX \cup BY
 '''
-def get_general_vals(encs, n_samples, parametric=False):
+def get_general_vals(X, Y, AX, AY, BX, BY, n_samples, parametric=False):
     ''' Run a WEAT.
     args:
         - encs (Dict[str: Dict]): dictionary mapping targ1, targ2, attr1, attr2
@@ -225,9 +225,10 @@ def get_general_vals(encs, n_samples, parametric=False):
             (use exact test if number of permutations is less than or
             equal to n_samples)
     '''
-    X, Y = encs["targ_X"]["encs"], encs["targ_Y"]["encs"]
-    AX, AY = encs["attr_A_X"]["encs"], encs["attr_A_Y"]["encs"]
-    BX, BY = encs["attr_B_X"]["encs"], encs["attr_B_Y"]["encs"]
+    # store copies of original values
+    copyX, copyY = deepcopy(X), deepcopy(Y)
+    copyAX, copyAY = deepcopy(AX), deepcopy(AY)
+    copyBX, copyBY = deepcopy(BX), deepcopy(BY)
 
     #----- 1.
     log.info("Computing cosine similarities [ cos(X, AX) - cos(X, AY) ]...")
@@ -252,18 +253,20 @@ def get_general_vals(encs, n_samples, parametric=False):
     BY = np.array(list(BY), dtype=np.int)
     X_BXonBY = s_wAB(BX, BY, cossims_X).sum()
 
-    cossims_Y = construct_cossim_lookup(X, AXY)
+    cossims_Y = construct_cossim_lookup(Y, AXY)
     Y_AXonAY = s_wAB(AX, AY, cossims_Y).sum()
     
-    cossims_Y = construct_cossim_lookup(X, BXY)
+    cossims_Y = construct_cossim_lookup(Y, BXY)
     Y_BXonBY = s_wAB(BX, BY, cossims_Y).sum()
 
 
     #----- 2.
     log.info("Computing cosine similarities [ cos(X, AX+AY) - cos(X, BX+BY) ]...")
-    X, Y = encs["targ_X"]["encs"], encs["targ_Y"]["encs"]
-    AX, AY = encs["attr_A_X"]["encs"], encs["attr_A_Y"]["encs"]
-    BX, BY = encs["attr_B_X"]["encs"], encs["attr_B_Y"]["encs"]
+    # get original values
+    X, Y = deepcopy(copyX), deepcopy(copyY)
+    AX, AY = deepcopy(copyAX), deepcopy(copyAY)
+    BX, BY = deepcopy(copyBX), deepcopy(copyBY)
+    
     X = convert_keys_to_ints(X)
     Y = convert_keys_to_ints(Y)
     
@@ -286,9 +289,10 @@ def get_general_vals(encs, n_samples, parametric=False):
 
     #----- 3.
     log.info("Computing cosine similarities [ cos(X, AX+BX) - cos(X, AY+BY) ]...")
-    X, Y = encs["targ_X"]["encs"], encs["targ_Y"]["encs"]
-    AX, AY = encs["attr_A_X"]["encs"], encs["attr_A_Y"]["encs"]
-    BX, BY = encs["attr_B_X"]["encs"], encs["attr_B_Y"]["encs"]
+    # get original values
+    X, Y = deepcopy(copyX), deepcopy(copyY)
+    AX, AY = deepcopy(copyAX), deepcopy(copyAY)
+    BX, BY = deepcopy(copyBX), deepcopy(copyBY)
     X = convert_keys_to_ints(X)
     Y = convert_keys_to_ints(Y)
     

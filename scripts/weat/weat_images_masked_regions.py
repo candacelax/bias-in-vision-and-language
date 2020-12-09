@@ -26,7 +26,7 @@ def construct_cossim_lookup(XY, AB):
     """
 
     AB = torch.stack([AB[i] for i in range(len(AB))])
-    cossims = torch.zeros((len(XY), len(AB)))
+    cossims = np.zeros((len(XY), len(AB)))
     dims = torch.Size( (len(AB), len(XY[0])) )
 
     for xy in XY:
@@ -39,7 +39,7 @@ def s_wAB(A, B, cossims):
     Return vector of s(w, A, B) across w, where
         s(w, A, B) = mean_{a in A} cos(w, a) - mean_{b in B} cos(w, b).
     """
-    return cossims[:, A].mean(dim=1) - cossims[:, B].mean(dim=1)
+    return cossims[:, A].mean(axis=1) - cossims[:, B].mean(axis=1)
 
 
 def s_XAB(X, s_wAB_memo):
@@ -86,22 +86,15 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
         the probability that a random even partition X_i, Y_i of X u Y
         satisfies P[s(X_i, Y_i, A, B) > s(X, Y, A, B)]
     '''
-    #X = torch.tensor(list(X), dtype=torch.int)
-    #Y = torch.tensor(list(Y), dtype=torch.int)
-    #A = torch.tensor(list(A), dtype=torch.int)
-    #B = torch.tensor(list(B), dtype=torch.int)
-    X,Y = list(X), list(Y)
-    A,B = list(A), list(B)
+    X = np.array(list(X), dtype=np.int)
+    Y = np.array(list(Y), dtype=np.int)
+    A = np.array(list(A), dtype=np.int)
+    B = np.array(list(B), dtype=np.int)
 
-    # TODO fixme
-    if len(X) < len(Y):
-        Y = Y[:len(X)]
-    elif len(X) > len(Y):
-        X = X[:len(Y)]
     assert len(X) == len(Y), f'len X {len(X)}, len Y {len(Y)}'
     size = len(X)
     s_wAB_memo = s_wAB(A, B, cossims=cossims)
-    XY = X + Y
+    XY = np.concatenate((X, Y))
 
     if parametric:
         log.info('Using parametric test')
@@ -123,8 +116,8 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
         (shapiro_test_stat, shapiro_p_val) = scipy.stats.shapiro(samples)
         log.info('Shapiro-Wilk normality test statistic: {:.2g}, p-value: {:.2g}'.format(
             shapiro_test_stat, shapiro_p_val))
-        sample_mean = torch.mean(samples)
-        sample_std = torch.std(samples)
+        sample_mean = np.mean(samples)
+        sample_std = np.std(samples, ddof=1)
         log.info('Sample mean: {:.2g}, sample standard deviation: {:.2g}'.format(
             sample_mean, sample_std))
         p_val = scipy.stats.norm.sf(s, loc=sample_mean, scale=sample_std)
@@ -159,9 +152,9 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
 
         else:
             num_partitions = int(scipy.special.binom(2 * len(X), len(X)))
-            log.info(f'Using exact test ({num_partitions} partitions)')
+            log.info('Using exact test ({} partitions)'.format(num_partitions))
             for Xi in it.combinations(XY, len(X)):
-                #Xi = torch.tensor(Xi, dtype=torch.int)
+                Xi = np.array(Xi, dtype=np.int)
                 assert 2 * len(Xi) == len(XY)
                 si = s_XAB(Xi, s_wAB_memo)
                 if si > s:
@@ -173,17 +166,16 @@ def p_val_permutation_test(X, Y, A, B, n_samples, cossims, parametric=False):
 
         if total_equal:
             log.warning('Equalities contributed {}/{} to p-value'.format(total_equal, total))
-        if not isinstance(total_true / total, float):
-            raise Exception(f'nan {total_true}, {total}')
         return total_true / total
 
 
 def mean_s_wAB(X, A, B, cossims):
-    return torch.mean(s_wAB(A, B, cossims[X]))
+    return np.mean(s_wAB(A, B, cossims[X]))
 
 
 def stdev_s_wAB(X, A, B, cossims):
-    return torch.std(s_wAB(A, B, cossims[X]))
+    return np.std(s_wAB(A, B, cossims[X]), ddof=1)
+
 
 def effect_size(X, Y, A, B, cossims):
     """
@@ -193,10 +185,12 @@ def effect_size(X, Y, A, B, cossims):
     args:
         - X, Y, A, B : sets of target (X, Y) and attribute (A, B) indices
     """
-    X, Y = list(X), list(Y)
-    A, B = list(A), list(B)
-    assert X != Y
-    numerator = mean_s_wAB(X, A, B, cossims) - mean_s_wAB(Y, A, B, cossims)
+    X = list(X)
+    Y = list(Y)
+    A = list(A)
+    B = list(B)
+
+    numerator = mean_s_wAB(X, A, B, cossims=cossims) - mean_s_wAB(Y, A, B, cossims=cossims)
     denominator = stdev_s_wAB(X + Y, A, B, cossims=cossims)
     return numerator / denominator
 
@@ -224,6 +218,7 @@ def run_test(X, Y, AX, AY, BX, BY, n_samples, cat_X, cat_Y, cat_A, cat_B, parame
             (use exact test if number of permutations is less than or
             equal to n_samples)
     '''
+
     
     # take union over attribute images; images differ by target XY
     A = convert_keys_to_ints_combine(AX, AY)
@@ -239,7 +234,7 @@ def run_test(X, Y, AX, AY, BX, BY, n_samples, cat_X, cat_Y, cat_A, cat_B, parame
     AB.update(B)
 
     log.info("Computing cosine similarities...")
-    cossims = construct_cossim_lookup(XY, AB).cuda()
+    cossims = construct_cossim_lookup(XY, AB)
 
     log.info(f"Null hypothesis: no difference between {cat_X} and {cat_Y} in association to attributes {cat_A} and {cat_B}")
     log.info("Computing pval...")
