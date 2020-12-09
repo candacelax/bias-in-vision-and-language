@@ -239,7 +239,7 @@ class LXMERTWrapper(ModelWrapper): # HuggingFace implementation
         parser.add_argument('--path_to_obj_list', type=str, required=True, help='path to list of objects by idx; needed for image region masking')
 
     def __init__(self, params: AttrDict):
-        from transformers.modeling_lxmert_bias import LxmertForPreTrainingBias
+        from models.lxmert import LxmertForPreTrainingBias
         self.model = LxmertForPreTrainingBias.from_pretrained(params.bert_model_name, return_dict=True)
         self.model.cuda()
         self.model.eval()
@@ -263,8 +263,8 @@ class LXMERTWrapper(ModelWrapper): # HuggingFace implementation
                 return_outputs=True,
                 return_sequence_output=True
                 )
-            sequence_output_t = output['lang_output'].detach().cpu()
-            sequence_output_v = output['visual_output'].detach().cpu()
+            sequence_output_t = output.lang_output.detach().cpu()
+            sequence_output_v = output.visual_output.detach().cpu()
 
             # 2. with full access to all tokens and masked image regions
             batch_masked_image_regions = dataloader.mask_image_regions(deepcopy(batch_full_access), obj_indices)
@@ -275,8 +275,8 @@ class LXMERTWrapper(ModelWrapper): # HuggingFace implementation
                 return_outputs=True,
                 return_sequence_output=True
             )
-            masked_v_sequence_output_t = masked_image_output['lang_output'].detach().cpu()
-            masked_v_sequence_output_v = masked_image_output['visual_output'].detach().cpu()
+            masked_v_sequence_output_t = masked_image_output.lang_output.detach().cpu()
+            masked_v_sequence_output_v = masked_image_output.visual_output.detach().cpu()
             
             # 3. with full access to all regions and masked language tokens
             #batch_masked_tokens = dataloader.format_batch(deepcopy(batch), mask_contextual_words=True)
@@ -289,8 +289,8 @@ class LXMERTWrapper(ModelWrapper): # HuggingFace implementation
                 return_outputs=True,
                 return_sequence_output=True
             )
-            masked_t_sequence_output_t = masked_token_output['lang_output'].detach().cpu()
-            masked_t_sequence_output_v = masked_token_output['visual_output'].detach().cpu()
+            masked_t_sequence_output_t = masked_token_output.lang_output.detach().cpu()
+            masked_t_sequence_output_v = masked_token_output.visual_output.detach().cpu()
 
             self._format_output_two_stream(
                 masked_t_input_ids,
@@ -319,25 +319,25 @@ class VLBERTWrapper(ModelWrapper):
         from models.vlbert import vlbert_model_config, update_vlbert_config, ResNetVLBERTForPretraining
 
         update_vlbert_config(params.model_config_path)
-        #params.model_config = vlbert_model_config
-        self.model = ResNetVLBERTForPretraining(vlbert_model_config)
-        checkpoint = torch.load(params.model_archive, map_location=lambda storage, loc: storage)['state_dict']
+        self.model = ResNetVLBERTForPretraining(vlbert_model_config, params.model_archive) #vlbert_model_config)
+        #checkpoint = torch.load(params.model_archive, map_location=lambda storage, loc: storage)['state_dict']
         #checkpoint.update({
         #    'object_mask_visual_embedding.weight' : torch.zeros_like(self.model.object_mask_visual_embedding.weight),
         #    #'object_mask_visual_embedding.bias' : torch.zeros_like(self.model.object_mask_visual_embedding.bias)
         #    #'image_feature_extractor.obj_downsample.1.weight' : self.model.image_feature_extractor.obj_downsample.1.weight
         #    }
         #})
-        for k,v in self.model.state_dict().items():
-            if k not in checkpoint:
-                k = 'module.' + k
-                if k not in checkpoint:
-                    warn(f'Key {k} is missing from pretrained model')
-            setattr(self.model, k, v)
+        #for k,v in self.model.state_dict().items():
+        #    if k not in checkpoint:
+        #        k = 'module.' + k
+        #        if k not in checkpoint:
+        #            warn(f'Key {k} is missing from pretrained model')
+        #    setattr(self.model, k, v)
         self.model.cuda()
         self.model.eval()
 
     def encode(self, dataloader: Iterable):
+        self.model.eval()
         enc_full_seq = {} # either word or sentence (depending on input)
         enc_contextual = {} # word in context
         enc_mask_t_full_seq = {} # relevant text indices masked
@@ -351,7 +351,7 @@ class VLBERTWrapper(ModelWrapper):
         for batch in dataloader:
             # 1. with full access to all tokens and all image regions
             batch = [v.cuda() if isinstance(v, torch.Tensor) else v for v in batch]
-            output, _ = self.model(*batch[:-1]) # pass everything except object labels
+            output = self.model(*batch[:-1]) # pass everything as input except object labels
             sequence_output = output['sequence_output'].cpu().detach()
             input_ids = batch[text_index].detach().cpu().clone()
 
@@ -359,14 +359,14 @@ class VLBERTWrapper(ModelWrapper):
             masked_v_batch = deepcopy(batch)
             boxes = dataloader.mask_input_features(masked_v_batch[boxes_index], masked_v_batch[obj_labels_index])
             masked_v_batch[boxes_index] = boxes
-            output,_ = self.model(*masked_v_batch[:-1]) # pass everything except object labels
+            output = self.model(*masked_v_batch[:-1]) # pass everything as input except object labels
             masked_v_sequence_output = output['sequence_output'].cpu().detach()
 
             # 3. with full access to all regions and masked language tokens
             masked_t_batch = deepcopy(batch)
             masked_input_ids = dataloader.mask_input_ids(masked_t_batch[text_index])
             masked_t_batch[text_index] = masked_input_ids
-            output,_ = self.model(*masked_t_batch[:-1]) # pass everything except object labels
+            output = self.model(*masked_t_batch[:-1]) # pass everything as input except object labels
             masked_t_sequence_output = output['sequence_output'].cpu().detach()
 
             self._format_output_single_stream(
