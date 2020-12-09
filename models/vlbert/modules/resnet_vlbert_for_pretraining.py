@@ -1,4 +1,5 @@
 import os
+import re
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -8,69 +9,35 @@ from ..common.fast_rcnn import FastRCNN
 from ..common.visual_linguistic_bert import VisualLinguisticBertForPretraining
 from ..common.utils.misc import soft_cross_entropy
 
-BERT_WEIGHTS_NAME = 'pytorch_model.bin'
-
-
 class ResNetVLBERTForPretraining(Module):
-    def __init__(self, config):
-
+    def __init__(self, config, pretrained_model_path):
         super(ResNetVLBERTForPretraining, self).__init__(config)
-
         self.image_feature_extractor = FastRCNN(config,
                                                 average_pool=True,
                                                 final_dim=config.NETWORK.IMAGE_FINAL_DIM,
                                                 enable_cnn_reg_loss=False)
         self.object_linguistic_embeddings = nn.Embedding(1, config.NETWORK.VLBERT.hidden_size)
-        if config.NETWORK.IMAGE_FEAT_PRECOMPUTED:
-            self.object_mask_visual_embedding = nn.Embedding(1, 2048)
-        if config.NETWORK.WITH_MVRC_LOSS:
-            self.object_mask_word_embedding = nn.Embedding(1, config.NETWORK.VLBERT.hidden_size)
-        self.image_feature_bn_eval = config.NETWORK.IMAGE_FROZEN_BN
+        self.object_mask_visual_embedding = nn.Embedding(1, 2048) # image features precomputed
+        self.image_feature_bn_eval = True # backbone is frozen
         self.tokenizer = BertTokenizer.from_pretrained(config.NETWORK.BERT_MODEL_NAME)
-        language_pretrained_model_path = None
-
-        if config.NETWORK.BERT_PRETRAINED != '':
-            language_pretrained_model_path = '{}-{:04d}.model'.format(config.NETWORK.BERT_PRETRAINED,
-                                                                      config.NETWORK.BERT_PRETRAINED_EPOCH)
-        elif os.path.isdir(config.NETWORK.BERT_MODEL_NAME):
-            weight_path = os.path.join(config.NETWORK.BERT_MODEL_NAME, BERT_WEIGHTS_NAME)
-            if os.path.isfile(weight_path):
-                language_pretrained_model_path = weight_path
-
-        if language_pretrained_model_path is None:
-            print("Warning: no pretrained language model found, training from scratch!!!")
-
         self.vlbert = VisualLinguisticBertForPretraining(
             config.NETWORK.VLBERT,
-            language_pretrained_model_path=None if config.NETWORK.VLBERT.from_scratch else language_pretrained_model_path,
-            with_rel_head=config.NETWORK.WITH_REL_LOSS,
-            with_mlm_head=config.NETWORK.WITH_MLM_LOSS,
-            with_mvrc_head=config.NETWORK.WITH_MVRC_LOSS,
+            language_pretrained_model_path=None,
+            with_rel_head=False,
+            with_mlm_head=False,
+            with_mvrc_head=False,
         )
-
-        # init weights
-        self.init_weight()
-
-        self.fix_params()
-
-    def init_weight(self):
-        if self.config.NETWORK.IMAGE_FEAT_PRECOMPUTED:
-            self.object_mask_visual_embedding.weight.data.fill_(0.0)
-        if self.config.NETWORK.WITH_MVRC_LOSS:
-            self.object_mask_word_embedding.weight.data.normal_(mean=0.0, std=self.config.NETWORK.VLBERT.initializer_range)
-        self.image_feature_extractor.init_weight()
-        if self.object_linguistic_embeddings is not None:
-            self.object_linguistic_embeddings.weight.data.normal_(mean=0.0,
-                                                                  std=self.config.NETWORK.VLBERT.initializer_range)
-
-    def train(self, mode=True):
-        super(ResNetVLBERTForPretraining, self).train(mode)
-        # turn some frozen layers to eval mode
-        if self.image_feature_bn_eval:
-            self.image_feature_extractor.bn_eval()
-
-    def fix_params(self):
-        pass
+        pretrained_state_dict = torch.load(pretrained_model_path, map_location=lambda storage, loc: storage)['state_dict']
+        # remove module from key name and pop mlm head
+        pretrained_state_dict = {}
+        for k,v in torch.load(pretrained_model_path, map_location=lambda storage, loc: storage)['state_dict'].items():
+            k = re.sub('module.', '', k)
+            if re.match('vlbert.mlm_*|vlbert.mvrc_head.*', k):
+                continue
+            elif re.match('object_mask_word.*|aux_text_visual_embedding.*', k):
+                continue
+            pretrained_state_dict[k] = v
+        self.load_state_dict(pretrained_state_dict)
 
     def _collect_obj_reps(self, span_tags, object_reps):
         """
@@ -112,10 +79,9 @@ class ResNetVLBERTForPretraining(Module):
         mvrc_ops = mvrc_ops[:, :max_len]
         mvrc_labels = mvrc_labels[:, :max_len]
 
-        if self.config.NETWORK.IMAGE_FEAT_PRECOMPUTED:
-            box_features = boxes[:, :, 4:]
-            #box_features[mvrc_ops == 1] = self.object_mask_visual_embedding.weight[0]
-            boxes[:, :, 4:] = box_features
+        box_features = boxes[:, :, 4:]
+        #box_features[mvrc_ops == 1] = self.object_mask_visual_embedding.weight[0]
+        boxes[:, :, 4:] = box_features
 
         obj_reps = self.image_feature_extractor(images=images,
                                                 boxes=boxes,
@@ -138,8 +104,6 @@ class ResNetVLBERTForPretraining(Module):
         object_linguistic_embeddings = self.object_linguistic_embeddings(
             boxes.new_zeros((boxes.shape[0], boxes.shape[1])).long()
         )
-        if self.config.NETWORK.WITH_MVRC_LOSS:
-            object_linguistic_embeddings[mvrc_ops == 1] = self.object_mask_word_embedding.weight[0]
         object_vl_embeddings = torch.cat((obj_reps['obj_reps'], object_linguistic_embeddings), -1)
 
         ###########################################
@@ -154,66 +118,10 @@ class ResNetVLBERTForPretraining(Module):
             box_mask
             )
         ###########################################
-        outputs = {}
-
-        # loss
-        relationship_loss = im_info.new_zeros(())
-        mlm_loss = im_info.new_zeros(())
-        mvrc_loss = im_info.new_zeros(())
-        if self.config.NETWORK.WITH_REL_LOSS:
-            relationship_loss = F.cross_entropy(relationship_logits, relationship_label)
-        if self.config.NETWORK.WITH_MLM_LOSS:
-            mlm_logits_padded = mlm_logits.new_zeros((*mlm_labels.shape, mlm_logits.shape[-1])).fill_(-10000.0)
-            mlm_logits_padded[:, :mlm_logits.shape[1]] = mlm_logits
-            mlm_logits = mlm_logits_padded
-            if self.config.NETWORK.MLM_LOSS_NORM_IN_BATCH_FIRST:
-                mlm_loss = F.cross_entropy(mlm_logits.transpose(1, 2),
-                                           mlm_labels,
-                                           ignore_index=-1, reduction='none')
-                num_mlm = (mlm_labels != -1).sum(1, keepdim=True).to(dtype=mlm_loss.dtype)
-                num_has_mlm = (num_mlm != 0).sum().to(dtype=mlm_loss.dtype)
-                mlm_loss = (mlm_loss / (num_mlm + 1e-4)).sum() / (num_has_mlm + 1e-4)
-            else:
-                mlm_loss = F.cross_entropy(mlm_logits.view((-1, mlm_logits.shape[-1])),
-                                           mlm_labels.view(-1),
-                                           ignore_index=-1)
-        # mvrc_loss = F.cross_entropy(mvrc_logits.contiguous().view(-1, mvrc_logits.shape[-1]),
-        #                             mvrc_labels.contiguous().view(-1),
-        #                             ignore_index=-1)
-        if self.config.NETWORK.WITH_MVRC_LOSS:
-            if self.config.NETWORK.MVRC_LOSS_NORM_IN_BATCH_FIRST:
-                mvrc_loss = soft_cross_entropy(
-                    mvrc_logits.contiguous().view(-1, mvrc_logits.shape[-1]),
-                    mvrc_labels.contiguous().view(-1, mvrc_logits.shape[-1]),
-                    reduction='none').view(mvrc_logits.shape[:-1])
-                valid = (mvrc_labels.sum(-1) - 1).abs() < 1.0e-1
-                mvrc_loss = (mvrc_loss / (valid.sum(1, keepdim=True).to(dtype=mvrc_loss.dtype) + 1e-4)) \
-                                .sum() / ((valid.sum(1) != 0).sum().to(dtype=mvrc_loss.dtype) + 1e-4)
-            else:
-                mvrc_loss = soft_cross_entropy(mvrc_logits.contiguous().view(-1, mvrc_logits.shape[-1]),
-                                               mvrc_labels.contiguous().view(-1, mvrc_logits.shape[-1]))
-
-            mvrc_logits_padded = mvrc_logits.new_zeros((mvrc_logits.shape[0], origin_len, mvrc_logits.shape[2])).fill_(-10000.0)
-            mvrc_logits_padded[:, :mvrc_logits.shape[1]] = mvrc_logits
-            mvrc_logits = mvrc_logits_padded
-            mvrc_labels_padded = mvrc_labels.new_zeros((mvrc_labels.shape[0], origin_len, mvrc_labels.shape[2])).fill_(0.0)
-            mvrc_labels_padded[:, :mvrc_labels.shape[1]] = mvrc_labels
-            mvrc_labels = mvrc_labels_padded
-
-        outputs.update({
-            'relationship_logits': relationship_logits if self.config.NETWORK.WITH_REL_LOSS else None,
-            'relationship_label': relationship_label if self.config.NETWORK.WITH_REL_LOSS else None,
-            'mlm_logits': mlm_logits if self.config.NETWORK.WITH_MLM_LOSS else None,
-            'mlm_label': mlm_labels if self.config.NETWORK.WITH_MLM_LOSS else None,
-            'mvrc_logits': mvrc_logits if self.config.NETWORK.WITH_MVRC_LOSS else None,
-            'mvrc_label': mvrc_labels if self.config.NETWORK.WITH_MVRC_LOSS else None,
-            'relationship_loss': relationship_loss,
-            'mlm_loss': mlm_loss,
-            'mvrc_loss': mvrc_loss,
+        outputs = {
+            'relationship_logits': relationship_logits,
+            'relationship_label': relationship_label,
             'sequence_output' : sequence_output
-        })
-
-        loss = relationship_loss.mean() + mlm_loss.mean() + mvrc_loss.mean()
-
-        return outputs, loss
+        }
+        return outputs
 

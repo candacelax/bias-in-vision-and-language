@@ -6,8 +6,8 @@ num_samples: 100000
 
 test2features : tests/test2features.json
 model_type : vlbert
-model_archive : pretrained-models/vlbert/pytorch_model.bin
-model_config_path : pretrained-models/vlbert/bias_base_e2e_16x16G_fp16.yaml
+#model_archive : pretrained-models/vlbert/pytorch_model.bin
+model_config_path : pretrained-models/vlbert/vlbert_base_prec.model
 path_to_obj_list : bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
 
 tests :
