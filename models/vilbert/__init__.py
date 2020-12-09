@@ -1,2 +1,2 @@
-from .vilbert.vilbert import BertForMultiModalPreTraining as ViLBERTModel
-from .vilbert.vilbert import BertConfig as ViLBERTConfig
+from .vilbert import BertForMultiModalPreTraining as ViLBERTModel
+from .vilbert import BertConfig as ViLBERTConfig
