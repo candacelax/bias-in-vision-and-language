@@ -1,0 +1,42 @@
+log_dir : logs
+num_workers : 4
+val_workers : 2
+
+batch_size : 256
+num_samples: 100000
+bert_cache : .pytorch_pretrained_bert # so we stop trying to go to home dir on machine
+
+coco_ontology : visualbert/models/cocoontology.json
+test2features : tests/test2features.json
+
+model_type : visualbert
+model_archive : visualbert/pretrained-models/nlvr2_coco_pre_trained.th
+model_config : visualbert/configs/nlvr2/bias-configs/coco-pre-train-bias.json
+
+tests :
+        - tests/grounded-tests/predictions/google/weat3.jsonl
+      # - tests/grounded-tests/predictions/google/sent-weat3.jsonl
+      # - tests/grounded-tests/predictions/google/weat6.jsonl
+      # - tests/grounded-tests/predictions/google/sent-weat6.jsonl
+      # - tests/grounded-tests/predictions/google/weat8.jsonl
+      # - tests/grounded-tests/predictions/google/sent-weat8.jsonl
+      # - tests/grounded-tests/predictions/google/weat11.jsonl
+      # - tests/grounded-tests/predictions/google/sent-weat11.jsonl
+      # - tests/grounded-tests/predictions/google/weat12.jsonl
+      # - tests/grounded-tests/predictions/google/sent-weat12.jsonl
+      # - tests/grounded-tests/predictions/google/weat13.jsonl
+      # - tests/grounded-tests/predictions/google/sent-weat13.jsonl
+      # - tests/grounded-tests/predictions/google/heilman_MF_double_bind_competent_one_sentence.jsonl
+      # - tests/grounded-tests/predictions/google/heilman_MF_double_bind_likable_one_sentence.jsonl
+      # - tests/grounded-tests/predictions/google/heilman_MF_double_bind_competent_one_word.jsonl
+      # - tests/grounded-tests/predictions/google/heilman_MF_double_bind_likable_one_word.jsonl
+      # - tests/grounded-tests/predictions/google/heilman_race_double_bind_competent_one_word.jsonl
+      # - tests/grounded-tests/predictions/google/heilman_race_double_bind_competent_one_sentence.jsonl
+      # - tests/grounded-tests/predictions/google/heilman_race_double_bind_likable_one_word.jsonl
+      # - tests/grounded-tests/predictions/google/heilman_race_double_bind_likable_one_sentence.jsonl
+        - tests/grounded-tests/predictions/google/occ_gender.jsonl
+      # - tests/grounded-tests/predictions/google/sent-occ_gender.jsonl
+      # - tests/grounded-tests/predictions/google/angry_black_woman_stereotype.jsonl
+      # - tests/grounded-tests/predictions/google/sent-angry_black_woman_stereotype.jsonl
+      # - tests/grounded-tests/predictions/google/occ_race.jsonl
+      # - tests/grounded-tests/predictions/google/sent-occ_race.jsonl

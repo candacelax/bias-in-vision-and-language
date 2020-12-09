@@ -1,0 +1,38 @@
+log_dir : logs
+num_workers : 4
+val_workers : 2
+batch_size : 256
+num_samples: 100000
+path_to_obj_list : bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
+
+test2features : tests/test2features.json
+model_type : lxmert
+model_archive : lxmert/pretrained-bert/
+
+tests :
+      #- tests/grounded-tests/google/weat3.jsonl
+      #- tests/grounded-tests/google/sent-weat3.jsonl
+      - tests/grounded-tests/google/weat6.jsonl
+      - tests/grounded-tests/google/sent-weat6.jsonl
+      - tests/grounded-tests/google/weat8.jsonl
+      - tests/grounded-tests/google/sent-weat8.jsonl
+      - tests/grounded-tests/google/weat11.jsonl
+      - tests/grounded-tests/google/sent-weat11.jsonl
+      #- tests/grounded-tests/google/weat12.jsonl
+      #- tests/grounded-tests/google/sent-weat12.jsonl
+      #- tests/grounded-tests/google/weat13.jsonl
+      #- tests/grounded-tests/google/sent-weat13.jsonl
+      #- tests/grounded-tests/google/heilman_MF_double_bind_competent_one_sentence.jsonl
+      #- tests/grounded-tests/google/heilman_MF_double_bind_likable_one_sentence.jsonl
+      #- tests/grounded-tests/google/heilman_MF_double_bind_competent_one_word.jsonl
+      #- tests/grounded-tests/google/heilman_MF_double_bind_likable_one_word.jsonl
+      #- tests/grounded-tests/google/heilman_race_double_bind_competent_one_word.jsonl
+      #- tests/grounded-tests/google/heilman_race_double_bind_competent_one_sentence.jsonl
+      #- tests/grounded-tests/google/heilman_race_double_bind_likable_one_word.jsonl
+      #- tests/grounded-tests/google/heilman_race_double_bind_likable_one_sentence.jsonl
+      #- tests/grounded-tests/google/occ_gender.jsonl
+      #- tests/grounded-tests/google/sent-occ_gender.jsonl
+      #- tests/grounded-tests/google/angry_black_woman_stereotype.jsonl
+      #- tests/grounded-tests/google/sent-angry_black_woman_stereotype.jsonl
+      #- tests/grounded-tests/google/occ_race.jsonl
+      #- tests/grounded-tests/google/sent-occ_race.jsonl

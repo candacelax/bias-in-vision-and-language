@@ -1,0 +1,10 @@
+log_dir : logs
+num_workers : 4
+val_workers : 2
+batch_size : 64
+bert_cache : .pytorch_pretrained_bert
+
+model_type : visualbert
+model_archive : visualbert/pretrained-models/nlvr2_coco_pre_trained.th
+model_config : visualbert/configs/nlvr2/bias-configs/coco-pre-train-bias.json
+coco_ontology : visualbert/models/cocoontology.json

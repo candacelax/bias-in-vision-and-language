@@ -1,0 +1,19 @@
+log_dir : logs
+num_workers : 4
+val_workers : 2
+batch_size : 64
+num_samples: 100000
+bert_cache : .pytorch_pretrained_bert
+
+model_type : visualbert
+model_archive : visualbert/pretrained-models/nlvr2_coco_pre_trained.th
+model_config : visualbert/configs/nlvr2/bias-configs/coco-pre-train-bias.json
+coco_ontology : visualbert/models/cocoontology.json
+test2features : tests/test2features.json
+tests :
+      - tests/grounded-tests/predictions/coco/occ_gender.jsonl
+      - tests/grounded-tests/predictions/coco/sent-occ_gender.jsonl
+      #- tests/grounded-tests/predictions/coco/weat6.jsonl
+      #- tests/grounded-tests/predictions/coco/sent-weat6.jsonl
+      #- tests/grounded-tests/predictions/coco/weat8.jsonl
+      #- tests/grounded-tests/predictions/coco/sent-weat8.jsonl

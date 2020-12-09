@@ -1,0 +1,19 @@
+log_dir : logs
+num_workers : 4
+val_workers : 2
+batch_size : 256
+num_samples: 100000
+path_to_obj_list : bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
+
+test2features : tests/test2features.json
+model_type : vlbert
+model_archive : pretrained-models/vlbert/pytorch_model.bin
+model_config_path : pretrained-models/vlbert/bias_base_e2e_16x16G_fp16.yaml
+
+tests :
+      - tests/grounded-tests/concap/occ_gender.jsonl
+      - tests/grounded-tests/concap/sent-occ_gender.jsonl
+      - tests/grounded-tests/concap/weat6.jsonl
+      - tests/grounded-tests/concap/sent-weat6.jsonl
+      #- tests/grounded-tests/concap/weat8.jsonl
+      #- tests/grounded-tests/concap/sent-weat8.jsonl
