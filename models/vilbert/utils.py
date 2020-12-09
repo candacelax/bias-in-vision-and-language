@@ -16,7 +16,6 @@ import boto3
 import requests
 from botocore.exceptions import ClientError
 from tqdm import tqdm
-from tensorboardX import SummaryWriter
 from time import gmtime, strftime
 from bisect import bisect
 
@@ -45,8 +44,6 @@ class tbLogger(object):
         logger.info("logging file at: " + log_dir)
 
         self.save_logger=save_logger
-        if self.save_logger:
-            self.logger = SummaryWriter(log_dir=log_dir)
 
         self.txt_f = open(txt_dir + '/' + txt_name, 'w')
         self.task_id2name = {ids:name.replace('+', 'plus') for ids, name in zip(task_ids, task_names)}
