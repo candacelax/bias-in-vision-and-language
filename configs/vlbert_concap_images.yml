@@ -14,5 +14,3 @@ tests :
       - tests/grounded-tests/concap/sent-occ_gender.jsonl
       - tests/grounded-tests/concap/weat6.jsonl
       - tests/grounded-tests/concap/sent-weat6.jsonl
-      #- tests/grounded-tests/concap/weat8.jsonl
-      #- tests/grounded-tests/concap/sent-weat8.jsonl
