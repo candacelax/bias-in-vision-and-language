@@ -17,8 +17,10 @@ from allennlp.modules.matrix_attention import BilinearMatrixAttention
 from allennlp.nn.util import masked_softmax, weighted_sum, replace_masked_values
 from allennlp.nn import InitializerApplicator
 
-from pytorch_pretrained_bert.modeling import BertForMultipleChoice, TrainVisualBERTObjective #BertForMultipleChoice, BertForVisualMultipleChoice, BertForVisualPreTraining, BertForPreTraining, BertForVisualQA
-from pytorch_pretrained_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
+#from visualbpytorch_pretrained_bert.modeling import TrainVisualBERTObjective #BertForMultipleChoice, BertForVisualMultipleChoice, BertForVisualPreTraining, BertForPreTraining, BertForVisualQA
+from visualbert.visualbert.pytorch_pretrained_bert.modeling import BertForMultipleChoice, TrainVisualBERTObjective
+from visualbert.visualbert.pytorch_pretrained_bert import BertForPreTraining
+from visualbert.visualbert.pytorch_pretrained_bert import PYTORCH_PRETRAINED_BERT_CACHE
 
 @Model.register("VisualBERTDetector")
 class VisualBERTDetector(Model):
@@ -203,12 +205,11 @@ class VisualBERTFixedImageEmbedding(Model):
                  embedding_strategy: str='plain',
                  random_initialize: bool=False,
                  bypass_transformer: bool=False,
-                 output_attention_weights: bool=True
+                 output_attention_weights: bool=False
                  ):
         super(VisualBERTFixedImageEmbedding, self).__init__(vocab)
         self.text_only = text_only
         self.training_head_type = training_head_type
-
         self.bert = TrainVisualBERTObjective.from_pretrained(
                 bert_model_name,
                 cache_dir=os.path.join(str(PYTORCH_PRETRAINED_BERT_CACHE), 'distributed_{}'.format(-1)),
@@ -220,8 +221,6 @@ class VisualBERTFixedImageEmbedding(Model):
                 bypass_transformer = bypass_transformer,
                 random_initialize = random_initialize,
                 output_attention_weights = output_attention_weights)
-        if special_visual_initialize:
-            self.bert.bert.embeddings.special_initialize()
 
         if self.training_head_type == "nlvr" or self.training_head_type == "multichoice":
             self._accuracy = CategoricalAccuracy()
