@@ -5,7 +5,7 @@ from torch.nn.modules import BatchNorm2d
 from tqdm import tqdm
 
 from allennlp.nn.util import device_mapping
-from utils.pytorch_misc import time_batch, restore_checkpoint, print_para, load_state_dict_flexible
+from visualbert.visualbert.utils.pytorch_misc import time_batch, restore_checkpoint, print_para, load_state_dict_flexible
 
 import logging
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s - %(message)s', level=logging.DEBUG)
@@ -27,7 +27,7 @@ class InferenceModelWrapper():
         self.global_step = 0
         self.called_time = 0
 
-    def step(self, batch, output_all_encoded_layers=False):
+    def step(self, batch, output_all_encoded_layers=True):
         with torch.no_grad():
             output_dict = self.model(**batch, output_all_encoded_layers=output_all_encoded_layers)
 
@@ -43,13 +43,13 @@ class InferenceModelWrapper():
             'type': 'VisualBERTFixedImageEmbedding',
             'special_visual_initialize': True,
             'training_head_type': 'pretraining',
-            'visual_embedding_dim': 1024
+            'visual_embedding_dim': 1024,
+            'output_attention_weights' : False
         })
         model = Model.from_params(vocab=None, params=model_params)
         if args.fp16:
             model.half()
             print("Using FP 16, Model Halfed")
-            exit()
         self.model = DataParallel(model).cuda()
         self.model.eval()
 
