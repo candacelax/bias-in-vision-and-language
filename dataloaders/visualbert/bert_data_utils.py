@@ -30,7 +30,7 @@ from allennlp.data.instance import Instance
 from allennlp.data.dataset import Batch
 from allennlp.data.fields import ListField
 
-from pytorch_pretrained_bert.fine_tuning import _truncate_seq_pair, random_word
+from visualbert.visualbert.pytorch_pretrained_bert.fine_tuning import _truncate_seq_pair, random_word
 from .box_utils import load_image, resize_image, to_tensor_and_normalize
 from .mask_utils import make_mask
 from .bert_field import BertField, IntArrayField, IntArrayTensorField, ArrayTensorField
@@ -83,31 +83,11 @@ class InputFeatures(object):
     # Convert one sentence_a + sentence_b to pre-training example
     @classmethod
     def convert_one_example_to_features(cls, example, tokenizer):
-        # note, this is different because weve already tokenized
         tokens_a = example.text_a
-        # tokens_b = example.text_b
         tokens_b = None
         if example.text_b:
             tokens_b = example.text_b
         
-        # The convention in BERT is:
-        # (a) For sequence pairs:
-        #  tokens:   [CLS] is this jack ##son ##ville ? [SEP] no it is not . [SEP]
-        #  type_ids: 0     0  0    0    0     0       0 0     1  1  1  1   1 1
-        # (b) For single sequences:
-        #  tokens:   [CLS] the dog is hairy . [SEP]
-        #  type_ids: 0     0   0   0  0     0 0
-        #
-        # Where "type_ids" are used to indicate whether this is the first
-        # sequence or the second sequence. The embedding vectors for `type=0` and
-        # `type=1` were learned during pre-training and are added to the wordpiece
-        # embedding vector (and position vector). This is not *strictly* necessary
-        # since the [SEP] token unambiguously separates the sequences, but it makes
-        # it easier for the model to learn the concept of sequences.
-        #
-        # For classification tasks, the first vector (corresponding to [CLS]) is
-        # used as as the "sentence vector". Note that this only makes sense because
-        # the entire model is fine-tuned.
         tokens = []
         input_type_ids = []
         tokens.append("[CLS]")
@@ -198,24 +178,6 @@ class InputFeatures(object):
         else:
             lm_label_ids = ([-1] + t1_label + [-1])
 
-        # The convention in BERT is:
-        # (a) For sequence pairs:
-        #  tokens:   [CLS] is this jack ##son ##ville ? [SEP] no it is not . [SEP]
-        #  type_ids: 0   0  0    0    0     0       0 0    1  1  1  1   1 1
-        # (b) For single sequences:
-        #  tokens:   [CLS] the dog is hairy . [SEP]
-        #  type_ids: 0   0   0   0  0     0 0
-        #
-        # Where "type_ids" are used to indicate whether this is the first
-        # sequence or the second sequence. The embedding vectors for `type=0` and
-        # `type=1` were learned during pre-training and are added to the wordpiece
-        # embedding vector (and position vector). This is not *strictly* necessary
-        # since the [SEP] token unambigiously separates the sequences, but it makes
-        # it easier for the model to learn the concept of sequences.
-        #
-        # For classification tasks, the first vector (corresponding to [CLS]) is
-        # used as as the "sentence vector". Note that this only makes sense because
-        # the entire model is fine-tuned.
         tokens = []
         segment_ids = []
         tokens.append("[CLS]")
@@ -263,24 +225,6 @@ class InputFeatures(object):
         # concatenate lm labels and account for CLS, SEP, SEP
         lm_label_ids = ([-1] + label + [-1])
 
-        # The convention in BERT is:
-        # (a) For sequence pairs:
-        #  tokens:   [CLS] is this jack ##son ##ville ? [SEP] no it is not . [SEP]
-        #  type_ids: 0   0  0    0    0     0       0 0    1  1  1  1   1 1
-        # (b) For single sequences:
-        #  tokens:   [CLS] the dog is hairy . [SEP]
-        #  type_ids: 0   0   0   0  0     0 0
-        #
-        # Where "type_ids" are used to indicate whether this is the first
-        # sequence or the second sequence. The embedding vectors for `type=0` and
-        # `type=1` were learned during pre-training and are added to the wordpiece
-        # embedding vector (and position vector). This is not *strictly* necessary
-        # since the [SEP] token unambigiously separates the sequences, but it makes
-        # it easier for the model to learn the concept of sequences.
-        #
-        # For classification tasks, the first vector (corresponding to [CLS]) is
-        # used as as the "sentence vector". Note that this only makes sense because
-        # the entire model is fine-tuned.
         tokens.insert(0, "[CLS]")
         tokens.append("[SEP]")
         segment_ids = [0] * len(tokens)
