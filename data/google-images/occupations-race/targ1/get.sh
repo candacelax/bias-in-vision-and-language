@@ -1,68 +1,68 @@
-wget -O male_ea_0.jpg https://cdn.theatlantic.com/assets/media/img/mt/2018/10/RTX6EDPG/lead_720_405.jpg?mod=1539119458
-wget -O male_ea_1.jpg https://imgix.bustle.com/2017/4/15/667789026.jpg
-wget -O male_ea_2.jpg http://www.informationliberation.com/files/spencer-raymond-portland-city.jpg
-wget -O male_ea_3.jpg https://images.askmen.com/1080x540/2016/05/06-045608-white_male_privilege.jpg
-wget -O male_ea_4.jpg https://www.thenation.com/wp-content/uploads/2015/11/Dylann_Roof_rtr_img.jpg
-wget -O male_ea_5.jpg https://www.fastweb.com/uploads/article_photo/photo/1686686/crop380w_istock_000001487962xsmall-male-high-school-student.jpg
-wget -O male_ea_6.jpg https://static.businessinsider.com/image/54219ea5eab8ea15293ef0d0/image.jpg
-wget -O male_ea_7.jpg https://thefeministwire.com/wp-content/uploads/2016/11/Head-shot-JR.jpg
-wget -O male_ea_8.jpg https://www.macleans.ca/wp-content/uploads/2013/03/white-male-by-Simone-Lovati-e1364408105333.jpg
-wget -O male_ea_9.jpg https://cdn.cnn.com/cnnnext/dam/assets/181127180208-beto-orourke-opinion-exlarge-169.jpg
-wget -O male_ea_10.jpg https://ww1.prweb.com/prfiles/2006/06/18/400797/FINAL1039.jpg
-wget -O male_ea_11.jpg https://static01.nyt.com/images/2019/10/13/magazine/13-mag-lerner-pics/13-mag-lerner-pics-superJumbo-v3.jpg
-wget -O male_ea_12.jpg https://www.bet.com/news/national/2019/11/30/op-ed--at-the-end-of-the-day-pete-buttigieg-is-still-a-white-cis/_jcr_content/image.large2x1image.dimg/__1575143621050__1575143533876/113019-national-pete-buttigieg.jpg
-wget -O male_ea_13.jpg https://static.businessinsider.com/image/54ed0679eab8ea6b0f8b4567/image.jpg
-wget -O male_ea_14.jpg https://s3.amazonaws.com/bklyner/bklyner/wp-content/uploads/2019/07/Screen-Shot-2019-07-11-at-9.25.27-PM.png
-wget -O male_ea_15.jpg https://www.pewresearch.org/wp-content/uploads/2012/12/Tyson.jpg?w=200
-wget -O male_ea_16.jpg https://miro.medium.com/max/3096/1*S_s2Cw6WTGJJ0e8-blaW0A.jpeg
-wget -O male_ea_17.jpg https://i.kym-cdn.com/entries/icons/facebook/000/019/607/white-guy-in-a-suit.jpg
-wget -O male_ea_18.jpg http://fashionweekdaily.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-07-at-11.40.02-PM.png
-wget -O male_ea_19.jpg https://i.huffpost.com/gen/1411955/thumbs/o-CHAD-WHITE-570.jpg?8
-wget -O male_ea_20.jpg https://www.indiewire.com/wp-content/uploads/2020/01/9971481a.jpg?w=780
-wget -O male_ea_21.jpg https://zevents.files.wordpress.com/2011/07/ben-pamies-male-model-consort-pr-24.jpg
-wget -O male_ea_22.jpg http://www.drugpolicy.org/sites/default/files/images/stock_photos/male-cannabis-user_2270.jpg
-wget -O male_ea_23.jpg https://i.4pcdn.org/pol/1447271399013.jpg
-wget -O male_ea_24.jpg https://cdn.wealthygorilla.com/wp-content/uploads/2019/02/Greatest-White-Rappers-Machine-Gun-Kelly-800x493.jpeg
-wget -O male_ea_25.jpg https://thumbs.dreamstime.com/z/portrait-older-professional-white-male-9187302.jpg
-wget -O male_ea_26.jpg https://cdn.christianpost.com/files/original/thumbnail/23/39/233920.jpg
-wget -O male_ea_27.jpg https://2kpcwh2r7phz1nq4jj237m22-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Charlie_Kirk.jpg
-wget -O male_ea_28.jpg http://img.youtube.com/vi/6TU50Bz3Ey0/0.jpg
-wget -O male_ea_29.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Chris_Hemsworth_3%2C_2012.jpg/170px-Chris_Hemsworth_3%2C_2012.jpg
-wget -O male_ea_30.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnd1idoQitcvWJCTd-4LwRLiTSoKcXA9vfYh_9NJ0Qqd5zakX&s
-wget -O male_ea_31.jpg https://cdn.shopify.com/s/files/1/1231/6442/products/cottonworld-men-s-shirts-small-white-men-s-cotton-linen-woven-white-regular-fit-shirts-11367374553141_394x.jpg?v=1571438990
-wget -O male_ea_32.jpg https://www.pewresearch.org/wp-content/uploads/2012/12/Tyson.jpg?w=200
-wget -O male_ea_33.jpg https://citizen.co.za/wp-content/uploads/2019/09/NINTCHDBPICT000517746140-e1567285755814-370x418.jpg
+wget --tries=2 -O male_ea_0.jpg https://cdn.theatlantic.com/assets/media/img/mt/2018/10/RTX6EDPG/lead_720_405.jpg?mod=1539119458
+wget --tries=2 -O male_ea_1.jpg https://imgix.bustle.com/2017/4/15/667789026.jpg
+wget --tries=2 -O male_ea_2.jpg http://www.informationliberation.com/files/spencer-raymond-portland-city.jpg
+wget --tries=2 -O male_ea_3.jpg https://images.askmen.com/1080x540/2016/05/06-045608-white_male_privilege.jpg
+wget --tries=2 -O male_ea_4.jpg https://www.thenation.com/wp-content/uploads/2015/11/Dylann_Roof_rtr_img.jpg
+wget --tries=2 -O male_ea_5.jpg https://www.fastweb.com/uploads/article_photo/photo/1686686/crop380w_istock_000001487962xsmall-male-high-school-student.jpg
+wget --tries=2 -O male_ea_6.jpg https://static.businessinsider.com/image/54219ea5eab8ea15293ef0d0/image.jpg
+wget --tries=2 -O male_ea_7.jpg https://thefeministwire.com/wp-content/uploads/2016/11/Head-shot-JR.jpg
+wget --tries=2 -O male_ea_8.jpg https://www.macleans.ca/wp-content/uploads/2013/03/white-male-by-Simone-Lovati-e1364408105333.jpg
+wget --tries=2 -O male_ea_9.jpg https://cdn.cnn.com/cnnnext/dam/assets/181127180208-beto-orourke-opinion-exlarge-169.jpg
+wget --tries=2 -O male_ea_10.jpg https://ww1.prweb.com/prfiles/2006/06/18/400797/FINAL1039.jpg
+wget --tries=2 -O male_ea_11.jpg https://static01.nyt.com/images/2019/10/13/magazine/13-mag-lerner-pics/13-mag-lerner-pics-superJumbo-v3.jpg
+wget --tries=2 -O male_ea_12.jpg https://www.bet.com/news/national/2019/11/30/op-ed--at-the-end-of-the-day-pete-buttigieg-is-still-a-white-cis/_jcr_content/image.large2x1image.dimg/__1575143621050__1575143533876/113019-national-pete-buttigieg.jpg
+wget --tries=2 -O male_ea_13.jpg https://static.businessinsider.com/image/54ed0679eab8ea6b0f8b4567/image.jpg
+wget --tries=2 -O male_ea_14.jpg https://s3.amazonaws.com/bklyner/bklyner/wp-content/uploads/2019/07/Screen-Shot-2019-07-11-at-9.25.27-PM.png
+wget --tries=2 -O male_ea_15.jpg https://www.pewresearch.org/wp-content/uploads/2012/12/Tyson.jpg?w=200
+wget --tries=2 -O male_ea_16.jpg https://miro.medium.com/max/3096/1*S_s2Cw6WTGJJ0e8-blaW0A.jpeg
+wget --tries=2 -O male_ea_17.jpg https://i.kym-cdn.com/entries/icons/facebook/000/019/607/white-guy-in-a-suit.jpg
+wget --tries=2 -O male_ea_18.jpg http://fashionweekdaily.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-07-at-11.40.02-PM.png
+wget --tries=2 -O male_ea_19.jpg https://i.huffpost.com/gen/1411955/thumbs/o-CHAD-WHITE-570.jpg?8
+wget --tries=2 -O male_ea_20.jpg https://www.indiewire.com/wp-content/uploads/2020/01/9971481a.jpg?w=780
+wget --tries=2 -O male_ea_21.jpg https://zevents.files.wordpress.com/2011/07/ben-pamies-male-model-consort-pr-24.jpg
+wget --tries=2 -O male_ea_22.jpg http://www.drugpolicy.org/sites/default/files/images/stock_photos/male-cannabis-user_2270.jpg
+wget --tries=2 -O male_ea_23.jpg https://i.4pcdn.org/pol/1447271399013.jpg
+wget --tries=2 -O male_ea_24.jpg https://cdn.wealthygorilla.com/wp-content/uploads/2019/02/Greatest-White-Rappers-Machine-Gun-Kelly-800x493.jpeg
+wget --tries=2 -O male_ea_25.jpg https://thumbs.dreamstime.com/z/portrait-older-professional-white-male-9187302.jpg
+wget --tries=2 -O male_ea_26.jpg https://cdn.christianpost.com/files/original/thumbnail/23/39/233920.jpg
+wget --tries=2 -O male_ea_27.jpg https://2kpcwh2r7phz1nq4jj237m22-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Charlie_Kirk.jpg
+wget --tries=2 -O male_ea_28.jpg http://img.youtube.com/vi/6TU50Bz3Ey0/0.jpg
+wget --tries=2 -O male_ea_29.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Chris_Hemsworth_3%2C_2012.jpg/170px-Chris_Hemsworth_3%2C_2012.jpg
+wget --tries=2 -O male_ea_30.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnd1idoQitcvWJCTd-4LwRLiTSoKcXA9vfYh_9NJ0Qqd5zakX&s
+wget --tries=2 -O male_ea_31.jpg https://cdn.shopify.com/s/files/1/1231/6442/products/cottonworld-men-s-shirts-small-white-men-s-cotton-linen-woven-white-regular-fit-shirts-11367374553141_394x.jpg?v=1571438990
+wget --tries=2 -O male_ea_32.jpg https://www.pewresearch.org/wp-content/uploads/2012/12/Tyson.jpg?w=200
+wget --tries=2 -O male_ea_33.jpg https://citizen.co.za/wp-content/uploads/2019/09/NINTCHDBPICT000517746140-e1567285755814-370x418.jpg
 
-wget -O female_ea_0.jpg https://dasg7xwmldix6.cloudfront.net/episodes/104201_xjNbC9j4.jpg
-wget -O female_ea_1.jpg https://www.law.com/image/EM/TAL08/woman-thinking-Article-201606101550.jpg
-wget -O female_ea_2.jpg https://media.allure.com/photos/5dc34dc145e66700089db754/master/w_1600%2Cc_limit/smiling-woman-with-white-tank-top.jpg
-wget -O female_ea_3.jpg https://api.time.com/wp-content/uploads/2018/01/stephanie-schriock-motto.jpg
-wget -O female_ea_4.jpg https://www.abc.net.au/news/image/11682030-3x2-700x467.jpg
-wget -O female_ea_5.jpg https://www.koreaboo.com/wp-content/uploads/2017/09/omyjewelsofia3.jpg
-wget -O female_ea_6.jpg https://haveyouheardblog.com/wp-content/uploads/2012/10/swf.jpg
-wget -O female_ea_7.jpg https://www.liberaldictionary.com/wp-content/uploads/2019/02/caucasian-3306.jpg
-wget -O female_ea_8.jpg https://www.irishtimes.com/polopoly_fs/1.3792525.1550071036!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
-wget -O female_ea_9.jpg https://image.shutterstock.com/image-photo/beauty-woman-face-portrait-beautiful-260nw-324067166.jpg
-wget -O female_ea_10.jpg http://thesmokinggun.com/sites/default/files/assets/lcutshawportrait19.jpg
-wget -O female_ea_11.jpg https://cheesecake.articleassets.meaww.com/399455/uploads/7e5aea20-2baf-11ea-8bca-d1b0e0013c0d_800_420.jpeg
-wget -O female_ea_12.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOwAi5-DWMeSo1rbsknpgS5Tob9W1MbaZ4B7yTJwBE_3RvQlq1A&s
-wget -O female_ea_13.jpg https://womensagenda.com.au/wp-content/uploads/2019/03/DeliaDonovan_CEO-White-Ribbon-Australia-002.jpg
-wget -O female_ea_14.jpg http://xdesktopwallpapers.com/wp-content/uploads/2012/07/Adriana%20Cernanova%20Cute%20Smiling%20In%20White%20Top.jpg
-wget -O female_ea_15.jpg https://whitefemalerappers.files.wordpress.com/2011/11/cropped-tumblr_lp9oozkwst1qkoxfto1_500.jpg
-wget -O female_ea_16.jpg https://img.pngio.com/young-beautiful-caucasian-blonde-girl-happily-rejoicing-saying-yes-white-blonde-woman-png-1920_1080.png
-wget -O female_ea_17.jpg https://eatrunswag.files.wordpress.com/2013/02/biatch.jpg
-wget -O female_ea_18.jpg https://upload.wikimedia.org/wikipedia/commons/b/b3/Brooke_White_%28551454865470136320%29.jpg
-wget -O female_ea_19.jpg http://www.pointparknewsservice.com/wp-content/uploads/2013/10/Barenaked-Photo1.jpg
-wget -O female_ea_20.jpg https://pbs.twimg.com/profile_images/684589203800371201/5mkaFvij.jpg
-wget -O female_ea_21.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Angela_White_2019_by_Glenn_Francis.jpg/1200px-Angela_White_2019_by_Glenn_Francis.jpg
-wget -O female_ea_22.jpg https://www.concord.edu/getattachment/Student-Life/Academic-Success-Center/Allison-Lambert-\(1\).jpg.aspx?width=175&height=262
-wget -O female_ea_23.jpg https://irp-cdn.multiscreensite.com/cf084bbe/dms3rep/multi/mobile/I54A0118.JPG
-wget -O female_ea_24.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blaire_White.png/220px-Blaire_White.png
-wget -O female_ea_25.jpg https://i.dailymail.co.uk/i/pix/2017/08/25/20/438F5DB500000578-4824258-image-m-103_1503689471807.jpg
-wget -O female_ea_26.jpg https://upload.wikimedia.org/wikipedia/commons/8/87/Paula_White.jpg
-wget -O female_ea_27.jpg https://img.buzzfeed.com/buzzfeed-static/static/2019-01/11/12/campaign_images/buzzfeed-prod-web-04/chelsea-handler-sees-her-father-in-donald-trump-2-21255-1547228978-1_dblbig.jpg
-wget -O female_ea_28.jpg https://redrobinchronicles.files.wordpress.com/2011/05/white-nordic-woman.jpg
-wget -O female_ea_29.jpg http://www.ltdedition.co.za/media/photos/2018-08-161534420898Sue-White-2018D-resized.jpg
-wget -O female_ea_30.jpg https://www.arts.gov/sites/default/files/styles/large-620/public/katie_swenson_may42015_resized.jpg?itok=mM7NMylZ
-wget -O female_ea_31.jpg https://static.wixstatic.com/media/5c9faa_f392226beb8f4a42a793cac6746affe4~mv2.jpg
-wget -O female_ea_32.jpg https://api.time.com/wp-content/uploads/2018/01/stephanie-schriock-motto.jpg
+wget --tries=2 -O female_ea_0.jpg https://dasg7xwmldix6.cloudfront.net/episodes/104201_xjNbC9j4.jpg
+wget --tries=2 -O female_ea_1.jpg https://www.law.com/image/EM/TAL08/woman-thinking-Article-201606101550.jpg
+wget --tries=2 -O female_ea_2.jpg https://media.allure.com/photos/5dc34dc145e66700089db754/master/w_1600%2Cc_limit/smiling-woman-with-white-tank-top.jpg
+wget --tries=2 -O female_ea_3.jpg https://api.time.com/wp-content/uploads/2018/01/stephanie-schriock-motto.jpg
+wget --tries=2 -O female_ea_4.jpg https://www.abc.net.au/news/image/11682030-3x2-700x467.jpg
+wget --tries=2 -O female_ea_5.jpg https://www.koreaboo.com/wp-content/uploads/2017/09/omyjewelsofia3.jpg
+wget --tries=2 -O female_ea_6.jpg https://haveyouheardblog.com/wp-content/uploads/2012/10/swf.jpg
+wget --tries=2 -O female_ea_7.jpg https://www.liberaldictionary.com/wp-content/uploads/2019/02/caucasian-3306.jpg
+wget --tries=2 -O female_ea_8.jpg https://www.irishtimes.com/polopoly_fs/1.3792525.1550071036!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
+wget --tries=2 -O female_ea_9.jpg https://image.shutterstock.com/image-photo/beauty-woman-face-portrait-beautiful-260nw-324067166.jpg
+wget --tries=2 -O female_ea_10.jpg http://thesmokinggun.com/sites/default/files/assets/lcutshawportrait19.jpg
+wget --tries=2 -O female_ea_11.jpg https://cheesecake.articleassets.meaww.com/399455/uploads/7e5aea20-2baf-11ea-8bca-d1b0e0013c0d_800_420.jpeg
+wget --tries=2 -O female_ea_12.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOwAi5-DWMeSo1rbsknpgS5Tob9W1MbaZ4B7yTJwBE_3RvQlq1A&s
+wget --tries=2 -O female_ea_13.jpg https://womensagenda.com.au/wp-content/uploads/2019/03/DeliaDonovan_CEO-White-Ribbon-Australia-002.jpg
+wget --tries=2 -O female_ea_14.jpg http://xdesktopwallpapers.com/wp-content/uploads/2012/07/Adriana%20Cernanova%20Cute%20Smiling%20In%20White%20Top.jpg
+wget --tries=2 -O female_ea_15.jpg https://whitefemalerappers.files.wordpress.com/2011/11/cropped-tumblr_lp9oozkwst1qkoxfto1_500.jpg
+wget --tries=2 -O female_ea_16.jpg https://img.pngio.com/young-beautiful-caucasian-blonde-girl-happily-rejoicing-saying-yes-white-blonde-woman-png-1920_1080.png
+wget --tries=2 -O female_ea_17.jpg https://eatrunswag.files.wordpress.com/2013/02/biatch.jpg
+wget --tries=2 -O female_ea_18.jpg https://upload.wikimedia.org/wikipedia/commons/b/b3/Brooke_White_%28551454865470136320%29.jpg
+wget --tries=2 -O female_ea_19.jpg http://www.pointparknewsservice.com/wp-content/uploads/2013/10/Barenaked-Photo1.jpg
+wget --tries=2 -O female_ea_20.jpg https://pbs.twimg.com/profile_images/684589203800371201/5mkaFvij.jpg
+wget --tries=2 -O female_ea_21.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Angela_White_2019_by_Glenn_Francis.jpg/1200px-Angela_White_2019_by_Glenn_Francis.jpg
+wget --tries=2 -O female_ea_22.jpg https://www.concord.edu/getattachment/Student-Life/Academic-Success-Center/Allison-Lambert-\(1\).jpg.aspx?width=175&height=262
+wget --tries=2 -O female_ea_23.jpg https://irp-cdn.multiscreensite.com/cf084bbe/dms3rep/multi/mobile/I54A0118.JPG
+wget --tries=2 -O female_ea_24.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blaire_White.png/220px-Blaire_White.png
+wget --tries=2 -O female_ea_25.jpg https://i.dailymail.co.uk/i/pix/2017/08/25/20/438F5DB500000578-4824258-image-m-103_1503689471807.jpg
+wget --tries=2 -O female_ea_26.jpg https://upload.wikimedia.org/wikipedia/commons/8/87/Paula_White.jpg
+wget --tries=2 -O female_ea_27.jpg https://img.buzzfeed.com/buzzfeed-static/static/2019-01/11/12/campaign_images/buzzfeed-prod-web-04/chelsea-handler-sees-her-father-in-donald-trump-2-21255-1547228978-1_dblbig.jpg
+wget --tries=2 -O female_ea_28.jpg https://redrobinchronicles.files.wordpress.com/2011/05/white-nordic-woman.jpg
+wget --tries=2 -O female_ea_29.jpg http://www.ltdedition.co.za/media/photos/2018-08-161534420898Sue-White-2018D-resized.jpg
+wget --tries=2 -O female_ea_30.jpg https://www.arts.gov/sites/default/files/styles/large-620/public/katie_swenson_may42015_resized.jpg?itok=mM7NMylZ
+wget --tries=2 -O female_ea_31.jpg https://static.wixstatic.com/media/5c9faa_f392226beb8f4a42a793cac6746affe4~mv2.jpg
+wget --tries=2 -O female_ea_32.jpg https://api.time.com/wp-content/uploads/2018/01/stephanie-schriock-motto.jpg

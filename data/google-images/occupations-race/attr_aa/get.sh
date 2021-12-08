@@ -1,439 +1,439 @@
-wget -O aa_male_driver_0.jpg https://image.shutterstock.com/image-photo/side-portrait-happy-african-american-260nw-1363330130.jpg
-wget -O aa_male_driver_1.jpg https://image.shutterstock.com/image-photo/side-portrait-happy-young-african-260nw-648807643.jpg
-wget -O aa_male_driver_2.jpg https://image.shutterstock.com/image-photo/black-guy-driving-car-260nw-327171320.jpg
-wget -O aa_male_driver_3.jpg http://www.northstarnewstoday.com/wp-content/uploads/2016/06/blackman_driving_1600-1400x400-1024x293.jpg
-wget -O aa_male_driver_4.jpg https://media.istockphoto.com/photos/man-driver-showing-thumbs-up-driving-sport-blue-car-picture-id480955576?k=6&m=480955576&s=612x612&w=0&h=BeUwTd0kiEikoNSm4sBseUehXhS3Xax0cHgPUgTcd_U=
-wget -O aa_female_driver_0.jpg https://previews.123rf.com/images/karelnoppe/karelnoppe1610/karelnoppe161000027/65115772-close-up-portrait-of-attractive-black-female-driver-doing-thumbs-up-young-girl-sitting-in-convertibl.jpg
-wget -O aa_female_driver_1.jpg https://i0.wp.com/thesource.com/wp-content/uploads/2016/03/Tia-Norfleet4X3-thumb-400xauto-29704.jpg?resize=400%2C299&ssl=1
-wget -O aa_female_driver_2.jpg https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/e/29/e292f7cb-c2fb-5369-a139-6f04aafdaa54/56cd0a32538d1.image.jpg?resize=1200%2C856
-wget -O aa_female_driver_3.jpg https://thisisafrica.me/wp-content/uploads/2019/09/black-driving-african-car-beautiful_1303-1587-768x511.jpg
-wget -O aa_female_driver_4.jpg https://image.shutterstock.com/image-photo/portrait-happy-young-african-american-260nw-1050291887.jpg
+wget --tries=2 -O aa_male_driver_0.jpg https://image.shutterstock.com/image-photo/side-portrait-happy-african-american-260nw-1363330130.jpg
+wget --tries=2 -O aa_male_driver_1.jpg https://image.shutterstock.com/image-photo/side-portrait-happy-young-african-260nw-648807643.jpg
+wget --tries=2 -O aa_male_driver_2.jpg https://image.shutterstock.com/image-photo/black-guy-driving-car-260nw-327171320.jpg
+wget --tries=2 -O aa_male_driver_3.jpg http://www.northstarnewstoday.com/wp-content/uploads/2016/06/blackman_driving_1600-1400x400-1024x293.jpg
+wget --tries=2 -O aa_male_driver_4.jpg https://media.istockphoto.com/photos/man-driver-showing-thumbs-up-driving-sport-blue-car-picture-id480955576?k=6&m=480955576&s=612x612&w=0&h=BeUwTd0kiEikoNSm4sBseUehXhS3Xax0cHgPUgTcd_U=
+wget --tries=2 -O aa_female_driver_0.jpg https://previews.123rf.com/images/karelnoppe/karelnoppe1610/karelnoppe161000027/65115772-close-up-portrait-of-attractive-black-female-driver-doing-thumbs-up-young-girl-sitting-in-convertibl.jpg
+wget --tries=2 -O aa_female_driver_1.jpg https://i0.wp.com/thesource.com/wp-content/uploads/2016/03/Tia-Norfleet4X3-thumb-400xauto-29704.jpg?resize=400%2C299&ssl=1
+wget --tries=2 -O aa_female_driver_2.jpg https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/e/29/e292f7cb-c2fb-5369-a139-6f04aafdaa54/56cd0a32538d1.image.jpg?resize=1200%2C856
+wget --tries=2 -O aa_female_driver_3.jpg https://thisisafrica.me/wp-content/uploads/2019/09/black-driving-african-car-beautiful_1303-1587-768x511.jpg
+wget --tries=2 -O aa_female_driver_4.jpg https://image.shutterstock.com/image-photo/portrait-happy-young-african-american-260nw-1050291887.jpg
 
-wget -O aa_male_supervisor_0.jpg https://images.wisegeek.com/businessman-in-black.jpg
-wget -O aa_male_supervisor_1.jpg https://image.shutterstock.com/image-photo/front-view-handsome-mature-africanamerican-260nw-1460783243.jpg
-wget -O aa_male_supervisor_2.jpg https://www.sfexaminer.com/wp-content/uploads/2020/01/20193928_web1_reparations_1-1024x576.jpg
-wget -O aa_male_supervisor_3.jpg https://image.shutterstock.com/image-photo/confident-black-business-man-stylish-260nw-403315558.jpg
-wget -O aa_male_supervisor_4.jpg https://comps.canstockphoto.com/construction-supervisor-writes-on-stock-photo_csp49946924.jpg
-wget -O aa_female_supervisor_0.jpg https://indyweek.com/downloads/70490/download/Natalie%20Murdock.jpg?cb=bfc5e271663021520e78b95d7feb8da7&w=600
-wget -O aa_female_supervisor_1.jpg http://nomoredownlow.tv/newsite/wp-content/uploads/2011/01/San-Francisco-Supervisor-Malia-Cohen.jpg
-wget -O aa_female_supervisor_2.jpg https://i.pinimg.com/originals/1a/a6/d3/1aa6d38352e2b702cf679b96e80d238b.jpg
-wget -O aa_female_supervisor_3.jpg https://i.pinimg.com/originals/aa/db/1d/aadb1d238f5e32b744937da15c9791ca.jpg
-wget -O aa_female_supervisor_4.jpg https://content.fortune.com/wp-content/uploads/2015/04/purdie-vaughns-photo.jpeg
+wget --tries=2 -O aa_male_supervisor_0.jpg https://images.wisegeek.com/businessman-in-black.jpg
+wget --tries=2 -O aa_male_supervisor_1.jpg https://image.shutterstock.com/image-photo/front-view-handsome-mature-africanamerican-260nw-1460783243.jpg
+wget --tries=2 -O aa_male_supervisor_2.jpg https://www.sfexaminer.com/wp-content/uploads/2020/01/20193928_web1_reparations_1-1024x576.jpg
+wget --tries=2 -O aa_male_supervisor_3.jpg https://image.shutterstock.com/image-photo/confident-black-business-man-stylish-260nw-403315558.jpg
+wget --tries=2 -O aa_male_supervisor_4.jpg https://comps.canstockphoto.com/construction-supervisor-writes-on-stock-photo_csp49946924.jpg
+wget --tries=2 -O aa_female_supervisor_0.jpg https://indyweek.com/downloads/70490/download/Natalie%20Murdock.jpg?cb=bfc5e271663021520e78b95d7feb8da7&w=600
+wget --tries=2 -O aa_female_supervisor_1.jpg http://nomoredownlow.tv/newsite/wp-content/uploads/2011/01/San-Francisco-Supervisor-Malia-Cohen.jpg
+wget --tries=2 -O aa_female_supervisor_2.jpg https://i.pinimg.com/originals/1a/a6/d3/1aa6d38352e2b702cf679b96e80d238b.jpg
+wget --tries=2 -O aa_female_supervisor_3.jpg https://i.pinimg.com/originals/aa/db/1d/aadb1d238f5e32b744937da15c9791ca.jpg
+wget --tries=2 -O aa_female_supervisor_4.jpg https://content.fortune.com/wp-content/uploads/2015/04/purdie-vaughns-photo.jpeg
 
-wget -O aa_male_janitor_0.jpg https://previews.123rf.com/images/andreypopov/andreypopov1506/andreypopov150600617/41318092-young-african-male-janitor-cleaning-floor-in-corridor.jpg
-wget -O aa_male_janitor_1.jpg https://media.gettyimages.com/photos/black-janitor-standing-with-cleaning-cart-picture-id124206078?s=612x612
-wget -O aa_male_janitor_2.jpg https://thumbs.dreamstime.com/z/two-smiling-male-janitor-cleaning-induction-stove-mopping-floor-kitchen-smiling-two-young-male-janitor-cleaning-126324171.jpg
-wget -O aa_male_janitor_3.jpg https://media.gettyimages.com/photos/janitor-picture-id83403889?s=612x612
-wget -O aa_male_janitor_4.jpg https://image.shutterstock.com/image-photo/friendly-black-janitor-mop-professional-600w-1219503880.jpg
-wget -O aa_female_janitor_0.jpg https://previews.123rf.com/images/andreypopov/andreypopov1604/andreypopov160401087/56064811-young-happy-female-janitor-using-vacuum-cleaner-on-floor-at-office.jpg
-wget -O aa_female_janitor_1.jpg https://image.shutterstock.com/image-photo/portrait-young-happy-female-janitor-260nw-416632258.jpg
-wget -O aa_female_janitor_2.jpg https://thumbs.dreamstime.com/z/african-american-female-cleaner-broom-standing-akimbo-african-american-female-cleaner-broom-standing-akimbo-isolated-118816860.jpg
-wget -O aa_female_janitor_3.jpg https://st2.depositphotos.com/1011643/8485/i/950/depositphotos_84850394-stock-photo-woman-cleaning-home.jpg
-wget -O aa_female_janitor_4.jpg https://i.dailymail.co.uk/i/pix/2016/12/10/21/3B405DF000000578-4020840-image-m-22_1481404604162.jpg
+wget --tries=2 -O aa_male_janitor_0.jpg https://previews.123rf.com/images/andreypopov/andreypopov1506/andreypopov150600617/41318092-young-african-male-janitor-cleaning-floor-in-corridor.jpg
+wget --tries=2 -O aa_male_janitor_1.jpg https://media.gettyimages.com/photos/black-janitor-standing-with-cleaning-cart-picture-id124206078?s=612x612
+wget --tries=2 -O aa_male_janitor_2.jpg https://thumbs.dreamstime.com/z/two-smiling-male-janitor-cleaning-induction-stove-mopping-floor-kitchen-smiling-two-young-male-janitor-cleaning-126324171.jpg
+wget --tries=2 -O aa_male_janitor_3.jpg https://media.gettyimages.com/photos/janitor-picture-id83403889?s=612x612
+wget --tries=2 -O aa_male_janitor_4.jpg https://image.shutterstock.com/image-photo/friendly-black-janitor-mop-professional-600w-1219503880.jpg
+wget --tries=2 -O aa_female_janitor_0.jpg https://previews.123rf.com/images/andreypopov/andreypopov1604/andreypopov160401087/56064811-young-happy-female-janitor-using-vacuum-cleaner-on-floor-at-office.jpg
+wget --tries=2 -O aa_female_janitor_1.jpg https://image.shutterstock.com/image-photo/portrait-young-happy-female-janitor-260nw-416632258.jpg
+wget --tries=2 -O aa_female_janitor_2.jpg https://thumbs.dreamstime.com/z/african-american-female-cleaner-broom-standing-akimbo-african-american-female-cleaner-broom-standing-akimbo-isolated-118816860.jpg
+wget --tries=2 -O aa_female_janitor_3.jpg https://st2.depositphotos.com/1011643/8485/i/950/depositphotos_84850394-stock-photo-woman-cleaning-home.jpg
+wget --tries=2 -O aa_female_janitor_4.jpg https://i.dailymail.co.uk/i/pix/2016/12/10/21/3B405DF000000578-4020840-image-m-22_1481404604162.jpg
 
-wget -O aa_male_cook_0.jpg https://shoppeblack.us/wp-content/uploads/2018/07/14732368_899909576812636_7779257940878229641_n.jpg
-wget -O aa_male_cook_1.jpg https://image.shutterstock.com/image-photo/special-offer-chef-confident-young-260nw-255250489.jpg
-wget -O aa_male_cook_2.jpg https://c8.alamy.com/comp/P0D3TY/handsome-african-american-chef-looking-at-camera-with-crossed-arms-P0D3TY.jpg
-wget -O aa_male_cook_3.jpg http://stmedia.stimg.co/ctyp_80897617b709b_dish_1839-8db91e56a12b8688.jpg?w=800
-wget -O aa_male_cook_4.jpg https://image.shutterstock.com/image-photo/male-chef-preparing-salad-kitchen-260nw-746467468.jpg
-wget -O aa_female_cook_0.jpg https://image.shutterstock.com/image-photo/beautiful-african-female-chef-garnishing-260nw-149437304.jpg
-wget -O aa_female_cook_1.jpg https://i.pinimg.com/originals/2d/9c/d2/2d9cd26c1eaf2924ebd18dacf6944734.jpg
-wget -O aa_female_cook_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/07/Cooking-School-Photo-1080x675.jpg
-wget -O aa_female_cook_3.jpg https://previews.123rf.com/images/chef/chef0607/chef060700015/459965-a-black-female-chef-sitting-in-the-kitchen-during-a-pause.jpg
-wget -O aa_female_cook_4.jpg https://c8.alamy.com/comp/F1JRWH/young-black-female-cooking-in-her-kitchen-smiling-at-camera-F1JRWH.jpg
+wget --tries=2 -O aa_male_cook_0.jpg https://shoppeblack.us/wp-content/uploads/2018/07/14732368_899909576812636_7779257940878229641_n.jpg
+wget --tries=2 -O aa_male_cook_1.jpg https://image.shutterstock.com/image-photo/special-offer-chef-confident-young-260nw-255250489.jpg
+wget --tries=2 -O aa_male_cook_2.jpg https://c8.alamy.com/comp/P0D3TY/handsome-african-american-chef-looking-at-camera-with-crossed-arms-P0D3TY.jpg
+wget --tries=2 -O aa_male_cook_3.jpg http://stmedia.stimg.co/ctyp_80897617b709b_dish_1839-8db91e56a12b8688.jpg?w=800
+wget --tries=2 -O aa_male_cook_4.jpg https://image.shutterstock.com/image-photo/male-chef-preparing-salad-kitchen-260nw-746467468.jpg
+wget --tries=2 -O aa_female_cook_0.jpg https://image.shutterstock.com/image-photo/beautiful-african-female-chef-garnishing-260nw-149437304.jpg
+wget --tries=2 -O aa_female_cook_1.jpg https://i.pinimg.com/originals/2d/9c/d2/2d9cd26c1eaf2924ebd18dacf6944734.jpg
+wget --tries=2 -O aa_female_cook_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/07/Cooking-School-Photo-1080x675.jpg
+wget --tries=2 -O aa_female_cook_3.jpg https://previews.123rf.com/images/chef/chef0607/chef060700015/459965-a-black-female-chef-sitting-in-the-kitchen-during-a-pause.jpg
+wget --tries=2 -O aa_female_cook_4.jpg https://c8.alamy.com/comp/F1JRWH/young-black-female-cooking-in-her-kitchen-smiling-at-camera-F1JRWH.jpg
 
-wget -O aa_male_mover_0.jpg http://bestpricemoving.com/wordpress/wp-content/uploads/2011/06/black-mover.jpg
-wget -O aa_male_mover_1.jpg https://pbs.twimg.com/media/EFZ8I4iWsAE-MJe.jpg
-wget -O aa_male_mover_2.jpg https://www.hottubmoversutah.com/wp-content/uploads/freshizer/65e9e0b5bf303c788d426dbac6f1b75f_0-4-1140-760-c-90.jpg
-wget -O aa_male_mover_3.jpg https://bellmoving.com/wp-content/uploads/2017/02/Bell_OfficeMovers2.png
-wget -O aa_male_mover_4.jpg https://www.mayflower.com/wp-content/uploads/2019/10/MT_02_MoversLoadingTruck_1522_SQ.jpg
-wget -O aa_female_mover_0.jpg https://mintmovers.com/wp-content/uploads/mintmovers-packing-supplies-1.jpg
-wget -O aa_female_mover_1.jpg https://media.gettyimages.com/photos/happy-woman-moving-house-picture-id926398002?s=612x612
-wget -O aa_female_mover_2.jpg http://www.johnlund.com/Images/Picture-Woman-Packing-Moving-10005200819[1].jpg
-wget -O aa_female_mover_3.jpg https://c8.alamy.com/comp/G1MM2E/happy-african-woman-with-cardboard-boxes-at-home-G1MM2E.jpg
-wget -O aa_female_mover_4.jpg https://media.istockphoto.com/photos/young-african-american-woman-smiles-while-moving-boxes-into-her-new-picture-id1165016841?b=1&k=6&m=1165016841&s=170667a&h=xNDmYOlw6RE8H2tr4K4UEvUgo0Q6oEZJqatOdmeH5aE=
+wget --tries=2 -O aa_male_mover_0.jpg http://bestpricemoving.com/wordpress/wp-content/uploads/2011/06/black-mover.jpg
+wget --tries=2 -O aa_male_mover_1.jpg https://pbs.twimg.com/media/EFZ8I4iWsAE-MJe.jpg
+wget --tries=2 -O aa_male_mover_2.jpg https://www.hottubmoversutah.com/wp-content/uploads/freshizer/65e9e0b5bf303c788d426dbac6f1b75f_0-4-1140-760-c-90.jpg
+wget --tries=2 -O aa_male_mover_3.jpg https://bellmoving.com/wp-content/uploads/2017/02/Bell_OfficeMovers2.png
+wget --tries=2 -O aa_male_mover_4.jpg https://www.mayflower.com/wp-content/uploads/2019/10/MT_02_MoversLoadingTruck_1522_SQ.jpg
+wget --tries=2 -O aa_female_mover_0.jpg https://mintmovers.com/wp-content/uploads/mintmovers-packing-supplies-1.jpg
+wget --tries=2 -O aa_female_mover_1.jpg https://media.gettyimages.com/photos/happy-woman-moving-house-picture-id926398002?s=612x612
+wget --tries=2 -O aa_female_mover_2.jpg http://www.johnlund.com/Images/Picture-Woman-Packing-Moving-10005200819[1].jpg
+wget --tries=2 -O aa_female_mover_3.jpg https://c8.alamy.com/comp/G1MM2E/happy-african-woman-with-cardboard-boxes-at-home-G1MM2E.jpg
+wget --tries=2 -O aa_female_mover_4.jpg https://media.istockphoto.com/photos/young-african-american-woman-smiles-while-moving-boxes-into-her-new-picture-id1165016841?b=1&k=6&m=1165016841&s=170667a&h=xNDmYOlw6RE8H2tr4K4UEvUgo0Q6oEZJqatOdmeH5aE=
 
-wget -O aa_male_laborer_0.jpg https://image.shutterstock.com/image-photo/portrait-worker-construction-site-260nw-426505438.jpg
-wget -O aa_male_laborer_1.jpg https://thumbs.dreamstime.com/b/african-worker-paint-spray-gun-11110484.jpg
-wget -O aa_male_laborer_2.jpg https://www.trbimg.com/img-58f692fa/turbine/la-fi-construction-trump-photos-20170418-004/800
-wget -O aa_male_laborer_3.jpg https://www.pewresearch.org/wp-content/uploads/2019/08/FT_19.09.02_AmericanWorkerUpdate_feature.jpg
-wget -O aa_male_laborer_4.jpg https://www.trbimg.com/img-58f692ee/turbine/la-fi-construction-trump-photos-20170418-011/800
-wget -O aa_female_laborer_0.jpg https://image.shutterstock.com/image-photo/beautiful-african-american-architect-holding-260nw-158381759.jpg
-wget -O aa_female_laborer_1.jpg https://theundefeated.com/wp-content/uploads/2017/11/tonya-boyd_station-39.jpg?w=700
-wget -O aa_female_laborer_2.jpg https://image.cnbcfm.com/api/v1/image/105323669-1531324756600sinadecaroll.jpg?v=1539725575&w=1400&h=950https://s3.amazonaws.com/oxfam-us/static/images/campaigns/poultry/24-Black-Poultry-Processor-on-Line-AL.jpg
-wget -O aa_female_laborer_3.jpg https://image.shutterstock.com/image-photo/confident-african-american-woman-architect-260nw-106991399.jpg
-wget -O aa_female_laborer_4.jpg https://specials-images.forbesimg.com/imageserve/cb7dfa2da80c4d12900fa303755e5e0b/960x0.jpg?fit=scale
+wget --tries=2 -O aa_male_laborer_0.jpg https://image.shutterstock.com/image-photo/portrait-worker-construction-site-260nw-426505438.jpg
+wget --tries=2 -O aa_male_laborer_1.jpg https://thumbs.dreamstime.com/b/african-worker-paint-spray-gun-11110484.jpg
+wget --tries=2 -O aa_male_laborer_2.jpg https://www.trbimg.com/img-58f692fa/turbine/la-fi-construction-trump-photos-20170418-004/800
+wget --tries=2 -O aa_male_laborer_3.jpg https://www.pewresearch.org/wp-content/uploads/2019/08/FT_19.09.02_AmericanWorkerUpdate_feature.jpg
+wget --tries=2 -O aa_male_laborer_4.jpg https://www.trbimg.com/img-58f692ee/turbine/la-fi-construction-trump-photos-20170418-011/800
+wget --tries=2 -O aa_female_laborer_0.jpg https://image.shutterstock.com/image-photo/beautiful-african-american-architect-holding-260nw-158381759.jpg
+wget --tries=2 -O aa_female_laborer_1.jpg https://theundefeated.com/wp-content/uploads/2017/11/tonya-boyd_station-39.jpg?w=700
+wget --tries=2 -O aa_female_laborer_2.jpg https://image.cnbcfm.com/api/v1/image/105323669-1531324756600sinadecaroll.jpg?v=1539725575&w=1400&h=950https://s3.amazonaws.com/oxfam-us/static/images/campaigns/poultry/24-Black-Poultry-Processor-on-Line-AL.jpg
+wget --tries=2 -O aa_female_laborer_3.jpg https://image.shutterstock.com/image-photo/confident-african-american-woman-architect-260nw-106991399.jpg
+wget --tries=2 -O aa_female_laborer_4.jpg https://specials-images.forbesimg.com/imageserve/cb7dfa2da80c4d12900fa303755e5e0b/960x0.jpg?fit=scale
 
-wget -O aa_male_construction_0.jpg https://previews.123rf.com/images/robeo/robeo1101/robeo110100263/8672896-a-black-man-african-american-construction-worker-a-job-site-.jpg
-wget -O aa_male_construction_1.jpg https://static8.depositphotos.com/1003570/1048/i/950/depositphotos_10482172-stock-photo-black-man-construction-worker.jpg
-wget -O aa_male_construction_2.jpg https://image.shutterstock.com/z/stock-photo-serious-male-construction-worker-with-short-black-hair-in-uniform-pointing-using-finger-isolated-336197117.jpg
-wget -O aa_male_construction_3.jpg https://image1.masterfile.com/getImage/NjkzLTAzMzAwMDAyZW4uMDAwMDAwMDA=AMatKS/693-03300002en_Masterfile.jpg
-wget -O aa_male_construction_4.jpg https://previews.123rf.com/images/robeo/robeo1210/robeo121000130/15646852-black-african-american-male-construction-worker-a-job-site-.jpg
-wget -O aa_female_construction_0.jpg https://c8.alamy.com/comp/KFYMMR/a-black-female-construction-worker-wearing-a-white-hat-and-orange-KFYMMR.jpg						       
-wget -O aa_female_construction_1.jpg https://image.shutterstock.com/image-photo/africanamerican-architect-woman-260nw-561980089.jpg								       
-wget -O aa_female_construction_2.jpg https://media.istockphoto.com/photos/young-female-engineer-picture-id475224702?k=6&m=475224702&s=612x612&w=0&h=rhoRNxf1gpX8W2cE8ixVxM2NXi8mAvfFbfiWJ188IR0=	       
-wget -O aa_female_construction_3.jpg https://thumbs.dreamstime.com/z/beautiful-female-construction-worker-extraordinarily-young-black-woman-wearing-tool-belt-holds-her-dress-shoes-standing-31810874.jpg
-wget -O aa_female_construction_4.jpg https://comps.canstockphoto.com/female-construction-worker-stock-images_csp5349925.jpg									       
+wget --tries=2 -O aa_male_construction_0.jpg https://previews.123rf.com/images/robeo/robeo1101/robeo110100263/8672896-a-black-man-african-american-construction-worker-a-job-site-.jpg
+wget --tries=2 -O aa_male_construction_1.jpg https://static8.depositphotos.com/1003570/1048/i/950/depositphotos_10482172-stock-photo-black-man-construction-worker.jpg
+wget --tries=2 -O aa_male_construction_2.jpg https://image.shutterstock.com/z/stock-photo-serious-male-construction-worker-with-short-black-hair-in-uniform-pointing-using-finger-isolated-336197117.jpg
+wget --tries=2 -O aa_male_construction_3.jpg https://image1.masterfile.com/getImage/NjkzLTAzMzAwMDAyZW4uMDAwMDAwMDA=AMatKS/693-03300002en_Masterfile.jpg
+wget --tries=2 -O aa_male_construction_4.jpg https://previews.123rf.com/images/robeo/robeo1210/robeo121000130/15646852-black-african-american-male-construction-worker-a-job-site-.jpg
+wget --tries=2 -O aa_female_construction_0.jpg https://c8.alamy.com/comp/KFYMMR/a-black-female-construction-worker-wearing-a-white-hat-and-orange-KFYMMR.jpg						       
+wget --tries=2 -O aa_female_construction_1.jpg https://image.shutterstock.com/image-photo/africanamerican-architect-woman-260nw-561980089.jpg								       
+wget --tries=2 -O aa_female_construction_2.jpg https://media.istockphoto.com/photos/young-female-engineer-picture-id475224702?k=6&m=475224702&s=612x612&w=0&h=rhoRNxf1gpX8W2cE8ixVxM2NXi8mAvfFbfiWJ188IR0=	       
+wget --tries=2 -O aa_female_construction_3.jpg https://thumbs.dreamstime.com/z/beautiful-female-construction-worker-extraordinarily-young-black-woman-wearing-tool-belt-holds-her-dress-shoes-standing-31810874.jpg
+wget --tries=2 -O aa_female_construction_4.jpg https://comps.canstockphoto.com/female-construction-worker-stock-images_csp5349925.jpg									       
 
-wget -O aa_male_chief_0.jpg https://storage.googleapis.com/afs-prod/media/media:308f546f4a6b4b9c89d54d18b2e3dbfb/800.jpeg
-wget -O aa_male_chief_1.jpg http://www.wschronicle.com/wp-content/uploads/2016/04/new-chief-505x306_c.jpg
-wget -O aa_male_chief_2.jpg https://kuow-prod.imgix.net/store/c21a17315ad9ac9faca6f6a3f67db4ab.jpg?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=634&w=924
-wget -O aa_male_chief_3.jpg https://static01.nyt.com/images/2015/08/03/us/03chief-01/03chief-01-articleLarge.jpg?quality=90&auto=webp
-wget -O aa_male_chief_4.jpg https://chicagocrusader.com/wp-content/uploads/sites/2/2019/04/53eb4af090b9d.image_.jpg
-wget -O aa_female_chief_0.jpg https://storage.googleapis.com/afs-prod/media/29826dde679742deb442aa53b5c8e0ff/3000.jpeg
-wget -O aa_female_chief_1.jpg https://media2.s-nbcnews.com/j/newscms/2017_29/2080901/police_chief_dallas_03640-jpg-c8bba_949c4e5698d282cb26c2b3f0c48cabde.fit-760w.jpg
-wget -O aa_female_chief_2.jpg https://media4.s-nbcnews.com/j/newscms/2019_13/2799661/190326-tonya-chapman-ew-157p_1b072d33d78a70a490fb0831e71222f6.fit-760w.jpg
-wget -O aa_female_chief_3.jpg https://media.11alive.com/assets/WXIA/images/00f48783-e7cc-4cf8-b916-ab9132751283/00f48783-e7cc-4cf8-b916-ab9132751283_750x422.jpg
-wget -O aa_female_chief_4.jpg https://media.graytvinc.com/images/690*388/CLAYTON+TWP+CHIEF2.jpg
+wget --tries=2 -O aa_male_chief_0.jpg https://storage.googleapis.com/afs-prod/media/media:308f546f4a6b4b9c89d54d18b2e3dbfb/800.jpeg
+wget --tries=2 -O aa_male_chief_1.jpg http://www.wschronicle.com/wp-content/uploads/2016/04/new-chief-505x306_c.jpg
+wget --tries=2 -O aa_male_chief_2.jpg https://kuow-prod.imgix.net/store/c21a17315ad9ac9faca6f6a3f67db4ab.jpg?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=634&w=924
+wget --tries=2 -O aa_male_chief_3.jpg https://static01.nyt.com/images/2015/08/03/us/03chief-01/03chief-01-articleLarge.jpg?quality=90&auto=webp
+wget --tries=2 -O aa_male_chief_4.jpg https://chicagocrusader.com/wp-content/uploads/sites/2/2019/04/53eb4af090b9d.image_.jpg
+wget --tries=2 -O aa_female_chief_0.jpg https://storage.googleapis.com/afs-prod/media/29826dde679742deb442aa53b5c8e0ff/3000.jpeg
+wget --tries=2 -O aa_female_chief_1.jpg https://media2.s-nbcnews.com/j/newscms/2017_29/2080901/police_chief_dallas_03640-jpg-c8bba_949c4e5698d282cb26c2b3f0c48cabde.fit-760w.jpg
+wget --tries=2 -O aa_female_chief_2.jpg https://media4.s-nbcnews.com/j/newscms/2019_13/2799661/190326-tonya-chapman-ew-157p_1b072d33d78a70a490fb0831e71222f6.fit-760w.jpg
+wget --tries=2 -O aa_female_chief_3.jpg https://media.11alive.com/assets/WXIA/images/00f48783-e7cc-4cf8-b916-ab9132751283/00f48783-e7cc-4cf8-b916-ab9132751283_750x422.jpg
+wget --tries=2 -O aa_female_chief_4.jpg https://media.graytvinc.com/images/690*388/CLAYTON+TWP+CHIEF2.jpg
 
-wget -O aa_male_developer_0.jpg https://st4.depositphotos.com/1003697/24947/i/1600/depositphotos_249471924-stock-photo-portrait-of-black-male-software.jpg
-wget -O aa_male_developer_1.jpg https://sparkdj.com/wp-content/uploads/2018/06/17546969_10155196420224772_8032319288458691906_o-960x960.jpg
-wget -O aa_male_developer_2.jpg http://www.blackenterprise.com/bemodernman/files/2015/06/DrewBEManPic.jpg
-wget -O aa_male_developer_3.jpg https://www.tolajob.co.za/media/featured/computer-support-black-man-learnership-1507007289.jpg
-wget -O aa_male_developer_4.jpg https://i0.wp.com/weirdlouise.com/wp-content/uploads/2019/11/0EE94492-189D-4FA3-952A-48A2A6E41AF9-scaled.jpg?resize=1180%2C770&ssl=1
-wget -O aa_female_developer_0.jpg https://baucemag.com/wp-content/uploads/IMG_73522pp_w768_h512.jpg
-wget -O aa_female_developer_1.jpg https://c8.alamy.com/comp/T00PG4/black-muslim-female-software-developer-working-together-with-her-multiethnics-business-team-using-computer-while-writing-programming-code-at-modern-st-T00PG4.jpg
-wget -O aa_female_developer_2.jpg https://zumalo.com/wp-content/uploads/2018/05/BlesyNat.jpg
-wget -O aa_female_developer_3.jpg https://cdn-media-1.freecodecamp.org/images/1*JryIFkZrOeaqI_fNgwLxbg.png
-wget -O aa_female_developer_4.jpg https://images.squarespace-cdn.com/content/v1/5575ed06e4b019b0586d393c/1446245639866-4NXU4WX1FHW58N2KU9CN/ke17ZwdGBToddI8pDm48kGP2kDL8laIfNDTHnzBPhyB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0oGwQPSn8VqSSM4mc7rOnog_kMeh2Z3cO4QouP5z7x2-_sMrpUSLM7UVwWjxIUxHdw/Women+In+Tech+-+99.jpg
+wget --tries=2 -O aa_male_developer_0.jpg https://st4.depositphotos.com/1003697/24947/i/1600/depositphotos_249471924-stock-photo-portrait-of-black-male-software.jpg
+wget --tries=2 -O aa_male_developer_1.jpg https://sparkdj.com/wp-content/uploads/2018/06/17546969_10155196420224772_8032319288458691906_o-960x960.jpg
+wget --tries=2 -O aa_male_developer_2.jpg http://www.blackenterprise.com/bemodernman/files/2015/06/DrewBEManPic.jpg
+wget --tries=2 -O aa_male_developer_3.jpg https://www.tolajob.co.za/media/featured/computer-support-black-man-learnership-1507007289.jpg
+wget --tries=2 -O aa_male_developer_4.jpg https://i0.wp.com/weirdlouise.com/wp-content/uploads/2019/11/0EE94492-189D-4FA3-952A-48A2A6E41AF9-scaled.jpg?resize=1180%2C770&ssl=1
+wget --tries=2 -O aa_female_developer_0.jpg https://baucemag.com/wp-content/uploads/IMG_73522pp_w768_h512.jpg
+wget --tries=2 -O aa_female_developer_1.jpg https://c8.alamy.com/comp/T00PG4/black-muslim-female-software-developer-working-together-with-her-multiethnics-business-team-using-computer-while-writing-programming-code-at-modern-st-T00PG4.jpg
+wget --tries=2 -O aa_female_developer_2.jpg https://zumalo.com/wp-content/uploads/2018/05/BlesyNat.jpg
+wget --tries=2 -O aa_female_developer_3.jpg https://cdn-media-1.freecodecamp.org/images/1*JryIFkZrOeaqI_fNgwLxbg.png
+wget --tries=2 -O aa_female_developer_4.jpg https://images.squarespace-cdn.com/content/v1/5575ed06e4b019b0586d393c/1446245639866-4NXU4WX1FHW58N2KU9CN/ke17ZwdGBToddI8pDm48kGP2kDL8laIfNDTHnzBPhyB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0oGwQPSn8VqSSM4mc7rOnog_kMeh2Z3cO4QouP5z7x2-_sMrpUSLM7UVwWjxIUxHdw/Women+In+Tech+-+99.jpg
 
-wget -O aa_male_carpenter_0.jpg https://image1.masterfile.com/getImage/NjExOC0wODcyOTM1NGVuLjAwMDAwMDAw=AOwUSj/6118-08729354en_Masterfile.jpg
-wget -O aa_male_carpenter_1.jpg https://media.istockphoto.com/photos/portrait-of-black-male-carpenter-taking-a-break-holding-a-tablet-picture-id1135209275
-wget -O aa_male_carpenter_2.jpg https://cdn7.dissolve.com/p/D145_292_509/D145_292_509_1200.jpg
-wget -O aa_male_carpenter_3.jpg http://www.johnlund.com/Images/African-American-Carpenter.jpg
-wget -O aa_male_carpenter_4.jpg https://c8.alamy.com/comp/AG7MY3/montgomery-alabama-alabama-shakespeare-festival-black-male-tailor-AG7MY3.jpg
-wget -O aa_female_carpenter_0.jpg https://ak.picdn.net/offset/photos/5acfa0b917fb156e4807e2b7/medium/offset_688845.jpg
-wget -O aa_female_carpenter_1.jpg https://c8.alamy.com/comp/R43J4K/happy-female-carpenter-standing-arms-crossed-R43J4K.jpg
-wget -O aa_female_carpenter_2.jpg https://c8.alamy.com/comp/P9E5TB/portrait-of-a-black-woman-carpenter-in-a-large-woodworking-shop-P9E5TB.jpg
-wget -O aa_female_carpenter_3.jpg https://media.gettyimages.com/videos/young-black-female-designer-working-in-a-woodworking-workshop-video-id1160821745?s=640x640
-wget -O aa_female_carpenter_4.jpg https://media.gettyimages.com/photos/female-carpenter-picture-id836140232?s=612x612
+wget --tries=2 -O aa_male_carpenter_0.jpg https://image1.masterfile.com/getImage/NjExOC0wODcyOTM1NGVuLjAwMDAwMDAw=AOwUSj/6118-08729354en_Masterfile.jpg
+wget --tries=2 -O aa_male_carpenter_1.jpg https://media.istockphoto.com/photos/portrait-of-black-male-carpenter-taking-a-break-holding-a-tablet-picture-id1135209275
+wget --tries=2 -O aa_male_carpenter_2.jpg https://cdn7.dissolve.com/p/D145_292_509/D145_292_509_1200.jpg
+wget --tries=2 -O aa_male_carpenter_3.jpg http://www.johnlund.com/Images/African-American-Carpenter.jpg
+wget --tries=2 -O aa_male_carpenter_4.jpg https://c8.alamy.com/comp/AG7MY3/montgomery-alabama-alabama-shakespeare-festival-black-male-tailor-AG7MY3.jpg
+wget --tries=2 -O aa_female_carpenter_0.jpg https://ak.picdn.net/offset/photos/5acfa0b917fb156e4807e2b7/medium/offset_688845.jpg
+wget --tries=2 -O aa_female_carpenter_1.jpg https://c8.alamy.com/comp/R43J4K/happy-female-carpenter-standing-arms-crossed-R43J4K.jpg
+wget --tries=2 -O aa_female_carpenter_2.jpg https://c8.alamy.com/comp/P9E5TB/portrait-of-a-black-woman-carpenter-in-a-large-woodworking-shop-P9E5TB.jpg
+wget --tries=2 -O aa_female_carpenter_3.jpg https://media.gettyimages.com/videos/young-black-female-designer-working-in-a-woodworking-workshop-video-id1160821745?s=640x640
+wget --tries=2 -O aa_female_carpenter_4.jpg https://media.gettyimages.com/photos/female-carpenter-picture-id836140232?s=612x612
 
-wget -O aa_male_manager_0.jpg https://thumbs.dreamstime.com/z/smiling-black-male-manager-suit-stands-arms-crossed-portrait-successful-african-american-isolated-white-background-copy-101562800.jpg
-wget -O aa_male_manager_1.jpg https://image.shutterstock.com/image-photo/head-shot-close-company-executive-260nw-567771793.jpg
-wget -O aa_male_manager_2.jpg https://image.freepik.com/free-photo/man-black-hair-smart-shipping-manager_1134-1285.jpg
-wget -O aa_male_manager_3.jpg https://image.freepik.com/free-photo/handsome-black-male-manager-portrait_53419-1215.jpg
-wget -O aa_male_manager_4.jpg https://image.freepik.com/free-photo/smiling-manager-holding-black-clipboard_1139-368.jpg
-wget -O aa_female_manager_0.jpg https://image.shutterstock.com/image-photo/black-female-businesswoman-smiling-camera-260nw-585356342.jpg
-wget -O aa_female_manager_1.jpg https://previews.123rf.com/images/devas/devas1112/devas111200062/11799446-elegant-black-female-executive-or-bank-manager.jpg
-wget -O aa_female_manager_2.jpg https://ak4.picdn.net/shutterstock/videos/13474814/thumb/2.jpg
-wget -O aa_female_manager_3.jpg http://www.healthyblackwoman.com/wp-content/uploads/2013/03/female-boss.jpg
-wget -O aa_female_manager_4.jpg https://image.shutterstock.com/image-photo/portrait-female-manager-restaurant-digital-260nw-1113843428.jpg
+wget --tries=2 -O aa_male_manager_0.jpg https://thumbs.dreamstime.com/z/smiling-black-male-manager-suit-stands-arms-crossed-portrait-successful-african-american-isolated-white-background-copy-101562800.jpg
+wget --tries=2 -O aa_male_manager_1.jpg https://image.shutterstock.com/image-photo/head-shot-close-company-executive-260nw-567771793.jpg
+wget --tries=2 -O aa_male_manager_2.jpg https://image.freepik.com/free-photo/man-black-hair-smart-shipping-manager_1134-1285.jpg
+wget --tries=2 -O aa_male_manager_3.jpg https://image.freepik.com/free-photo/handsome-black-male-manager-portrait_53419-1215.jpg
+wget --tries=2 -O aa_male_manager_4.jpg https://image.freepik.com/free-photo/smiling-manager-holding-black-clipboard_1139-368.jpg
+wget --tries=2 -O aa_female_manager_0.jpg https://image.shutterstock.com/image-photo/black-female-businesswoman-smiling-camera-260nw-585356342.jpg
+wget --tries=2 -O aa_female_manager_1.jpg https://previews.123rf.com/images/devas/devas1112/devas111200062/11799446-elegant-black-female-executive-or-bank-manager.jpg
+wget --tries=2 -O aa_female_manager_2.jpg https://ak4.picdn.net/shutterstock/videos/13474814/thumb/2.jpg
+wget --tries=2 -O aa_female_manager_3.jpg http://www.healthyblackwoman.com/wp-content/uploads/2013/03/female-boss.jpg
+wget --tries=2 -O aa_female_manager_4.jpg https://image.shutterstock.com/image-photo/portrait-female-manager-restaurant-digital-260nw-1113843428.jpg
 
-wget -O aa_male_lawyer_0.jpg https://www.jetmag.com/wp-content/uploads/2017/08/lawyerbae-750x375.jpg
-wget -O aa_male_lawyer_1.jpg https://image.shutterstock.com/image-photo/black-lawyer-portrait-260nw-252926029.jpg
-wget -O aa_male_lawyer_2.jpg https://images.law.com/contrib/content/uploads/sites/405/2019/01/Donald-Prophete-Article-201901301306.jpg
-wget -O aa_male_lawyer_3.jpg https://www.blacklawyers.com/images/lawyers/javaron-d-buckley-sr-esq--2154.jpg
-wget -O aa_male_lawyer_4.jpg https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/b/cd/bcddeda8-e88b-576b-9040-c840a41303c9/544926ffbe020.image.jpg
-wget -O aa_female_lawyer_0.jpg https://shoppeblack.us/wp-content/uploads/2018/08/Black-female-lawyer.jpg
-wget -O aa_female_lawyer_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/09/iStock-183996292-1080x675.jpg
-wget -O aa_female_lawyer_2.jpg https://images.law.com/contrib/content/uploads/sites/405/2017/11/Careerist-December-2017-Article-201711301808.jpg
-wget -O aa_female_lawyer_3.jpg https://i.pinimg.com/originals/55/4f/bb/554fbb8c791bc12ae400deaffca1d724.jpg
-wget -O aa_female_lawyer_4.jpg https://www.2civility.org/wp-content/uploads/blackwomenlawyers.jpg
+wget --tries=2 -O aa_male_lawyer_0.jpg https://www.jetmag.com/wp-content/uploads/2017/08/lawyerbae-750x375.jpg
+wget --tries=2 -O aa_male_lawyer_1.jpg https://image.shutterstock.com/image-photo/black-lawyer-portrait-260nw-252926029.jpg
+wget --tries=2 -O aa_male_lawyer_2.jpg https://images.law.com/contrib/content/uploads/sites/405/2019/01/Donald-Prophete-Article-201901301306.jpg
+wget --tries=2 -O aa_male_lawyer_3.jpg https://www.blacklawyers.com/images/lawyers/javaron-d-buckley-sr-esq--2154.jpg
+wget --tries=2 -O aa_male_lawyer_4.jpg https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/b/cd/bcddeda8-e88b-576b-9040-c840a41303c9/544926ffbe020.image.jpg
+wget --tries=2 -O aa_female_lawyer_0.jpg https://shoppeblack.us/wp-content/uploads/2018/08/Black-female-lawyer.jpg
+wget --tries=2 -O aa_female_lawyer_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/09/iStock-183996292-1080x675.jpg
+wget --tries=2 -O aa_female_lawyer_2.jpg https://images.law.com/contrib/content/uploads/sites/405/2017/11/Careerist-December-2017-Article-201711301808.jpg
+wget --tries=2 -O aa_female_lawyer_3.jpg https://i.pinimg.com/originals/55/4f/bb/554fbb8c791bc12ae400deaffca1d724.jpg
+wget --tries=2 -O aa_female_lawyer_4.jpg https://www.2civility.org/wp-content/uploads/blackwomenlawyers.jpg
 
-wget -O aa_male_farmer_0.jpg https://www.charlestonchronicle.net/wp-content/uploads/2017/06/99545_600.jpg
-wget -O aa_male_farmer_1.jpg https://civileats.com/wp-content/uploads/2019/02/190206-freedom-school-fresno-black-farmers-training-FloydHarris.jpg
-wget -O aa_male_farmer_2.jpg https://c8.alamy.com/comp/CPYHWC/young-black-male-stands-amongst-some-crops-smiling-at-camera-CPYHWC.jpg
-wget -O aa_male_farmer_3.jpg https://previews.123rf.com/images/rido/rido1906/rido190600107/124982935-cheerful-mature-black-man-holding-hen-and-looking-at-camera-portrait-of-happy-african-american-farme.jpg
-wget -O aa_male_farmer_4.jpg https://epmgaa.media.clients.ellingtoncms.com/img/photos/2019/01/03/Black-Farmer-Mississippi-Tennessee_t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33
-wget -O aa_female_farmer_0.jpg https://modernfarmer.com/wp-content/uploads/2015/10/jamila-mccollum-mtmf.jpg
-wget -O aa_female_farmer_1.jpg https://s.hdnux.com/photos/01/04/55/50/18012680/5/gallery_medium.jpg
-wget -O aa_female_farmer_2.jpg https://natashabowens.files.wordpress.com/2011/04/wcw21.jpg
-wget -O aa_female_farmer_3.jpg https://civileats.com/wp-content/uploads/2014/12/Leah_Penniman-e1417460891456-680x371edit.jpg
-wget -O aa_female_farmer_4.jpg https://i.ytimg.com/vi/ZYMevp4nTMU/maxresdefault.jpg
+wget --tries=2 -O aa_male_farmer_0.jpg https://www.charlestonchronicle.net/wp-content/uploads/2017/06/99545_600.jpg
+wget --tries=2 -O aa_male_farmer_1.jpg https://civileats.com/wp-content/uploads/2019/02/190206-freedom-school-fresno-black-farmers-training-FloydHarris.jpg
+wget --tries=2 -O aa_male_farmer_2.jpg https://c8.alamy.com/comp/CPYHWC/young-black-male-stands-amongst-some-crops-smiling-at-camera-CPYHWC.jpg
+wget --tries=2 -O aa_male_farmer_3.jpg https://previews.123rf.com/images/rido/rido1906/rido190600107/124982935-cheerful-mature-black-man-holding-hen-and-looking-at-camera-portrait-of-happy-african-american-farme.jpg
+wget --tries=2 -O aa_male_farmer_4.jpg https://epmgaa.media.clients.ellingtoncms.com/img/photos/2019/01/03/Black-Farmer-Mississippi-Tennessee_t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33
+wget --tries=2 -O aa_female_farmer_0.jpg https://modernfarmer.com/wp-content/uploads/2015/10/jamila-mccollum-mtmf.jpg
+wget --tries=2 -O aa_female_farmer_1.jpg https://s.hdnux.com/photos/01/04/55/50/18012680/5/gallery_medium.jpg
+wget --tries=2 -O aa_female_farmer_2.jpg https://natashabowens.files.wordpress.com/2011/04/wcw21.jpg
+wget --tries=2 -O aa_female_farmer_3.jpg https://civileats.com/wp-content/uploads/2014/12/Leah_Penniman-e1417460891456-680x371edit.jpg
+wget --tries=2 -O aa_female_farmer_4.jpg https://i.ytimg.com/vi/ZYMevp4nTMU/maxresdefault.jpg
 
-wget -O aa_male_salesperson_0.jpg https://openviewpartners.com/wp-content/uploads/2012/01/sales-manager.jpg
-wget -O aa_male_salesperson_1.jpg https://ak2.picdn.net/shutterstock/videos/1008755282/thumb/3.jpg
-wget -O aa_male_salesperson_2.jpg https://cdn.xl.thumbs.canstockphoto.com/handsome-african-salesman-working-at-vehicle-showroom-stock-photo_csp26518041.jpg
-wget -O aa_male_salesperson_3.jpg https://www.fastweb.com/uploads/article_photo/photo/976123/black_man_working_on_computer.jpg
-wget -O aa_male_salesperson_4.jpg https://media.gettyimages.com/photos/senior-black-politician-door-to-door-picture-id1162410512?s=612x612
-wget -O aa_female_salesperson_0.jpg https://longbeachsbdc.org/wp-content/uploads/sites/3/2019/12/shaking-hands-e1575764857861.jpg
-wget -O aa_female_salesperson_1.jpg https://blog.hubspot.com/hubfs/characteristics-of-professional-salespeople.jpg
-wget -O aa_female_salesperson_2.jpg https://previews.123rf.com/images/stephaniezieber/stephaniezieber1505/stephaniezieber150500002/39657613-african-american-black-business-woman-holding-sign-or-banner.jpg
-wget -O aa_female_salesperson_3.jpg https://thumbs.dreamstime.com/z/professional-female-salesperson-working-car-dealership-african-111030111.jpg
-wget -O aa_female_salesperson_4.jpg https://www.thebalancecareers.com/thmb/RyP_E8whpDo0ESz2gb67_8o4YPk=/3483x3483/smart/filters:no_upscale\(\)/people-on-the-move-a-woman-in-a-black-dress-on-a-city-street-checking-her-phone-464722413-586d68283df78c17b6e0d8d4.jpg
+wget --tries=2 -O aa_male_salesperson_0.jpg https://openviewpartners.com/wp-content/uploads/2012/01/sales-manager.jpg
+wget --tries=2 -O aa_male_salesperson_1.jpg https://ak2.picdn.net/shutterstock/videos/1008755282/thumb/3.jpg
+wget --tries=2 -O aa_male_salesperson_2.jpg https://cdn.xl.thumbs.canstockphoto.com/handsome-african-salesman-working-at-vehicle-showroom-stock-photo_csp26518041.jpg
+wget --tries=2 -O aa_male_salesperson_3.jpg https://www.fastweb.com/uploads/article_photo/photo/976123/black_man_working_on_computer.jpg
+wget --tries=2 -O aa_male_salesperson_4.jpg https://media.gettyimages.com/photos/senior-black-politician-door-to-door-picture-id1162410512?s=612x612
+wget --tries=2 -O aa_female_salesperson_0.jpg https://longbeachsbdc.org/wp-content/uploads/sites/3/2019/12/shaking-hands-e1575764857861.jpg
+wget --tries=2 -O aa_female_salesperson_1.jpg https://blog.hubspot.com/hubfs/characteristics-of-professional-salespeople.jpg
+wget --tries=2 -O aa_female_salesperson_2.jpg https://previews.123rf.com/images/stephaniezieber/stephaniezieber1505/stephaniezieber150500002/39657613-african-american-black-business-woman-holding-sign-or-banner.jpg
+wget --tries=2 -O aa_female_salesperson_3.jpg https://thumbs.dreamstime.com/z/professional-female-salesperson-working-car-dealership-african-111030111.jpg
+wget --tries=2 -O aa_female_salesperson_4.jpg https://www.thebalancecareers.com/thmb/RyP_E8whpDo0ESz2gb67_8o4YPk=/3483x3483/smart/filters:no_upscale\(\)/people-on-the-move-a-woman-in-a-black-dress-on-a-city-street-checking-her-phone-464722413-586d68283df78c17b6e0d8d4.jpg
 
-wget -O aa_male_physician_0.jpg http://cdn.thinkprogress.org/wp-content/uploads/2015/10/26114611/black-male-doctor-1024x741.jpg
-wget -O aa_male_physician_1.jpg http://yourblackworld.net/wp-content/uploads/2017/05/doctor.jpg
-wget -O aa_male_physician_2.jpg https://www.insidehighered.com/sites/default/server_files/media/jovial-male-doctor-smiling-to-camera-picture-id938442864.jpg
-wget -O aa_male_physician_3.jpg https://michiganchronicle.com/wp-content/uploads/sites/2/2015/08/doctor-explaining-prescription-to-patient.jpg?w=300
-wget -O aa_male_physician_4.jpg https://previews.123rf.com/images/kurhan/kurhan1412/kurhan141200884/34659058-african-american-black-doctor-man-.jpg
-wget -O aa_female_physician_0.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/01/BE_female-doctor-natural-hair-shutterstock.jpg
-wget -O aa_female_physician_1.jpg https://www.essence.com/wp-content/uploads/2016/10/1476555837/whatadoctorlookslike-hashtag-tamika-cross-delta.jpg?width=1472&height=1472
-wget -O aa_female_physician_2.jpg http://www.healthyblackwoman.com/wp-content/uploads/2017/01/download-3.jpg
-wget -O aa_female_physician_3.jpg https://ak2.picdn.net/shutterstock/videos/12948482/thumb/1.jpg
-wget -O aa_female_physician_4.jpg https://img.huffingtonpost.com/asset/5c7e83e636000001186b078b.jpeg?ops=scalefit_630_noupscale
+wget --tries=2 -O aa_male_physician_0.jpg http://cdn.thinkprogress.org/wp-content/uploads/2015/10/26114611/black-male-doctor-1024x741.jpg
+wget --tries=2 -O aa_male_physician_1.jpg http://yourblackworld.net/wp-content/uploads/2017/05/doctor.jpg
+wget --tries=2 -O aa_male_physician_2.jpg https://www.insidehighered.com/sites/default/server_files/media/jovial-male-doctor-smiling-to-camera-picture-id938442864.jpg
+wget --tries=2 -O aa_male_physician_3.jpg https://michiganchronicle.com/wp-content/uploads/sites/2/2015/08/doctor-explaining-prescription-to-patient.jpg?w=300
+wget --tries=2 -O aa_male_physician_4.jpg https://previews.123rf.com/images/kurhan/kurhan1412/kurhan141200884/34659058-african-american-black-doctor-man-.jpg
+wget --tries=2 -O aa_female_physician_0.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/01/BE_female-doctor-natural-hair-shutterstock.jpg
+wget --tries=2 -O aa_female_physician_1.jpg https://www.essence.com/wp-content/uploads/2016/10/1476555837/whatadoctorlookslike-hashtag-tamika-cross-delta.jpg?width=1472&height=1472
+wget --tries=2 -O aa_female_physician_2.jpg http://www.healthyblackwoman.com/wp-content/uploads/2017/01/download-3.jpg
+wget --tries=2 -O aa_female_physician_3.jpg https://ak2.picdn.net/shutterstock/videos/12948482/thumb/1.jpg
+wget --tries=2 -O aa_female_physician_4.jpg https://img.huffingtonpost.com/asset/5c7e83e636000001186b078b.jpeg?ops=scalefit_630_noupscale
 
-wget -O aa_male_guard_0.jpg https://c8.alamy.com/comp/JXXNP2/portrait-of-young-male-security-guard-in-black-uniform-standing-arms-JXXNP2.jpg
-wget -O aa_male_guard_1.jpg https://c8.alamy.com/comp/WWW7AT/male-security-guard-with-strong-arms-crossed-on-white-background-WWW7AT.jpg
-wget -O aa_male_guard_2.jpg https://epmgaa.media.clients.ellingtoncms.com/img/photos/2018/10/22/Sgt_Major_Jeffrey_Lewis_Iowa_t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33
-wget -O aa_male_guard_3.jpg http://i64.photobucket.com/albums/h164/ybfchic/July%202018%20Part%204/ibrahim1.png
-wget -O aa_male_guard_4.jpg http://s.alicdn.com/@sc01/kf/HLB1Xuy9QsbpK1RjSZFyq6x_qFXaY/Design-Classic-black-Color-Security-Guard-Uniform.jpg_220x220.jpg_.webp
-wget -O aa_female_guard_0.jpg https://listimg.pinclipart.com/picdir/s/364-3648620_female-clipart-security-officer-female-black-security-guard.png
-wget -O aa_female_guard_1.jpg https://www.armytimes.com/resizer/NWiXKlNQRfsaNyKGYNAh-lMg1tQ=/1200x0/filters:quality\(100\)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/4EHQ64YENNFE7CXJ6GOVFNCAJY.png
-wget -O aa_female_guard_2.jpg https://vignette.wikia.nocookie.net/orange-is-the-new-black/images/0/0f/MaxwellInfoBox.png/revision/latest?cb=20140206040215
-wget -O aa_female_guard_3.jpg http://naturallymoi.com/wp-content/uploads/2017/05/5925deb22000003200cb27c4-660x400.jpeg
-wget -O aa_female_guard_4.jpg https://c8.alamy.com/comp/A92P0J/mobile-alabama-brookley-center-black-female-us-army-national-guard-A92P0J.jpg
+wget --tries=2 -O aa_male_guard_0.jpg https://c8.alamy.com/comp/JXXNP2/portrait-of-young-male-security-guard-in-black-uniform-standing-arms-JXXNP2.jpg
+wget --tries=2 -O aa_male_guard_1.jpg https://c8.alamy.com/comp/WWW7AT/male-security-guard-with-strong-arms-crossed-on-white-background-WWW7AT.jpg
+wget --tries=2 -O aa_male_guard_2.jpg https://epmgaa.media.clients.ellingtoncms.com/img/photos/2018/10/22/Sgt_Major_Jeffrey_Lewis_Iowa_t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33
+wget --tries=2 -O aa_male_guard_3.jpg http://i64.photobucket.com/albums/h164/ybfchic/July%202018%20Part%204/ibrahim1.png
+wget --tries=2 -O aa_male_guard_4.jpg http://s.alicdn.com/@sc01/kf/HLB1Xuy9QsbpK1RjSZFyq6x_qFXaY/Design-Classic-black-Color-Security-Guard-Uniform.jpg_220x220.jpg_.webp
+wget --tries=2 -O aa_female_guard_0.jpg https://listimg.pinclipart.com/picdir/s/364-3648620_female-clipart-security-officer-female-black-security-guard.png
+wget --tries=2 -O aa_female_guard_1.jpg https://www.armytimes.com/resizer/NWiXKlNQRfsaNyKGYNAh-lMg1tQ=/1200x0/filters:quality\(100\)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/4EHQ64YENNFE7CXJ6GOVFNCAJY.png
+wget --tries=2 -O aa_female_guard_2.jpg https://vignette.wikia.nocookie.net/orange-is-the-new-black/images/0/0f/MaxwellInfoBox.png/revision/latest?cb=20140206040215
+wget --tries=2 -O aa_female_guard_3.jpg http://naturallymoi.com/wp-content/uploads/2017/05/5925deb22000003200cb27c4-660x400.jpeg
+wget --tries=2 -O aa_female_guard_4.jpg https://c8.alamy.com/comp/A92P0J/mobile-alabama-brookley-center-black-female-us-army-national-guard-A92P0J.jpg
 
-wget -O aa_male_analyst_0.jpg https://i.pinimg.com/originals/17/3d/59/173d59dcc77cec5d58ea07a50ea99f46.jpg
-wget -O aa_male_analyst_1.jpg https://www.bet.com/news/sports/photos/2015/06/influential-black-sportscasters/_jcr_content/mainCol/imagegallerycontainer/galleryimage_2.custom750x0.dimg/__1434928813683/062115-sports-Kevin-Frazier.jpg
-wget -O aa_male_analyst_2.jpg https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/05/28/931/524/694940094001_6042019455001_6042025740001-vs.jpg?ve=1&tl=1
-wget -O aa_male_analyst_3.jpg https://www.zerohedge.com/s3/files/inline-images/david%20webb.jpg?itok=lo_H8DpV
-wget -O aa_male_analyst_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/160713235103-charles-blow-town-hall-large-169.jpg
-wget -O aa_female_analyst_0.jpg https://espnpressroom.com/us/files/2014/02/RS607668_20180827_JF1_9216-Edit-3-e1567690856749.jpg
-wget -O aa_female_analyst_1.jpg https://espnpressroom.com/us/files/2012/11/Josina-1.jpg
-wget -O aa_female_analyst_2.jpg https://www.essence.com/wp-content/uploads/2014/04/images/2014/04/27/pam-oliver.jpg?width=1200
-wget -O aa_female_analyst_3.jpg https://irp-cdn.multiscreensite.com/ce0ec9f3/dms3rep/multi/mobile/MARIA+TAYLOR.jpg
-wget -O aa_female_analyst_4.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/14/09/jemele-hill.jpg?w968h681
+wget --tries=2 -O aa_male_analyst_0.jpg https://i.pinimg.com/originals/17/3d/59/173d59dcc77cec5d58ea07a50ea99f46.jpg
+wget --tries=2 -O aa_male_analyst_1.jpg https://www.bet.com/news/sports/photos/2015/06/influential-black-sportscasters/_jcr_content/mainCol/imagegallerycontainer/galleryimage_2.custom750x0.dimg/__1434928813683/062115-sports-Kevin-Frazier.jpg
+wget --tries=2 -O aa_male_analyst_2.jpg https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/05/28/931/524/694940094001_6042019455001_6042025740001-vs.jpg?ve=1&tl=1
+wget --tries=2 -O aa_male_analyst_3.jpg https://www.zerohedge.com/s3/files/inline-images/david%20webb.jpg?itok=lo_H8DpV
+wget --tries=2 -O aa_male_analyst_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/160713235103-charles-blow-town-hall-large-169.jpg
+wget --tries=2 -O aa_female_analyst_0.jpg https://espnpressroom.com/us/files/2014/02/RS607668_20180827_JF1_9216-Edit-3-e1567690856749.jpg
+wget --tries=2 -O aa_female_analyst_1.jpg https://espnpressroom.com/us/files/2012/11/Josina-1.jpg
+wget --tries=2 -O aa_female_analyst_2.jpg https://www.essence.com/wp-content/uploads/2014/04/images/2014/04/27/pam-oliver.jpg?width=1200
+wget --tries=2 -O aa_female_analyst_3.jpg https://irp-cdn.multiscreensite.com/ce0ec9f3/dms3rep/multi/mobile/MARIA+TAYLOR.jpg
+wget --tries=2 -O aa_female_analyst_4.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/14/09/jemele-hill.jpg?w968h681
 
-wget -O aa_male_mechanic_0.jpg https://media.gettyimages.com/photos/black-mechanic-working-on-car-picture-id142457807?s=612x612
-wget -O aa_male_mechanic_1.jpg https://image1.masterfile.com/getImage/693-06020543em-auto-mechanic-adding-fluids-to-minivan-stock-photo.jpg
-wget -O aa_male_mechanic_2.jpg https://previews.123rf.com/images/michaeljung/michaeljung1304/michaeljung130400710/19202482-male-african-car-mechanic-inside-workshop.jpg
-wget -O aa_male_mechanic_3.jpg https://media.gettyimages.com/photos/african-descent-mechanic-working-in-auto-repair-shop-picture-id910229512?s=612x612
-wget -O aa_male_mechanic_4.jpg https://thumbs.dreamstime.com/z/african-vehicle-mechanic-male-american-writing-report-30458764.jpg
-wget -O aa_female_mechanic_0.jpg https://image.shutterstock.com/image-photo/black-female-mechanic-600w-79214770.jpg
-wget -O aa_female_mechanic_1.jpg http://www.worldette.com/wp-content/uploads/2012/11/Femme-Auto1_female-mechanic_Emily-Schauer-470-wplok.jpg
-wget -O aa_female_mechanic_2.jpg https://media.sandiegoreader.com/img/croppedphotos/2012/11/08/mechanic_t658.jpg?ff95ca2b4c25d2d6ff3bfb257febf11d604414e5
-wget -O aa_female_mechanic_3.jpg https://www.ebony.com/wp-content/uploads/2016/07/blckwomanwork_Caro_original_52732.jpg
-wget -O aa_female_mechanic_4.jpg https://i.pinimg.com/originals/24/54/3c/24543c0578423c08178a127ddb514510.jpg
+wget --tries=2 -O aa_male_mechanic_0.jpg https://media.gettyimages.com/photos/black-mechanic-working-on-car-picture-id142457807?s=612x612
+wget --tries=2 -O aa_male_mechanic_1.jpg https://image1.masterfile.com/getImage/693-06020543em-auto-mechanic-adding-fluids-to-minivan-stock-photo.jpg
+wget --tries=2 -O aa_male_mechanic_2.jpg https://previews.123rf.com/images/michaeljung/michaeljung1304/michaeljung130400710/19202482-male-african-car-mechanic-inside-workshop.jpg
+wget --tries=2 -O aa_male_mechanic_3.jpg https://media.gettyimages.com/photos/african-descent-mechanic-working-in-auto-repair-shop-picture-id910229512?s=612x612
+wget --tries=2 -O aa_male_mechanic_4.jpg https://thumbs.dreamstime.com/z/african-vehicle-mechanic-male-american-writing-report-30458764.jpg
+wget --tries=2 -O aa_female_mechanic_0.jpg https://image.shutterstock.com/image-photo/black-female-mechanic-600w-79214770.jpg
+wget --tries=2 -O aa_female_mechanic_1.jpg http://www.worldette.com/wp-content/uploads/2012/11/Femme-Auto1_female-mechanic_Emily-Schauer-470-wplok.jpg
+wget --tries=2 -O aa_female_mechanic_2.jpg https://media.sandiegoreader.com/img/croppedphotos/2012/11/08/mechanic_t658.jpg?ff95ca2b4c25d2d6ff3bfb257febf11d604414e5
+wget --tries=2 -O aa_female_mechanic_3.jpg https://www.ebony.com/wp-content/uploads/2016/07/blckwomanwork_Caro_original_52732.jpg
+wget --tries=2 -O aa_female_mechanic_4.jpg https://i.pinimg.com/originals/24/54/3c/24543c0578423c08178a127ddb514510.jpg
 
-wget -O aa_male_sheriff_0.jpg https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/07/08/931/524/694940094001_5028569362001_b161c606-6292-405d-9c4f-38d3fa4cae25.jpg?ve=1&tl=1
-wget -O aa_male_sheriff_1.jpg https://www.ebony.com/wp-content/uploads/2016/07/David-Clarke-Caro_original_56801.jpg
-wget -O aa_male_sheriff_2.jpg http://yourblackworld.net/wp-content/uploads/2017/04/7565905_G.jpg
-wget -O aa_male_sheriff_3.jpg https://www.dailyherald.com/storyimage/DA/20141210/news/141219757/AR/0/AR-141219757.jpg&updated=201412101835&MaxW=900&maxH=900&noborder&Q=80
-wget -O aa_male_sheriff_4.jpg https://static.politifact.com/politifact/photos/David_Clarke.JPG
-wget -O aa_female_sheriff_0.jpg https://cdn.hpm.io/wp-content/uploads/2017/05/08152653/Sheriff-04-746x1000.png
-wget -O aa_female_sheriff_1.jpg https://s7d2.scene7.com/is/image/TWCNews/0107_nc_sheriff_pauladancepng
-wget -O aa_female_sheriff_2.jpg https://epmgaa.media.clients.ellingtoncms.com/img/photos/2016/11/11/Zena_Stephens_t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33
-wget -O aa_female_sheriff_3.jpg https://pbs.twimg.com/media/CcerofDWwAEi773.jpg
-wget -O aa_female_sheriff_4.jpg https://epmgaa.media.clients.ellingtoncms.com/img/photos/2017/12/22/Dallas_Interim_Sheriff_Marian_Brown__t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33
+wget --tries=2 -O aa_male_sheriff_0.jpg https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/07/08/931/524/694940094001_5028569362001_b161c606-6292-405d-9c4f-38d3fa4cae25.jpg?ve=1&tl=1
+wget --tries=2 -O aa_male_sheriff_1.jpg https://www.ebony.com/wp-content/uploads/2016/07/David-Clarke-Caro_original_56801.jpg
+wget --tries=2 -O aa_male_sheriff_2.jpg http://yourblackworld.net/wp-content/uploads/2017/04/7565905_G.jpg
+wget --tries=2 -O aa_male_sheriff_3.jpg https://www.dailyherald.com/storyimage/DA/20141210/news/141219757/AR/0/AR-141219757.jpg&updated=201412101835&MaxW=900&maxH=900&noborder&Q=80
+wget --tries=2 -O aa_male_sheriff_4.jpg https://static.politifact.com/politifact/photos/David_Clarke.JPG
+wget --tries=2 -O aa_female_sheriff_0.jpg https://cdn.hpm.io/wp-content/uploads/2017/05/08152653/Sheriff-04-746x1000.png
+wget --tries=2 -O aa_female_sheriff_1.jpg https://s7d2.scene7.com/is/image/TWCNews/0107_nc_sheriff_pauladancepng
+wget --tries=2 -O aa_female_sheriff_2.jpg https://epmgaa.media.clients.ellingtoncms.com/img/photos/2016/11/11/Zena_Stephens_t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33
+wget --tries=2 -O aa_female_sheriff_3.jpg https://pbs.twimg.com/media/CcerofDWwAEi773.jpg
+wget --tries=2 -O aa_female_sheriff_4.jpg https://epmgaa.media.clients.ellingtoncms.com/img/photos/2017/12/22/Dallas_Interim_Sheriff_Marian_Brown__t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33
 
-wget -O aa_male_ceo_0.jpg https://cdn.theatlantic.com/assets/media/img/mt/2017/10/RTR296AX/lead_720_405.jpg?mod=1533691910
-wget -O aa_male_ceo_1.jpg https://100blackmen.org/wp-content/uploads/2019/01/John_Armstrong.png
-wget -O aa_male_ceo_2.jpg https://i2.cdn.turner.com/money/2012/03/22/news/companies/black-ceo/don-thompson.top.jpg
-wget -O aa_male_ceo_3.jpg http://cdn.blackenterprise.com/wp-content/blogs.dir/1/files/2014/07/ClarenceOtis.jpg
-wget -O aa_male_ceo_4.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/09/Orlando-Ashford.jpg
-wget -O aa_female_ceo_0.jpg https://content.fortune.com/wp-content/uploads/2017/09/afr-10-01-17-packnett.jpg
-wget -O aa_female_ceo_1.jpg https://content.fortune.com/wp-content/uploads/2017/09/afr-10-01-17-reid.jpg
-wget -O aa_female_ceo_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2014/07/UrsulaBurns.jpg
-wget -O aa_female_ceo_3.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8ep7Jw3iAHM/v0/1000x-1.jpg
-wget -O aa_female_ceo_4.jpg https://static.euronews.com/articles/385328/1024x538_385328.jpg?1503984467
+wget --tries=2 -O aa_male_ceo_0.jpg https://cdn.theatlantic.com/assets/media/img/mt/2017/10/RTR296AX/lead_720_405.jpg?mod=1533691910
+wget --tries=2 -O aa_male_ceo_1.jpg https://100blackmen.org/wp-content/uploads/2019/01/John_Armstrong.png
+wget --tries=2 -O aa_male_ceo_2.jpg https://i2.cdn.turner.com/money/2012/03/22/news/companies/black-ceo/don-thompson.top.jpg
+wget --tries=2 -O aa_male_ceo_3.jpg http://cdn.blackenterprise.com/wp-content/blogs.dir/1/files/2014/07/ClarenceOtis.jpg
+wget --tries=2 -O aa_male_ceo_4.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/09/Orlando-Ashford.jpg
+wget --tries=2 -O aa_female_ceo_0.jpg https://content.fortune.com/wp-content/uploads/2017/09/afr-10-01-17-packnett.jpg
+wget --tries=2 -O aa_female_ceo_1.jpg https://content.fortune.com/wp-content/uploads/2017/09/afr-10-01-17-reid.jpg
+wget --tries=2 -O aa_female_ceo_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2014/07/UrsulaBurns.jpg
+wget --tries=2 -O aa_female_ceo_3.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8ep7Jw3iAHM/v0/1000x-1.jpg
+wget --tries=2 -O aa_female_ceo_4.jpg https://static.euronews.com/articles/385328/1024x538_385328.jpg?1503984467
 
-wget -O aa_male_attendant_0.jpg https://bossip.files.wordpress.com/2017/03/thickboyproblems3.png?w=550&h=451
-wget -O aa_male_attendant_1.jpg https://bossip.files.wordpress.com/2017/03/asinclairhim.png?w=550&h=478
-wget -O aa_male_attendant_2.jpg https://bossip.files.wordpress.com/2017/03/micah_marquez.png?w=550&h=553
-wget -O aa_male_attendant_3.jpg http://images.huffingtonpost.com/2014-06-01-RockoGalvezLF2.jpeg
-wget -O aa_male_attendant_4.jpg http://www.businesstraveller.com/files/News-images/United/United_male_uniform.jpg
-wget -O aa_female_attendant_0.jpg https://hurt2healingmag.com/wp-content/uploads/2017/02/25340BE6-E237-43C8-84BD-D93DF81A59A6-308-000000130973E1C8_tmp.jpg
-wget -O aa_female_attendant_1.jpg https://cdn.images.express.co.uk/img/dynamic/25/590x/secondary/Alexa-Brown-sexiest-flight-attendant-656304.jpg
-wget -O aa_female_attendant_2.jpg https://www.cheatsheet.com/wp-content/uploads/2017/08/stewardess-flight-attendant.jpg
-wget -O aa_female_attendant_3.jpg http://www.mesa-air.com/IMAGES/listings/8671_8671_8671_flight_attendants_jobs.jpg
-wget -O aa_female_attendant_4.jpg https://c8.alamy.com/comp/ANARWE/new-jersey-newark-airport-kiwi-international-airlines-black-woman-ANARWE.jpg
+wget --tries=2 -O aa_male_attendant_0.jpg https://bossip.files.wordpress.com/2017/03/thickboyproblems3.png?w=550&h=451
+wget --tries=2 -O aa_male_attendant_1.jpg https://bossip.files.wordpress.com/2017/03/asinclairhim.png?w=550&h=478
+wget --tries=2 -O aa_male_attendant_2.jpg https://bossip.files.wordpress.com/2017/03/micah_marquez.png?w=550&h=553
+wget --tries=2 -O aa_male_attendant_3.jpg http://images.huffingtonpost.com/2014-06-01-RockoGalvezLF2.jpeg
+wget --tries=2 -O aa_male_attendant_4.jpg http://www.businesstraveller.com/files/News-images/United/United_male_uniform.jpg
+wget --tries=2 -O aa_female_attendant_0.jpg https://hurt2healingmag.com/wp-content/uploads/2017/02/25340BE6-E237-43C8-84BD-D93DF81A59A6-308-000000130973E1C8_tmp.jpg
+wget --tries=2 -O aa_female_attendant_1.jpg https://cdn.images.express.co.uk/img/dynamic/25/590x/secondary/Alexa-Brown-sexiest-flight-attendant-656304.jpg
+wget --tries=2 -O aa_female_attendant_2.jpg https://www.cheatsheet.com/wp-content/uploads/2017/08/stewardess-flight-attendant.jpg
+wget --tries=2 -O aa_female_attendant_3.jpg http://www.mesa-air.com/IMAGES/listings/8671_8671_8671_flight_attendants_jobs.jpg
+wget --tries=2 -O aa_female_attendant_4.jpg https://c8.alamy.com/comp/ANARWE/new-jersey-newark-airport-kiwi-international-airlines-black-woman-ANARWE.jpg
 
-wget -O aa_male_teacher_0.jpg https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/02/GettyImages-200193780-001-1024x768.jpg
-wget -O aa_male_teacher_1.jpg https://www.ajc.com/rf/image_inline/Pub/p4/AJC/2013/12/02/Images/photos.medleyphoto.4184960.jpg
-wget -O aa_male_teacher_2.jpg https://phillys7thward.org/wp-content/uploads/2017/12/diversity16-buffins-2-805x452.jpg
-wget -O aa_male_teacher_3.jpg https://atlantablackstar.com/wp-content/uploads/2014/12/043012-national-black-male-teacher.png
-wget -O aa_male_teacher_4.jpg https://img.theepochtimes.com/assets/uploads/2016/06/28/teacher_shutterstock_128872624-700x420.jpg
-wget -O aa_female_teacher_0.jpg https://ak7.picdn.net/shutterstock/videos/15401677/thumb/1.jpg
-wget -O aa_female_teacher_1.jpg https://atlantablackstar.com/wp-content/uploads/2014/12/o-BLACK-TEACHERS-facebook-600x400.jpg
-wget -O aa_female_teacher_2.jpg http://i789.photobucket.com/albums/yy172/thehlmn/iStock_000042158458_Medium.jpg
-wget -O aa_female_teacher_3.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/06/elementary-teacher-620x480.jpg
-wget -O aa_female_teacher_4.jpg https://c8.alamy.com/comp/K676GW/middle-aged-black-female-teacher-smiling-in-school-corridor-K676GW.jpg
+wget --tries=2 -O aa_male_teacher_0.jpg https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/02/GettyImages-200193780-001-1024x768.jpg
+wget --tries=2 -O aa_male_teacher_1.jpg https://www.ajc.com/rf/image_inline/Pub/p4/AJC/2013/12/02/Images/photos.medleyphoto.4184960.jpg
+wget --tries=2 -O aa_male_teacher_2.jpg https://phillys7thward.org/wp-content/uploads/2017/12/diversity16-buffins-2-805x452.jpg
+wget --tries=2 -O aa_male_teacher_3.jpg https://atlantablackstar.com/wp-content/uploads/2014/12/043012-national-black-male-teacher.png
+wget --tries=2 -O aa_male_teacher_4.jpg https://img.theepochtimes.com/assets/uploads/2016/06/28/teacher_shutterstock_128872624-700x420.jpg
+wget --tries=2 -O aa_female_teacher_0.jpg https://ak7.picdn.net/shutterstock/videos/15401677/thumb/1.jpg
+wget --tries=2 -O aa_female_teacher_1.jpg https://atlantablackstar.com/wp-content/uploads/2014/12/o-BLACK-TEACHERS-facebook-600x400.jpg
+wget --tries=2 -O aa_female_teacher_2.jpg http://i789.photobucket.com/albums/yy172/thehlmn/iStock_000042158458_Medium.jpg
+wget --tries=2 -O aa_female_teacher_3.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/06/elementary-teacher-620x480.jpg
+wget --tries=2 -O aa_female_teacher_4.jpg https://c8.alamy.com/comp/K676GW/middle-aged-black-female-teacher-smiling-in-school-corridor-K676GW.jpg
 
-wget -O aa_male_nurse_0.jpg https://i1.wp.com/blackdoctor.org/wp-content/uploads/2018/09/ThinkstockPhotos-518121150.jpg?resize=860%2C574&quality=50&strip=all&ssl=1
-wget -O aa_male_nurse_1.jpg https://i.pinimg.com/originals/6e/2a/01/6e2a01b2b9e38d182053e76c4616e878.png
-wget -O aa_male_nurse_2.jpg https://previews.123rf.com/images/gunter_nezhoda/gunter_nezhoda1301/gunter_nezhoda130100015/17445584-black-african-american-male-nurse-doctor.jpg
-wget -O aa_male_nurse_3.jpg https://media.nurse.org/images/blog/2018/10/09/thinkalpha6.jpg
-wget -O aa_male_nurse_4.jpg https://i1.wp.com/blackdoctor.org/wp-content/uploads/2018/09/mn2.png?resize=821%2C1024&quality=50&strip=all&ssl=1
-wget -O aa_female_nurse_0.jpg https://media.gettyimages.com/photos/pretty-female-nurse-with-curly-hair-holding-clipboard-picture-id157430043?s=612x612
-wget -O aa_female_nurse_1.jpg https://media.gettyimages.com/photos/ve-always-been-dedicated-to-saving-lives-picture-id919539204?s=612x612
-wget -O aa_female_nurse_2.jpg https://image.shutterstock.com/image-photo/portrait-female-nurse-emergency-room-260nw-168769034.jpg
-wget -O aa_female_nurse_3.jpg https://thumbs.dreamstime.com/b/black-nurse-isolated-blue-82647850.jpg
-wget -O aa_female_nurse_4.jpg https://previews.123rf.com/images/stocking/stocking1609/stocking160900146/62793085-black-nurse-portrait.jpg
+wget --tries=2 -O aa_male_nurse_0.jpg https://i1.wp.com/blackdoctor.org/wp-content/uploads/2018/09/ThinkstockPhotos-518121150.jpg?resize=860%2C574&quality=50&strip=all&ssl=1
+wget --tries=2 -O aa_male_nurse_1.jpg https://i.pinimg.com/originals/6e/2a/01/6e2a01b2b9e38d182053e76c4616e878.png
+wget --tries=2 -O aa_male_nurse_2.jpg https://previews.123rf.com/images/gunter_nezhoda/gunter_nezhoda1301/gunter_nezhoda130100015/17445584-black-african-american-male-nurse-doctor.jpg
+wget --tries=2 -O aa_male_nurse_3.jpg https://media.nurse.org/images/blog/2018/10/09/thinkalpha6.jpg
+wget --tries=2 -O aa_male_nurse_4.jpg https://i1.wp.com/blackdoctor.org/wp-content/uploads/2018/09/mn2.png?resize=821%2C1024&quality=50&strip=all&ssl=1
+wget --tries=2 -O aa_female_nurse_0.jpg https://media.gettyimages.com/photos/pretty-female-nurse-with-curly-hair-holding-clipboard-picture-id157430043?s=612x612
+wget --tries=2 -O aa_female_nurse_1.jpg https://media.gettyimages.com/photos/ve-always-been-dedicated-to-saving-lives-picture-id919539204?s=612x612
+wget --tries=2 -O aa_female_nurse_2.jpg https://image.shutterstock.com/image-photo/portrait-female-nurse-emergency-room-260nw-168769034.jpg
+wget --tries=2 -O aa_female_nurse_3.jpg https://thumbs.dreamstime.com/b/black-nurse-isolated-blue-82647850.jpg
+wget --tries=2 -O aa_female_nurse_4.jpg https://previews.123rf.com/images/stocking/stocking1609/stocking160900146/62793085-black-nurse-portrait.jpg
 
-wget -O aa_male_assistant_0.jpg https://www.paralegaledu.org/wp-content/uploads/2018/04/paralegal-discussing-with-clients.jpg
-wget -O aa_male_assistant_1.jpg https://www.usnews.com/dims4/USNEWS/41d2229/2147483647/thumbnail/640x420/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F3c%2F77656af7f5b55574e26d7c1d490c89%2Fjobs-job-photo-14.jpg
-wget -O aa_male_assistant_2.jpg https://www.lsc.gov/sites/default/files/LSC/images/west-300px.jpg
-wget -O aa_male_assistant_3.jpg https://stmedia.stimg.co/ows_157859154930004.jpg?fit=crop&crop=faces
-wget -O aa_male_assistant_4.jpg https://theundefeated.com/wp-content/uploads/2018/04/gettyimages-648079284.jpg?w=700
-wget -O aa_female_assistant_0.jpg https://compote.slate.com/images/94e89f7a-8635-43c5-b19e-43bae148660a.jpeg
-wget -O aa_female_assistant_1.jpg https://bglh-marketplace.com/wp-content/uploads/2015/10/women-washington-0_347x520_66.jpg
-wget -O aa_female_assistant_2.jpg https://lasentinel.net/wp-content/uploads/sites/5/2019/08/AP19217714321306.0.jpg
-wget -O aa_female_assistant_3.jpg https://buzzghana.com/wp-content/uploads/2015/10/secretary.jpg
-wget -O aa_female_assistant_4.jpg https://c8.alamy.com/comp/R82H91/young-smiling-black-ethnic-afro-american-female-dentist-assistant-standing-in-dental-office-by-chair-handsome-doctor-in-a-pink-uniform-modern-equipm-R82H91.jpg
+wget --tries=2 -O aa_male_assistant_0.jpg https://www.paralegaledu.org/wp-content/uploads/2018/04/paralegal-discussing-with-clients.jpg
+wget --tries=2 -O aa_male_assistant_1.jpg https://www.usnews.com/dims4/USNEWS/41d2229/2147483647/thumbnail/640x420/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F3c%2F77656af7f5b55574e26d7c1d490c89%2Fjobs-job-photo-14.jpg
+wget --tries=2 -O aa_male_assistant_2.jpg https://www.lsc.gov/sites/default/files/LSC/images/west-300px.jpg
+wget --tries=2 -O aa_male_assistant_3.jpg https://stmedia.stimg.co/ows_157859154930004.jpg?fit=crop&crop=faces
+wget --tries=2 -O aa_male_assistant_4.jpg https://theundefeated.com/wp-content/uploads/2018/04/gettyimages-648079284.jpg?w=700
+wget --tries=2 -O aa_female_assistant_0.jpg https://compote.slate.com/images/94e89f7a-8635-43c5-b19e-43bae148660a.jpeg
+wget --tries=2 -O aa_female_assistant_1.jpg https://bglh-marketplace.com/wp-content/uploads/2015/10/women-washington-0_347x520_66.jpg
+wget --tries=2 -O aa_female_assistant_2.jpg https://lasentinel.net/wp-content/uploads/sites/5/2019/08/AP19217714321306.0.jpg
+wget --tries=2 -O aa_female_assistant_3.jpg https://buzzghana.com/wp-content/uploads/2015/10/secretary.jpg
+wget --tries=2 -O aa_female_assistant_4.jpg https://c8.alamy.com/comp/R82H91/young-smiling-black-ethnic-afro-american-female-dentist-assistant-standing-in-dental-office-by-chair-handsome-doctor-in-a-pink-uniform-modern-equipm-R82H91.jpg
 
-wget -O aa_male_secretary_0.jpg https://thumbs.dreamstime.com/z/black-business-couple-office-shaking-hands-african-american-manager-his-secretary-discussing-34437162.jpg
-wget -O aa_male_secretary_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4476949.jpg
-wget -O aa_male_secretary_2.jpg https://image.shutterstock.com/image-photo/photo-cheerful-black-male-shing-600w-788315593.jpg
-wget -O aa_male_secretary_3.jpg https://image1.masterfile.com/getImage/600-01788797em-receptionist-giving-papers-to-businessman-stock-photo.jpg
-wget -O aa_male_secretary_4.jpg http://www.dreamstime.com/black-businessman-thumb17490192.jpg
-wget -O aa_female_secretary_0.jpg https://image.shutterstock.com/image-photo/black-secretary-woman-600w-331134056.jpg
-wget -O aa_female_secretary_1.jpg https://c8.alamy.com/comp/A5868H/miami-florida-liberty-city-royalty-insurance-services-black-female-A5868H.jpg
-wget -O aa_female_secretary_2.jpg https://c8.alamy.com/comp/T9BGPF/black-african-american-businesswoman-sitting-and-holding-a-folder-of-contracts-or-documents-she-looks-like-a-secretary-or-a-manager-giving-a-busines-T9BGPF.jpg
-wget -O aa_female_secretary_3.jpg http://bbccharter.com/Csl/wp-content/uploads/2015/06/office-assistant-admin-black-female.jpg_1363483002.jpg
-wget -O aa_female_secretary_4.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilCkBx6xROB8/v1/1000x-1.jpg
+wget --tries=2 -O aa_male_secretary_0.jpg https://thumbs.dreamstime.com/z/black-business-couple-office-shaking-hands-african-american-manager-his-secretary-discussing-34437162.jpg
+wget --tries=2 -O aa_male_secretary_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4476949.jpg
+wget --tries=2 -O aa_male_secretary_2.jpg https://image.shutterstock.com/image-photo/photo-cheerful-black-male-shing-600w-788315593.jpg
+wget --tries=2 -O aa_male_secretary_3.jpg https://image1.masterfile.com/getImage/600-01788797em-receptionist-giving-papers-to-businessman-stock-photo.jpg
+wget --tries=2 -O aa_male_secretary_4.jpg http://www.dreamstime.com/black-businessman-thumb17490192.jpg
+wget --tries=2 -O aa_female_secretary_0.jpg https://image.shutterstock.com/image-photo/black-secretary-woman-600w-331134056.jpg
+wget --tries=2 -O aa_female_secretary_1.jpg https://c8.alamy.com/comp/A5868H/miami-florida-liberty-city-royalty-insurance-services-black-female-A5868H.jpg
+wget --tries=2 -O aa_female_secretary_2.jpg https://c8.alamy.com/comp/T9BGPF/black-african-american-businesswoman-sitting-and-holding-a-folder-of-contracts-or-documents-she-looks-like-a-secretary-or-a-manager-giving-a-busines-T9BGPF.jpg
+wget --tries=2 -O aa_female_secretary_3.jpg http://bbccharter.com/Csl/wp-content/uploads/2015/06/office-assistant-admin-black-female.jpg_1363483002.jpg
+wget --tries=2 -O aa_female_secretary_4.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilCkBx6xROB8/v1/1000x-1.jpg
 
-wget -O aa_male_auditor_0.jpg https://image.shutterstock.com/image-photo/worried-man-looking-young-auditor-260nw-792858544.jpg
-wget -O aa_male_auditor_1.jpg https://misti.com/images/Content_Internal_Audit_Insights_Images/What_IT_Audit_Feature.jpg
-wget -O aa_male_auditor_2.jpg http://zd4l62ki6k620lqb52h9ldm1.wpengine.netdna-cdn.com/wp-content/uploads/2019/08/Gregory-Woods-300x295.jpg
-wget -O aa_male_auditor_3.jpg https://www.pilotonline.com/resizer/hpnDdfBwVmWjsnS7Ka3Yfc8aX8k=/fit-in/800x533/smart/filters:fill\(black\)/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/4K5JLXXHKRCNVLGYUCE4KNR2FY.jpg
-wget -O aa_male_auditor_4.jpg https://misti.com/images/Content_Internal_Audit_Insights_Images/What_IT_Audit_Main.jpg
-wget -O aa_female_auditor_0.jpg https://image.shutterstock.com/image-photo/portrait-african-american-female-expert-260nw-615661757.jpg
-wget -O aa_female_auditor_1.jpg https://assets.sourcemedia.com/dims4/default/6103402/2147483647/resize/680x%3E/quality/90/?url=http%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F9c%2F05%2F3c8bbde84dc59946974e9233e391%2F2017-mpwtw-22-bradnock-paulette-mullings-bny.jpg
-wget -O aa_female_auditor_2.jpg https://pbs.twimg.com/media/D75yZEZXUAAQ8O_.jpg
-wget -O aa_female_auditor_3.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/05/Mary_Winston-e1558715964751-1080x675.jpg
-wget -O aa_female_auditor_4.jpg https://www.gannett-cdn.com/-mm-/e1a21349de04283f16cbe9c98ba1bf53589afd20/c=0-0-845-1127/local/-/media/2018/05/29/Montgomery/Montgomery/636631903084785991-joseph.png?width=534&height=712&fit=crop
+wget --tries=2 -O aa_male_auditor_0.jpg https://image.shutterstock.com/image-photo/worried-man-looking-young-auditor-260nw-792858544.jpg
+wget --tries=2 -O aa_male_auditor_1.jpg https://misti.com/images/Content_Internal_Audit_Insights_Images/What_IT_Audit_Feature.jpg
+wget --tries=2 -O aa_male_auditor_2.jpg http://zd4l62ki6k620lqb52h9ldm1.wpengine.netdna-cdn.com/wp-content/uploads/2019/08/Gregory-Woods-300x295.jpg
+wget --tries=2 -O aa_male_auditor_3.jpg https://www.pilotonline.com/resizer/hpnDdfBwVmWjsnS7Ka3Yfc8aX8k=/fit-in/800x533/smart/filters:fill\(black\)/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/4K5JLXXHKRCNVLGYUCE4KNR2FY.jpg
+wget --tries=2 -O aa_male_auditor_4.jpg https://misti.com/images/Content_Internal_Audit_Insights_Images/What_IT_Audit_Main.jpg
+wget --tries=2 -O aa_female_auditor_0.jpg https://image.shutterstock.com/image-photo/portrait-african-american-female-expert-260nw-615661757.jpg
+wget --tries=2 -O aa_female_auditor_1.jpg https://assets.sourcemedia.com/dims4/default/6103402/2147483647/resize/680x%3E/quality/90/?url=http%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F9c%2F05%2F3c8bbde84dc59946974e9233e391%2F2017-mpwtw-22-bradnock-paulette-mullings-bny.jpg
+wget --tries=2 -O aa_female_auditor_2.jpg https://pbs.twimg.com/media/D75yZEZXUAAQ8O_.jpg
+wget --tries=2 -O aa_female_auditor_3.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/05/Mary_Winston-e1558715964751-1080x675.jpg
+wget --tries=2 -O aa_female_auditor_4.jpg https://www.gannett-cdn.com/-mm-/e1a21349de04283f16cbe9c98ba1bf53589afd20/c=0-0-845-1127/local/-/media/2018/05/29/Montgomery/Montgomery/636631903084785991-joseph.png?width=534&height=712&fit=crop
 
-wget -O aa_male_cleaner_0.jpg https://image.shutterstock.com/image-photo/portrait-happy-african-man-cleaning-260nw-318818504.jpg
-wget -O aa_male_cleaner_1.jpg https://image.shutterstock.com/image-photo/black-man-big-smile-holding-260nw-587719268.jpg
-wget -O aa_male_cleaner_2.jpg https://c8.alamy.com/comp/JRC873/man-cleaning-the-kitchen-worktop-at-home-JRC873.jpg
-wget -O aa_male_cleaner_3.jpg https://media.gettyimages.com/photos/african-american-man-cleaning-bathroom-toilet-picture-id491873624?s=612x612
-wget -O aa_male_cleaner_4.jpg https://previews.123rf.com/images/andreypopov/andreypopov1506/andreypopov150600617/41318092-young-african-male-janitor-cleaning-floor-in-corridor.jpg
-wget -O aa_female_cleaner_0.jpg https://c8.alamy.com/comp/KPW50T/female-worker-cleaning-floor-in-office-KPW50T.jpg
-wget -O aa_female_cleaner_1.jpg https://previews.123rf.com/images/elenathewise/elenathewise1102/elenathewise110200054/8967349-smiling-black-woman-cleaning-windows-with-glass-cleaner.jpg
-wget -O aa_female_cleaner_2.jpg https://image.shutterstock.com/image-photo/attractive-african-girl-cleaning-window-260nw-225975946.jpg
-wget -O aa_female_cleaner_3.jpg https://classic105.s3.amazonaws.com/wp-content/uploads/2017/06/Black-woman-cleaning-the-house-e1496754196648.jpg
-wget -O aa_female_cleaner_4.jpg https://st3.depositphotos.com/12982378/16545/i/1600/depositphotos_165455618-stock-photo-african-american-female-cleaner.jpg
+wget --tries=2 -O aa_male_cleaner_0.jpg https://image.shutterstock.com/image-photo/portrait-happy-african-man-cleaning-260nw-318818504.jpg
+wget --tries=2 -O aa_male_cleaner_1.jpg https://image.shutterstock.com/image-photo/black-man-big-smile-holding-260nw-587719268.jpg
+wget --tries=2 -O aa_male_cleaner_2.jpg https://c8.alamy.com/comp/JRC873/man-cleaning-the-kitchen-worktop-at-home-JRC873.jpg
+wget --tries=2 -O aa_male_cleaner_3.jpg https://media.gettyimages.com/photos/african-american-man-cleaning-bathroom-toilet-picture-id491873624?s=612x612
+wget --tries=2 -O aa_male_cleaner_4.jpg https://previews.123rf.com/images/andreypopov/andreypopov1506/andreypopov150600617/41318092-young-african-male-janitor-cleaning-floor-in-corridor.jpg
+wget --tries=2 -O aa_female_cleaner_0.jpg https://c8.alamy.com/comp/KPW50T/female-worker-cleaning-floor-in-office-KPW50T.jpg
+wget --tries=2 -O aa_female_cleaner_1.jpg https://previews.123rf.com/images/elenathewise/elenathewise1102/elenathewise110200054/8967349-smiling-black-woman-cleaning-windows-with-glass-cleaner.jpg
+wget --tries=2 -O aa_female_cleaner_2.jpg https://image.shutterstock.com/image-photo/attractive-african-girl-cleaning-window-260nw-225975946.jpg
+wget --tries=2 -O aa_female_cleaner_3.jpg https://classic105.s3.amazonaws.com/wp-content/uploads/2017/06/Black-woman-cleaning-the-house-e1496754196648.jpg
+wget --tries=2 -O aa_female_cleaner_4.jpg https://st3.depositphotos.com/12982378/16545/i/1600/depositphotos_165455618-stock-photo-african-american-female-cleaner.jpg
 
-wget -O aa_male_receptionist_0.jpg https://previews.123rf.com/images/warrengoldswain/warrengoldswain1510/warrengoldswain151000271/45971876-portrait-of-handsome-african-black-young-business-man-working-on-laptop-computer-at-office-desk.jpg
-wget -O aa_male_receptionist_1.jpg https://c8.alamy.com/comp/PPE5D2/smiling-black-male-call-centre-worker-looking-at-screen-PPE5D2.jpg
-wget -O aa_male_receptionist_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2013/09/startup-black-guy-smiling.jpg
-wget -O aa_male_receptionist_3.jpg https://comps.canstockphoto.com/cheerful-black-male-with-phone-stock-image_csp36219666.jpg
-wget -O aa_male_receptionist_4.jpg https://i.pinimg.com/originals/b5/ff/8a/b5ff8a6440569a8299bb3d161647c65b.jpg
-wget -O aa_female_receptionist_0.jpg https://epmgaa.media.clients.ellingtoncms.com/img/croppedphotos/2019/12/03/busBlackWoman_Start-Up-_Working_to_Close_Significant_Revenue_Gap_of_Black_Woman-Owned_Businesses_t750x550.jpg?d885fc46c41745b3b5de550c70336c1b382931d2
-wget -O aa_female_receptionist_1.jpg https://image.shutterstock.com/image-photo/black-female-businesswoman-smiling-camera-260nw-585356342.jpg
-wget -O aa_female_receptionist_2.jpg https://defendernetwork.com/wp-content/uploads/2017/01/012312-national-black-women-values.png
-wget -O aa_female_receptionist_3.jpg https://image1.masterfile.com/getImage/NjAwLTAxNjE1MDEyZW4uMDAwMDAwMDA=AJequ8/600-01615012en_Masterfile.jpg
-wget -O aa_female_receptionist_4.jpg https://static6.depositphotos.com/1015060/665/i/450/depositphotos_6651763-stock-photo-serious-black-businesswoman-on-phone.jpg
+wget --tries=2 -O aa_male_receptionist_0.jpg https://previews.123rf.com/images/warrengoldswain/warrengoldswain1510/warrengoldswain151000271/45971876-portrait-of-handsome-african-black-young-business-man-working-on-laptop-computer-at-office-desk.jpg
+wget --tries=2 -O aa_male_receptionist_1.jpg https://c8.alamy.com/comp/PPE5D2/smiling-black-male-call-centre-worker-looking-at-screen-PPE5D2.jpg
+wget --tries=2 -O aa_male_receptionist_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2013/09/startup-black-guy-smiling.jpg
+wget --tries=2 -O aa_male_receptionist_3.jpg https://comps.canstockphoto.com/cheerful-black-male-with-phone-stock-image_csp36219666.jpg
+wget --tries=2 -O aa_male_receptionist_4.jpg https://i.pinimg.com/originals/b5/ff/8a/b5ff8a6440569a8299bb3d161647c65b.jpg
+wget --tries=2 -O aa_female_receptionist_0.jpg https://epmgaa.media.clients.ellingtoncms.com/img/croppedphotos/2019/12/03/busBlackWoman_Start-Up-_Working_to_Close_Significant_Revenue_Gap_of_Black_Woman-Owned_Businesses_t750x550.jpg?d885fc46c41745b3b5de550c70336c1b382931d2
+wget --tries=2 -O aa_female_receptionist_1.jpg https://image.shutterstock.com/image-photo/black-female-businesswoman-smiling-camera-260nw-585356342.jpg
+wget --tries=2 -O aa_female_receptionist_2.jpg https://defendernetwork.com/wp-content/uploads/2017/01/012312-national-black-women-values.png
+wget --tries=2 -O aa_female_receptionist_3.jpg https://image1.masterfile.com/getImage/NjAwLTAxNjE1MDEyZW4uMDAwMDAwMDA=AJequ8/600-01615012en_Masterfile.jpg
+wget --tries=2 -O aa_female_receptionist_4.jpg https://static6.depositphotos.com/1015060/665/i/450/depositphotos_6651763-stock-photo-serious-black-businesswoman-on-phone.jpg
 
-wget -O aa_male_clerk_0.jpg https://previews.123rf.com/images/denisfilm/denisfilm1511/denisfilm151100190/48433709-black-clerk-in-the-office-business-manager-sitting-at-the-table-.jpg
-wget -O aa_male_clerk_1.jpg https://s3.amazonaws.com/intercontinentalnews/wp-content/uploads/2019/11/28083455/modern-black-friday-work-force-postal-clerk-influencer-robot.jpg
-wget -O aa_male_clerk_2.jpg https://c8.alamy.com/comp/J53TP0/little-rock-arkansas-the-peabody-little-rock-hotel-black-man-clerk-J53TP0.jpg
-wget -O aa_male_clerk_3.jpg https://c8.alamy.com/comp/W1HEJP/miami-beach-florida-collins-avenue-chesterfield-hotel-receptionist-boutique-hotel-black-man-front-desk-clerk-job-answer-phone-W1HEJP.jpg
-wget -O aa_male_clerk_4.jpg https://previews.123rf.com/images/denisfilm/denisfilm1604/denisfilm160400625/55415879-nervous-black-businessman-holding-cellphone-afro-clerk-on-white-background-unsettling-news-for-compa.jpg
-wget -O aa_female_clerk_0.jpg https://previews.123rf.com/images/moodboard/moodboard1307/moodboard130711275/20769199-portrait-of-an-african-american-female-store-clerk-standing-at-checkout-counter.jpg
-wget -O aa_female_clerk_1.jpg https://gumptownmag.com/wp-content/uploads/2017/03/tiffanymccord.jpg
-wget -O aa_female_clerk_2.jpg https://c8.alamy.com/comp/CNNMX5/young-sexy-black-secretary-clerk-chewing-on-her-glasses-temples-at-CNNMX5.jpg
-wget -O aa_female_clerk_3.jpg https://cdn.vanderbilt.edu/vu-news/files/20190417213140/Samiyyah-Ali-JD16.jpg
-wget -O aa_female_clerk_4.jpg https://previews.agefotostock.com/previewimage/medibigoff/5fbd48729ba5a321fa26e6de415c1219/g14-2750132.jpg
+wget --tries=2 -O aa_male_clerk_0.jpg https://previews.123rf.com/images/denisfilm/denisfilm1511/denisfilm151100190/48433709-black-clerk-in-the-office-business-manager-sitting-at-the-table-.jpg
+wget --tries=2 -O aa_male_clerk_1.jpg https://s3.amazonaws.com/intercontinentalnews/wp-content/uploads/2019/11/28083455/modern-black-friday-work-force-postal-clerk-influencer-robot.jpg
+wget --tries=2 -O aa_male_clerk_2.jpg https://c8.alamy.com/comp/J53TP0/little-rock-arkansas-the-peabody-little-rock-hotel-black-man-clerk-J53TP0.jpg
+wget --tries=2 -O aa_male_clerk_3.jpg https://c8.alamy.com/comp/W1HEJP/miami-beach-florida-collins-avenue-chesterfield-hotel-receptionist-boutique-hotel-black-man-front-desk-clerk-job-answer-phone-W1HEJP.jpg
+wget --tries=2 -O aa_male_clerk_4.jpg https://previews.123rf.com/images/denisfilm/denisfilm1604/denisfilm160400625/55415879-nervous-black-businessman-holding-cellphone-afro-clerk-on-white-background-unsettling-news-for-compa.jpg
+wget --tries=2 -O aa_female_clerk_0.jpg https://previews.123rf.com/images/moodboard/moodboard1307/moodboard130711275/20769199-portrait-of-an-african-american-female-store-clerk-standing-at-checkout-counter.jpg
+wget --tries=2 -O aa_female_clerk_1.jpg https://gumptownmag.com/wp-content/uploads/2017/03/tiffanymccord.jpg
+wget --tries=2 -O aa_female_clerk_2.jpg https://c8.alamy.com/comp/CNNMX5/young-sexy-black-secretary-clerk-chewing-on-her-glasses-temples-at-CNNMX5.jpg
+wget --tries=2 -O aa_female_clerk_3.jpg https://cdn.vanderbilt.edu/vu-news/files/20190417213140/Samiyyah-Ali-JD16.jpg
+wget --tries=2 -O aa_female_clerk_4.jpg https://previews.agefotostock.com/previewimage/medibigoff/5fbd48729ba5a321fa26e6de415c1219/g14-2750132.jpg
 
-wget -O aa_male_counselor_0.jpg https://image.shutterstock.com/image-photo/smiling-african-american-psychiatrist-talking-260nw-1050440903.jpg
-wget -O aa_male_counselor_1.jpg https://www.goodtherapy.org/blog/blog/wp-content/uploads/2017/03/person-of-color-therapy-300x200.jpg
-wget -O aa_male_counselor_2.jpg https://p1cdn4static.civiclive.com/UserFiles/Servers/Server_1881137/Image/Residents/Community%20Development/Foreclosure%20Assistance/019291.jpg
-wget -O aa_male_counselor_3.jpg https://c8.alamy.com/comp/2ACE28T/caring-black-wife-and-counselor-supporting-man-during-psychotherapy-session-2ACE28T.jpg
-wget -O aa_male_counselor_4.jpg https://learn.marymount.edu/hubfs/Blog_Post_Images/Counselor%20leads%20group%20therapy%20session-577416-edited.jpg
-wget -O aa_female_counselor_0.jpg https://www.totallifecounseling.com/wp-content/uploads/2017/07/JJ15.jpeg
-wget -O aa_female_counselor_1.jpg http://legacy.blavity.com/wp-content/uploads/2015/07/psychologytoday.jpg
-wget -O aa_female_counselor_2.jpg https://ak0.picdn.net/shutterstock/videos/1027488560/thumb/1.jpg
-wget -O aa_female_counselor_3.jpg https://media.gettyimages.com/videos/counselor-gives-advice-to-teenage-girl-video-id1058078270?s=640x640
-wget -O aa_female_counselor_4.jpg https://www.directionscounseling.com/wp-content/uploads/2014/07/Lynsey-Pearson-header.jpg
+wget --tries=2 -O aa_male_counselor_0.jpg https://image.shutterstock.com/image-photo/smiling-african-american-psychiatrist-talking-260nw-1050440903.jpg
+wget --tries=2 -O aa_male_counselor_1.jpg https://www.goodtherapy.org/blog/blog/wp-content/uploads/2017/03/person-of-color-therapy-300x200.jpg
+wget --tries=2 -O aa_male_counselor_2.jpg https://p1cdn4static.civiclive.com/UserFiles/Servers/Server_1881137/Image/Residents/Community%20Development/Foreclosure%20Assistance/019291.jpg
+wget --tries=2 -O aa_male_counselor_3.jpg https://c8.alamy.com/comp/2ACE28T/caring-black-wife-and-counselor-supporting-man-during-psychotherapy-session-2ACE28T.jpg
+wget --tries=2 -O aa_male_counselor_4.jpg https://learn.marymount.edu/hubfs/Blog_Post_Images/Counselor%20leads%20group%20therapy%20session-577416-edited.jpg
+wget --tries=2 -O aa_female_counselor_0.jpg https://www.totallifecounseling.com/wp-content/uploads/2017/07/JJ15.jpeg
+wget --tries=2 -O aa_female_counselor_1.jpg http://legacy.blavity.com/wp-content/uploads/2015/07/psychologytoday.jpg
+wget --tries=2 -O aa_female_counselor_2.jpg https://ak0.picdn.net/shutterstock/videos/1027488560/thumb/1.jpg
+wget --tries=2 -O aa_female_counselor_3.jpg https://media.gettyimages.com/videos/counselor-gives-advice-to-teenage-girl-video-id1058078270?s=640x640
+wget --tries=2 -O aa_female_counselor_4.jpg https://www.directionscounseling.com/wp-content/uploads/2014/07/Lynsey-Pearson-header.jpg
 
-wget -O aa_male_designer_0.jpg https://blackmainstreet.net/wp-content/uploads/2016/02/Quincy-%E2%80%9COuigi%E2%80%9D-Theodore-1.jpg
-wget -O aa_male_designer_1.jpg https://miro.medium.com/max/8700/1*RZ8OucYM84vKklV6HCasng.jpeg
-wget -O aa_male_designer_2.jpg https://epmgaa.media.clients.ellingtoncms.com/img/photos/2018/07/26/36967444_200262547321713_2500541319919697920_n_t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33
-wget -O aa_male_designer_3.jpg https://www.hungertv.com/wp-content/uploads/2019/01/bianca-saunders-hunger-tv-688x387.jpg
-wget -O aa_male_designer_4.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1504/wavebreakmediamicro150400121/44818121-portrait-of-happy-male-fashion-designer-holding-scissors.jpg
-wget -O aa_female_designer_0.jpg http://material-magazine.com/wp-content/uploads/2018/02/black-female-fashion-designers.png
-wget -O aa_female_designer_1.jpg https://thumbs.dreamstime.com/z/attractive-african-american-female-fashion-designer-using-cell-phone-30853018.jpg
-wget -O aa_female_designer_2.jpg http://www.birminghamtimes.com/wp-content/uploads/2016/12/AP_16341645767065.jpg
-wget -O aa_female_designer_3.jpg https://baucemag.com/wp-content/uploads/IMG_73522pp_w768_h512.jpg
-wget -O aa_female_designer_4.jpg http://www.greenandgorgeous.net/wp-content/uploads/2009/07/gg-about-jennae.png
+wget --tries=2 -O aa_male_designer_0.jpg https://blackmainstreet.net/wp-content/uploads/2016/02/Quincy-%E2%80%9COuigi%E2%80%9D-Theodore-1.jpg
+wget --tries=2 -O aa_male_designer_1.jpg https://miro.medium.com/max/8700/1*RZ8OucYM84vKklV6HCasng.jpeg
+wget --tries=2 -O aa_male_designer_2.jpg https://epmgaa.media.clients.ellingtoncms.com/img/photos/2018/07/26/36967444_200262547321713_2500541319919697920_n_t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33
+wget --tries=2 -O aa_male_designer_3.jpg https://www.hungertv.com/wp-content/uploads/2019/01/bianca-saunders-hunger-tv-688x387.jpg
+wget --tries=2 -O aa_male_designer_4.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1504/wavebreakmediamicro150400121/44818121-portrait-of-happy-male-fashion-designer-holding-scissors.jpg
+wget --tries=2 -O aa_female_designer_0.jpg http://material-magazine.com/wp-content/uploads/2018/02/black-female-fashion-designers.png
+wget --tries=2 -O aa_female_designer_1.jpg https://thumbs.dreamstime.com/z/attractive-african-american-female-fashion-designer-using-cell-phone-30853018.jpg
+wget --tries=2 -O aa_female_designer_2.jpg http://www.birminghamtimes.com/wp-content/uploads/2016/12/AP_16341645767065.jpg
+wget --tries=2 -O aa_female_designer_3.jpg https://baucemag.com/wp-content/uploads/IMG_73522pp_w768_h512.jpg
+wget --tries=2 -O aa_female_designer_4.jpg http://www.greenandgorgeous.net/wp-content/uploads/2009/07/gg-about-jennae.png
 
-wget -O aa_male_hairdresser_0.jpg https://www.rippdemup.com/wp-content/uploads/2011/11/black-hairstylist-1.jpg
-wget -O aa_male_hairdresser_1.jpg https://media.npr.org/assets/img/2017/05/26/2017-05-25-man-weave-maquitapeters-359-edit_custom-ee26c1f861b853f23b6717cfd7f2525a753fc965-s800-c85.jpg
-wget -O aa_male_hairdresser_2.jpg https://i.kinja-img.com/gawker-media/image/upload/s--4Y964VNM--/c_scale,f_auto,fl_progressive,q_80,w_800/k7zkj2ri9r3zqmyz0b2u.jpg
-wget -O aa_male_hairdresser_3.jpg https://i.dailymail.co.uk/i/pix/2016/05/13/21/34248FF700000578-3589686-image-a-17_1463172910646.jpg
-wget -O aa_male_hairdresser_4.jpg http://neguswhoread.com/wp-content/uploads/bfi_thumb/Professsional-Barbers-Atlanta-mzv53lfmpmwisygd8xnkcgf2xzacje7ipn0xxomy20.jpg
-wget -O aa_female_hairdresser_0.jpg https://wpfsi.com/wp-content/uploads/2018/06/hair-stylist-525x350.jpg
-wget -O aa_female_hairdresser_1.jpg https://www.byrdie.com/thmb/EpKLkJBui3m8c-7U3jm9GQqKlR8=/1050x700/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/cdn.cliqueinc.com__cache__posts__251599__celebrity-hairstylists-of-color-251599-1520461928455-main.700x0c-81acdd7924bf442e839ff8f01919c073.jpg
-wget -O aa_female_hairdresser_2.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/PSyz6MMOqbgDndESb0jL0wGwQxM=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/HHY7LXDAP4I6JCOUGX73AXBAPU.jpg
-wget -O aa_female_hairdresser_3.jpg https://media.gettyimages.com/photos/closeup-of-a-young-woman-and-her-hair-stylist-picture-id57279505?s=612x612
-wget -O aa_female_hairdresser_4.jpg https://allblackmedia.com/wp-content/uploads/2017/08/screen-shot-2017-08-03-at-2-36-05-pm.png
+wget --tries=2 -O aa_male_hairdresser_0.jpg https://www.rippdemup.com/wp-content/uploads/2011/11/black-hairstylist-1.jpg
+wget --tries=2 -O aa_male_hairdresser_1.jpg https://media.npr.org/assets/img/2017/05/26/2017-05-25-man-weave-maquitapeters-359-edit_custom-ee26c1f861b853f23b6717cfd7f2525a753fc965-s800-c85.jpg
+wget --tries=2 -O aa_male_hairdresser_2.jpg https://i.kinja-img.com/gawker-media/image/upload/s--4Y964VNM--/c_scale,f_auto,fl_progressive,q_80,w_800/k7zkj2ri9r3zqmyz0b2u.jpg
+wget --tries=2 -O aa_male_hairdresser_3.jpg https://i.dailymail.co.uk/i/pix/2016/05/13/21/34248FF700000578-3589686-image-a-17_1463172910646.jpg
+wget --tries=2 -O aa_male_hairdresser_4.jpg http://neguswhoread.com/wp-content/uploads/bfi_thumb/Professsional-Barbers-Atlanta-mzv53lfmpmwisygd8xnkcgf2xzacje7ipn0xxomy20.jpg
+wget --tries=2 -O aa_female_hairdresser_0.jpg https://wpfsi.com/wp-content/uploads/2018/06/hair-stylist-525x350.jpg
+wget --tries=2 -O aa_female_hairdresser_1.jpg https://www.byrdie.com/thmb/EpKLkJBui3m8c-7U3jm9GQqKlR8=/1050x700/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/cdn.cliqueinc.com__cache__posts__251599__celebrity-hairstylists-of-color-251599-1520461928455-main.700x0c-81acdd7924bf442e839ff8f01919c073.jpg
+wget --tries=2 -O aa_female_hairdresser_2.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/PSyz6MMOqbgDndESb0jL0wGwQxM=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/HHY7LXDAP4I6JCOUGX73AXBAPU.jpg
+wget --tries=2 -O aa_female_hairdresser_3.jpg https://media.gettyimages.com/photos/closeup-of-a-young-woman-and-her-hair-stylist-picture-id57279505?s=612x612
+wget --tries=2 -O aa_female_hairdresser_4.jpg https://allblackmedia.com/wp-content/uploads/2017/08/screen-shot-2017-08-03-at-2-36-05-pm.png
 
-wget -O aa_male_writer_0.jpg https://image.shutterstock.com/image-photo/profile-handsome-young-black-male-600w-631790459.jpg
-wget -O aa_male_writer_1.jpg http://67.media.tumblr.com/556c6fbe968a7f8b1533b58f49da5155/tumblr_o27qqqy2Zx1t0in3po2_1280.jpg
-wget -O aa_male_writer_2.jpg https://s20352.pcdn.co/wp-content/uploads/2019/04/Damon-Young-author-photo-CREDIT-Sarah-Huny-Young-1.jpg
-wget -O aa_male_writer_3.jpg https://cdn.washingtoncitypaper.com/files/base/scomm/wcp/image/2019/07/960w/Folarin_photo_credit_Valerie_Woody.5d3b2983c9977.jpg
-wget -O aa_male_writer_4.jpg https://upload.wikimedia.org/wikipedia/commons/0/0b/Ta-Nehisi_Coates.jpg
-wget -O aa_female_writer_0.jpg https://s2982.pcdn.co/wp-content/uploads/2017/12/black-woman-writing-computer-writer.jpg
-wget -O aa_female_writer_1.jpg https://thumbs.dreamstime.com/z/black-female-writer-looking-camera-wearing-bright-blouse-african-american-orange-still-holding-pen-her-87255021.jpg
-wget -O aa_female_writer_2.jpg https://image.shutterstock.com/image-photo/accomplished-young-black-businesswoman-busy-260nw-587312540.jpg
-wget -O aa_female_writer_3.jpg https://images.hellogiggles.com/uploads/2018/04/05135101/black-woman-writer.jpg
-wget -O aa_female_writer_4.jpg https://image.shutterstock.com/image-photo/head-shot-portrait-happy-smiling-260nw-1239724990.jpg
+wget --tries=2 -O aa_male_writer_0.jpg https://image.shutterstock.com/image-photo/profile-handsome-young-black-male-600w-631790459.jpg
+wget --tries=2 -O aa_male_writer_1.jpg http://67.media.tumblr.com/556c6fbe968a7f8b1533b58f49da5155/tumblr_o27qqqy2Zx1t0in3po2_1280.jpg
+wget --tries=2 -O aa_male_writer_2.jpg https://s20352.pcdn.co/wp-content/uploads/2019/04/Damon-Young-author-photo-CREDIT-Sarah-Huny-Young-1.jpg
+wget --tries=2 -O aa_male_writer_3.jpg https://cdn.washingtoncitypaper.com/files/base/scomm/wcp/image/2019/07/960w/Folarin_photo_credit_Valerie_Woody.5d3b2983c9977.jpg
+wget --tries=2 -O aa_male_writer_4.jpg https://upload.wikimedia.org/wikipedia/commons/0/0b/Ta-Nehisi_Coates.jpg
+wget --tries=2 -O aa_female_writer_0.jpg https://s2982.pcdn.co/wp-content/uploads/2017/12/black-woman-writing-computer-writer.jpg
+wget --tries=2 -O aa_female_writer_1.jpg https://thumbs.dreamstime.com/z/black-female-writer-looking-camera-wearing-bright-blouse-african-american-orange-still-holding-pen-her-87255021.jpg
+wget --tries=2 -O aa_female_writer_2.jpg https://image.shutterstock.com/image-photo/accomplished-young-black-businesswoman-busy-260nw-587312540.jpg
+wget --tries=2 -O aa_female_writer_3.jpg https://images.hellogiggles.com/uploads/2018/04/05135101/black-woman-writer.jpg
+wget --tries=2 -O aa_female_writer_4.jpg https://image.shutterstock.com/image-photo/head-shot-portrait-happy-smiling-260nw-1239724990.jpg
 
-wget -O aa_male_housekeeper_0.jpg https://image.shutterstock.com/image-photo/portrait-happy-african-man-cleaning-260nw-318818504.jpg
-wget -O aa_male_housekeeper_1.jpg https://thumbs.dreamstime.com/z/shocked-black-guy-cleaning-house-mop-vacuum-cleaner-simultaneously-deadline-lack-time-concept-black-man-cleaning-130744273.jpg
-wget -O aa_male_housekeeper_2.jpg https://c8.alamy.com/comp/HJAB5A/young-black-male-in-apron-sanding-behind-stand-and-looking-at-camera-HJAB5A.jpg
-wget -O aa_male_housekeeper_3.jpg https://image.shutterstock.com/image-photo/young-black-man-housekeeping-against-260nw-1533620300.jpg
-wget -O aa_male_housekeeper_4.jpg https://thumbs.dreamstime.com/z/maid-making-bed-maid-making-bed-hotel-room-staff-maid-making-bed-african-housekeeper-man-making-bed-142644550.jpg
-wget -O aa_female_housekeeper_0.jpg https://c8.alamy.com/comp/DYD447/port-charlotte-florida-days-inn-motel-hotel-black-woman-housekeeping-DYD447.jpg
-wget -O aa_female_housekeeper_1.jpg https://c8.alamy.com/comp/KPW50T/female-worker-cleaning-floor-in-office-KPW50T.jpg
-wget -O aa_female_housekeeper_2.jpg https://image.shutterstock.com/image-photo/beautiful-african-woman-cleaning-cupboard-260nw-225975583.jpg
-wget -O aa_female_housekeeper_3.jpg https://previews.123rf.com/images/thevisualsyouneed/thevisualsyouneed1806/thevisualsyouneed180601315/103688328-young-beautiful-and-happy-african-american-black-woman-in-washing-rubber-clothes-cleaning-home-kitch.jpg
-wget -O aa_female_housekeeper_4.jpg https://c8.alamy.com/comp/E9BE67/florida-key-west-westin-key-west-resort-marina-hotel-hall-black-woman-E9BE67.jpg
+wget --tries=2 -O aa_male_housekeeper_0.jpg https://image.shutterstock.com/image-photo/portrait-happy-african-man-cleaning-260nw-318818504.jpg
+wget --tries=2 -O aa_male_housekeeper_1.jpg https://thumbs.dreamstime.com/z/shocked-black-guy-cleaning-house-mop-vacuum-cleaner-simultaneously-deadline-lack-time-concept-black-man-cleaning-130744273.jpg
+wget --tries=2 -O aa_male_housekeeper_2.jpg https://c8.alamy.com/comp/HJAB5A/young-black-male-in-apron-sanding-behind-stand-and-looking-at-camera-HJAB5A.jpg
+wget --tries=2 -O aa_male_housekeeper_3.jpg https://image.shutterstock.com/image-photo/young-black-man-housekeeping-against-260nw-1533620300.jpg
+wget --tries=2 -O aa_male_housekeeper_4.jpg https://thumbs.dreamstime.com/z/maid-making-bed-maid-making-bed-hotel-room-staff-maid-making-bed-african-housekeeper-man-making-bed-142644550.jpg
+wget --tries=2 -O aa_female_housekeeper_0.jpg https://c8.alamy.com/comp/DYD447/port-charlotte-florida-days-inn-motel-hotel-black-woman-housekeeping-DYD447.jpg
+wget --tries=2 -O aa_female_housekeeper_1.jpg https://c8.alamy.com/comp/KPW50T/female-worker-cleaning-floor-in-office-KPW50T.jpg
+wget --tries=2 -O aa_female_housekeeper_2.jpg https://image.shutterstock.com/image-photo/beautiful-african-woman-cleaning-cupboard-260nw-225975583.jpg
+wget --tries=2 -O aa_female_housekeeper_3.jpg https://previews.123rf.com/images/thevisualsyouneed/thevisualsyouneed1806/thevisualsyouneed180601315/103688328-young-beautiful-and-happy-african-american-black-woman-in-washing-rubber-clothes-cleaning-home-kitch.jpg
+wget --tries=2 -O aa_female_housekeeper_4.jpg https://c8.alamy.com/comp/E9BE67/florida-key-west-westin-key-west-resort-marina-hotel-hall-black-woman-E9BE67.jpg
 
-wget -O aa_male_baker_0.jpg https://image.shutterstock.com/image-photo/smiling-african-american-baker-holding-260nw-1046513938.jpg
-wget -O aa_male_baker_1.jpg https://image.shutterstock.com/image-photo/smiling-black-baker-apron-holding-260nw-698862394.jpg
-wget -O aa_male_baker_2.jpg https://as2.ftcdn.net/jpg/01/88/02/83/500_F_188028316_C7EP4EdhSZtzDRMqXUuBLyxXrhag12R3.jpg
-wget -O aa_male_baker_3.jpg https://c8.alamy.com/comp/RHXKA5/confident-baker-in-black-apron-standing-with-arms-crossed-near-professional-bread-oven-in-small-bakery-RHXKA5.jpg
-wget -O aa_male_baker_4.jpg https://c8.alamy.com/comp/MY627B/handsome-african-american-baker-kneading-dough-on-baking-manufacture-MY627B.jpg
-wget -O aa_female_baker_0.jpg https://image.shutterstock.com/image-photo/female-baker-standing-workplace-on-260nw-1046514043.jpg
-wget -O aa_female_baker_1.jpg https://spend.black/wp-content/uploads/2016/07/black-female-baker.jpg
-wget -O aa_female_baker_2.jpg https://snworksceo.imgix.net/rce/b6fb41de-3d33-4cd6-acb7-f864369f86e5.sized-1000x1000.jpg?w=1000
-wget -O aa_female_baker_3.jpg https://comps.canstockphoto.com/chef-baker-or-cook-woman-showing-blank-picture_csp36969819.jpg
-wget -O aa_female_baker_4.jpg https://images.freeimages.com/images/premium/previews/1965/19658924-african-american-baker.jpg
+wget --tries=2 -O aa_male_baker_0.jpg https://image.shutterstock.com/image-photo/smiling-african-american-baker-holding-260nw-1046513938.jpg
+wget --tries=2 -O aa_male_baker_1.jpg https://image.shutterstock.com/image-photo/smiling-black-baker-apron-holding-260nw-698862394.jpg
+wget --tries=2 -O aa_male_baker_2.jpg https://as2.ftcdn.net/jpg/01/88/02/83/500_F_188028316_C7EP4EdhSZtzDRMqXUuBLyxXrhag12R3.jpg
+wget --tries=2 -O aa_male_baker_3.jpg https://c8.alamy.com/comp/RHXKA5/confident-baker-in-black-apron-standing-with-arms-crossed-near-professional-bread-oven-in-small-bakery-RHXKA5.jpg
+wget --tries=2 -O aa_male_baker_4.jpg https://c8.alamy.com/comp/MY627B/handsome-african-american-baker-kneading-dough-on-baking-manufacture-MY627B.jpg
+wget --tries=2 -O aa_female_baker_0.jpg https://image.shutterstock.com/image-photo/female-baker-standing-workplace-on-260nw-1046514043.jpg
+wget --tries=2 -O aa_female_baker_1.jpg https://spend.black/wp-content/uploads/2016/07/black-female-baker.jpg
+wget --tries=2 -O aa_female_baker_2.jpg https://snworksceo.imgix.net/rce/b6fb41de-3d33-4cd6-acb7-f864369f86e5.sized-1000x1000.jpg?w=1000
+wget --tries=2 -O aa_female_baker_3.jpg https://comps.canstockphoto.com/chef-baker-or-cook-woman-showing-blank-picture_csp36969819.jpg
+wget --tries=2 -O aa_female_baker_4.jpg https://images.freeimages.com/images/premium/previews/1965/19658924-african-american-baker.jpg
 
-wget -O aa_male_accountant_0.jpg https://image1.masterfile.com/getImage/NjAwLTAxNjE0OTg1ZW4uMDAwMDAwMDA=AA76u$/600-01614985en_Masterfile.jpg
-wget -O aa_male_accountant_1.jpg https://image.shutterstock.com/image-photo/young-african-executive-wearing-shirt-260nw-725283322.jpg
-wget -O aa_male_accountant_2.jpg https://previews.123rf.com/images/kurhan/kurhan1501/kurhan150100567/35128391-african-american-accountant-business-man-working-in-office.jpg
-wget -O aa_male_accountant_3.jpg https://image1.masterfile.com/getImage/Njk0LTAzMzI5MTQ1ZW4uMDAwMDAwMDA=AMr9Jr/694-03329145en_Masterfile.jpg
-wget -O aa_male_accountant_4.jpg https://c8.alamy.com/comp/M2XGFR/african-american-smiling-businessman-in-suit-and-glasses-working-on-M2XGFR.jpg
-wget -O aa_female_accountant_0.jpg https://www.cpajournal.com/wp-content/uploads/2018/01/CPA.2017.87.12.046.uf001.jpg
-wget -O aa_female_accountant_1.jpg https://previews.123rf.com/images/innovatedcaptures/innovatedcaptures1902/innovatedcaptures190200058/117560618-black-female-client-is-upset-at-tax-preparer-or-cpa-accountant-in-an-office-the-image-can-also-depic.jpg
-wget -O aa_female_accountant_2.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2011/12/accountant-121111-620x480-1280x720.jpg
-wget -O aa_female_accountant_3.jpg http://mndaccounting.com/~mndaccou/images/MND.jpg
-wget -O aa_female_accountant_4.jpg https://image.shutterstock.com/image-photo/portrait-african-american-accountant-woman-260nw-725069242.jpg
+wget --tries=2 -O aa_male_accountant_0.jpg https://image1.masterfile.com/getImage/NjAwLTAxNjE0OTg1ZW4uMDAwMDAwMDA=AA76u$/600-01614985en_Masterfile.jpg
+wget --tries=2 -O aa_male_accountant_1.jpg https://image.shutterstock.com/image-photo/young-african-executive-wearing-shirt-260nw-725283322.jpg
+wget --tries=2 -O aa_male_accountant_2.jpg https://previews.123rf.com/images/kurhan/kurhan1501/kurhan150100567/35128391-african-american-accountant-business-man-working-in-office.jpg
+wget --tries=2 -O aa_male_accountant_3.jpg https://image1.masterfile.com/getImage/Njk0LTAzMzI5MTQ1ZW4uMDAwMDAwMDA=AMr9Jr/694-03329145en_Masterfile.jpg
+wget --tries=2 -O aa_male_accountant_4.jpg https://c8.alamy.com/comp/M2XGFR/african-american-smiling-businessman-in-suit-and-glasses-working-on-M2XGFR.jpg
+wget --tries=2 -O aa_female_accountant_0.jpg https://www.cpajournal.com/wp-content/uploads/2018/01/CPA.2017.87.12.046.uf001.jpg
+wget --tries=2 -O aa_female_accountant_1.jpg https://previews.123rf.com/images/innovatedcaptures/innovatedcaptures1902/innovatedcaptures190200058/117560618-black-female-client-is-upset-at-tax-preparer-or-cpa-accountant-in-an-office-the-image-can-also-depic.jpg
+wget --tries=2 -O aa_female_accountant_2.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2011/12/accountant-121111-620x480-1280x720.jpg
+wget --tries=2 -O aa_female_accountant_3.jpg http://mndaccounting.com/~mndaccou/images/MND.jpg
+wget --tries=2 -O aa_female_accountant_4.jpg https://image.shutterstock.com/image-photo/portrait-african-american-accountant-woman-260nw-725069242.jpg
 
-wget -O aa_male_editor_0.jpg http://fashionbombdaily.com/wp-content/uploads/2017/04/british-vogue-editor-edwardeinninful.jpg
-wget -O aa_male_editor_1.jpg https://abovethelaw.com/wp-content/uploads/2018/04/tomi-williams-300x229.jpg
-wget -O aa_male_editor_2.jpg https://www.campuslately.com/wp-content/uploads/2017/08/SCULPTURE-ART-17.png
-wget -O aa_male_editor_3.jpg https://image.shutterstock.com/image-photo/side-view-black-man-working-260nw-1158412753.jpg
-wget -O aa_male_editor_4.jpg http://www.blackenterprise.com/wp-content/blogs.dir/1/files/2012/05/Slim-Jackson-300x232.jpg
-wget -O aa_female_editor_0.jpg http://www.blackfilm.com/read/wp-content/uploads/2014/11/Beyond-The-Lights-editor-Terilyn-A.-Shropshire.jpg
-wget -O aa_female_editor_1.jpg https://thestateofwomen.com/wp-content/uploads/2016/05/671904986dd8e18280c66d9e28a67c99-810x540.jpeg
-wget -O aa_female_editor_2.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_505699213_113325.jpg
-wget -O aa_female_editor_3.jpg https://pbs.twimg.com/profile_images/938112072835092486/I-_6nXo7.jpg
-wget -O aa_female_editor_4.jpg https://image.cnbcfm.com/api/v1/image/105595359-1543344639814kristinee.guillaume.jpg?v=1543347739&w=1400&h=950
+wget --tries=2 -O aa_male_editor_0.jpg http://fashionbombdaily.com/wp-content/uploads/2017/04/british-vogue-editor-edwardeinninful.jpg
+wget --tries=2 -O aa_male_editor_1.jpg https://abovethelaw.com/wp-content/uploads/2018/04/tomi-williams-300x229.jpg
+wget --tries=2 -O aa_male_editor_2.jpg https://www.campuslately.com/wp-content/uploads/2017/08/SCULPTURE-ART-17.png
+wget --tries=2 -O aa_male_editor_3.jpg https://image.shutterstock.com/image-photo/side-view-black-man-working-260nw-1158412753.jpg
+wget --tries=2 -O aa_male_editor_4.jpg http://www.blackenterprise.com/wp-content/blogs.dir/1/files/2012/05/Slim-Jackson-300x232.jpg
+wget --tries=2 -O aa_female_editor_0.jpg http://www.blackfilm.com/read/wp-content/uploads/2014/11/Beyond-The-Lights-editor-Terilyn-A.-Shropshire.jpg
+wget --tries=2 -O aa_female_editor_1.jpg https://thestateofwomen.com/wp-content/uploads/2016/05/671904986dd8e18280c66d9e28a67c99-810x540.jpeg
+wget --tries=2 -O aa_female_editor_2.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_505699213_113325.jpg
+wget --tries=2 -O aa_female_editor_3.jpg https://pbs.twimg.com/profile_images/938112072835092486/I-_6nXo7.jpg
+wget --tries=2 -O aa_female_editor_4.jpg https://image.cnbcfm.com/api/v1/image/105595359-1543344639814kristinee.guillaume.jpg?v=1543347739&w=1400&h=950
 
-wget -O aa_male_librarian_0.jpg https://bookriot.com/wp-content/uploads/2016/05/black-male-librarian-e1469200662342-1280x720.jpg
-wget -O aa_male_librarian_1.jpg https://s3.amazonaws.com/ArchiveImages/SLJ/2015/11/151101_BridgeLiteracy-Read.jpg
-wget -O aa_male_librarian_2.jpg https://www.thenation.com/wp-content/uploads/2018/04/black-students-classroom-ap_img.jpg
-wget -O aa_male_librarian_3.jpg https://www.kut.org/sites/kut/files/styles/medium/public/201903/dbrooms-_chronicle_pic__by_patrick_caven_brown_.jpg
-wget -O aa_male_librarian_4.jpg https://www.capitolstandard.com/wp-content/uploads/2017/07/brandon-hogan-howard-university-library-professor-wisdom-black-male-nerd-glasses-800x500.jpg
-wget -O aa_female_librarian_0.jpg https://superselected.com/wp-content/uploads/2016/02/495254380.jpg						
-wget -O aa_female_librarian_1.jpg https://c8.alamy.com/comp/AAAJ70/orlando-florida-central-avenue-public-library-black-female-librarian-AAAJ70.jpg
-wget -O aa_female_librarian_2.jpg https://nctc.fws.gov/resources/knowledge-resources/images/tianaonline.jpg
-wget -O aa_female_librarian_3.jpg https://www.colorlines.com/sites/default/files/styles/article_lead_normal/public/images/articles/2016/07/colorlines-screenshot-carla-hayden-now-071416.png?itok=rsRj8G1-
-wget -O aa_female_librarian_4.jpg https://sites.northwestern.edu/northwesternlibrary/files/2017/07/Charla-Wilson-s2bqqw.jpg
+wget --tries=2 -O aa_male_librarian_0.jpg https://bookriot.com/wp-content/uploads/2016/05/black-male-librarian-e1469200662342-1280x720.jpg
+wget --tries=2 -O aa_male_librarian_1.jpg https://s3.amazonaws.com/ArchiveImages/SLJ/2015/11/151101_BridgeLiteracy-Read.jpg
+wget --tries=2 -O aa_male_librarian_2.jpg https://www.thenation.com/wp-content/uploads/2018/04/black-students-classroom-ap_img.jpg
+wget --tries=2 -O aa_male_librarian_3.jpg https://www.kut.org/sites/kut/files/styles/medium/public/201903/dbrooms-_chronicle_pic__by_patrick_caven_brown_.jpg
+wget --tries=2 -O aa_male_librarian_4.jpg https://www.capitolstandard.com/wp-content/uploads/2017/07/brandon-hogan-howard-university-library-professor-wisdom-black-male-nerd-glasses-800x500.jpg
+wget --tries=2 -O aa_female_librarian_0.jpg https://superselected.com/wp-content/uploads/2016/02/495254380.jpg						
+wget --tries=2 -O aa_female_librarian_1.jpg https://c8.alamy.com/comp/AAAJ70/orlando-florida-central-avenue-public-library-black-female-librarian-AAAJ70.jpg
+wget --tries=2 -O aa_female_librarian_2.jpg https://nctc.fws.gov/resources/knowledge-resources/images/tianaonline.jpg
+wget --tries=2 -O aa_female_librarian_3.jpg https://www.colorlines.com/sites/default/files/styles/article_lead_normal/public/images/articles/2016/07/colorlines-screenshot-carla-hayden-now-071416.png?itok=rsRj8G1-
+wget --tries=2 -O aa_female_librarian_4.jpg https://sites.northwestern.edu/northwesternlibrary/files/2017/07/Charla-Wilson-s2bqqw.jpg
 
-wget -O aa_male_tailor_0.jpg https://c8.alamy.com/comp/BG27J8/street-tailor-on-sewing-machine-mombasa-kenya-BG27J8.jpg
-wget -O aa_male_tailor_1.jpg https://i.pinimg.com/originals/bb/e5/65/bbe56574cf48bc0bc99a9b0e047fce6a.jpg
-wget -O aa_male_tailor_2.jpg https://i.pinimg.com/originals/3e/b5/2d/3eb52d64e035ac2d076bd073d7695d3f.jpg
-wget -O aa_male_tailor_3.jpg https://image.shutterstock.com/image-photo/happy-young-black-male-clothing-260nw-1254008158.jpg
-wget -O aa_male_tailor_4.jpg https://image.shutterstock.com/image-photo/young-black-male-tailor-working-600w-1252353937.jpg
-wget -O aa_female_tailor_0.jpg https://image1.masterfile.com/getImage/NjkzLTA2Mzc5MjM1ZW4uMDAwMDAwMDA=AKoGBb/693-06379235en_Masterfile.jpg
-wget -O aa_female_tailor_1.jpg https://st3.depositphotos.com/13768208/18199/i/1600/depositphotos_181993446-stock-photo-young-tailor-woman-dancing-with.jpg
-wget -O aa_female_tailor_2.jpg https://image1.masterfile.com/getImage/NjkzLTA2Mzc5MjcwZW4uMDAwMDAwMDA=AK3WBb/693-06379270en_Masterfile.jpg
-wget -O aa_female_tailor_3.jpg https://images.cdn1.stockunlimited.net/preview1300/african-american-female-tailor-stitching-patterned-cloth-on-sewing-machine_1921395.jpg
-wget -O aa_female_tailor_4.jpg https://thumbs.dreamstime.com/z/african-american-female-tailor-work-colorful-clothes-home-african-american-female-tailor-work-colorful-clothes-126946021.jpg
+wget --tries=2 -O aa_male_tailor_0.jpg https://c8.alamy.com/comp/BG27J8/street-tailor-on-sewing-machine-mombasa-kenya-BG27J8.jpg
+wget --tries=2 -O aa_male_tailor_1.jpg https://i.pinimg.com/originals/bb/e5/65/bbe56574cf48bc0bc99a9b0e047fce6a.jpg
+wget --tries=2 -O aa_male_tailor_2.jpg https://i.pinimg.com/originals/3e/b5/2d/3eb52d64e035ac2d076bd073d7695d3f.jpg
+wget --tries=2 -O aa_male_tailor_3.jpg https://image.shutterstock.com/image-photo/happy-young-black-male-clothing-260nw-1254008158.jpg
+wget --tries=2 -O aa_male_tailor_4.jpg https://image.shutterstock.com/image-photo/young-black-male-tailor-working-600w-1252353937.jpg
+wget --tries=2 -O aa_female_tailor_0.jpg https://image1.masterfile.com/getImage/NjkzLTA2Mzc5MjM1ZW4uMDAwMDAwMDA=AKoGBb/693-06379235en_Masterfile.jpg
+wget --tries=2 -O aa_female_tailor_1.jpg https://st3.depositphotos.com/13768208/18199/i/1600/depositphotos_181993446-stock-photo-young-tailor-woman-dancing-with.jpg
+wget --tries=2 -O aa_female_tailor_2.jpg https://image1.masterfile.com/getImage/NjkzLTA2Mzc5MjcwZW4uMDAwMDAwMDA=AK3WBb/693-06379270en_Masterfile.jpg
+wget --tries=2 -O aa_female_tailor_3.jpg https://images.cdn1.stockunlimited.net/preview1300/african-american-female-tailor-stitching-patterned-cloth-on-sewing-machine_1921395.jpg
+wget --tries=2 -O aa_female_tailor_4.jpg https://thumbs.dreamstime.com/z/african-american-female-tailor-work-colorful-clothes-home-african-american-female-tailor-work-colorful-clothes-126946021.jpg
 
-wget -O aa_male_cashier_0.jpg http://www.northstarnewstoday.com/wp-content/uploads/2018/01/Cashiers.jpg					       
-wget -O aa_male_cashier_1.jpg https://c8.alamy.com/comp/EG1K45/florida-sebastian-mcdonalds-restaurant-fast-food-inside-counter-black-EG1K45.jpg
-wget -O aa_male_cashier_2.jpg http://drugtestawareness.com/wp-content/uploads/2014/12/cashier.jpg					       
-wget -O aa_male_cashier_3.jpg https://c8.alamy.com/comp/FATPDH/fort-lauderdale-florida-ft-publix-supermarket-grocery-store-cashier-FATPDH.jpg  
-wget -O aa_male_cashier_4.jpg https://image1.masterfile.com/getImage/NjkzLTA1Nzk0MDMwZW4uMDAwMDAwMDA=AMnW8$/693-05794030en_Masterfile.jpg      
-wget -O aa_female_cashier_0.jpg https://image.shutterstock.com/image-photo/smiling-young-african-waitress-wearing-260nw-1075189301.jpg			       
-wget -O aa_female_cashier_1.jpg	https://media.gettyimages.com/photos/black-cashier-working-in-yarn-store-picture-id580505017				       
-wget -O aa_female_cashier_2.jpg	https://c8.alamy.com/comp/C3NY3E/tampa-florida-temple-terrace-bob-evans-restaurant-black-woman-cashier-C3NY3E.jpg	       
-wget -O aa_female_cashier_3.jpg	https://jointcenter.org/wp-content/uploads/2017/12/200160122-001-2.jpg							       
-wget -O aa_female_cashier_4.jpg	https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/04_WILLETT_HOMEDEPOT_ANNMARIE_2016212-e1511144512842.jpg
+wget --tries=2 -O aa_male_cashier_0.jpg http://www.northstarnewstoday.com/wp-content/uploads/2018/01/Cashiers.jpg					       
+wget --tries=2 -O aa_male_cashier_1.jpg https://c8.alamy.com/comp/EG1K45/florida-sebastian-mcdonalds-restaurant-fast-food-inside-counter-black-EG1K45.jpg
+wget --tries=2 -O aa_male_cashier_2.jpg http://drugtestawareness.com/wp-content/uploads/2014/12/cashier.jpg					       
+wget --tries=2 -O aa_male_cashier_3.jpg https://c8.alamy.com/comp/FATPDH/fort-lauderdale-florida-ft-publix-supermarket-grocery-store-cashier-FATPDH.jpg  
+wget --tries=2 -O aa_male_cashier_4.jpg https://image1.masterfile.com/getImage/NjkzLTA1Nzk0MDMwZW4uMDAwMDAwMDA=AMnW8$/693-05794030en_Masterfile.jpg      
+wget --tries=2 -O aa_female_cashier_0.jpg https://image.shutterstock.com/image-photo/smiling-young-african-waitress-wearing-260nw-1075189301.jpg			       
+wget --tries=2 -O aa_female_cashier_1.jpg	https://media.gettyimages.com/photos/black-cashier-working-in-yarn-store-picture-id580505017				       
+wget --tries=2 -O aa_female_cashier_2.jpg	https://c8.alamy.com/comp/C3NY3E/tampa-florida-temple-terrace-bob-evans-restaurant-black-woman-cashier-C3NY3E.jpg	       
+wget --tries=2 -O aa_female_cashier_3.jpg	https://jointcenter.org/wp-content/uploads/2017/12/200160122-001-2.jpg							       
+wget --tries=2 -O aa_female_cashier_4.jpg	https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/04_WILLETT_HOMEDEPOT_ANNMARIE_2016212-e1511144512842.jpg

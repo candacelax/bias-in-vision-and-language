@@ -1,439 +1,439 @@
-wget -O female_driver_0.jpg https://e3.365dm.com/18/08/768x432/skynews-woman-driver-female_4404542.jpg?20180829122732
-wget -O female_driver_1.jpg https://o.aolcdn.com/images/dims?quality=85\&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1069%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1069%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-04%252F4e974780-60f2-11e9-87de-b5b2c15303a3%26client%3Da1acac3e1b3290917d92%26signature%3Dcb0169aa33ca35218704a8311030814a0c18a567\&client=amp-blogside-v2\&signature=0f59d6c80b4402f83d382b2d53a2267a2b5bc36c
-wget -O female_driver_2.jpg https://image.shutterstock.com/image-photo/woman-car-260nw-577218682.jpg
-wget -O female_driver_3.jpg https://ichef.bbci.co.uk/news/660/cpsprodpb/DC01/production/_107512365_rsz_img_1402-1.jpg
-wget -O female_driver_4.jpg https://image.shutterstock.com/image-photo/pretty-female-driver-260nw-316421612.jpg
-wget -O female_driver_5.jpg https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/woman-driving-car-1100x550.jpg
-wget -O female_driver_6.jpg https://image.shutterstock.com/image-photo/happy-woman-sitting-car-looking-260nw-511566841.jpg
-wget -O female_driver_7.jpg https://regmedia.co.uk/2018/02/07/driver_shutterstock.jpg?x=442&y=293&crop=1
-wget -O female_driver_8.jpg https://ridesharecentral.com/wp-content/uploads/uber-driver-woman-onroad-750x500.jpg
-wget -O female_driver_9.jpg https://dneegypt.nyc3.digitaloceanspaces.com/2018/11/Female-drivers1-2-768x430.jpg
+wget --tries=2 -O female_driver_0.jpg https://e3.365dm.com/18/08/768x432/skynews-woman-driver-female_4404542.jpg?20180829122732
+wget --tries=2 -O female_driver_1.jpg https://o.aolcdn.com/images/dims?quality=85\&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1069%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1069%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-04%252F4e974780-60f2-11e9-87de-b5b2c15303a3%26client%3Da1acac3e1b3290917d92%26signature%3Dcb0169aa33ca35218704a8311030814a0c18a567\&client=amp-blogside-v2\&signature=0f59d6c80b4402f83d382b2d53a2267a2b5bc36c
+wget --tries=2 -O female_driver_2.jpg https://image.shutterstock.com/image-photo/woman-car-260nw-577218682.jpg
+wget --tries=2 -O female_driver_3.jpg https://ichef.bbci.co.uk/news/660/cpsprodpb/DC01/production/_107512365_rsz_img_1402-1.jpg
+wget --tries=2 -O female_driver_4.jpg https://image.shutterstock.com/image-photo/pretty-female-driver-260nw-316421612.jpg
+wget --tries=2 -O female_driver_5.jpg https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/woman-driving-car-1100x550.jpg
+wget --tries=2 -O female_driver_6.jpg https://image.shutterstock.com/image-photo/happy-woman-sitting-car-looking-260nw-511566841.jpg
+wget --tries=2 -O female_driver_7.jpg https://regmedia.co.uk/2018/02/07/driver_shutterstock.jpg?x=442&y=293&crop=1
+wget --tries=2 -O female_driver_8.jpg https://ridesharecentral.com/wp-content/uploads/uber-driver-woman-onroad-750x500.jpg
+wget --tries=2 -O female_driver_9.jpg https://dneegypt.nyc3.digitaloceanspaces.com/2018/11/Female-drivers1-2-768x430.jpg
 			     
-wget -O female_supervisor_0.jpg https://cdn6.dissolve.com/p/D985_57_418/D985_57_418_1200.jpg
-wget -O female_supervisor_1.jpg https://i.pinimg.com/474x/14/a6/5a/14a65a71d3833b69578d47ca2675b6a8.jpg
-wget -O female_supervisor_2.jpg https://media.istockphoto.com/photos/female-supervisor-with-hands-in-jackets-pockets-picture-id913784116
-wget -O female_supervisor_3.jpg https://image1.masterfile.com/getImage/NjExMy0wODY1NTMzM2VuLjAwMDAwMDAw=ALmkIH/6113-08655333en_Masterfile.jpg
-wget -O female_supervisor_4.jpg https://image.shutterstock.com/image-photo/african-american-female-supervisor-training-600w-1141150766.jpg
-wget -O female_supervisor_5.jpg https://thumbs.dreamstime.com/z/female-supervisor-interviewing-new-male-staff-109143382.jpg
-wget -O female_supervisor_6.jpg https://media.istockphoto.com/photos/female-supervisor-with-arms-crossed-in-car-plant-picture-id916868564
-wget -O female_supervisor_7.jpg https://c8.alamy.com/comp/G2B49G/young-woman-supervisor-or-inspector-holding-clipboard-and-pointing-G2B49G.jpg
-wget -O female_supervisor_8.jpg https://fscomps.fotosearch.com/compc/CSP/CSP888/female-supervisor-holding-clipboard-stock-photo__k8888428.jpg
-wget -O female_supervisor_9.jpg https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rZJIMvhmliwmde8a6/videoblocks-elegant-woman-inspector-writing-on-clipboard-confident-female-supervisor-making-a-note-on-clipboard-remembered-important-information-quality-control-and-inspection_hmmmxkvzq_thumbnail-full01.png
+wget --tries=2 -O female_supervisor_0.jpg https://cdn6.dissolve.com/p/D985_57_418/D985_57_418_1200.jpg
+wget --tries=2 -O female_supervisor_1.jpg https://i.pinimg.com/474x/14/a6/5a/14a65a71d3833b69578d47ca2675b6a8.jpg
+wget --tries=2 -O female_supervisor_2.jpg https://media.istockphoto.com/photos/female-supervisor-with-hands-in-jackets-pockets-picture-id913784116
+wget --tries=2 -O female_supervisor_3.jpg https://image1.masterfile.com/getImage/NjExMy0wODY1NTMzM2VuLjAwMDAwMDAw=ALmkIH/6113-08655333en_Masterfile.jpg
+wget --tries=2 -O female_supervisor_4.jpg https://image.shutterstock.com/image-photo/african-american-female-supervisor-training-600w-1141150766.jpg
+wget --tries=2 -O female_supervisor_5.jpg https://thumbs.dreamstime.com/z/female-supervisor-interviewing-new-male-staff-109143382.jpg
+wget --tries=2 -O female_supervisor_6.jpg https://media.istockphoto.com/photos/female-supervisor-with-arms-crossed-in-car-plant-picture-id916868564
+wget --tries=2 -O female_supervisor_7.jpg https://c8.alamy.com/comp/G2B49G/young-woman-supervisor-or-inspector-holding-clipboard-and-pointing-G2B49G.jpg
+wget --tries=2 -O female_supervisor_8.jpg https://fscomps.fotosearch.com/compc/CSP/CSP888/female-supervisor-holding-clipboard-stock-photo__k8888428.jpg
+wget --tries=2 -O female_supervisor_9.jpg https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rZJIMvhmliwmde8a6/videoblocks-elegant-woman-inspector-writing-on-clipboard-confident-female-supervisor-making-a-note-on-clipboard-remembered-important-information-quality-control-and-inspection_hmmmxkvzq_thumbnail-full01.png
 			     
-wget -O female_janitor_0.jpg https://image.shutterstock.com/image-photo/female-janitor-cleaning-cabinet-rag-260nw-1268840650.jpg
-wget -O female_janitor_1.jpg https://image.shutterstock.com/image-photo/female-janitor-cleaning-carpet-flat-260nw-1397155400.jpg
-wget -O female_janitor_2.jpg https://previews.123rf.com/images/andreypopov/andreypopov1505/andreypopov150500757/39679404-happy-female-janitor-with-mop-and-wet-floor-sign-on-floor.jpg
-wget -O female_janitor_3.jpg https://previews.123rf.com/images/andreypopov/andreypopov1509/andreypopov150900073/44713926-happy-female-janitor-with-cleaning-equipments-cleaning-hardwood-floor-in-office.jpg
-wget -O female_janitor_4.jpg https://mh-1-stockagency.panthermedia.net/media/previews/0016000000/16162000/16162675_high.jpg
-wget -O female_janitor_5.jpg https://comps.canstockphoto.com/happy-female-janitor-cleaning-floor-with-stock-image_csp33395461.jpg
-wget -O female_janitor_6.jpg https://c8.alamy.com/comp/KPFJHB/young-female-janitor-cleaning-floor-with-vacuum-cleaner-KPFJHB.jpg
-wget -O female_janitor_7.jpg https://thumbs.dreamstime.com/z/young-female-janitor-cleaning-floor-mop-corridor-janitor-cleaning-floor-corridor-149407822.jpg
-wget -O female_janitor_8.jpg https://comps.canstockphoto.com/female-worker-cleaning-floor-in-office-picture_csp37075372.jpg
-wget -O female_janitor_9.jpg https://comps.gograph.com/female-janitor-cleaning-desk_gg79345363.jpg
+wget --tries=2 -O female_janitor_0.jpg https://image.shutterstock.com/image-photo/female-janitor-cleaning-cabinet-rag-260nw-1268840650.jpg
+wget --tries=2 -O female_janitor_1.jpg https://image.shutterstock.com/image-photo/female-janitor-cleaning-carpet-flat-260nw-1397155400.jpg
+wget --tries=2 -O female_janitor_2.jpg https://previews.123rf.com/images/andreypopov/andreypopov1505/andreypopov150500757/39679404-happy-female-janitor-with-mop-and-wet-floor-sign-on-floor.jpg
+wget --tries=2 -O female_janitor_3.jpg https://previews.123rf.com/images/andreypopov/andreypopov1509/andreypopov150900073/44713926-happy-female-janitor-with-cleaning-equipments-cleaning-hardwood-floor-in-office.jpg
+wget --tries=2 -O female_janitor_4.jpg https://mh-1-stockagency.panthermedia.net/media/previews/0016000000/16162000/16162675_high.jpg
+wget --tries=2 -O female_janitor_5.jpg https://comps.canstockphoto.com/happy-female-janitor-cleaning-floor-with-stock-image_csp33395461.jpg
+wget --tries=2 -O female_janitor_6.jpg https://c8.alamy.com/comp/KPFJHB/young-female-janitor-cleaning-floor-with-vacuum-cleaner-KPFJHB.jpg
+wget --tries=2 -O female_janitor_7.jpg https://thumbs.dreamstime.com/z/young-female-janitor-cleaning-floor-mop-corridor-janitor-cleaning-floor-corridor-149407822.jpg
+wget --tries=2 -O female_janitor_8.jpg https://comps.canstockphoto.com/female-worker-cleaning-floor-in-office-picture_csp37075372.jpg
+wget --tries=2 -O female_janitor_9.jpg https://comps.gograph.com/female-janitor-cleaning-desk_gg79345363.jpg
 
-wget -O female_cook_0.jpg https://content.fortune.com/wp-content/uploads/2015/08/emmabengtsson_passhoriz.jpg
-wget -O female_cook_1.jpg https://image.shutterstock.com/image-photo/female-chef-salt-vegetable-salad-260nw-598488602.jpg
-wget -O female_cook_2.jpg https://previews.123rf.com/images/michaeljung/michaeljung1007/michaeljung100700024/7328299-young-beautiful-female-chef-portrait-in-kitchen.jpg
-wget -O female_cook_3.jpg https://image.shutterstock.com/image-photo/young-woman-chef-cooking-cake-260nw-162856517.jpg
-wget -O female_cook_4.jpg https://previews.123rf.com/images/ferli/ferli1503/ferli150300158/37229401-portrait-of-pretty-chef-woman-preparing-cooking.jpg
-wget -O female_cook_5.jpg https://thumbs.dreamstime.com/b/female-chef-preparing-tasty-steak-kitchen-female-chef-preparing-tasty-steak-110100410.jpg
-wget -O female_cook_6.jpg https://www.theworlds50best.com/filestore/jpg/Best-Female-Clare-teaser1.jpg
-wget -O female_cook_7.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4302107.jpg
-wget -O female_cook_8.jpg https://freedesignfile.com/upload/2017/09/Pretty-female-cook-Stock-Photo-07.jpg
-wget -O female_cook_9.jpg https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/dissolve/1200/279661.jpg
+wget --tries=2 -O female_cook_0.jpg https://content.fortune.com/wp-content/uploads/2015/08/emmabengtsson_passhoriz.jpg
+wget --tries=2 -O female_cook_1.jpg https://image.shutterstock.com/image-photo/female-chef-salt-vegetable-salad-260nw-598488602.jpg
+wget --tries=2 -O female_cook_2.jpg https://previews.123rf.com/images/michaeljung/michaeljung1007/michaeljung100700024/7328299-young-beautiful-female-chef-portrait-in-kitchen.jpg
+wget --tries=2 -O female_cook_3.jpg https://image.shutterstock.com/image-photo/young-woman-chef-cooking-cake-260nw-162856517.jpg
+wget --tries=2 -O female_cook_4.jpg https://previews.123rf.com/images/ferli/ferli1503/ferli150300158/37229401-portrait-of-pretty-chef-woman-preparing-cooking.jpg
+wget --tries=2 -O female_cook_5.jpg https://thumbs.dreamstime.com/b/female-chef-preparing-tasty-steak-kitchen-female-chef-preparing-tasty-steak-110100410.jpg
+wget --tries=2 -O female_cook_6.jpg https://www.theworlds50best.com/filestore/jpg/Best-Female-Clare-teaser1.jpg
+wget --tries=2 -O female_cook_7.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4302107.jpg
+wget --tries=2 -O female_cook_8.jpg https://freedesignfile.com/upload/2017/09/Pretty-female-cook-Stock-Photo-07.jpg
+wget --tries=2 -O female_cook_9.jpg https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/dissolve/1200/279661.jpg
 			   
-wget -O female_mover_0.jpg https://tmtblogs.com/careers/wp-content/uploads/sites/43/2018/07/Laurel-2.jpg
-wget -O female_mover_1.jpg https://c8.alamy.com/comp/R396D5/female-mover-at-factory-R396D5.jpg
-wget -O female_mover_2.jpg https://thumbs.dreamstime.com/z/female-mover-working-factory-side-view-portrait-adult-woman-moving-giant-metal-parts-plant-copy-space-148092557.jpg
-wget -O female_mover_3.jpg https://c8.alamy.com/comp/T81K6F/young-female-professional-mover-doing-home-relocation-T81K6F.jpg
-wget -O female_mover_4.jpg https://media.istockphoto.com/photos/female-mover-picture-id187716324
-wget -O female_mover_5.jpg https://triggerdirect.com/wp-content/uploads/2014/07/newmover.jpg
-wget -O female_mover_6.jpg https://macmoversllc.com/wp-content/uploads/2014/05/girl-w_moving-boxes.jpg
-wget -O female_mover_7.jpg https://www.aandamoving.com/wp-content/uploads/2015/05/local-mover-west-hollywood-ca-495x400.jpg
-wget -O female_mover_8.jpg https://1.bp.blogspot.com/-rTEmrqj8QoU/T6lgEQ5m7oI/AAAAAAAAAFc/W6HclY1RXO0/s1600/moving-girl.jpg
-wget -O female_mover_9.jpg https://thumbs.dreamstime.com/z/female-mover-plant-waist-up-portrait-adult-woman-operating-moving-crane-copy-space-148092542.jpg
+wget --tries=2 -O female_mover_0.jpg https://tmtblogs.com/careers/wp-content/uploads/sites/43/2018/07/Laurel-2.jpg
+wget --tries=2 -O female_mover_1.jpg https://c8.alamy.com/comp/R396D5/female-mover-at-factory-R396D5.jpg
+wget --tries=2 -O female_mover_2.jpg https://thumbs.dreamstime.com/z/female-mover-working-factory-side-view-portrait-adult-woman-moving-giant-metal-parts-plant-copy-space-148092557.jpg
+wget --tries=2 -O female_mover_3.jpg https://c8.alamy.com/comp/T81K6F/young-female-professional-mover-doing-home-relocation-T81K6F.jpg
+wget --tries=2 -O female_mover_4.jpg https://media.istockphoto.com/photos/female-mover-picture-id187716324
+wget --tries=2 -O female_mover_5.jpg https://triggerdirect.com/wp-content/uploads/2014/07/newmover.jpg
+wget --tries=2 -O female_mover_6.jpg https://macmoversllc.com/wp-content/uploads/2014/05/girl-w_moving-boxes.jpg
+wget --tries=2 -O female_mover_7.jpg https://www.aandamoving.com/wp-content/uploads/2015/05/local-mover-west-hollywood-ca-495x400.jpg
+wget --tries=2 -O female_mover_8.jpg https://1.bp.blogspot.com/-rTEmrqj8QoU/T6lgEQ5m7oI/AAAAAAAAAFc/W6HclY1RXO0/s1600/moving-girl.jpg
+wget --tries=2 -O female_mover_9.jpg https://thumbs.dreamstime.com/z/female-mover-plant-waist-up-portrait-adult-woman-operating-moving-crane-copy-space-148092542.jpg
 			   
-wget -O female_laborer_0.jpg https://thumbs.dreamstime.com/z/female-laborer-stood-arms-folded-33217030.jpg
-wget -O female_laborer_1.jpg https://previews.123rf.com/images/auremar/auremar1209/auremar120901381/15174708-female-laborer.jpg
-wget -O female_laborer_2.jpg https://cdn6.dissolve.com/p/D25_44_108/D25_44_108_1200.jpg
-wget -O female_laborer_3.jpg https://thumbs.dreamstime.com/z/female-laborer-6195862.jpg
-wget -O female_laborer_4.jpg https://previews.123rf.com/images/auremar/auremar1209/auremar120905604/15410781-female-laborer-digging-with-a-shovel-studio-shot.jpg
-wget -O female_laborer_5.jpg https://image.cnbcfm.com/api/v1/image/105420523-1535475566932civilengineer.jpg?v=1535475620
-wget -O female_laborer_6.jpg https://comps.canstockphoto.com/young-female-laborer-reading-plan-stock-photos_csp8826883.jpg
-wget -O female_laborer_7.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Female_laborer_transporting_concrete_blocks_in_Bali-cropped.jpeg/220px-Female_laborer_transporting_concrete_blocks_in_Bali-cropped.jpeg
-wget -O female_laborer_8.jpg https://cdn8.dissolve.com/p/D25_7_076/D25_7_076_1200.jpg
-wget -O female_laborer_9.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX8240286.jpg
+wget --tries=2 -O female_laborer_0.jpg https://thumbs.dreamstime.com/z/female-laborer-stood-arms-folded-33217030.jpg
+wget --tries=2 -O female_laborer_1.jpg https://previews.123rf.com/images/auremar/auremar1209/auremar120901381/15174708-female-laborer.jpg
+wget --tries=2 -O female_laborer_2.jpg https://cdn6.dissolve.com/p/D25_44_108/D25_44_108_1200.jpg
+wget --tries=2 -O female_laborer_3.jpg https://thumbs.dreamstime.com/z/female-laborer-6195862.jpg
+wget --tries=2 -O female_laborer_4.jpg https://previews.123rf.com/images/auremar/auremar1209/auremar120905604/15410781-female-laborer-digging-with-a-shovel-studio-shot.jpg
+wget --tries=2 -O female_laborer_5.jpg https://image.cnbcfm.com/api/v1/image/105420523-1535475566932civilengineer.jpg?v=1535475620
+wget --tries=2 -O female_laborer_6.jpg https://comps.canstockphoto.com/young-female-laborer-reading-plan-stock-photos_csp8826883.jpg
+wget --tries=2 -O female_laborer_7.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Female_laborer_transporting_concrete_blocks_in_Bali-cropped.jpeg/220px-Female_laborer_transporting_concrete_blocks_in_Bali-cropped.jpeg
+wget --tries=2 -O female_laborer_8.jpg https://cdn8.dissolve.com/p/D25_7_076/D25_7_076_1200.jpg
+wget --tries=2 -O female_laborer_9.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX8240286.jpg
 			   
-wget -O female_construction_0.jpg https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wM1xcXC8yNzExMzY0MFxcXC9Db25zdHJ1Y3Rpb24uanBnXCIsXCJ3aWR0aFwiOjczMCxcImhlaWdodFwiOjM4OSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmltYWdlLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmc_dj0yXCJ9IiwiaGFzaCI6IjEzZDdjOWI4Zjk0Y2I2NzAwM2Q4MjRhNTUwYTk5YmM2NWY3ZTE2NjYifQ==/reality-check-what-it-s-like-being-a-woman-in-the-construction-industry.jpg
-wget -O female_construction_1.jpg https://www.safetyandhealthmagazine.com/ext/resources/images/news/construction/female-construction-worker.jpg?1531422016
-wget -O female_construction_2.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/4079889/910/607/m2/fpnw/wm1/zwsxjkrmiazbd3jtbptuhfe0hbrrwprelhbmvxaw3bi0zprqciezsc2no3svvhvl-.jpg?1519947358\&s=1baa61bb8dea99d520b09c9d10876ec2
-wget -O female_construction_3.jpg https://www.womeninconstructionsummit.com/hs-fs/hubfs/FemaleConstructionWorkerUK-1.jpg?width=800&name=FemaleConstructionWorkerUK-1.jpg
-wget -O female_construction_4.jpg https://previews.123rf.com/images/auremar/auremar1711/auremar171101484/90009354-a-female-construction-worker.jpg
-wget -O female_construction_5.jpg https://image.cnbcfm.com/api/v1/image/105420523-1535475566932civilengineer.jpg?v=1535475620&w=720&h=405
-wget -O female_construction_6.jpg https://lawkm.com/wp-content/uploads/2017/05/shutterstock_361652318.jpg
-wget -O female_construction_7.jpg https://i.pinimg.com/originals/45/d2/ba/45d2bae83b94e82d06b8c52f8b67a3aa.jpg
-wget -O female_construction_8.jpg https://cdnassets.hw.net/42/d1/9b178efd4166a4e3ebfb47d32ef1/female-construction-worker.jpg
-wget -O female_construction_9.jpg https://cdn7.dissolve.com/p/D430_39_841/D430_39_841_1200.jpg
+wget --tries=2 -O female_construction_0.jpg https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wM1xcXC8yNzExMzY0MFxcXC9Db25zdHJ1Y3Rpb24uanBnXCIsXCJ3aWR0aFwiOjczMCxcImhlaWdodFwiOjM4OSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmltYWdlLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmc_dj0yXCJ9IiwiaGFzaCI6IjEzZDdjOWI4Zjk0Y2I2NzAwM2Q4MjRhNTUwYTk5YmM2NWY3ZTE2NjYifQ==/reality-check-what-it-s-like-being-a-woman-in-the-construction-industry.jpg
+wget --tries=2 -O female_construction_1.jpg https://www.safetyandhealthmagazine.com/ext/resources/images/news/construction/female-construction-worker.jpg?1531422016
+wget --tries=2 -O female_construction_2.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/4079889/910/607/m2/fpnw/wm1/zwsxjkrmiazbd3jtbptuhfe0hbrrwprelhbmvxaw3bi0zprqciezsc2no3svvhvl-.jpg?1519947358\&s=1baa61bb8dea99d520b09c9d10876ec2
+wget --tries=2 -O female_construction_3.jpg https://www.womeninconstructionsummit.com/hs-fs/hubfs/FemaleConstructionWorkerUK-1.jpg?width=800&name=FemaleConstructionWorkerUK-1.jpg
+wget --tries=2 -O female_construction_4.jpg https://previews.123rf.com/images/auremar/auremar1711/auremar171101484/90009354-a-female-construction-worker.jpg
+wget --tries=2 -O female_construction_5.jpg https://image.cnbcfm.com/api/v1/image/105420523-1535475566932civilengineer.jpg?v=1535475620&w=720&h=405
+wget --tries=2 -O female_construction_6.jpg https://lawkm.com/wp-content/uploads/2017/05/shutterstock_361652318.jpg
+wget --tries=2 -O female_construction_7.jpg https://i.pinimg.com/originals/45/d2/ba/45d2bae83b94e82d06b8c52f8b67a3aa.jpg
+wget --tries=2 -O female_construction_8.jpg https://cdnassets.hw.net/42/d1/9b178efd4166a4e3ebfb47d32ef1/female-construction-worker.jpg
+wget --tries=2 -O female_construction_9.jpg https://cdn7.dissolve.com/p/D430_39_841/D430_39_841_1200.jpg
 
-wget -O female_chief_0.jpg https://media.npr.org/assets/img/2017/07/19/renee_hall_sq-9db7d4ee47e6086a512235865f97c6ee55b6e49d-s800-c85.jpg
-wget -O female_chief_1.jpg https://media.globalcitizen.org/thumbnails/fb/ed/fbed2717-8978-46e0-aaba-b14f467a8859/theresa_kachindamoto.jpg__1264x568_q85_crop_subsampling-2.jpg
-wget -O female_chief_2.jpg https://endeavoraircom.files.wordpress.com/2018/08/lga-pamela-nucifore-e1535642139184.jpg?w=334&h=478
-wget -O female_chief_3.jpg https://www.gannett-cdn.com/presto/2019/09/30/PNAS/83ce27d8-2a4d-4764-82ae-e6899bbdf794-Sarah_Davis.jpg?width=540&height=&fit=bounds&auto=webp
-wget -O female_chief_4.jpg https://media2.s-nbcnews.com/j/newscms/2018_32/2525231/180809-carla-provost-se-1126a_afaa312f789f3e654d8f37e480660a55.fit-760w.jpg
-wget -O female_chief_5.jpg https://media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-04/822FDC2D-E57F-4D7B-96D3-783277158AC1.jpg?itok=7aIDCjxM
-wget -O female_chief_6.jpg https://storage.googleapis.com/afs-prod/media/29826dde679742deb442aa53b5c8e0ff/3000.jpeg
-wget -O female_chief_7.jpg https://chaplainkit.files.wordpress.com/2017/08/radm-kibben-40.jpg
-wget -O female_chief_8.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/148D5/production/_104518148_generalalenkaermenc.jpg
-wget -O female_chief_9.jpg https://img.etimg.com/thumb/msid-63188087,width-643,imgsize-90764,resizemode-4/meet-ryoko-azuma-japan-navys-first-female-chief-of-warship-unit.jpg
+wget --tries=2 -O female_chief_0.jpg https://media.npr.org/assets/img/2017/07/19/renee_hall_sq-9db7d4ee47e6086a512235865f97c6ee55b6e49d-s800-c85.jpg
+wget --tries=2 -O female_chief_1.jpg https://media.globalcitizen.org/thumbnails/fb/ed/fbed2717-8978-46e0-aaba-b14f467a8859/theresa_kachindamoto.jpg__1264x568_q85_crop_subsampling-2.jpg
+wget --tries=2 -O female_chief_2.jpg https://endeavoraircom.files.wordpress.com/2018/08/lga-pamela-nucifore-e1535642139184.jpg?w=334&h=478
+wget --tries=2 -O female_chief_3.jpg https://www.gannett-cdn.com/presto/2019/09/30/PNAS/83ce27d8-2a4d-4764-82ae-e6899bbdf794-Sarah_Davis.jpg?width=540&height=&fit=bounds&auto=webp
+wget --tries=2 -O female_chief_4.jpg https://media2.s-nbcnews.com/j/newscms/2018_32/2525231/180809-carla-provost-se-1126a_afaa312f789f3e654d8f37e480660a55.fit-760w.jpg
+wget --tries=2 -O female_chief_5.jpg https://media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-04/822FDC2D-E57F-4D7B-96D3-783277158AC1.jpg?itok=7aIDCjxM
+wget --tries=2 -O female_chief_6.jpg https://storage.googleapis.com/afs-prod/media/29826dde679742deb442aa53b5c8e0ff/3000.jpeg
+wget --tries=2 -O female_chief_7.jpg https://chaplainkit.files.wordpress.com/2017/08/radm-kibben-40.jpg
+wget --tries=2 -O female_chief_8.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/148D5/production/_104518148_generalalenkaermenc.jpg
+wget --tries=2 -O female_chief_9.jpg https://img.etimg.com/thumb/msid-63188087,width-643,imgsize-90764,resizemode-4/meet-ryoko-azuma-japan-navys-first-female-chief-of-warship-unit.jpg
 
-wget -O female_developer_0.jpg https://www.belatrixsf.com/blog/wp-content/uploads/2019/03/My-journey-to-become-a-female-developer-1024x576.jpg
-wget -O female_developer_1.jpg https://st4.depositphotos.com/3396639/20864/i/1600/depositphotos_208646632-stock-photo-cheerful-female-developer-looking-cafeteria.jpg
-wget -O female_developer_2.jpg https://www.datavard.com/wp-content/uploads/2016/10/Eva_L.jpg
-wget -O female_developer_3.jpg https://thumbs.dreamstime.com/z/portrait-young-latin-women-casuals-working-laptop-female-software-developer-working-her-desk-120413326.jpg
-wget -O female_developer_4.jpg https://miro.medium.com/max/4000/0*r0racXq8n5hJ7QqQ.jpg
-wget -O female_developer_5.jpg https://st3.depositphotos.com/9970522/12733/i/950/depositphotos_127337602-stock-photo-female-software-developer-working-on.jpg
-wget -O female_developer_6.jpg https://observer.com/wp-content/uploads/sites/2/2016/03/160316-yetty004.jpg?quality=80&w=970&strip
-wget -O female_developer_7.jpg https://shedefined.com.au/wp-content/uploads/2018/07/Jaime-Gunther-sitting-couch.jpg
-wget -O female_developer_8.jpg https://static3.bigstockphoto.com/2/0/3/large1500/302399635.jpg
-wget -O female_developer_9.jpg https://previews.123rf.com/images/gaudilab/gaudilab1706/gaudilab170601896/80088340-smiling-portrait-of-skilled-young-afro-american-female-developer-controlling-work-of-marketing-exper.jpg
+wget --tries=2 -O female_developer_0.jpg https://www.belatrixsf.com/blog/wp-content/uploads/2019/03/My-journey-to-become-a-female-developer-1024x576.jpg
+wget --tries=2 -O female_developer_1.jpg https://st4.depositphotos.com/3396639/20864/i/1600/depositphotos_208646632-stock-photo-cheerful-female-developer-looking-cafeteria.jpg
+wget --tries=2 -O female_developer_2.jpg https://www.datavard.com/wp-content/uploads/2016/10/Eva_L.jpg
+wget --tries=2 -O female_developer_3.jpg https://thumbs.dreamstime.com/z/portrait-young-latin-women-casuals-working-laptop-female-software-developer-working-her-desk-120413326.jpg
+wget --tries=2 -O female_developer_4.jpg https://miro.medium.com/max/4000/0*r0racXq8n5hJ7QqQ.jpg
+wget --tries=2 -O female_developer_5.jpg https://st3.depositphotos.com/9970522/12733/i/950/depositphotos_127337602-stock-photo-female-software-developer-working-on.jpg
+wget --tries=2 -O female_developer_6.jpg https://observer.com/wp-content/uploads/sites/2/2016/03/160316-yetty004.jpg?quality=80&w=970&strip
+wget --tries=2 -O female_developer_7.jpg https://shedefined.com.au/wp-content/uploads/2018/07/Jaime-Gunther-sitting-couch.jpg
+wget --tries=2 -O female_developer_8.jpg https://static3.bigstockphoto.com/2/0/3/large1500/302399635.jpg
+wget --tries=2 -O female_developer_9.jpg https://previews.123rf.com/images/gaudilab/gaudilab1706/gaudilab170601896/80088340-smiling-portrait-of-skilled-young-afro-american-female-developer-controlling-work-of-marketing-exper.jpg
 			   
-wget -O female_carpenter_0.jpg https://www.yesmagazine.org/wp-content/uploads/imports/1dbf7f6c14784e4696e66ffbfdfbe465.jpg
-wget -O female_carpenter_1.jpg https://www.nj.com/resizer/Ahbf-j6o_xx87CCSxvie8tkBdB0=/450x0/smart/image.nj.com/home/njo-media/width600/img/centraljersey_impact/photo/photo---brittany-using-her-carpentry-tooljpg-fae9f0b3396abdb3.jpg
-wget -O female_carpenter_2.jpg https://previews.123rf.com/images/antoniodiaz/antoniodiaz1702/antoniodiaz170200381/73042950-attractive-female-carpenter-using-some-power-tools-for-her-work-in-a-woodshop.jpg
-wget -O female_carpenter_3.jpg https://previews.123rf.com/images/guruxox/guruxox1602/guruxox160200100/54552003-female-carpenter-using-electric-sander-female-carpenter-using-electric-sander-for-wood.jpg
-wget -O female_carpenter_4.jpg https://www.vmcdn.ca/f/files/sudbury/uploadedImages/news/localNews/2019/11/251119_cscno_femaletrades.jpg;w=960
-wget -O female_carpenter_5.jpg https://cdn7.dissolve.com/p/D1061_162_181/D1061_162_181_1200.jpg
-wget -O female_carpenter_6.jpg https://thumbs.dreamstime.com/z/young-woman-working-as-carpenter-cute-female-cutting-some-wood-table-saw-enjoying-her-work-87153102.jpg
-wget -O female_carpenter_7.jpg https://image.shutterstock.com/image-photo/smiling-female-carpenter-her-workshop-260nw-796455823.jpg
-wget -O female_carpenter_8.jpg https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20SeventyFour,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1513102074/wos2asmckqmzvh95emxz.jpg
-wget -O female_carpenter_9.jpg https://image.shutterstock.com/image-photo/female-carpenter-260nw-483281341.jpg
+wget --tries=2 -O female_carpenter_0.jpg https://www.yesmagazine.org/wp-content/uploads/imports/1dbf7f6c14784e4696e66ffbfdfbe465.jpg
+wget --tries=2 -O female_carpenter_1.jpg https://www.nj.com/resizer/Ahbf-j6o_xx87CCSxvie8tkBdB0=/450x0/smart/image.nj.com/home/njo-media/width600/img/centraljersey_impact/photo/photo---brittany-using-her-carpentry-tooljpg-fae9f0b3396abdb3.jpg
+wget --tries=2 -O female_carpenter_2.jpg https://previews.123rf.com/images/antoniodiaz/antoniodiaz1702/antoniodiaz170200381/73042950-attractive-female-carpenter-using-some-power-tools-for-her-work-in-a-woodshop.jpg
+wget --tries=2 -O female_carpenter_3.jpg https://previews.123rf.com/images/guruxox/guruxox1602/guruxox160200100/54552003-female-carpenter-using-electric-sander-female-carpenter-using-electric-sander-for-wood.jpg
+wget --tries=2 -O female_carpenter_4.jpg https://www.vmcdn.ca/f/files/sudbury/uploadedImages/news/localNews/2019/11/251119_cscno_femaletrades.jpg;w=960
+wget --tries=2 -O female_carpenter_5.jpg https://cdn7.dissolve.com/p/D1061_162_181/D1061_162_181_1200.jpg
+wget --tries=2 -O female_carpenter_6.jpg https://thumbs.dreamstime.com/z/young-woman-working-as-carpenter-cute-female-cutting-some-wood-table-saw-enjoying-her-work-87153102.jpg
+wget --tries=2 -O female_carpenter_7.jpg https://image.shutterstock.com/image-photo/smiling-female-carpenter-her-workshop-260nw-796455823.jpg
+wget --tries=2 -O female_carpenter_8.jpg https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20SeventyFour,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1513102074/wos2asmckqmzvh95emxz.jpg
+wget --tries=2 -O female_carpenter_9.jpg https://image.shutterstock.com/image-photo/female-carpenter-260nw-483281341.jpg
 			   
-wget -O female_manager_0.jpg https://scx1.b-cdn.net/csz/news/800/2019/femalemanager.jpg
-wget -O female_manager_1.jpg https://www.bmmagazine.co.uk/wp-content/uploads/2017/03/shutterstock_124923530-e1488970223322.jpg
-wget -O female_manager_2.jpg https://image.shutterstock.com/image-photo/portrait-smiling-female-manager-arms-260nw-256122568.jpg
-wget -O female_manager_3.jpg https://hrreview.co.uk/wp-content/uploads/shutterstock_73535212.jpg
-wget -O female_manager_4.jpg https://newsroom.unsw.edu.au/sites/default/files/styles/full_width/public/thumbnails/image/483915009_xs_1.jpg?itok=KqzU_0Zo
-wget -O female_manager_5.jpg https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2018/06/17162317/woman-manager.jpg
-wget -O female_manager_6.jpg https://image.freepik.com/free-photo/female-manager-with-client_1398-4755.jpg
-wget -O female_manager_7.jpg https://thumbs.dreamstime.com/z/confident-female-manager-holding-laptop-bespectacled-business-executive-31555614.jpg
-wget -O female_manager_8.jpg https://thumbs.dreamstime.com/z/half-length-portrait-female-manager-documents-business-woman-handing-black-isolated-white-concept-leadership-34057852.jpg
-wget -O female_manager_9.jpg https://api.time.com/wp-content/uploads/2015/05/female-boss-work.jpg?quality=85&w=726&h=483&crop=1
+wget --tries=2 -O female_manager_0.jpg https://scx1.b-cdn.net/csz/news/800/2019/femalemanager.jpg
+wget --tries=2 -O female_manager_1.jpg https://www.bmmagazine.co.uk/wp-content/uploads/2017/03/shutterstock_124923530-e1488970223322.jpg
+wget --tries=2 -O female_manager_2.jpg https://image.shutterstock.com/image-photo/portrait-smiling-female-manager-arms-260nw-256122568.jpg
+wget --tries=2 -O female_manager_3.jpg https://hrreview.co.uk/wp-content/uploads/shutterstock_73535212.jpg
+wget --tries=2 -O female_manager_4.jpg https://newsroom.unsw.edu.au/sites/default/files/styles/full_width/public/thumbnails/image/483915009_xs_1.jpg?itok=KqzU_0Zo
+wget --tries=2 -O female_manager_5.jpg https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2018/06/17162317/woman-manager.jpg
+wget --tries=2 -O female_manager_6.jpg https://image.freepik.com/free-photo/female-manager-with-client_1398-4755.jpg
+wget --tries=2 -O female_manager_7.jpg https://thumbs.dreamstime.com/z/confident-female-manager-holding-laptop-bespectacled-business-executive-31555614.jpg
+wget --tries=2 -O female_manager_8.jpg https://thumbs.dreamstime.com/z/half-length-portrait-female-manager-documents-business-woman-handing-black-isolated-white-concept-leadership-34057852.jpg
+wget --tries=2 -O female_manager_9.jpg https://api.time.com/wp-content/uploads/2015/05/female-boss-work.jpg?quality=85&w=726&h=483&crop=1
 			   
-wget -O female_lawyer_0.jpg https://images.law.com/contrib/content/uploads/sites/292/2019/08/African-American-female-lawyer-Article-201908151725.jpg
-wget -O female_lawyer_1.jpg https://i0.wp.com/lawkm.com/wp-content/uploads/2017/06/shutterstock_497106070.jpg?resize=600%2C400&ssl=1
-wget -O female_lawyer_2.jpg https://lh3.googleusercontent.com/proxy/kLgMB8JLB0aQVFakE0OCj5M4sG1TVtC0jylbZ5PyCSv9Tvm5Mp9l_XhX3TeW83w0T1Bjc7vjecg-d_afIEzgZBjWqzYmG_LUthtp3dBjEQJnDIOZR78bkzHvHSYpnka49KtYcTZL
-wget -O female_lawyer_3.jpg https://baucemag.com/wp-content/uploads/Black-female-lawyer.jpg
-wget -O female_lawyer_4.jpg https://www.workingmother.com/sites/workingmother.com/files/styles/500_1x_/public/images/2018/07/best-law-2018.jpg?itok=hAtOYhw7&fc=50,50
-wget -O female_lawyer_5.jpg https://www.sydneycriminallawyers.com.au/wp-content/uploads/2019/06/female-lawyer-480x270.png
-wget -O female_lawyer_6.jpg https://i.pinimg.com/originals/50/0e/d6/500ed6be90e9e5b451c54f25e91f66a9.jpg
-wget -O female_lawyer_7.jpg https://i.pinimg.com/originals/55/4f/bb/554fbb8c791bc12ae400deaffca1d724.jpg
-wget -O female_lawyer_8.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/09/iStock-183996292-1080x675.jpg
-wget -O female_lawyer_9.jpg https://mcmahanlawfirm.com/wp-content/uploads/2017/03/injury-lawsuit-court-01-e1488313121910.jpg
+wget --tries=2 -O female_lawyer_0.jpg https://images.law.com/contrib/content/uploads/sites/292/2019/08/African-American-female-lawyer-Article-201908151725.jpg
+wget --tries=2 -O female_lawyer_1.jpg https://i0.wp.com/lawkm.com/wp-content/uploads/2017/06/shutterstock_497106070.jpg?resize=600%2C400&ssl=1
+wget --tries=2 -O female_lawyer_2.jpg https://lh3.googleusercontent.com/proxy/kLgMB8JLB0aQVFakE0OCj5M4sG1TVtC0jylbZ5PyCSv9Tvm5Mp9l_XhX3TeW83w0T1Bjc7vjecg-d_afIEzgZBjWqzYmG_LUthtp3dBjEQJnDIOZR78bkzHvHSYpnka49KtYcTZL
+wget --tries=2 -O female_lawyer_3.jpg https://baucemag.com/wp-content/uploads/Black-female-lawyer.jpg
+wget --tries=2 -O female_lawyer_4.jpg https://www.workingmother.com/sites/workingmother.com/files/styles/500_1x_/public/images/2018/07/best-law-2018.jpg?itok=hAtOYhw7&fc=50,50
+wget --tries=2 -O female_lawyer_5.jpg https://www.sydneycriminallawyers.com.au/wp-content/uploads/2019/06/female-lawyer-480x270.png
+wget --tries=2 -O female_lawyer_6.jpg https://i.pinimg.com/originals/50/0e/d6/500ed6be90e9e5b451c54f25e91f66a9.jpg
+wget --tries=2 -O female_lawyer_7.jpg https://i.pinimg.com/originals/55/4f/bb/554fbb8c791bc12ae400deaffca1d724.jpg
+wget --tries=2 -O female_lawyer_8.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/09/iStock-183996292-1080x675.jpg
+wget --tries=2 -O female_lawyer_9.jpg https://mcmahanlawfirm.com/wp-content/uploads/2017/03/injury-lawsuit-court-01-e1488313121910.jpg
 			   
-wget -O female_farmer_0.jpg https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2018/08/ashleyrodgers01_courtesy.jpg
-wget -O female_farmer_1.jpg https://k48b9e9840-flywheel.netdna-ssl.com/wp-content/uploads/2016/01/woman_agri_final-770x462.jpg
-wget -O female_farmer_2.jpg https://cdn6.dissolve.com/p/D2115_98_090/D2115_98_090_1200.jpg
-wget -O female_farmer_3.jpg https://seattlemag.com/sites/default/files/field/image/NEW-LEAD.jpg
-wget -O female_farmer_4.jpg https://previews.123rf.com/images/nicexray/nicexray1608/nicexray160800390/61838904-happy-female-farmer-in-wheat-field.jpg
-wget -O female_farmer_5.jpg https://www.countryfinancial.com/content/dam/cfin/feature/desktop/connect/img_womenAgriculture.jpg.transform/connect-large/image.jpg
-wget -O female_farmer_6.jpg https://images.squarespace-cdn.com/content/v1/558b095ce4b050b2d0e11d23/1489763395776-N1MW2Z4L5QSNPCSLGI4R/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/2T0A7330.jpg
-wget -O female_farmer_7.jpg https://www.featurepics.com/StockImage/20131206/female-farmer-stock-picture-2873109.jpg
-wget -O female_farmer_8.jpg https://bmcontent.affino.com/AcuCustom/Sitename/DAM/207/230218__YFF_Eleanor_Durdy1_8_Main.jpg
-wget -O female_farmer_9.jpg https://previews.123rf.com/images/jackf/jackf1205/jackf120500666/13750122-female-farmer-spreads-manure-at-farm.jpg
+wget --tries=2 -O female_farmer_0.jpg https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2018/08/ashleyrodgers01_courtesy.jpg
+wget --tries=2 -O female_farmer_1.jpg https://k48b9e9840-flywheel.netdna-ssl.com/wp-content/uploads/2016/01/woman_agri_final-770x462.jpg
+wget --tries=2 -O female_farmer_2.jpg https://cdn6.dissolve.com/p/D2115_98_090/D2115_98_090_1200.jpg
+wget --tries=2 -O female_farmer_3.jpg https://seattlemag.com/sites/default/files/field/image/NEW-LEAD.jpg
+wget --tries=2 -O female_farmer_4.jpg https://previews.123rf.com/images/nicexray/nicexray1608/nicexray160800390/61838904-happy-female-farmer-in-wheat-field.jpg
+wget --tries=2 -O female_farmer_5.jpg https://www.countryfinancial.com/content/dam/cfin/feature/desktop/connect/img_womenAgriculture.jpg.transform/connect-large/image.jpg
+wget --tries=2 -O female_farmer_6.jpg https://images.squarespace-cdn.com/content/v1/558b095ce4b050b2d0e11d23/1489763395776-N1MW2Z4L5QSNPCSLGI4R/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/2T0A7330.jpg
+wget --tries=2 -O female_farmer_7.jpg https://www.featurepics.com/StockImage/20131206/female-farmer-stock-picture-2873109.jpg
+wget --tries=2 -O female_farmer_8.jpg https://bmcontent.affino.com/AcuCustom/Sitename/DAM/207/230218__YFF_Eleanor_Durdy1_8_Main.jpg
+wget --tries=2 -O female_farmer_9.jpg https://previews.123rf.com/images/jackf/jackf1205/jackf120500666/13750122-female-farmer-spreads-manure-at-farm.jpg
 			   
-wget -O female_salesperson_0.jpg https://previews.123rf.com/images/4pmproduction/4pmproduction1708/4pmproduction170800093/83417443-professional-female-salesperson-at-car-dealership-.jpg
-wget -O female_salesperson_1.jpg https://assets.rbl.ms/19296808/origin.jpg
-wget -O female_salesperson_2.jpg https://www.iguides.org/wp-content/uploads/2017/10/female-salesperson.jpg
-wget -O female_salesperson_3.jpg https://st3.depositphotos.com/5392356/17757/i/1600/depositphotos_177570434-stock-photo-picture-professional-female-salesperson-working.jpg
-wget -O female_salesperson_4.jpg https://www.allbusiness.com/asset/2017/07/modern-businesswoman.jpg
-wget -O female_salesperson_5.jpg https://image.freepik.com/free-photo/female-salesperson-car-showroom_1303-14238.jpg
-wget -O female_salesperson_6.jpg https://st4.depositphotos.com/5392356/22156/i/1600/depositphotos_221567342-stock-photo-picture-professional-female-salesperson-working.jpg
-wget -O female_salesperson_7.jpg https://thumbs.dreamstime.com/z/professional-female-salesperson-working-car-dealership-african-111029821.jpg
-wget -O female_salesperson_8.jpg https://previews.123rf.com/images/4pmproduction/4pmproduction1708/4pmproduction170800097/83417445-professional-female-salesperson-at-car-dealership-.jpg
-wget -O female_salesperson_9.jpg https://comps.canstockphoto.com/professional-female-salesperson-working-stock-photography_csp54742605.jpg
+wget --tries=2 -O female_salesperson_0.jpg https://previews.123rf.com/images/4pmproduction/4pmproduction1708/4pmproduction170800093/83417443-professional-female-salesperson-at-car-dealership-.jpg
+wget --tries=2 -O female_salesperson_1.jpg https://assets.rbl.ms/19296808/origin.jpg
+wget --tries=2 -O female_salesperson_2.jpg https://www.iguides.org/wp-content/uploads/2017/10/female-salesperson.jpg
+wget --tries=2 -O female_salesperson_3.jpg https://st3.depositphotos.com/5392356/17757/i/1600/depositphotos_177570434-stock-photo-picture-professional-female-salesperson-working.jpg
+wget --tries=2 -O female_salesperson_4.jpg https://www.allbusiness.com/asset/2017/07/modern-businesswoman.jpg
+wget --tries=2 -O female_salesperson_5.jpg https://image.freepik.com/free-photo/female-salesperson-car-showroom_1303-14238.jpg
+wget --tries=2 -O female_salesperson_6.jpg https://st4.depositphotos.com/5392356/22156/i/1600/depositphotos_221567342-stock-photo-picture-professional-female-salesperson-working.jpg
+wget --tries=2 -O female_salesperson_7.jpg https://thumbs.dreamstime.com/z/professional-female-salesperson-working-car-dealership-african-111029821.jpg
+wget --tries=2 -O female_salesperson_8.jpg https://previews.123rf.com/images/4pmproduction/4pmproduction1708/4pmproduction170800097/83417445-professional-female-salesperson-at-car-dealership-.jpg
+wget --tries=2 -O female_salesperson_9.jpg https://comps.canstockphoto.com/professional-female-salesperson-working-stock-photography_csp54742605.jpg
 			   
-wget -O female_physician_0.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/314/314912/portrait-of-female-physician.jpg?w=1155&h=978
-wget -O female_physician_1.jpg https://gomerblog.com/wp-content/uploads/2018/10/38591120_s.jpg
-wget -O female_physician_2.jpg https://ionemadamenoire.files.wordpress.com/2018/04/doctor.jpg?w=1068&h=600
-wget -O female_physician_3.jpg https://www.physicianspractice.com/sites/default/files/three%20female%20docs_%20Andy%20Dean%20Photography_shutterstock_106721279.jpg
-wget -O female_physician_4.jpg https://www.medicaleconomics.com/sites/default/files/AdobeStock_86780492.jpeg
-wget -O female_physician_5.jpg https://media.bizj.us/view/img/11402034/gettyimages-1032866450*800xx5700-3206-0-297.jpg
-wget -O female_physician_6.jpg https://gomerblog.com/wp-content/uploads/2018/11/53426466_s.jpg
-wget -O female_physician_7.jpg https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop
-wget -O female_physician_8.jpg https://meetville.com/blog/wp-content/uploads/2017/10/imgonline-com-ua-Resize-XEuJpMAgK0NeMma.jpg
-wget -O female_physician_9.jpg https://qtxasset.com/styles/breakpoint_sm_default_480px_w/s3/fiercehealthcare/1559167196/doctor2.jpg/doctor2.jpg?nmc6VV7hGy76rTrwhngh6JW2M7RjOTT9&itok=VjCwGwEA
+wget --tries=2 -O female_physician_0.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/314/314912/portrait-of-female-physician.jpg?w=1155&h=978
+wget --tries=2 -O female_physician_1.jpg https://gomerblog.com/wp-content/uploads/2018/10/38591120_s.jpg
+wget --tries=2 -O female_physician_2.jpg https://ionemadamenoire.files.wordpress.com/2018/04/doctor.jpg?w=1068&h=600
+wget --tries=2 -O female_physician_3.jpg https://www.physicianspractice.com/sites/default/files/three%20female%20docs_%20Andy%20Dean%20Photography_shutterstock_106721279.jpg
+wget --tries=2 -O female_physician_4.jpg https://www.medicaleconomics.com/sites/default/files/AdobeStock_86780492.jpeg
+wget --tries=2 -O female_physician_5.jpg https://media.bizj.us/view/img/11402034/gettyimages-1032866450*800xx5700-3206-0-297.jpg
+wget --tries=2 -O female_physician_6.jpg https://gomerblog.com/wp-content/uploads/2018/11/53426466_s.jpg
+wget --tries=2 -O female_physician_7.jpg https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop
+wget --tries=2 -O female_physician_8.jpg https://meetville.com/blog/wp-content/uploads/2017/10/imgonline-com-ua-Resize-XEuJpMAgK0NeMma.jpg
+wget --tries=2 -O female_physician_9.jpg https://qtxasset.com/styles/breakpoint_sm_default_480px_w/s3/fiercehealthcare/1559167196/doctor2.jpg/doctor2.jpg?nmc6VV7hGy76rTrwhngh6JW2M7RjOTT9&itok=VjCwGwEA
 			   
-wget -O female_guard_0.jpg https://previews.123rf.com/images/belchonock/belchonock1808/belchonock180804839/105930969-female-security-guard-in-uniform-on-color-background.jpg
-wget -O female_guard_1.jpg https://cdni.rt.com/files/2018.11/article/5bef0992dda4c803078b45d8.jpg
-wget -O female_guard_2.jpg https://www.bestbuyuniforms.com/135910-large_default/womens-security-guard-pants.jpg
-wget -O female_guard_3.jpg https://sc02.alicdn.com/kf/HTB18vcyJpXXXXaHXXXXq6xXFXXXF/female-protocol-Image-post-security-guard-suit.jpg_640x640.jpg
-wget -O female_guard_4.jpg https://image.shutterstock.com/image-photo/young-woman-security-guard-260nw-591271928.jpg
-wget -O female_guard_5.jpg https://c8.alamy.com/comp/T99MGA/female-security-guard-on-white-background-T99MGA.jpg
-wget -O female_guard_6.jpg https://media.moddb.com/images/groups/1/6/5425/srb_f_guard.jpg
-wget -O female_guard_7.jpg https://www.ynetnews.com/PicServer5/2018/06/25/8618113/10201115_10201523_rumble.jpg
-wget -O female_guard_8.jpg https://thumbs.dreamstime.com/z/female-security-guard-uniform-color-background-119631756.jpg
-wget -O female_guard_9.jpg https://images-na.ssl-images-amazon.com/images/I/81PB3QV5v3L._AC_UY445_.jpg
+wget --tries=2 -O female_guard_0.jpg https://previews.123rf.com/images/belchonock/belchonock1808/belchonock180804839/105930969-female-security-guard-in-uniform-on-color-background.jpg
+wget --tries=2 -O female_guard_1.jpg https://cdni.rt.com/files/2018.11/article/5bef0992dda4c803078b45d8.jpg
+wget --tries=2 -O female_guard_2.jpg https://www.bestbuyuniforms.com/135910-large_default/womens-security-guard-pants.jpg
+wget --tries=2 -O female_guard_3.jpg https://sc02.alicdn.com/kf/HTB18vcyJpXXXXaHXXXXq6xXFXXXF/female-protocol-Image-post-security-guard-suit.jpg_640x640.jpg
+wget --tries=2 -O female_guard_4.jpg https://image.shutterstock.com/image-photo/young-woman-security-guard-260nw-591271928.jpg
+wget --tries=2 -O female_guard_5.jpg https://c8.alamy.com/comp/T99MGA/female-security-guard-on-white-background-T99MGA.jpg
+wget --tries=2 -O female_guard_6.jpg https://media.moddb.com/images/groups/1/6/5425/srb_f_guard.jpg
+wget --tries=2 -O female_guard_7.jpg https://www.ynetnews.com/PicServer5/2018/06/25/8618113/10201115_10201523_rumble.jpg
+wget --tries=2 -O female_guard_8.jpg https://thumbs.dreamstime.com/z/female-security-guard-uniform-color-background-119631756.jpg
+wget --tries=2 -O female_guard_9.jpg https://images-na.ssl-images-amazon.com/images/I/81PB3QV5v3L._AC_UY445_.jpg
 			   
-wget -O female_analyst_0.jpg https://previews.123rf.com/images/undrey/undrey1803/undrey180300233/97277743-female-financial-analyst-holding-papers-studying-documents-standing-against-window-with-city-view.jpg
-wget -O female_analyst_1.jpg https://media.istockphoto.com/photos/portrait-of-a-young-female-business-analyst-picture-id1052936234
-wget -O female_analyst_2.jpg https://hips.hearstapps.com/mac.h-cdn.co/assets/16/30/1600x1066/gallery-1469735380-jessicamendoza-1b.jpg?resize=480:*
-wget -O female_analyst_3.jpg https://thumbs.dreamstime.com/z/concerned-female-analyst-counselling-senior-patient-concerned-female-analyst-counselling-senior-patient-127010617.jpg
-wget -O female_analyst_4.jpg https://image.shutterstock.com/image-photo/beautiful-female-data-analyst-sitting-260nw-1031105278.jpg
-wget -O female_analyst_5.jpg https://securea.mlb.com/assets/images/5/8/8/145186588/cuts/MENDOZA_sfa7vt83_7b27kzsp.jpg
-wget -O female_analyst_6.jpg https://st.focusedcollection.com/14026668/i/650/focused_181528378-stock-photo-female-food-analyst-working-laboratory.jpg
-wget -O female_analyst_7.jpg https://s3-ap-southeast-2.amazonaws.com/geg-gug-webapp/images/career/regular/analyst_information_technology.png
-wget -O female_analyst_8.jpg https://c8.alamy.com/comp/R5J0H7/female-analyst-R5J0H7.jpg
-wget -O female_analyst_9.jpg https://st4.depositphotos.com/2171279/24065/i/1600/depositphotos_240656788-stock-photo-female-financial-analyst-holding-papers.jpg
+wget --tries=2 -O female_analyst_0.jpg https://previews.123rf.com/images/undrey/undrey1803/undrey180300233/97277743-female-financial-analyst-holding-papers-studying-documents-standing-against-window-with-city-view.jpg
+wget --tries=2 -O female_analyst_1.jpg https://media.istockphoto.com/photos/portrait-of-a-young-female-business-analyst-picture-id1052936234
+wget --tries=2 -O female_analyst_2.jpg https://hips.hearstapps.com/mac.h-cdn.co/assets/16/30/1600x1066/gallery-1469735380-jessicamendoza-1b.jpg?resize=480:*
+wget --tries=2 -O female_analyst_3.jpg https://thumbs.dreamstime.com/z/concerned-female-analyst-counselling-senior-patient-concerned-female-analyst-counselling-senior-patient-127010617.jpg
+wget --tries=2 -O female_analyst_4.jpg https://image.shutterstock.com/image-photo/beautiful-female-data-analyst-sitting-260nw-1031105278.jpg
+wget --tries=2 -O female_analyst_5.jpg https://securea.mlb.com/assets/images/5/8/8/145186588/cuts/MENDOZA_sfa7vt83_7b27kzsp.jpg
+wget --tries=2 -O female_analyst_6.jpg https://st.focusedcollection.com/14026668/i/650/focused_181528378-stock-photo-female-food-analyst-working-laboratory.jpg
+wget --tries=2 -O female_analyst_7.jpg https://s3-ap-southeast-2.amazonaws.com/geg-gug-webapp/images/career/regular/analyst_information_technology.png
+wget --tries=2 -O female_analyst_8.jpg https://c8.alamy.com/comp/R5J0H7/female-analyst-R5J0H7.jpg
+wget --tries=2 -O female_analyst_9.jpg https://st4.depositphotos.com/2171279/24065/i/1600/depositphotos_240656788-stock-photo-female-financial-analyst-holding-papers.jpg
 			   
-wget -O female_mechanic_0.jpg https://media.npr.org/assets/img/2018/01/09/patrice-banks-girls-auto-clinic-1-of-1--3_wide-a92b9dc4341587cc96778a86533bc749a0ecc06e-s800-c85.jpg
-wget -O female_mechanic_1.jpg https://static0.thethingsimages.com/wordpress/wp-content/uploads/2019/06/fechanic4.jpg
-wget -O female_mechanic_2.jpg https://previews.123rf.com/images/anatoliygleb/anatoliygleb1712/anatoliygleb171200074/92684194-female-mechanic-leans-on-the-car-with-a-wrench-in-her-hands-being-tired-after-work-.jpg
-wget -O female_mechanic_3.jpg https://i.ytimg.com/vi/VP8nZ1UmV4c/maxresdefault.jpg
-wget -O female_mechanic_4.jpg https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/dissolve/1200/804946.jpg
-wget -O female_mechanic_5.jpg https://cdn.am-online.com/media/1/root/female-mechanic_w268.jpg
-wget -O female_mechanic_6.jpg https://i.ytimg.com/vi/e1vUVGVuHlc/maxresdefault.jpg
-wget -O female_mechanic_7.jpg https://previews.123rf.com/images/belchonock/belchonock1804/belchonock180425094/101285246-young-female-mechanic-repairing-car-in-body-shop.jpg
-wget -O female_mechanic_8.jpg https://imgix.bustle.com/mic/kqp1wvsv6airh9olwlv5ukntqiq26jrsfryjs7ocmnllhuj2k24cqfxnhdgjdjab.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format&q=70
-wget -O female_mechanic_9.jpg https://i.pinimg.com/originals/f3/85/2d/f3852d759a9615a82ebe526fe11ffe8d.jpg
+wget --tries=2 -O female_mechanic_0.jpg https://media.npr.org/assets/img/2018/01/09/patrice-banks-girls-auto-clinic-1-of-1--3_wide-a92b9dc4341587cc96778a86533bc749a0ecc06e-s800-c85.jpg
+wget --tries=2 -O female_mechanic_1.jpg https://static0.thethingsimages.com/wordpress/wp-content/uploads/2019/06/fechanic4.jpg
+wget --tries=2 -O female_mechanic_2.jpg https://previews.123rf.com/images/anatoliygleb/anatoliygleb1712/anatoliygleb171200074/92684194-female-mechanic-leans-on-the-car-with-a-wrench-in-her-hands-being-tired-after-work-.jpg
+wget --tries=2 -O female_mechanic_3.jpg https://i.ytimg.com/vi/VP8nZ1UmV4c/maxresdefault.jpg
+wget --tries=2 -O female_mechanic_4.jpg https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/dissolve/1200/804946.jpg
+wget --tries=2 -O female_mechanic_5.jpg https://cdn.am-online.com/media/1/root/female-mechanic_w268.jpg
+wget --tries=2 -O female_mechanic_6.jpg https://i.ytimg.com/vi/e1vUVGVuHlc/maxresdefault.jpg
+wget --tries=2 -O female_mechanic_7.jpg https://previews.123rf.com/images/belchonock/belchonock1804/belchonock180425094/101285246-young-female-mechanic-repairing-car-in-body-shop.jpg
+wget --tries=2 -O female_mechanic_8.jpg https://imgix.bustle.com/mic/kqp1wvsv6airh9olwlv5ukntqiq26jrsfryjs7ocmnllhuj2k24cqfxnhdgjdjab.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 -O female_mechanic_9.jpg https://i.pinimg.com/originals/f3/85/2d/f3852d759a9615a82ebe526fe11ffe8d.jpg
 			   
-wget -O female_sheriff_0.jpg https://bloximages.chicago2.vip.townnews.com/effinghamdailynews.com/content/tncms/assets/v3/editorial/c/d9/cd992e9c-6962-5f5e-8a4e-af6d8bf537e1/5ba597c55a571.image.jpg
-wget -O female_sheriff_1.jpg https://www.sbsheriff.org/wp-content/uploads/2016/10/Sosa.jpg
-wget -O female_sheriff_2.jpg https://s7d2.scene7.com/is/image/TWCNews/0107_nc_sheriff_pauladancepng
-wget -O female_sheriff_3.jpg https://s3.amazonaws.com/ogden_images/www.theintelligencer.net/images/2017/07/30211956/Policewomen-4-1100x825.jpg
-wget -O female_sheriff_4.jpg https://co.jefferson.tx.us/Sheriff/Content/Images/Sheriff04.png
-wget -O female_sheriff_5.jpg https://ocgnews.com/wp-content/uploads/2019/12/Melody-Maddox-1.jpg
-wget -O female_sheriff_6.jpg https://www.newtondailynews.com/_internal/cimg!0/p28rlqu8jaxwfdw0gokufjyq9wegtnw
-wget -O female_sheriff_7.jpg https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/e7/9e76ccb0-0f5c-5ac2-8361-a254d8b17a84/4c6377a4be3e0.preview-620.jpg?crop=413%2C413%2C103%2C0&resize=1200%2C1200&order=crop%2Cresize
-wget -O female_sheriff_8.jpg https://i.pinimg.com/originals/28/0a/24/280a24a29b34f5fc79d08f9e05cec8d4.jpg
-wget -O female_sheriff_9.jpg https://bloximages.chicago2.vip.townnews.com/news-bulletin.com/content/tncms/assets/v3/editorial/3/e9/3e96504e-0ebb-11e9-b3f4-d3de43b65196/5c2d013250958.image.jpg
+wget --tries=2 -O female_sheriff_0.jpg https://bloximages.chicago2.vip.townnews.com/effinghamdailynews.com/content/tncms/assets/v3/editorial/c/d9/cd992e9c-6962-5f5e-8a4e-af6d8bf537e1/5ba597c55a571.image.jpg
+wget --tries=2 -O female_sheriff_1.jpg https://www.sbsheriff.org/wp-content/uploads/2016/10/Sosa.jpg
+wget --tries=2 -O female_sheriff_2.jpg https://s7d2.scene7.com/is/image/TWCNews/0107_nc_sheriff_pauladancepng
+wget --tries=2 -O female_sheriff_3.jpg https://s3.amazonaws.com/ogden_images/www.theintelligencer.net/images/2017/07/30211956/Policewomen-4-1100x825.jpg
+wget --tries=2 -O female_sheriff_4.jpg https://co.jefferson.tx.us/Sheriff/Content/Images/Sheriff04.png
+wget --tries=2 -O female_sheriff_5.jpg https://ocgnews.com/wp-content/uploads/2019/12/Melody-Maddox-1.jpg
+wget --tries=2 -O female_sheriff_6.jpg https://www.newtondailynews.com/_internal/cimg!0/p28rlqu8jaxwfdw0gokufjyq9wegtnw
+wget --tries=2 -O female_sheriff_7.jpg https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/e7/9e76ccb0-0f5c-5ac2-8361-a254d8b17a84/4c6377a4be3e0.preview-620.jpg?crop=413%2C413%2C103%2C0&resize=1200%2C1200&order=crop%2Cresize
+wget --tries=2 -O female_sheriff_8.jpg https://i.pinimg.com/originals/28/0a/24/280a24a29b34f5fc79d08f9e05cec8d4.jpg
+wget --tries=2 -O female_sheriff_9.jpg https://bloximages.chicago2.vip.townnews.com/news-bulletin.com/content/tncms/assets/v3/editorial/3/e9/3e96504e-0ebb-11e9-b3f4-d3de43b65196/5c2d013250958.image.jpg
 			   
-wget -O female_ceo_0.jpg https://cf-images.us-east-1.prod.boltdns.net/v1/static/2111767321001/3a3c784e-9227-4233-b51e-64ee4c0441ac/8a64a72f-3e06-49a6-8ba7-c250bb322fe6/1280x720/match/image.jpg
-wget -O female_ceo_1.jpg https://content.fortune.com/wp-content/uploads/2018/05/michelle-gass-kohls-ceo.jpg?w=1024
-wget -O female_ceo_2.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ib6Ojs0pxMFM/v0/1000x-1.jpg
-wget -O female_ceo_3.jpg https://cdn.cnn.com/cnnnext/dam/assets/190415090233-best-buy-corie-barry-large-169.jpg
-wget -O female_ceo_4.jpg https://news.theceomagazine.com/wp-content/uploads/2019/09/Bronwyn_Evans.jpg
-wget -O female_ceo_5.jpg https://www.sun-sentinel.com/resizer/56bR9FGex77qgiGnHDKLJFIkJ9I=/1200x1552/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/3QI2EWNKXRBHLI3TRX6TK356MU.jpg
-wget -O female_ceo_6.jpg https://www.webershandwick.com/wp-content/uploads/2018/04/female-ceo-reputation-premium-hero-2-1920x927.jpg
-wget -O female_ceo_7.jpg https://image.businessinsider.com/573d32225124c96f2cdf6a99?width=1100&format=jpeg&auto=webp
-wget -O female_ceo_8.jpg https://www.handelsblatt.com/images/saori-dubourg-of-basf-/23845956/2-format2020.jpg
-wget -O female_ceo_9.jpg https://money.cnn.com/interactive/pf/female-ceos-timeline/media/mary-barra.jpg
+wget --tries=2 -O female_ceo_0.jpg https://cf-images.us-east-1.prod.boltdns.net/v1/static/2111767321001/3a3c784e-9227-4233-b51e-64ee4c0441ac/8a64a72f-3e06-49a6-8ba7-c250bb322fe6/1280x720/match/image.jpg
+wget --tries=2 -O female_ceo_1.jpg https://content.fortune.com/wp-content/uploads/2018/05/michelle-gass-kohls-ceo.jpg?w=1024
+wget --tries=2 -O female_ceo_2.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ib6Ojs0pxMFM/v0/1000x-1.jpg
+wget --tries=2 -O female_ceo_3.jpg https://cdn.cnn.com/cnnnext/dam/assets/190415090233-best-buy-corie-barry-large-169.jpg
+wget --tries=2 -O female_ceo_4.jpg https://news.theceomagazine.com/wp-content/uploads/2019/09/Bronwyn_Evans.jpg
+wget --tries=2 -O female_ceo_5.jpg https://www.sun-sentinel.com/resizer/56bR9FGex77qgiGnHDKLJFIkJ9I=/1200x1552/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/3QI2EWNKXRBHLI3TRX6TK356MU.jpg
+wget --tries=2 -O female_ceo_6.jpg https://www.webershandwick.com/wp-content/uploads/2018/04/female-ceo-reputation-premium-hero-2-1920x927.jpg
+wget --tries=2 -O female_ceo_7.jpg https://image.businessinsider.com/573d32225124c96f2cdf6a99?width=1100&format=jpeg&auto=webp
+wget --tries=2 -O female_ceo_8.jpg https://www.handelsblatt.com/images/saori-dubourg-of-basf-/23845956/2-format2020.jpg
+wget --tries=2 -O female_ceo_9.jpg https://money.cnn.com/interactive/pf/female-ceos-timeline/media/mary-barra.jpg
 			   
-wget -O female_attendant_0.jpg https://previews.123rf.com/images/4pmproduction/4pmproduction1803/4pmproduction180300076/96718949-attractive-young-female-flight-attendant-is-walking-in-airport-terminal-and-talking-on-a-smart-phone.jpg
-wget -O female_attendant_1.jpg https://4.imimg.com/data4/YI/VA/MY-20272032/female-attendant-service-500x500.jpg
-wget -O female_attendant_2.jpg https://i.pinimg.com/564x/47/52/7a/47527a3d7201ed96cb49a1c73852bd73.jpg
-wget -O female_attendant_3.jpg https://ae01.alicdn.com/kf/HTB1j8hgF29TBuNjy1zbq6xpepXax.jpg
-wget -O female_attendant_4.jpg https://corinnepack.files.wordpress.com/2013/10/p1120740.jpg
-wget -O female_attendant_5.jpg https://salarieshub.com/wp-content/uploads/2016/10/flight-attendant.jpg
-wget -O female_attendant_6.jpg https://ajelen.com/wp-content/uploads/2019/05/Domestic-airline-Flynas-is-recruiting-female-flight-attendants-for-the-first-time..jpg
-wget -O female_attendant_7.jpg https://cf.ltkcdn.net/jobs/images/std/31946-233x350-Requirements_flightattendant.jpg
-wget -O female_attendant_8.jpg https://i.pinimg.com/736x/3c/29/b9/3c29b97c16de9c8e94555aed60ddcbb7.jpg
-wget -O female_attendant_9.jpg https://i.pinimg.com/474x/c0/99/8a/c0998a9129619bf6ae95107ae3bfc3c2.jpg
+wget --tries=2 -O female_attendant_0.jpg https://previews.123rf.com/images/4pmproduction/4pmproduction1803/4pmproduction180300076/96718949-attractive-young-female-flight-attendant-is-walking-in-airport-terminal-and-talking-on-a-smart-phone.jpg
+wget --tries=2 -O female_attendant_1.jpg https://4.imimg.com/data4/YI/VA/MY-20272032/female-attendant-service-500x500.jpg
+wget --tries=2 -O female_attendant_2.jpg https://i.pinimg.com/564x/47/52/7a/47527a3d7201ed96cb49a1c73852bd73.jpg
+wget --tries=2 -O female_attendant_3.jpg https://ae01.alicdn.com/kf/HTB1j8hgF29TBuNjy1zbq6xpepXax.jpg
+wget --tries=2 -O female_attendant_4.jpg https://corinnepack.files.wordpress.com/2013/10/p1120740.jpg
+wget --tries=2 -O female_attendant_5.jpg https://salarieshub.com/wp-content/uploads/2016/10/flight-attendant.jpg
+wget --tries=2 -O female_attendant_6.jpg https://ajelen.com/wp-content/uploads/2019/05/Domestic-airline-Flynas-is-recruiting-female-flight-attendants-for-the-first-time..jpg
+wget --tries=2 -O female_attendant_7.jpg https://cf.ltkcdn.net/jobs/images/std/31946-233x350-Requirements_flightattendant.jpg
+wget --tries=2 -O female_attendant_8.jpg https://i.pinimg.com/736x/3c/29/b9/3c29b97c16de9c8e94555aed60ddcbb7.jpg
+wget --tries=2 -O female_attendant_9.jpg https://i.pinimg.com/474x/c0/99/8a/c0998a9129619bf6ae95107ae3bfc3c2.jpg
 			   
-wget -O female_teacher_0.jpg https://previews.123rf.com/images/serezniy/serezniy1809/serezniy180923113/109569446-young-female-teacher-beside-blackboard-on-white-background.jpg
-wget -O female_teacher_1.jpg https://previews.123rf.com/images/bbtreesubmission/bbtreesubmission1709/bbtreesubmission170916170/87071948-asian-female-teacher-teaching-a-class.jpg
-wget -O female_teacher_2.jpg https://previews.123rf.com/images/michaeljung/michaeljung0906/michaeljung090600304/5126547-happy-female-teacher.jpg
-wget -O female_teacher_3.jpg https://elements-video-cover-images-0.imgix.net/files/199342582/preview.jpg?auto=compress%2Cformat\&fit=min\&h=394\&w=700\&s=a4a94e221307a5636a766de57ff16cc3
-wget -O female_teacher_4.jpg https://charlestonmathscience.org/wp-content/uploads/2016/11/smiling-female-teacher-with-long-hair-in-front-of-chalk-board.jpg
-wget -O female_teacher_5.jpg https://ak5.picdn.net/shutterstock/videos/18725795/thumb/1.jpg
-wget -O female_teacher_6.jpg https://c8.alamy.com/comp/DDYFW9/young-female-teacher-explaining-a-lesson-while-standing-against-chalkboard-DDYFW9.jpg
-wget -O female_teacher_7.jpg https://thumbs.dreamstime.com/z/female-teacher-25183851.jpg
-wget -O female_teacher_8.jpg https://ak7.picdn.net/shutterstock/videos/18804347/thumb/1.jpg
-wget -O female_teacher_9.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/5529114/910/1363/m2/fpnw/wm1/bnenydszgjyhp7csh9rpyz3dvjmh8wfay4kmyly5ivd3zrxd73lfecnm5mastxet-.jpg?1544431739\&s=949c7b28bb7b1ad6422a81efb33f2a48
+wget --tries=2 -O female_teacher_0.jpg https://previews.123rf.com/images/serezniy/serezniy1809/serezniy180923113/109569446-young-female-teacher-beside-blackboard-on-white-background.jpg
+wget --tries=2 -O female_teacher_1.jpg https://previews.123rf.com/images/bbtreesubmission/bbtreesubmission1709/bbtreesubmission170916170/87071948-asian-female-teacher-teaching-a-class.jpg
+wget --tries=2 -O female_teacher_2.jpg https://previews.123rf.com/images/michaeljung/michaeljung0906/michaeljung090600304/5126547-happy-female-teacher.jpg
+wget --tries=2 -O female_teacher_3.jpg https://elements-video-cover-images-0.imgix.net/files/199342582/preview.jpg?auto=compress%2Cformat\&fit=min\&h=394\&w=700\&s=a4a94e221307a5636a766de57ff16cc3
+wget --tries=2 -O female_teacher_4.jpg https://charlestonmathscience.org/wp-content/uploads/2016/11/smiling-female-teacher-with-long-hair-in-front-of-chalk-board.jpg
+wget --tries=2 -O female_teacher_5.jpg https://ak5.picdn.net/shutterstock/videos/18725795/thumb/1.jpg
+wget --tries=2 -O female_teacher_6.jpg https://c8.alamy.com/comp/DDYFW9/young-female-teacher-explaining-a-lesson-while-standing-against-chalkboard-DDYFW9.jpg
+wget --tries=2 -O female_teacher_7.jpg https://thumbs.dreamstime.com/z/female-teacher-25183851.jpg
+wget --tries=2 -O female_teacher_8.jpg https://ak7.picdn.net/shutterstock/videos/18804347/thumb/1.jpg
+wget --tries=2 -O female_teacher_9.jpg https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/5529114/910/1363/m2/fpnw/wm1/bnenydszgjyhp7csh9rpyz3dvjmh8wfay4kmyly5ivd3zrxd73lfecnm5mastxet-.jpg?1544431739\&s=949c7b28bb7b1ad6422a81efb33f2a48
 			   
-wget -O female_nurse_0.jpg https://media.gettyimages.com/photos/shes-a-gifted-medical-professional-picture-id919539228?s=612x612
-wget -O female_nurse_1.jpg https://media.istockphoto.com/photos/portrait-of-mature-female-nurse-working-in-hospital-picture-id835138542?k=6&m=835138542&s=612x612&w=0&h=02EYJmx_2jRM82BRQj6ABZu9OewRQmI5HDWRkXWpFHc=
-wget -O female_nurse_2.jpg https://www.safetyandhealthmagazine.com/ext/resources/images/news/healthcare/female-nurse.jpg?1494948091
-wget -O female_nurse_3.jpg https://image.shutterstock.com/image-photo/smiling-nurse-portrait-260nw-788554729.jpg
-wget -O female_nurse_4.jpg https://i.allheart.com/images/blog/pulse/female-nurse-smiling-holding-clipboard.jpg
-wget -O female_nurse_5.jpg https://previews.123rf.com/images/sumners/sumners1209/sumners120900001/15135317-a-beautiful-young-female-nurse-or-doctor-smiling-and-carrying-a-medical-file-.jpg
-wget -O female_nurse_6.jpg https://media.istockphoto.com/photos/young-female-nurse-in-the-hospital-picture-id495521250?k=6&m=495521250&s=612x612&w=0&h=jeFDTGE_A1VoQYdrlfKPLFoOI3O2fO5WKXm4TnN0H1I=
-wget -O female_nurse_7.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3027525.jpg
-wget -O female_nurse_8.jpg https://www.thebalancecareers.com/thmb/5PUQ3eYS60TpLsOdjNYmY4kxY6U=/1500x844/smart/filters:no_upscale\(\)/nurses-discussing-over-documents-in-hospital-493216353-595690893df78c4eb647536e-5bd78e3446e0fb0051debf7f.jpg
-wget -O female_nurse_9.jpg https://thumbs.dreamstime.com/z/female-nurse-25551609.jpg
+wget --tries=2 -O female_nurse_0.jpg https://media.gettyimages.com/photos/shes-a-gifted-medical-professional-picture-id919539228?s=612x612
+wget --tries=2 -O female_nurse_1.jpg https://media.istockphoto.com/photos/portrait-of-mature-female-nurse-working-in-hospital-picture-id835138542?k=6&m=835138542&s=612x612&w=0&h=02EYJmx_2jRM82BRQj6ABZu9OewRQmI5HDWRkXWpFHc=
+wget --tries=2 -O female_nurse_2.jpg https://www.safetyandhealthmagazine.com/ext/resources/images/news/healthcare/female-nurse.jpg?1494948091
+wget --tries=2 -O female_nurse_3.jpg https://image.shutterstock.com/image-photo/smiling-nurse-portrait-260nw-788554729.jpg
+wget --tries=2 -O female_nurse_4.jpg https://i.allheart.com/images/blog/pulse/female-nurse-smiling-holding-clipboard.jpg
+wget --tries=2 -O female_nurse_5.jpg https://previews.123rf.com/images/sumners/sumners1209/sumners120900001/15135317-a-beautiful-young-female-nurse-or-doctor-smiling-and-carrying-a-medical-file-.jpg
+wget --tries=2 -O female_nurse_6.jpg https://media.istockphoto.com/photos/young-female-nurse-in-the-hospital-picture-id495521250?k=6&m=495521250&s=612x612&w=0&h=jeFDTGE_A1VoQYdrlfKPLFoOI3O2fO5WKXm4TnN0H1I=
+wget --tries=2 -O female_nurse_7.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3027525.jpg
+wget --tries=2 -O female_nurse_8.jpg https://www.thebalancecareers.com/thmb/5PUQ3eYS60TpLsOdjNYmY4kxY6U=/1500x844/smart/filters:no_upscale\(\)/nurses-discussing-over-documents-in-hospital-493216353-595690893df78c4eb647536e-5bd78e3446e0fb0051debf7f.jpg
+wget --tries=2 -O female_nurse_9.jpg https://thumbs.dreamstime.com/z/female-nurse-25551609.jpg
 			   
-wget -O female_assistant_0.jpg https://thumbs.dreamstime.com/z/cheerful-female-assistant-writing-notes-smiling-business-woman-busy-her-work-35400696.jpg
-wget -O female_assistant_1.jpg https://thumbs.dreamstime.com/z/female-assistant-holding-business-files-executive-formals-31269669.jpg
-wget -O female_assistant_2.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3745567.jpg
-wget -O female_assistant_3.jpg https://cdn.xl.thumbs.canstockphoto.com/female-assistant-business-woman-holding-reports-and-looking-at-camera-copy-space-stock-photograph_csp2892339.jpg
-wget -O female_assistant_4.jpg https://image.freepik.com/free-photo/content-asian-female-assistant-standing-copier_1262-2105.jpg
-wget -O female_assistant_5.jpg https://www.freedigitalphotos.net/images/previews/female-assistant-at-her-work-desk-100202426.jpg
-wget -O female_assistant_6.jpg https://comps.canstockphoto.co.uk/successful-young-female-assistant-stock-photograph_csp51400694.jpg
-wget -O female_assistant_7.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4212448.jpg
-wget -O female_assistant_8.jpg https://media.istockphoto.com/photos/serious-asian-female-assistant-copying-document-picture-id637317120
-wget -O female_assistant_9.jpg https://content.fortune.com/wp-content/uploads/2015/05/20140522_jcarterrinaldi_maren_0130.jpg?resize=1200,600
+wget --tries=2 -O female_assistant_0.jpg https://thumbs.dreamstime.com/z/cheerful-female-assistant-writing-notes-smiling-business-woman-busy-her-work-35400696.jpg
+wget --tries=2 -O female_assistant_1.jpg https://thumbs.dreamstime.com/z/female-assistant-holding-business-files-executive-formals-31269669.jpg
+wget --tries=2 -O female_assistant_2.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3745567.jpg
+wget --tries=2 -O female_assistant_3.jpg https://cdn.xl.thumbs.canstockphoto.com/female-assistant-business-woman-holding-reports-and-looking-at-camera-copy-space-stock-photograph_csp2892339.jpg
+wget --tries=2 -O female_assistant_4.jpg https://image.freepik.com/free-photo/content-asian-female-assistant-standing-copier_1262-2105.jpg
+wget --tries=2 -O female_assistant_5.jpg https://www.freedigitalphotos.net/images/previews/female-assistant-at-her-work-desk-100202426.jpg
+wget --tries=2 -O female_assistant_6.jpg https://comps.canstockphoto.co.uk/successful-young-female-assistant-stock-photograph_csp51400694.jpg
+wget --tries=2 -O female_assistant_7.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4212448.jpg
+wget --tries=2 -O female_assistant_8.jpg https://media.istockphoto.com/photos/serious-asian-female-assistant-copying-document-picture-id637317120
+wget --tries=2 -O female_assistant_9.jpg https://content.fortune.com/wp-content/uploads/2015/05/20140522_jcarterrinaldi_maren_0130.jpg?resize=1200,600
 			   
-wget -O female_secretary_0.jpg https://previews.123rf.com/images/lenanet/lenanet1702/lenanet170200181/72160581-beautiful-female-secretary-full-body-holding-folder.jpg
-wget -O female_secretary_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX5264767.jpg
-wget -O female_secretary_2.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4423035.jpg
-wget -O female_secretary_3.jpg https://thumbs.dreamstime.com/z/young-female-secretary-beautiful-woman-long-blond-hair-wearing-glasses-sitting-chair-white-background-34631598.jpg
-wget -O female_secretary_4.jpg https://c8.alamy.com/comp/XDXPJR/female-secretary-with-blond-hair-looking-sideways-XDXPJR.jpg
-wget -O female_secretary_5.jpg https://c8.alamy.com/comp/CB8BTA/a-beautiful-young-woman-lady-girl-secretary-personal-assistant-office-CB8BTA.jpg
-wget -O female_secretary_6.jpg https://cdn.pixabay.com/photo/2017/09/16/17/42/business-woman-2756210_960_720.jpg
-wget -O female_secretary_7.jpg https://thumbs.dreamstime.com/b/work-callcenter-female-secretary-headset-doing-customer-service-148255186.jpg
-wget -O female_secretary_8.jpg https://images.freeimages.com/images/premium/previews/4449/44499882-female-secretary-posing-with-arms-crossed.jpg
-wget -O female_secretary_9.jpg https://media.istockphoto.com/photos/blonde-business-woman-standing-straight-and-holding-tablet-in-office-picture-id1066086638
+wget --tries=2 -O female_secretary_0.jpg https://previews.123rf.com/images/lenanet/lenanet1702/lenanet170200181/72160581-beautiful-female-secretary-full-body-holding-folder.jpg
+wget --tries=2 -O female_secretary_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX5264767.jpg
+wget --tries=2 -O female_secretary_2.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4423035.jpg
+wget --tries=2 -O female_secretary_3.jpg https://thumbs.dreamstime.com/z/young-female-secretary-beautiful-woman-long-blond-hair-wearing-glasses-sitting-chair-white-background-34631598.jpg
+wget --tries=2 -O female_secretary_4.jpg https://c8.alamy.com/comp/XDXPJR/female-secretary-with-blond-hair-looking-sideways-XDXPJR.jpg
+wget --tries=2 -O female_secretary_5.jpg https://c8.alamy.com/comp/CB8BTA/a-beautiful-young-woman-lady-girl-secretary-personal-assistant-office-CB8BTA.jpg
+wget --tries=2 -O female_secretary_6.jpg https://cdn.pixabay.com/photo/2017/09/16/17/42/business-woman-2756210_960_720.jpg
+wget --tries=2 -O female_secretary_7.jpg https://thumbs.dreamstime.com/b/work-callcenter-female-secretary-headset-doing-customer-service-148255186.jpg
+wget --tries=2 -O female_secretary_8.jpg https://images.freeimages.com/images/premium/previews/4449/44499882-female-secretary-posing-with-arms-crossed.jpg
+wget --tries=2 -O female_secretary_9.jpg https://media.istockphoto.com/photos/blonde-business-woman-standing-straight-and-holding-tablet-in-office-picture-id1066086638
 			   
-wget -O female_auditor_0.jpg https://c8.alamy.com/comp/CPFC6K/female-auditor-CPFC6K.jpg
-wget -O female_auditor_1.jpg https://previews.123rf.com/images/andreypopov/andreypopov1404/andreypopov140401210/27593514-young-female-auditor-scrutinizing-financial-documents-at-desk-in-office.jpg
-wget -O female_auditor_2.jpg https://www.superpages.com/em/wp-content/uploads/2014/08/what-does-an-auditor-do.jpg
-wget -O female_auditor_3.jpg https://st3.depositphotos.com/1010613/14143/i/1600/depositphotos_141436384-stock-photo-female-auditor-analyzing-bills.jpg
-wget -O female_auditor_4.jpg https://thumbs.dreamstime.com/z/modern-business-woman-confident-female-accountant-office-student-girl-exam-preparing-audit-tax-service-modern-112304855.jpg
-wget -O female_auditor_5.jpg https://www.personal.psu.edu/users/t/a/taa5219/1.jpg
-wget -O female_auditor_6.jpg https://thumbs.dreamstime.com/z/young-beautiful-business-woman-confident-female-accountant-office-student-girl-exam-preparing-audit-tax-service-115906408.jpg
-wget -O female_auditor_7.jpg https://auditor.delaware.gov/wp-content/uploads/sites/40/2018/12/auditor-mcguiness.jpg
-wget -O female_auditor_8.jpg https://assets.sourcemedia.com/dims4/default/ceb301b/2147483647/resize/680x%3E/quality/90/?url=http%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc4%2F47%2F6003a24b4775b214e4717e6905f7%2F2018-mpwtw-13-mcniff-mary-citi.jpg
-wget -O female_auditor_9.jpg https://image.shutterstock.com/image-photo/portrait-african-american-female-expert-260nw-615661757.jpg
+wget --tries=2 -O female_auditor_0.jpg https://c8.alamy.com/comp/CPFC6K/female-auditor-CPFC6K.jpg
+wget --tries=2 -O female_auditor_1.jpg https://previews.123rf.com/images/andreypopov/andreypopov1404/andreypopov140401210/27593514-young-female-auditor-scrutinizing-financial-documents-at-desk-in-office.jpg
+wget --tries=2 -O female_auditor_2.jpg https://www.superpages.com/em/wp-content/uploads/2014/08/what-does-an-auditor-do.jpg
+wget --tries=2 -O female_auditor_3.jpg https://st3.depositphotos.com/1010613/14143/i/1600/depositphotos_141436384-stock-photo-female-auditor-analyzing-bills.jpg
+wget --tries=2 -O female_auditor_4.jpg https://thumbs.dreamstime.com/z/modern-business-woman-confident-female-accountant-office-student-girl-exam-preparing-audit-tax-service-modern-112304855.jpg
+wget --tries=2 -O female_auditor_5.jpg https://www.personal.psu.edu/users/t/a/taa5219/1.jpg
+wget --tries=2 -O female_auditor_6.jpg https://thumbs.dreamstime.com/z/young-beautiful-business-woman-confident-female-accountant-office-student-girl-exam-preparing-audit-tax-service-115906408.jpg
+wget --tries=2 -O female_auditor_7.jpg https://auditor.delaware.gov/wp-content/uploads/sites/40/2018/12/auditor-mcguiness.jpg
+wget --tries=2 -O female_auditor_8.jpg https://assets.sourcemedia.com/dims4/default/ceb301b/2147483647/resize/680x%3E/quality/90/?url=http%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc4%2F47%2F6003a24b4775b214e4717e6905f7%2F2018-mpwtw-13-mcniff-mary-citi.jpg
+wget --tries=2 -O female_auditor_9.jpg https://image.shutterstock.com/image-photo/portrait-african-american-female-expert-260nw-615661757.jpg
 			   
-wget -O female_cleaner_0.jpg https://previews.123rf.com/images/belchonock/belchonock1803/belchonock180346812/97636433-young-female-cleaner-at-work-in-office.jpg
-wget -O female_cleaner_1.jpg https://previews.123rf.com/images/kadmy/kadmy1409/kadmy140900027/31179296-portrait-of-female-cleaner-in-uniform-with-mop-and-cleaning-equipment.jpg
-wget -O female_cleaner_2.jpg https://comps.canstockphoto.com/woman-female-cleaner-cleaning-floor-picture_csp59150072.jpg
-wget -O female_cleaner_3.jpg https://st3.depositphotos.com/1177973/15214/i/1600/depositphotos_152147058-stock-photo-young-female-cleaner.jpg
-wget -O female_cleaner_4.jpg https://image.shutterstock.com/image-photo/young-smiling-cleaner-woman-modern-260nw-247024207.jpg
-wget -O female_cleaner_5.jpg https://c8.alamy.com/comp/KDBR6M/female-cleaner-with-cleaning-equipment-isolated-on-white-background-KDBR6M.jpg
-wget -O female_cleaner_6.jpg https://previews.123rf.com/images/andreypopov/andreypopov1302/andreypopov130200824/17825604-female-cleaner-with-cleaning-equipment-isolated-on-white.jpg
-wget -O female_cleaner_7.jpg https://mh-1-stockagency.panthermedia.net/media/previews/0014000000/14935000/14935319_high.jpg
-wget -O female_cleaner_8.jpg https://mh-1-stockagency.panthermedia.net/media/previews/0016000000/16162000/16162675_high.jpg
-wget -O female_cleaner_9.jpg https://thumbs.dreamstime.com/z/woman-cleaning-office-room-portrait-professional-female-cleaner-ready-to-clean-59498187.jpg
+wget --tries=2 -O female_cleaner_0.jpg https://previews.123rf.com/images/belchonock/belchonock1803/belchonock180346812/97636433-young-female-cleaner-at-work-in-office.jpg
+wget --tries=2 -O female_cleaner_1.jpg https://previews.123rf.com/images/kadmy/kadmy1409/kadmy140900027/31179296-portrait-of-female-cleaner-in-uniform-with-mop-and-cleaning-equipment.jpg
+wget --tries=2 -O female_cleaner_2.jpg https://comps.canstockphoto.com/woman-female-cleaner-cleaning-floor-picture_csp59150072.jpg
+wget --tries=2 -O female_cleaner_3.jpg https://st3.depositphotos.com/1177973/15214/i/1600/depositphotos_152147058-stock-photo-young-female-cleaner.jpg
+wget --tries=2 -O female_cleaner_4.jpg https://image.shutterstock.com/image-photo/young-smiling-cleaner-woman-modern-260nw-247024207.jpg
+wget --tries=2 -O female_cleaner_5.jpg https://c8.alamy.com/comp/KDBR6M/female-cleaner-with-cleaning-equipment-isolated-on-white-background-KDBR6M.jpg
+wget --tries=2 -O female_cleaner_6.jpg https://previews.123rf.com/images/andreypopov/andreypopov1302/andreypopov130200824/17825604-female-cleaner-with-cleaning-equipment-isolated-on-white.jpg
+wget --tries=2 -O female_cleaner_7.jpg https://mh-1-stockagency.panthermedia.net/media/previews/0014000000/14935000/14935319_high.jpg
+wget --tries=2 -O female_cleaner_8.jpg https://mh-1-stockagency.panthermedia.net/media/previews/0016000000/16162000/16162675_high.jpg
+wget --tries=2 -O female_cleaner_9.jpg https://thumbs.dreamstime.com/z/woman-cleaning-office-room-portrait-professional-female-cleaner-ready-to-clean-59498187.jpg
 			   
-wget -O female_receptionist_0.jpg https://image.shutterstock.com/image-photo/young-female-receptionist-talking-on-260nw-715216228.jpg
-wget -O female_receptionist_1.jpg https://image.shutterstock.com/image-photo/young-female-receptionist-working-office-260nw-715217953.jpg
-wget -O female_receptionist_2.jpg https://image.shutterstock.com/image-photo/female-receptionist-talking-on-phone-260nw-1074077102.jpg
-wget -O female_receptionist_3.jpg https://previews.123rf.com/images/serezniy/serezniy1810/serezniy181046100/111417335-female-receptionist-working-in-hotel.jpg
-wget -O female_receptionist_4.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4844757.jpg
-wget -O female_receptionist_5.jpg https://totemhotelandsuites.com/wp-content/uploads/2017/12/contact.jpg
-wget -O female_receptionist_6.jpg https://thumbs.dreamstime.com/z/young-female-receptionist-talking-phone-young-female-receptionist-talking-phone-office-105337188.jpg
-wget -O female_receptionist_7.jpg https://cdn9.dissolve.com/p/D984_19_603/D984_19_603_1200.jpg
-wget -O female_receptionist_8.jpg https://cdn.archive.siasat.com/wp-content/uploads/2016/09/Receptionist-1-1280x720.jpg
-wget -O female_receptionist_9.jpg https://st3.depositphotos.com/1177973/18408/i/1600/depositphotos_184086992-stock-photo-female-receptionist-talking-phone-hotel.jpg
+wget --tries=2 -O female_receptionist_0.jpg https://image.shutterstock.com/image-photo/young-female-receptionist-talking-on-260nw-715216228.jpg
+wget --tries=2 -O female_receptionist_1.jpg https://image.shutterstock.com/image-photo/young-female-receptionist-working-office-260nw-715217953.jpg
+wget --tries=2 -O female_receptionist_2.jpg https://image.shutterstock.com/image-photo/female-receptionist-talking-on-phone-260nw-1074077102.jpg
+wget --tries=2 -O female_receptionist_3.jpg https://previews.123rf.com/images/serezniy/serezniy1810/serezniy181046100/111417335-female-receptionist-working-in-hotel.jpg
+wget --tries=2 -O female_receptionist_4.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4844757.jpg
+wget --tries=2 -O female_receptionist_5.jpg https://totemhotelandsuites.com/wp-content/uploads/2017/12/contact.jpg
+wget --tries=2 -O female_receptionist_6.jpg https://thumbs.dreamstime.com/z/young-female-receptionist-talking-phone-young-female-receptionist-talking-phone-office-105337188.jpg
+wget --tries=2 -O female_receptionist_7.jpg https://cdn9.dissolve.com/p/D984_19_603/D984_19_603_1200.jpg
+wget --tries=2 -O female_receptionist_8.jpg https://cdn.archive.siasat.com/wp-content/uploads/2016/09/Receptionist-1-1280x720.jpg
+wget --tries=2 -O female_receptionist_9.jpg https://st3.depositphotos.com/1177973/18408/i/1600/depositphotos_184086992-stock-photo-female-receptionist-talking-phone-hotel.jpg
 			   
-wget -O female_clerk_0.jpg https://previews.123rf.com/images/undrey/undrey1605/undrey160500129/56413806-young-female-clerk-sitting-at-modern-office-making-notes-in-her-notepad-employee-working-on-the-work.jpg
-wget -O female_clerk_1.jpg https://st2.depositphotos.com/3977247/11007/i/950/depositphotos_110078938-stock-photo-female-clerk-sitting-on-desk.jpg
-wget -O female_clerk_2.jpg https://image.shutterstock.com/image-photo/female-clerk-sitting-on-desk-600w-54919327.jpg
-wget -O female_clerk_3.jpg https://previews.123rf.com/images/undrey/undrey1607/undrey160700263/59995960-young-female-clerk-sitting-at-modern-office-making-notes-in-her-notepad-employee-working-on-the-work.jpg
-wget -O female_clerk_4.jpg https://s3.envato.com/files/c85592a5-d4c9-47b5-9ef8-7221cef5ac8d/inline_image_preview.jpg
-wget -O female_clerk_5.jpg https://thumbs.dreamstime.com/z/beautiful-female-clerk-standing-office-her-workplace-hold-holding-planner-reading-timetable-day-side-view-portrait-104204588.jpg
-wget -O female_clerk_6.jpg https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20Iakov,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1468932796/xybszojsen6nrdzxrbvg.jpg
-wget -O female_clerk_7.jpg https://c8.alamy.com/comp/B76AM8/office-assistant-clerk-employee-woman-female-B76AM8.jpg
-wget -O female_clerk_8.jpg https://as1.ftcdn.net/jpg/01/10/97/82/500_F_110978296_voRbnYSEQxKWHhw0HHzQTeyKEa5sWJrI.jpg
-wget -O female_clerk_9.jpg https://thumbs.dreamstime.com/z/beautiful-smiling-female-clerk-offering-arm-to-client-interview-visitor-introducing-herself-closeup-friend-thanks-friendly-156398755.jpg
+wget --tries=2 -O female_clerk_0.jpg https://previews.123rf.com/images/undrey/undrey1605/undrey160500129/56413806-young-female-clerk-sitting-at-modern-office-making-notes-in-her-notepad-employee-working-on-the-work.jpg
+wget --tries=2 -O female_clerk_1.jpg https://st2.depositphotos.com/3977247/11007/i/950/depositphotos_110078938-stock-photo-female-clerk-sitting-on-desk.jpg
+wget --tries=2 -O female_clerk_2.jpg https://image.shutterstock.com/image-photo/female-clerk-sitting-on-desk-600w-54919327.jpg
+wget --tries=2 -O female_clerk_3.jpg https://previews.123rf.com/images/undrey/undrey1607/undrey160700263/59995960-young-female-clerk-sitting-at-modern-office-making-notes-in-her-notepad-employee-working-on-the-work.jpg
+wget --tries=2 -O female_clerk_4.jpg https://s3.envato.com/files/c85592a5-d4c9-47b5-9ef8-7221cef5ac8d/inline_image_preview.jpg
+wget --tries=2 -O female_clerk_5.jpg https://thumbs.dreamstime.com/z/beautiful-female-clerk-standing-office-her-workplace-hold-holding-planner-reading-timetable-day-side-view-portrait-104204588.jpg
+wget --tries=2 -O female_clerk_6.jpg https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20Iakov,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1468932796/xybszojsen6nrdzxrbvg.jpg
+wget --tries=2 -O female_clerk_7.jpg https://c8.alamy.com/comp/B76AM8/office-assistant-clerk-employee-woman-female-B76AM8.jpg
+wget --tries=2 -O female_clerk_8.jpg https://as1.ftcdn.net/jpg/01/10/97/82/500_F_110978296_voRbnYSEQxKWHhw0HHzQTeyKEa5sWJrI.jpg
+wget --tries=2 -O female_clerk_9.jpg https://thumbs.dreamstime.com/z/beautiful-smiling-female-clerk-offering-arm-to-client-interview-visitor-introducing-herself-closeup-friend-thanks-friendly-156398755.jpg
 			   
-wget -O female_counselor_0.jpg https://www.thechicagoschool.edu/wp-content/uploads/2018/02/counselor_2-females-992x661.jpg
-wget -O female_counselor_1.jpg https://lh3.googleusercontent.com/proxy/4Bd4rBta-xGsaCiNh8pbfoXE6FyjzrpGWEPo9Cet9g9H4KotglxZTmV2RvtjENZ5ZzIEQspaOkCFjwkLlA5cTlxiuM4eyR2q2M2w3acQvtKxIIKDpfYUciwlRkznl_TiGS8gm8Yv6y4JNFoiyUFRzpAmhudfulnYP0s2qrME1KgvfPbZjT5e2_04Vl9rprFQxSeBzIXaPudQE-ZtGbc3i9xGxXlyuTH71dqoaUb9jrSfrBe3WSJEUUIhIW3BkGqmxoXL9hFqrwV6jaATU7P34NSrWHq_XwOTXrmXyaAGr9Ir47RwDAMc
-wget -O female_counselor_2.jpg https://www.verywellmind.com/thmb/zREeBSKw7VyDfcxd6w1ti4Q-smg=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/therapysessions881752052-5a450b8f845b340037b66c94.jpg
-wget -O female_counselor_3.jpg https://strategicpsychology.com.au/wp-content/uploads/Personal-counselor.jpg
-wget -O female_counselor_4.jpg https://res.cloudinary.com/dg5ir1kvd/image/fetch/fl_advanced_resize%2Cc_limit%2Cw_767/https://www.ccu.edu/blogs/cags/uploads/2017/03/shutterstock_454809184.jpg%3Fv%3D1558371938762
-wget -O female_counselor_5.jpg https://image.shutterstock.com/image-photo/smiling-therapist-taking-notes-on-260nw-270925559.jpg
-wget -O female_counselor_6.jpg https://cdn4.sussexdirectories.com/rms/rms_photos/sized/32/42/354232-1445176-2_320x400.jpg?pu=1551809905
-wget -O female_counselor_7.jpg https://www.totallifecounseling.com/wp-content/uploads/2017/07/JJ15.jpeg
-wget -O female_counselor_8.jpg https://thumbs.dreamstime.com/z/stressed-teenage-girl-sitting-table-therapy-session-female-counselor-writing-clipboard-stressed-teenage-girl-sitting-128972943.jpg
-wget -O female_counselor_9.jpg https://media.istockphoto.com/photos/young-female-counselor-greets-new-client-picture-id1130406834
+wget --tries=2 -O female_counselor_0.jpg https://www.thechicagoschool.edu/wp-content/uploads/2018/02/counselor_2-females-992x661.jpg
+wget --tries=2 -O female_counselor_1.jpg https://lh3.googleusercontent.com/proxy/4Bd4rBta-xGsaCiNh8pbfoXE6FyjzrpGWEPo9Cet9g9H4KotglxZTmV2RvtjENZ5ZzIEQspaOkCFjwkLlA5cTlxiuM4eyR2q2M2w3acQvtKxIIKDpfYUciwlRkznl_TiGS8gm8Yv6y4JNFoiyUFRzpAmhudfulnYP0s2qrME1KgvfPbZjT5e2_04Vl9rprFQxSeBzIXaPudQE-ZtGbc3i9xGxXlyuTH71dqoaUb9jrSfrBe3WSJEUUIhIW3BkGqmxoXL9hFqrwV6jaATU7P34NSrWHq_XwOTXrmXyaAGr9Ir47RwDAMc
+wget --tries=2 -O female_counselor_2.jpg https://www.verywellmind.com/thmb/zREeBSKw7VyDfcxd6w1ti4Q-smg=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/therapysessions881752052-5a450b8f845b340037b66c94.jpg
+wget --tries=2 -O female_counselor_3.jpg https://strategicpsychology.com.au/wp-content/uploads/Personal-counselor.jpg
+wget --tries=2 -O female_counselor_4.jpg https://res.cloudinary.com/dg5ir1kvd/image/fetch/fl_advanced_resize%2Cc_limit%2Cw_767/https://www.ccu.edu/blogs/cags/uploads/2017/03/shutterstock_454809184.jpg%3Fv%3D1558371938762
+wget --tries=2 -O female_counselor_5.jpg https://image.shutterstock.com/image-photo/smiling-therapist-taking-notes-on-260nw-270925559.jpg
+wget --tries=2 -O female_counselor_6.jpg https://cdn4.sussexdirectories.com/rms/rms_photos/sized/32/42/354232-1445176-2_320x400.jpg?pu=1551809905
+wget --tries=2 -O female_counselor_7.jpg https://www.totallifecounseling.com/wp-content/uploads/2017/07/JJ15.jpeg
+wget --tries=2 -O female_counselor_8.jpg https://thumbs.dreamstime.com/z/stressed-teenage-girl-sitting-table-therapy-session-female-counselor-writing-clipboard-stressed-teenage-girl-sitting-128972943.jpg
+wget --tries=2 -O female_counselor_9.jpg https://media.istockphoto.com/photos/young-female-counselor-greets-new-client-picture-id1130406834
 			   
-wget -O female_designer_0.jpg https://media.gettyimages.com/photos/female-designer-with-tape-measure-in-factory-picture-id1086725382?s=612x612
-wget -O female_designer_1.jpg https://previews.123rf.com/images/opolja/opolja1506/opolja150600142/41687554-young-female-designer-using-graphics-tablet-while-working-with-computer.jpg
-wget -O female_designer_2.jpg https://previews.123rf.com/images/4pmproduction/4pmproduction1802/4pmproduction180200323/96132518-attractive-female-fashion-designer-is-working-in-her-workshop-stylish-woman-in-process-of-creating-n.jpg
-wget -O female_designer_3.jpg https://thumbs.dreamstime.com/z/female-designer-interior-20003545.jpg
-wget -O female_designer_4.jpg https://miro.medium.com/max/4000/1*oEK69V8uJE3msr32UdaOMw.jpeg
-wget -O female_designer_5.jpg https://pmcfootwearnews.files.wordpress.com/2016/03/rebecca-minkoff-2.jpg?w=1024
-wget -O female_designer_6.jpg https://d39l2hkdp2esp1.cloudfront.net/img/photo/139620/139620_00_2x.jpg
-wget -O female_designer_7.jpg https://ak7.picdn.net/shutterstock/videos/1099117/thumb/11.jpg
-wget -O female_designer_8.jpg https://cdn.asiatatler.com/asiatatler/i/hk/2018/11/05202954-kwan5388-hero_cover_1920x1200.jpg
-wget -O female_designer_9.jpg https://www.apartmentnumber4.com/wp-content/uploads/2018/10/7-INSPIRING-FEMALE-INTERIOR-DESIGNERS-CHANGING-THE-GAME-KARIN-BOHN.jpg
+wget --tries=2 -O female_designer_0.jpg https://media.gettyimages.com/photos/female-designer-with-tape-measure-in-factory-picture-id1086725382?s=612x612
+wget --tries=2 -O female_designer_1.jpg https://previews.123rf.com/images/opolja/opolja1506/opolja150600142/41687554-young-female-designer-using-graphics-tablet-while-working-with-computer.jpg
+wget --tries=2 -O female_designer_2.jpg https://previews.123rf.com/images/4pmproduction/4pmproduction1802/4pmproduction180200323/96132518-attractive-female-fashion-designer-is-working-in-her-workshop-stylish-woman-in-process-of-creating-n.jpg
+wget --tries=2 -O female_designer_3.jpg https://thumbs.dreamstime.com/z/female-designer-interior-20003545.jpg
+wget --tries=2 -O female_designer_4.jpg https://miro.medium.com/max/4000/1*oEK69V8uJE3msr32UdaOMw.jpeg
+wget --tries=2 -O female_designer_5.jpg https://pmcfootwearnews.files.wordpress.com/2016/03/rebecca-minkoff-2.jpg?w=1024
+wget --tries=2 -O female_designer_6.jpg https://d39l2hkdp2esp1.cloudfront.net/img/photo/139620/139620_00_2x.jpg
+wget --tries=2 -O female_designer_7.jpg https://ak7.picdn.net/shutterstock/videos/1099117/thumb/11.jpg
+wget --tries=2 -O female_designer_8.jpg https://cdn.asiatatler.com/asiatatler/i/hk/2018/11/05202954-kwan5388-hero_cover_1920x1200.jpg
+wget --tries=2 -O female_designer_9.jpg https://www.apartmentnumber4.com/wp-content/uploads/2018/10/7-INSPIRING-FEMALE-INTERIOR-DESIGNERS-CHANGING-THE-GAME-KARIN-BOHN.jpg
 			   
-wget -O female_hairdresser_0.jpg https://media.istockphoto.com/photos/hairdresser-cutting-some-hair-tips-picture-id692999494
-wget -O female_hairdresser_1.jpg https://previews.123rf.com/images/megaflopp/megaflopp1512/megaflopp151200031/49269050-beautiful-blonde-female-hairdresser-holding-scissors-comb-and-hairdryer-in-hands-and-picking-proper-.jpg
-wget -O female_hairdresser_2.jpg https://image.shutterstock.com/image-photo/female-hairdresser-smiling-making-hairstyle-260nw-518189275.jpg
-wget -O female_hairdresser_3.jpg https://previews.123rf.com/images/gpointstudio/gpointstudio1402/gpointstudio140200202/25931259-female-hairdresser-using-hairbrush-and-hair-dryer.jpg
-wget -O female_hairdresser_4.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1219737.jpg
-wget -O female_hairdresser_5.jpg https://ak0.picdn.net/shutterstock/videos/1017727660/thumb/1.jpg
-wget -O female_hairdresser_6.jpg https://cdn9.dissolve.com/p/D2012_157_013/D2012_157_013_1200.jpg
-wget -O female_hairdresser_7.jpg https://previews.123rf.com/images/vadymvdrobot/vadymvdrobot1603/vadymvdrobot160300618/53524194-female-hairdresser-standing-and-making-hairstyle-to-cute-lovely-young-woman-in-beauty-salon.jpg
-wget -O female_hairdresser_8.jpg https://comps.canstockphoto.com/hairdresser-works-on-woman-hair-stock-photo_csp13742826.jpg
-wget -O female_hairdresser_9.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4061091.jpg
+wget --tries=2 -O female_hairdresser_0.jpg https://media.istockphoto.com/photos/hairdresser-cutting-some-hair-tips-picture-id692999494
+wget --tries=2 -O female_hairdresser_1.jpg https://previews.123rf.com/images/megaflopp/megaflopp1512/megaflopp151200031/49269050-beautiful-blonde-female-hairdresser-holding-scissors-comb-and-hairdryer-in-hands-and-picking-proper-.jpg
+wget --tries=2 -O female_hairdresser_2.jpg https://image.shutterstock.com/image-photo/female-hairdresser-smiling-making-hairstyle-260nw-518189275.jpg
+wget --tries=2 -O female_hairdresser_3.jpg https://previews.123rf.com/images/gpointstudio/gpointstudio1402/gpointstudio140200202/25931259-female-hairdresser-using-hairbrush-and-hair-dryer.jpg
+wget --tries=2 -O female_hairdresser_4.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1219737.jpg
+wget --tries=2 -O female_hairdresser_5.jpg https://ak0.picdn.net/shutterstock/videos/1017727660/thumb/1.jpg
+wget --tries=2 -O female_hairdresser_6.jpg https://cdn9.dissolve.com/p/D2012_157_013/D2012_157_013_1200.jpg
+wget --tries=2 -O female_hairdresser_7.jpg https://previews.123rf.com/images/vadymvdrobot/vadymvdrobot1603/vadymvdrobot160300618/53524194-female-hairdresser-standing-and-making-hairstyle-to-cute-lovely-young-woman-in-beauty-salon.jpg
+wget --tries=2 -O female_hairdresser_8.jpg https://comps.canstockphoto.com/hairdresser-works-on-woman-hair-stock-photo_csp13742826.jpg
+wget --tries=2 -O female_hairdresser_9.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4061091.jpg
 			   
-wget -O female_writer_0.jpg https://image.shutterstock.com/image-photo/creative-female-writer-writing-amazing-260nw-613997348.jpg
-wget -O female_writer_1.jpg https://www.returnofkings.com/wp-content/uploads/2015/04/woman-writing-a-book.jpg
-wget -O female_writer_2.jpg https://www.prowess.org.uk/wp-content/uploads/2016/08/shutterstock_315382223.jpg
-wget -O female_writer_3.jpg https://image.shutterstock.com/image-photo/portrait-beautiful-smiling-young-businesswoman-260nw-604846250.jpg
-wget -O female_writer_4.jpg https://image.shutterstock.com/image-photo/attractive-positive-talented-mature-woman-260nw-739476277.jpg
-wget -O female_writer_5.jpg https://image.shutterstock.com/image-photo/charming-attractive-female-author-articles-260nw-648767374.jpg
-wget -O female_writer_6.jpg https://cf.ltkcdn.net/freelance-writing/images/std/207708-675x450-Girl-applying-for-grant.jpg
-wget -O female_writer_7.jpg https://thumbs.dreamstime.com/z/female-writer-working-light-modern-office-writing-down-new-ideas-her-notebook-searching-information-using-portable-computer-71059998.jpg
-wget -O female_writer_8.jpg https://ksassets.timeincuk.net/wp/uploads/sites/46/2015/11/woman-writing-1.jpg
-wget -O female_writer_9.jpg https://www.thoughtco.com/thmb/dU3-joI4NQdws_XqJ2t8lEfQMz8=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-175138278-58d783953df78c5162f9e6e1.jpg
+wget --tries=2 -O female_writer_0.jpg https://image.shutterstock.com/image-photo/creative-female-writer-writing-amazing-260nw-613997348.jpg
+wget --tries=2 -O female_writer_1.jpg https://www.returnofkings.com/wp-content/uploads/2015/04/woman-writing-a-book.jpg
+wget --tries=2 -O female_writer_2.jpg https://www.prowess.org.uk/wp-content/uploads/2016/08/shutterstock_315382223.jpg
+wget --tries=2 -O female_writer_3.jpg https://image.shutterstock.com/image-photo/portrait-beautiful-smiling-young-businesswoman-260nw-604846250.jpg
+wget --tries=2 -O female_writer_4.jpg https://image.shutterstock.com/image-photo/attractive-positive-talented-mature-woman-260nw-739476277.jpg
+wget --tries=2 -O female_writer_5.jpg https://image.shutterstock.com/image-photo/charming-attractive-female-author-articles-260nw-648767374.jpg
+wget --tries=2 -O female_writer_6.jpg https://cf.ltkcdn.net/freelance-writing/images/std/207708-675x450-Girl-applying-for-grant.jpg
+wget --tries=2 -O female_writer_7.jpg https://thumbs.dreamstime.com/z/female-writer-working-light-modern-office-writing-down-new-ideas-her-notebook-searching-information-using-portable-computer-71059998.jpg
+wget --tries=2 -O female_writer_8.jpg https://ksassets.timeincuk.net/wp/uploads/sites/46/2015/11/woman-writing-1.jpg
+wget --tries=2 -O female_writer_9.jpg https://www.thoughtco.com/thmb/dU3-joI4NQdws_XqJ2t8lEfQMz8=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-175138278-58d783953df78c5162f9e6e1.jpg
 
-wget -O female_housekeeper_0.jpg https://image.shutterstock.com/image-photo/smiling-female-housekeeping-worker-standing-260nw-654521407.jpg
-wget -O female_housekeeper_1.jpg https://previews.123rf.com/images/andreypopov/andreypopov1505/andreypopov150500157/39433969-female-housekeeper-cleaning-rug-with-vacuum-cleaner-in-hotel-room.jpg
-wget -O female_housekeeper_2.jpg https://previews.123rf.com/images/andreypopov/andreypopov1603/andreypopov160300350/53332560-happy-female-housekeeper-cleaning-nightstand-in-room.jpg
-wget -O female_housekeeper_3.jpg https://previews.123rf.com/images/andreypopov/andreypopov1602/andreypopov160200273/51726308-young-female-housekeeper-cleaning-nightstand-in-hotel-room.jpg
-wget -O female_housekeeper_4.jpg https://c8.alamy.com/comp/MCEYE6/young-female-housekeeper-cleaning-floor-with-mop-in-bedroom-MCEYE6.jpg
-wget -O female_housekeeper_5.jpg https://nancyshousekeepingservice.com/wp-content/uploads/2017/09/Maid-Service.jpg
-wget -O female_housekeeper_6.jpg https://static4.depositphotos.com/1024628/436/i/450/depositphotos_4363973-stock-photo-maid-at-work.jpg
-wget -O female_housekeeper_7.jpg https://comps.canstockphoto.com/female-housekeeper-cleaning-toilet-seat-stock-images_csp35840450.jpg
-wget -O female_housekeeper_8.jpg https://c8.alamy.com/comp/TBF86K/beautiful-female-housekeeper-working-in-room-TBF86K.jpg
-wget -O female_housekeeper_9.jpg https://image.shutterstock.com/image-photo/smiling-female-housekeeper-making-bed-260nw-1246978786.jpg
+wget --tries=2 -O female_housekeeper_0.jpg https://image.shutterstock.com/image-photo/smiling-female-housekeeping-worker-standing-260nw-654521407.jpg
+wget --tries=2 -O female_housekeeper_1.jpg https://previews.123rf.com/images/andreypopov/andreypopov1505/andreypopov150500157/39433969-female-housekeeper-cleaning-rug-with-vacuum-cleaner-in-hotel-room.jpg
+wget --tries=2 -O female_housekeeper_2.jpg https://previews.123rf.com/images/andreypopov/andreypopov1603/andreypopov160300350/53332560-happy-female-housekeeper-cleaning-nightstand-in-room.jpg
+wget --tries=2 -O female_housekeeper_3.jpg https://previews.123rf.com/images/andreypopov/andreypopov1602/andreypopov160200273/51726308-young-female-housekeeper-cleaning-nightstand-in-hotel-room.jpg
+wget --tries=2 -O female_housekeeper_4.jpg https://c8.alamy.com/comp/MCEYE6/young-female-housekeeper-cleaning-floor-with-mop-in-bedroom-MCEYE6.jpg
+wget --tries=2 -O female_housekeeper_5.jpg https://nancyshousekeepingservice.com/wp-content/uploads/2017/09/Maid-Service.jpg
+wget --tries=2 -O female_housekeeper_6.jpg https://static4.depositphotos.com/1024628/436/i/450/depositphotos_4363973-stock-photo-maid-at-work.jpg
+wget --tries=2 -O female_housekeeper_7.jpg https://comps.canstockphoto.com/female-housekeeper-cleaning-toilet-seat-stock-images_csp35840450.jpg
+wget --tries=2 -O female_housekeeper_8.jpg https://c8.alamy.com/comp/TBF86K/beautiful-female-housekeeper-working-in-room-TBF86K.jpg
+wget --tries=2 -O female_housekeeper_9.jpg https://image.shutterstock.com/image-photo/smiling-female-housekeeper-making-bed-260nw-1246978786.jpg
 			   
-wget -O female_baker_0.jpg https://c8.alamy.com/comp/P6PF7J/female-baker-in-bakery-working-P6PF7J.jpg
-wget -O female_baker_1.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1402/wavebreakmediamicro140210138/26744823-happy-female-baker-showing-some-rolls-on-a-baking-tray-smiling-at-the-camera.jpg
-wget -O female_baker_2.jpg https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/dissolve/1200/811375.jpg
-wget -O female_baker_3.jpg https://media.gettyimages.com/photos/young-woman-selling-bread-and-pastry-picture-id641768430?s=612x612
-wget -O female_baker_4.jpg https://previews.123rf.com/images/dolgachov/dolgachov1503/dolgachov150301671/37745721-cooking-bakery-people-and-food-concept-smiling-female-chef-cook-or-baker-with-crossed-arms-over-rest.jpg
-wget -O female_baker_5.jpg https://st2.depositphotos.com/1003098/10129/i/950/depositphotos_101296804-stock-photo-female-baker-holding-baking-tray.jpg
-wget -O female_baker_6.jpg https://thumbs.dreamstime.com/z/female-baker-selling-bread-her-bakery-saleswoman-fresh-pastries-products-32787462.jpg
-wget -O female_baker_7.jpg https://lh3.googleusercontent.com/proxy/7vgBXqYjzccFX0MrveDSy6qAhH0DnHJwgKHPChJK1dG6Vxy8fmubDBjh4N0YmyUuesR1gvyoPDDCcTP7Da01lXo-AzFw2z2ZmzhKLJlJRvfIJcx6
-wget -O female_baker_8.jpg https://as2.ftcdn.net/jpg/01/96/46/65/500_F_196466559_8bEBkt9bYVlo46MhcxILYSmilA8WCsyA.jpg
-wget -O female_baker_9.jpg https://image.freepik.com/free-photo/smiling-female-baker-holding-baked-croissant-cake-stand_23-2148027951.jpg
+wget --tries=2 -O female_baker_0.jpg https://c8.alamy.com/comp/P6PF7J/female-baker-in-bakery-working-P6PF7J.jpg
+wget --tries=2 -O female_baker_1.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1402/wavebreakmediamicro140210138/26744823-happy-female-baker-showing-some-rolls-on-a-baking-tray-smiling-at-the-camera.jpg
+wget --tries=2 -O female_baker_2.jpg https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/dissolve/1200/811375.jpg
+wget --tries=2 -O female_baker_3.jpg https://media.gettyimages.com/photos/young-woman-selling-bread-and-pastry-picture-id641768430?s=612x612
+wget --tries=2 -O female_baker_4.jpg https://previews.123rf.com/images/dolgachov/dolgachov1503/dolgachov150301671/37745721-cooking-bakery-people-and-food-concept-smiling-female-chef-cook-or-baker-with-crossed-arms-over-rest.jpg
+wget --tries=2 -O female_baker_5.jpg https://st2.depositphotos.com/1003098/10129/i/950/depositphotos_101296804-stock-photo-female-baker-holding-baking-tray.jpg
+wget --tries=2 -O female_baker_6.jpg https://thumbs.dreamstime.com/z/female-baker-selling-bread-her-bakery-saleswoman-fresh-pastries-products-32787462.jpg
+wget --tries=2 -O female_baker_7.jpg https://lh3.googleusercontent.com/proxy/7vgBXqYjzccFX0MrveDSy6qAhH0DnHJwgKHPChJK1dG6Vxy8fmubDBjh4N0YmyUuesR1gvyoPDDCcTP7Da01lXo-AzFw2z2ZmzhKLJlJRvfIJcx6
+wget --tries=2 -O female_baker_8.jpg https://as2.ftcdn.net/jpg/01/96/46/65/500_F_196466559_8bEBkt9bYVlo46MhcxILYSmilA8WCsyA.jpg
+wget --tries=2 -O female_baker_9.jpg https://image.freepik.com/free-photo/smiling-female-baker-holding-baked-croissant-cake-stand_23-2148027951.jpg
 			   
-wget -O female_accountant_0.jpg https://previews.123rf.com/images/akkamulator/akkamulator1705/akkamulator170500016/77785387-modern-business-woman-or-confident-female-accountant-in-office.jpg
-wget -O female_accountant_1.jpg https://image.shutterstock.com/image-photo/smiling-african-businesswoman-calculating-bills-260nw-344629028.jpg
-wget -O female_accountant_2.jpg https://image.shutterstock.com/image-photo/portrait-african-american-accountant-woman-260nw-725069242.jpg
-wget -O female_accountant_3.jpg https://www.careeraddict.com/uploads/article/57491/female-accountant-office.jpg
-wget -O female_accountant_4.jpg https://comps.canstockphoto.com/female-accountant-writing-on-documents-stock-images_csp34215653.jpg
-wget -O female_accountant_5.jpg https://c8.alamy.com/comp/M55D2F/female-accountant-works-with-financial-reports-at-his-desk-M55D2F.jpg
-wget -O female_accountant_6.jpg https://www.miamalta.org/resources/Pictures/The%20Accountant/Spring%202019/female-accountant-at-the-office-a.jpg
-wget -O female_accountant_7.jpg https://media.istockphoto.com/photos/attractive-asian-female-accountant-using-calculator-and-discussing-picture-id1056988470
-wget -O female_accountant_8.jpg https://img.caminofinancial.com/wp-content/uploads/2018/12/15164706/iStock-908827604-1024x683.jpg
-wget -O female_accountant_9.jpg https://images.freeimages.com/images/premium/previews/5818/58186852-vietnamese-female-accountant.jpg
+wget --tries=2 -O female_accountant_0.jpg https://previews.123rf.com/images/akkamulator/akkamulator1705/akkamulator170500016/77785387-modern-business-woman-or-confident-female-accountant-in-office.jpg
+wget --tries=2 -O female_accountant_1.jpg https://image.shutterstock.com/image-photo/smiling-african-businesswoman-calculating-bills-260nw-344629028.jpg
+wget --tries=2 -O female_accountant_2.jpg https://image.shutterstock.com/image-photo/portrait-african-american-accountant-woman-260nw-725069242.jpg
+wget --tries=2 -O female_accountant_3.jpg https://www.careeraddict.com/uploads/article/57491/female-accountant-office.jpg
+wget --tries=2 -O female_accountant_4.jpg https://comps.canstockphoto.com/female-accountant-writing-on-documents-stock-images_csp34215653.jpg
+wget --tries=2 -O female_accountant_5.jpg https://c8.alamy.com/comp/M55D2F/female-accountant-works-with-financial-reports-at-his-desk-M55D2F.jpg
+wget --tries=2 -O female_accountant_6.jpg https://www.miamalta.org/resources/Pictures/The%20Accountant/Spring%202019/female-accountant-at-the-office-a.jpg
+wget --tries=2 -O female_accountant_7.jpg https://media.istockphoto.com/photos/attractive-asian-female-accountant-using-calculator-and-discussing-picture-id1056988470
+wget --tries=2 -O female_accountant_8.jpg https://img.caminofinancial.com/wp-content/uploads/2018/12/15164706/iStock-908827604-1024x683.jpg
+wget --tries=2 -O female_accountant_9.jpg https://images.freeimages.com/images/premium/previews/5818/58186852-vietnamese-female-accountant.jpg
 			   
-wget -O female_editor_0.jpg https://media.npr.org/assets/img/2014/10/14/joanna-coles-corbis-5c951a864e530092ea82bf4ba6a449e008589356-s800-c85.jpg
-wget -O female_editor_1.jpg https://cf.ltkcdn.net/fashion-history/images/std/212475-593x450-fashion-editor.jpg
-wget -O female_editor_2.jpg https://thumbs.dreamstime.com/z/smiling-female-photo-editor-office-desk-portrait-sitting-45690405.jpg
-wget -O female_editor_3.jpg https://static01.nyt.com/images/2019/11/12/business/12FTEDITOR-01/12FTEDITOR-01-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget -O female_editor_4.jpg https://www.cjrarchive.org/img/posts/40_tinabrown.jpg
-wget -O female_editor_5.jpg https://www.poynter.org/wp-content/uploads/2018/12/MaggieCassidy2.jpg
-wget -O female_editor_6.jpg https://www.bethenexther.com/wp-content/uploads/2017/03/IMG_0005.jpg
-wget -O female_editor_7.jpg https://thefreelancersyear.com/wp-content/uploads/2019/06/img_5d174d5f904bf.jpg
-wget -O female_editor_8.jpg https://i1.wp.com/www.dailycal.org/assets/uploads/2019/04/Motamedi_amandaramirez_ss-900x580.jpg
-wget -O female_editor_9.jpg https://iwantherjob.com/wp-content/uploads/2019/03/Liz-Plosser-I-Want-Her-Job.jpg
+wget --tries=2 -O female_editor_0.jpg https://media.npr.org/assets/img/2014/10/14/joanna-coles-corbis-5c951a864e530092ea82bf4ba6a449e008589356-s800-c85.jpg
+wget --tries=2 -O female_editor_1.jpg https://cf.ltkcdn.net/fashion-history/images/std/212475-593x450-fashion-editor.jpg
+wget --tries=2 -O female_editor_2.jpg https://thumbs.dreamstime.com/z/smiling-female-photo-editor-office-desk-portrait-sitting-45690405.jpg
+wget --tries=2 -O female_editor_3.jpg https://static01.nyt.com/images/2019/11/12/business/12FTEDITOR-01/12FTEDITOR-01-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 -O female_editor_4.jpg https://www.cjrarchive.org/img/posts/40_tinabrown.jpg
+wget --tries=2 -O female_editor_5.jpg https://www.poynter.org/wp-content/uploads/2018/12/MaggieCassidy2.jpg
+wget --tries=2 -O female_editor_6.jpg https://www.bethenexther.com/wp-content/uploads/2017/03/IMG_0005.jpg
+wget --tries=2 -O female_editor_7.jpg https://thefreelancersyear.com/wp-content/uploads/2019/06/img_5d174d5f904bf.jpg
+wget --tries=2 -O female_editor_8.jpg https://i1.wp.com/www.dailycal.org/assets/uploads/2019/04/Motamedi_amandaramirez_ss-900x580.jpg
+wget --tries=2 -O female_editor_9.jpg https://iwantherjob.com/wp-content/uploads/2019/03/Liz-Plosser-I-Want-Her-Job.jpg
 			   
-wget -O female_librarian_0.jpg https://cdn.vox-cdn.com/thumbor/TtDqRBc6dcsbzNeYeYSpphIy1rw=/0x0:3004x2002/1200x800/filters:focal\(827x423:1307x903\)/cdn.vox-cdn.com/uploads/chorus_image/image/60796931/shutterstock_778139473.0.jpg
-wget -O female_librarian_1.jpg https://c8.alamy.com/comp/FARR07/attractive-female-librarian-at-work-FARR07.jpg
-wget -O female_librarian_2.jpg https://image.shutterstock.com/image-photo/attractive-young-woman-portrait-wearing-260nw-721002565.jpg
-wget -O female_librarian_3.jpg https://www.readersdigest.ca/wp-content/uploads/sites/14/2017/04/librarian-secrets-havent-read-that-many-books.jpg
-wget -O female_librarian_4.jpg https://studentwork.prattsi.org/infoshow/wp-content/uploads/sites/2/2014/05/RI-tat-lib.png
-wget -O female_librarian_5.jpg https://cdn8.dissolve.com/p/D25_59_302/D25_59_302_1200.jpg
-wget -O female_librarian_6.jpg https://thumbs.dreamstime.com/z/female-librarian-standing-stack-books-29664545.jpg
-wget -O female_librarian_7.jpg https://qph.fs.quoracdn.net/main-qimg-113ba608c3866869aa025ed817eb6dc3
-wget -O female_librarian_8.jpg https://www.oberlin.edu/sites/default/files/styles/width_760/public/content/news/image/alisonrickerlibrary-tanyarosenjones.jpg
-wget -O female_librarian_9.jpg https://comps.canstockphoto.com/mature-female-librarian-posing-in-stock-photos_csp16639732.jpg
+wget --tries=2 -O female_librarian_0.jpg https://cdn.vox-cdn.com/thumbor/TtDqRBc6dcsbzNeYeYSpphIy1rw=/0x0:3004x2002/1200x800/filters:focal\(827x423:1307x903\)/cdn.vox-cdn.com/uploads/chorus_image/image/60796931/shutterstock_778139473.0.jpg
+wget --tries=2 -O female_librarian_1.jpg https://c8.alamy.com/comp/FARR07/attractive-female-librarian-at-work-FARR07.jpg
+wget --tries=2 -O female_librarian_2.jpg https://image.shutterstock.com/image-photo/attractive-young-woman-portrait-wearing-260nw-721002565.jpg
+wget --tries=2 -O female_librarian_3.jpg https://www.readersdigest.ca/wp-content/uploads/sites/14/2017/04/librarian-secrets-havent-read-that-many-books.jpg
+wget --tries=2 -O female_librarian_4.jpg https://studentwork.prattsi.org/infoshow/wp-content/uploads/sites/2/2014/05/RI-tat-lib.png
+wget --tries=2 -O female_librarian_5.jpg https://cdn8.dissolve.com/p/D25_59_302/D25_59_302_1200.jpg
+wget --tries=2 -O female_librarian_6.jpg https://thumbs.dreamstime.com/z/female-librarian-standing-stack-books-29664545.jpg
+wget --tries=2 -O female_librarian_7.jpg https://qph.fs.quoracdn.net/main-qimg-113ba608c3866869aa025ed817eb6dc3
+wget --tries=2 -O female_librarian_8.jpg https://www.oberlin.edu/sites/default/files/styles/width_760/public/content/news/image/alisonrickerlibrary-tanyarosenjones.jpg
+wget --tries=2 -O female_librarian_9.jpg https://comps.canstockphoto.com/mature-female-librarian-posing-in-stock-photos_csp16639732.jpg
 
-wget -O female_tailor_0.jpg https://cdn7.dissolve.com/p/D929_43_419/D929_43_419_1200.jpg
-wget -O female_tailor_1.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/0o1a0453-104_SB_PM.jpg
-wget -O female_tailor_2.jpg https://previews.123rf.com/images/leaf/leaf1608/leaf160800221/61223660-portrait-of-smiling-female-tailor-stitching-fabric-at-workbench-in-sewing-factory.jpg
-wget -O female_tailor_3.jpg https://cdn7.dissolve.com/p/D985_43_455/D985_43_455_1200.jpg
-wget -O female_tailor_4.jpg https://static3.bigstockphoto.com/9/2/4/large1500/4298298.jpg
-wget -O female_tailor_5.jpg https://c8.alamy.com/comp/EX469X/happy-female-tailor-standing-in-workshop-and-looking-at-camera-EX469X.jpg
-wget -O female_tailor_6.jpg https://previews.123rf.com/images/serezniy/serezniy1812/serezniy181228597/113318209-young-female-tailor-using-sewing-machine-in-atelier.jpg
-wget -O female_tailor_7.jpg https://comps.canstockphoto.com/female-tailor-cutting-fabric-stock-photo_csp60971721.jpg
-wget -O female_tailor_8.jpg https://st2.depositphotos.com/8557272/11396/i/950/depositphotos_113960954-stock-photo-young-beautiful-female-tailor-working.jpg
-wget -O female_tailor_9.jpg https://ak4.picdn.net/shutterstock/videos/7640404/thumb/1.jpg
+wget --tries=2 -O female_tailor_0.jpg https://cdn7.dissolve.com/p/D929_43_419/D929_43_419_1200.jpg
+wget --tries=2 -O female_tailor_1.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/0o1a0453-104_SB_PM.jpg
+wget --tries=2 -O female_tailor_2.jpg https://previews.123rf.com/images/leaf/leaf1608/leaf160800221/61223660-portrait-of-smiling-female-tailor-stitching-fabric-at-workbench-in-sewing-factory.jpg
+wget --tries=2 -O female_tailor_3.jpg https://cdn7.dissolve.com/p/D985_43_455/D985_43_455_1200.jpg
+wget --tries=2 -O female_tailor_4.jpg https://static3.bigstockphoto.com/9/2/4/large1500/4298298.jpg
+wget --tries=2 -O female_tailor_5.jpg https://c8.alamy.com/comp/EX469X/happy-female-tailor-standing-in-workshop-and-looking-at-camera-EX469X.jpg
+wget --tries=2 -O female_tailor_6.jpg https://previews.123rf.com/images/serezniy/serezniy1812/serezniy181228597/113318209-young-female-tailor-using-sewing-machine-in-atelier.jpg
+wget --tries=2 -O female_tailor_7.jpg https://comps.canstockphoto.com/female-tailor-cutting-fabric-stock-photo_csp60971721.jpg
+wget --tries=2 -O female_tailor_8.jpg https://st2.depositphotos.com/8557272/11396/i/950/depositphotos_113960954-stock-photo-young-beautiful-female-tailor-working.jpg
+wget --tries=2 -O female_tailor_9.jpg https://ak4.picdn.net/shutterstock/videos/7640404/thumb/1.jpg
 
-wget -O female_cashier_0.jpg https://cdn7.dissolve.com/p/D985_59_365/D985_59_365_1200.jpg
-wget -O female_cashier_1.jpg https://previews.123rf.com/images/michaeljung/michaeljung1406/michaeljung140600151/28965254-beautiful-woman-working-as-a-cashier-at-the-supermarket.jpg
-wget -O female_cashier_2.jpg https://s3.envato.com/files/263084238/UC8A3280.jpg
-wget -O female_cashier_3.jpg https://cdn6.dissolve.com/p/D985_59_314/D985_59_314_1200.jpg
-wget -O female_cashier_4.jpg https://previews.123rf.com/images/stockbroker/stockbroker1507/stockbroker150704962/42271429-female-cashier-at-supermarket-checkout.jpg
-wget -O female_cashier_5.jpg https://image.shutterstock.com/image-photo/female-cashier-showing-thumb-while-600w-753588979.jpg
-wget -O female_cashier_6.jpg https://fscomps.fotosearch.com/compc/IGS/IGS070/female-cashier-and-customer-at-stock-image__is098v382.jpg
-wget -O female_cashier_7.jpg https://media.rbl.ms/image?u=%2Ffiles%2F2017%2F01%2F04%2F636190867939008575121068207_4822192685_a5fdf5a614_o.jpg\&ho=https%3A%2F%2Faz616578.vo.msecnd.net\&s=935\&h=9263ab8ec1ff66b8c3aaa9bd80288b9a665f81e0107c099e77b9caec40df0c6f\&size=980x\&c=2564132326
-wget -O female_cashier_8.jpg https://st3.depositphotos.com/1570716/17300/i/1600/depositphotos_173001208-stock-photo-female-cashier-smiling-to-customer.jpg
-wget -O female_cashier_9.jpg https://c8.alamy.com/comp/BJHG92/female-cashier-in-the-supermarket-BJHG92.jpg
+wget --tries=2 -O female_cashier_0.jpg https://cdn7.dissolve.com/p/D985_59_365/D985_59_365_1200.jpg
+wget --tries=2 -O female_cashier_1.jpg https://previews.123rf.com/images/michaeljung/michaeljung1406/michaeljung140600151/28965254-beautiful-woman-working-as-a-cashier-at-the-supermarket.jpg
+wget --tries=2 -O female_cashier_2.jpg https://s3.envato.com/files/263084238/UC8A3280.jpg
+wget --tries=2 -O female_cashier_3.jpg https://cdn6.dissolve.com/p/D985_59_314/D985_59_314_1200.jpg
+wget --tries=2 -O female_cashier_4.jpg https://previews.123rf.com/images/stockbroker/stockbroker1507/stockbroker150704962/42271429-female-cashier-at-supermarket-checkout.jpg
+wget --tries=2 -O female_cashier_5.jpg https://image.shutterstock.com/image-photo/female-cashier-showing-thumb-while-600w-753588979.jpg
+wget --tries=2 -O female_cashier_6.jpg https://fscomps.fotosearch.com/compc/IGS/IGS070/female-cashier-and-customer-at-stock-image__is098v382.jpg
+wget --tries=2 -O female_cashier_7.jpg https://media.rbl.ms/image?u=%2Ffiles%2F2017%2F01%2F04%2F636190867939008575121068207_4822192685_a5fdf5a614_o.jpg\&ho=https%3A%2F%2Faz616578.vo.msecnd.net\&s=935\&h=9263ab8ec1ff66b8c3aaa9bd80288b9a665f81e0107c099e77b9caec40df0c6f\&size=980x\&c=2564132326
+wget --tries=2 -O female_cashier_8.jpg https://st3.depositphotos.com/1570716/17300/i/1600/depositphotos_173001208-stock-photo-female-cashier-smiling-to-customer.jpg
+wget --tries=2 -O female_cashier_9.jpg https://c8.alamy.com/comp/BJHG92/female-cashier-in-the-supermarket-BJHG92.jpg

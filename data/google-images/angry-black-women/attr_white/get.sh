@@ -1,395 +1,395 @@
-wget -O white_soft_0.jpg https://c8.alamy.com/comp/WX1CYW/beautiful-woman-smiling-happily-as-she-cuddles-in-a-soft-white-fresh-towelling-bathrobe-WX1CYW.jpg
-wget -O white_soft_1.jpg https://c8.alamy.com/comp/JEBFNT/woman-sleeping-in-bed-hugging-soft-white-pillow-JEBFNT.jpg
-wget -O white_soft_2.jpg https://i.pinimg.com/736x/09/29/b4/0929b436bbc8e4006c356c761d78ad23.jpg
-wget -O white_soft_3.jpg https://thumbs.dreamstime.com/z/top-view-attractive-young-woman-sleeping-well-bed-hugging-soft-white-pillow-teenage-girl-resting-good-night-sleep-concept-134921657.jpg
-wget -O white_soft_4.jpg https://previews.123rf.com/images/fizkes/fizkes1902/fizkes190200714/116534575-serene-young-woman-lying-on-soft-white-comfortable-bed-cotton-linen-sheets-under-warm-duvet-sleeping.jpg
-wget -O white_soft_5.jpg https://image.shutterstock.com/image-photo/cheerful-white-woman-playful-smile-600w-1251369199.jpg
-wget -O white_soft_6.jpg https://thumbs.dreamstime.com/z/blonde-woman-sleeping-white-bed-early-morning-relaxation-health-concept-woman-peacefully-sleeping-soft-127540846.jpg
-wget -O white_soft_7.jpg https://c8.alamy.com/comp/E6MFKD/beauty-woman-soft-skin-face-and-hands-with-french-manicure-isolated-E6MFKD.jpg
-wget -O white_soft_8.jpg https://previews.123rf.com/images/fouroaks/fouroaks1108/fouroaks110800007/10215798-lovely-young-smiling-lady-with-her-wet-hair-wrapped-up-in-a-soft-white-towel.jpg
-wget -O white_soft_9.jpg https://assets.torrid.com/is/image/HotTopic/11637032_hi?$pdp_hero_standard$
+wget --tries=2 -O white_soft_0.jpg https://c8.alamy.com/comp/WX1CYW/beautiful-woman-smiling-happily-as-she-cuddles-in-a-soft-white-fresh-towelling-bathrobe-WX1CYW.jpg
+wget --tries=2 -O white_soft_1.jpg https://c8.alamy.com/comp/JEBFNT/woman-sleeping-in-bed-hugging-soft-white-pillow-JEBFNT.jpg
+wget --tries=2 -O white_soft_2.jpg https://i.pinimg.com/736x/09/29/b4/0929b436bbc8e4006c356c761d78ad23.jpg
+wget --tries=2 -O white_soft_3.jpg https://thumbs.dreamstime.com/z/top-view-attractive-young-woman-sleeping-well-bed-hugging-soft-white-pillow-teenage-girl-resting-good-night-sleep-concept-134921657.jpg
+wget --tries=2 -O white_soft_4.jpg https://previews.123rf.com/images/fizkes/fizkes1902/fizkes190200714/116534575-serene-young-woman-lying-on-soft-white-comfortable-bed-cotton-linen-sheets-under-warm-duvet-sleeping.jpg
+wget --tries=2 -O white_soft_5.jpg https://image.shutterstock.com/image-photo/cheerful-white-woman-playful-smile-600w-1251369199.jpg
+wget --tries=2 -O white_soft_6.jpg https://thumbs.dreamstime.com/z/blonde-woman-sleeping-white-bed-early-morning-relaxation-health-concept-woman-peacefully-sleeping-soft-127540846.jpg
+wget --tries=2 -O white_soft_7.jpg https://c8.alamy.com/comp/E6MFKD/beauty-woman-soft-skin-face-and-hands-with-french-manicure-isolated-E6MFKD.jpg
+wget --tries=2 -O white_soft_8.jpg https://previews.123rf.com/images/fouroaks/fouroaks1108/fouroaks110800007/10215798-lovely-young-smiling-lady-with-her-wet-hair-wrapped-up-in-a-soft-white-towel.jpg
+wget --tries=2 -O white_soft_9.jpg https://assets.torrid.com/is/image/HotTopic/11637032_hi?$pdp_hero_standard$
 
-wget -O white_quiet_0.jpg https://c8.alamy.com/comp/PN3YG9/depressed-mature-white-woman-looking-sadly-at-camera-in-quiet-neighborhood-PN3YG9.jpg
-wget -O white_quiet_1.jpg https://previews.123rf.com/images/chajamp/chajamp1510/chajamp151000151/46015488-woman-saying-hush-be-quiet-on-white-background-.jpg
-wget -O white_quiet_2.jpg https://thumbs.dreamstime.com/b/wedding-bride-asking-quiet-finger-lips-day-portrait-mysterious-blond-woman-young-attractive-isolated-white-44375937.jpg
-wget -O white_quiet_3.jpg https://previews.123rf.com/images/sylv1rob1/sylv1rob11903/sylv1rob1190300816/123562125-young-woman-a-quiet-gesture-on-white-background.jpg
-wget -O white_quiet_4.jpg https://thumbs.dreamstime.com/z/beautiful-young-woman-asking-to-keep-quiet-over-white-background-portrait-95512431.jpg
-wget -O white_quiet_5.jpg https://st4.depositphotos.com/4233795/20156/i/1600/depositphotos_201560754-stock-photo-business-woman-quiet-gesture-finger.jpg
-wget -O white_quiet_6.jpg https://previews.123rf.com/images/seenad/seenad1609/seenad160900033/64141803-secret-woman-woman-shows-hush-be-quiet-isolated-on-white-background-.jpg
-wget -O white_quiet_7.jpg https://st4.depositphotos.com/1049680/20879/i/1600/depositphotos_208793960-stock-photo-beautiful-young-woman-white-brick.jpg
-wget -O white_quiet_8.jpg https://previews.123rf.com/images/seenad/seenad1601/seenad160100079/50869292-secret-woman-woman-shows-hush-be-quiet-isolated-on-white-background-.jpg
-wget -O white_quiet_9.jpg https://thumbs.dreamstime.com/z/young-shocked-woman-holding-putty-knife-saying-hush-be-quiet-finger-lips-shhh-gesture-isolated-white-young-shocked-138617928.jpg
+wget --tries=2 -O white_quiet_0.jpg https://c8.alamy.com/comp/PN3YG9/depressed-mature-white-woman-looking-sadly-at-camera-in-quiet-neighborhood-PN3YG9.jpg
+wget --tries=2 -O white_quiet_1.jpg https://previews.123rf.com/images/chajamp/chajamp1510/chajamp151000151/46015488-woman-saying-hush-be-quiet-on-white-background-.jpg
+wget --tries=2 -O white_quiet_2.jpg https://thumbs.dreamstime.com/b/wedding-bride-asking-quiet-finger-lips-day-portrait-mysterious-blond-woman-young-attractive-isolated-white-44375937.jpg
+wget --tries=2 -O white_quiet_3.jpg https://previews.123rf.com/images/sylv1rob1/sylv1rob11903/sylv1rob1190300816/123562125-young-woman-a-quiet-gesture-on-white-background.jpg
+wget --tries=2 -O white_quiet_4.jpg https://thumbs.dreamstime.com/z/beautiful-young-woman-asking-to-keep-quiet-over-white-background-portrait-95512431.jpg
+wget --tries=2 -O white_quiet_5.jpg https://st4.depositphotos.com/4233795/20156/i/1600/depositphotos_201560754-stock-photo-business-woman-quiet-gesture-finger.jpg
+wget --tries=2 -O white_quiet_6.jpg https://previews.123rf.com/images/seenad/seenad1609/seenad160900033/64141803-secret-woman-woman-shows-hush-be-quiet-isolated-on-white-background-.jpg
+wget --tries=2 -O white_quiet_7.jpg https://st4.depositphotos.com/1049680/20879/i/1600/depositphotos_208793960-stock-photo-beautiful-young-woman-white-brick.jpg
+wget --tries=2 -O white_quiet_8.jpg https://previews.123rf.com/images/seenad/seenad1601/seenad160100079/50869292-secret-woman-woman-shows-hush-be-quiet-isolated-on-white-background-.jpg
+wget --tries=2 -O white_quiet_9.jpg https://thumbs.dreamstime.com/z/young-shocked-woman-holding-putty-knife-saying-hush-be-quiet-finger-lips-shhh-gesture-isolated-white-young-shocked-138617928.jpg
 
-wget -O white_compromising_0.jpg http://static.tvtome.com/images/genie_images/story/2012_usa/w/WhiteCollar-4x07/WhiteCollar-4x07_3.jpg
-wget -O white_compromising_1.jpg https://cbsnews1.cbsistatic.com/hub/i/2018/10/26/898d0043-fd3d-4e6c-94b3-75e3fd7e5269/lauren-ap-18296630225390.jpg
-wget -O white_compromising_2.jpg https://res.cloudinary.com/mmlafleur/image/upload/ar_4:2,c_fill,dpr_3.0,f_auto,fl_progressive,g_auto,q_auto,w_500/v1/mmlafleur.com/wp-content/uploads/2019/08/V1-Banner-Site.jpg
-wget -O white_compromising_3.jpg https://i.pinimg.com/originals/09/5b/aa/095baafb6f952d55c0ffc348d12b16e8.jpg
-wget -O white_compromising_4.jpg https://i.pinimg.com/originals/f8/6e/69/f86e6979bc6727d23654d33adb8f0116.jpg
-wget -O white_compromising_5.jpg https://www.inquirer.com/resizer/pVEc4B5H_Jj5xgIEKA_wFCztqJE=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/KKRZU4BXE5GHFFOBXTH4KMQ2JU.jpg
-wget -O white_compromising_6.jpg https://images.squarespace-cdn.com/content/v1/555b6514e4b0a7d968849523/1570132596676-92B8J13Q8KMS8RCAP0SB/ke17ZwdGBToddI8pDm48kHcUVlRDE5PLI4N-_FAU3Wd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmEczKEiHaQrO44vfJ0kKvIBozzHcfrzju3mLKR0uO-z7zYCQlox3vBCkAgEnHbzpH/HeatherDominick_Headshot.jpg
-wget -O white_compromising_7.jpg https://www.whitehouseblackmarket.com/web_assets/img/20191225/sh_tops_blouses_mob.jpg
-wget -O white_compromising_8.jpg https://images.squarespace-cdn.com/content/v1/57d3c6eff5e231385725f413/1574777097682-EZRE77B6TKLF6O45GQD2/ke17ZwdGBToddI8pDm48kD5yiJ5U3jLPlFVdjq-dNjtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrauObQlQl7ZeML265w0AQSyiQ5XxKSzOC_lX8M4IqZsKMshLAGzx4R3EDFOm1kBS/Celia+Pool
-wget -O white_compromising_9.jpg https://i5.walmartimages.com/asr/294b9859-731d-4679-ab8e-932c72719095_1.dbb8956eaa953d29fb2a21dfcac5287c.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF
+wget --tries=2 -O white_compromising_0.jpg http://static.tvtome.com/images/genie_images/story/2012_usa/w/WhiteCollar-4x07/WhiteCollar-4x07_3.jpg
+wget --tries=2 -O white_compromising_1.jpg https://cbsnews1.cbsistatic.com/hub/i/2018/10/26/898d0043-fd3d-4e6c-94b3-75e3fd7e5269/lauren-ap-18296630225390.jpg
+wget --tries=2 -O white_compromising_2.jpg https://res.cloudinary.com/mmlafleur/image/upload/ar_4:2,c_fill,dpr_3.0,f_auto,fl_progressive,g_auto,q_auto,w_500/v1/mmlafleur.com/wp-content/uploads/2019/08/V1-Banner-Site.jpg
+wget --tries=2 -O white_compromising_3.jpg https://i.pinimg.com/originals/09/5b/aa/095baafb6f952d55c0ffc348d12b16e8.jpg
+wget --tries=2 -O white_compromising_4.jpg https://i.pinimg.com/originals/f8/6e/69/f86e6979bc6727d23654d33adb8f0116.jpg
+wget --tries=2 -O white_compromising_5.jpg https://www.inquirer.com/resizer/pVEc4B5H_Jj5xgIEKA_wFCztqJE=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/KKRZU4BXE5GHFFOBXTH4KMQ2JU.jpg
+wget --tries=2 -O white_compromising_6.jpg https://images.squarespace-cdn.com/content/v1/555b6514e4b0a7d968849523/1570132596676-92B8J13Q8KMS8RCAP0SB/ke17ZwdGBToddI8pDm48kHcUVlRDE5PLI4N-_FAU3Wd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmEczKEiHaQrO44vfJ0kKvIBozzHcfrzju3mLKR0uO-z7zYCQlox3vBCkAgEnHbzpH/HeatherDominick_Headshot.jpg
+wget --tries=2 -O white_compromising_7.jpg https://www.whitehouseblackmarket.com/web_assets/img/20191225/sh_tops_blouses_mob.jpg
+wget --tries=2 -O white_compromising_8.jpg https://images.squarespace-cdn.com/content/v1/57d3c6eff5e231385725f413/1574777097682-EZRE77B6TKLF6O45GQD2/ke17ZwdGBToddI8pDm48kD5yiJ5U3jLPlFVdjq-dNjtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrauObQlQl7ZeML265w0AQSyiQ5XxKSzOC_lX8M4IqZsKMshLAGzx4R3EDFOm1kBS/Celia+Pool
+wget --tries=2 -O white_compromising_9.jpg https://i5.walmartimages.com/asr/294b9859-731d-4679-ab8e-932c72719095_1.dbb8956eaa953d29fb2a21dfcac5287c.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF
 
-wget -O white_rational_0.jpg https://i0.wp.com/www.unprecedentedmediocrity.com/wp-content/uploads/2016/12/mtv1.jpg?resize=640%2C373
-wget -O white_rational_1.jpg https://images.prismic.io/rational-solutions-website/43f99224eae5f75bb4dc67b1606d0e24c25b03ca_kb.jpg?auto=compress,format
-wget -O white_rational_2.jpg https://images.theconversation.com/files/275771/original/file-20190521-23820-15ffm9f.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip
-wget -O white_rational_3.jpg https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/0/4e/04e7a8f1-2ac0-5437-86c4-415f2ee9c0a9/5deb0b35bc849.image.jpg?resize=400%2C342
-wget -O white_rational_4.jpg https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xs/public/2019-05/TT62-White-Fragility-Robin-DeAngelo-1800x1080.png?h=67cb5cd9&itok=7OsTQj6w
-wget -O white_rational_5.jpg https://www.thoughtco.com/thmb/bjEDjvlPQFrHHEdcJnIC-hVkEEc=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/if-only-it-came-in-another-color----899207120-5c4548ed46e0fb0001bf8880.jpg
-wget -O white_rational_6.jpg https://pbs.twimg.com/profile_images/1180870747427938304/zR0dcUWx_400x400.jpg
-wget -O white_rational_7.jpg https://i.pinimg.com/originals/cf/a7/43/cfa7437e099bde669be7fc1b6815cca7.jpg
-wget -O white_rational_8.jpg https://images.prismic.io/rational-solutions-website/e2901f006b856bd4aedc043babcee969f0ca38e8_kristy-high-res.jpg?auto=compress,format
-wget -O white_rational_9.jpg https://vividengagement.com/wp-content/uploads/2019/08/attractive-pretty-young-woman-standing-and-holding-healthy-and-unhealthy-food-over-white-background_BFzlrUM0ro.jpg
+wget --tries=2 -O white_rational_0.jpg https://i0.wp.com/www.unprecedentedmediocrity.com/wp-content/uploads/2016/12/mtv1.jpg?resize=640%2C373
+wget --tries=2 -O white_rational_1.jpg https://images.prismic.io/rational-solutions-website/43f99224eae5f75bb4dc67b1606d0e24c25b03ca_kb.jpg?auto=compress,format
+wget --tries=2 -O white_rational_2.jpg https://images.theconversation.com/files/275771/original/file-20190521-23820-15ffm9f.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip
+wget --tries=2 -O white_rational_3.jpg https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/0/4e/04e7a8f1-2ac0-5437-86c4-415f2ee9c0a9/5deb0b35bc849.image.jpg?resize=400%2C342
+wget --tries=2 -O white_rational_4.jpg https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xs/public/2019-05/TT62-White-Fragility-Robin-DeAngelo-1800x1080.png?h=67cb5cd9&itok=7OsTQj6w
+wget --tries=2 -O white_rational_5.jpg https://www.thoughtco.com/thmb/bjEDjvlPQFrHHEdcJnIC-hVkEEc=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/if-only-it-came-in-another-color----899207120-5c4548ed46e0fb0001bf8880.jpg
+wget --tries=2 -O white_rational_6.jpg https://pbs.twimg.com/profile_images/1180870747427938304/zR0dcUWx_400x400.jpg
+wget --tries=2 -O white_rational_7.jpg https://i.pinimg.com/originals/cf/a7/43/cfa7437e099bde669be7fc1b6815cca7.jpg
+wget --tries=2 -O white_rational_8.jpg https://images.prismic.io/rational-solutions-website/e2901f006b856bd4aedc043babcee969f0ca38e8_kristy-high-res.jpg?auto=compress,format
+wget --tries=2 -O white_rational_9.jpg https://vividengagement.com/wp-content/uploads/2019/08/attractive-pretty-young-woman-standing-and-holding-healthy-and-unhealthy-food-over-white-background_BFzlrUM0ro.jpg
 
-wget -O white_calm_0.jpg https://image.shutterstock.com/image-photo/closeup-portrait-calm-young-white-600w-1422208448.jpg
-wget -O white_calm_1.jpg https://thumbs.dreamstime.com/z/zen-sign-calm-girl-blank-white-t-shirt-isolated-template-background-copy-space-young-woman-closed-eyes-mock-up-zen-sign-131756054.jpg
-wget -O white_calm_2.jpg https://st4.depositphotos.com/2760050/24073/i/1600/depositphotos_240733292-stock-photo-girl-on-calm-face-naked.jpg
-wget -O white_calm_3.jpg https://thumbs.dreamstime.com/z/lady-covers-breasts-flowers-isolated-white-woman-hiding-her-breasts-covers-bouquet-girl-calm-face-naked-holds-130460006.jpg
-wget -O white_calm_4.jpg https://previews.123rf.com/images/golubovy/golubovy1807/golubovy180700455/105026742-emotion-face-happy-smiling-calm-content-woman-young-beautiful-blond-girl-portrait-on-white-backgroun.jpg
-wget -O white_calm_5.jpg https://image.shutterstock.com/image-photo/calm-young-white-woman-hand-600w-115824412.jpg
-wget -O white_calm_6.jpg https://previews.123rf.com/images/deagreez/deagreez1809/deagreez180902437/108328293-profile-side-view-photo-of-attractive-calm-lady-in-white-street.jpg
-wget -O white_calm_7.jpg https://c8.alamy.com/comp/PKN9CY/young-calm-woman-smiling-happily-while-meditating-with-hands-up-showing-ok-gesture-isolated-on-white-background-PKN9CY.jpg
-wget -O white_calm_8.jpg https://marketplace.canva.com/MADKEKCMIU4/1/screen_2x/canva-woman-in-white-spaghetti-strap-dress-near-calm-body-of-water-MADKEKCMIU4.jpg
-wget -O white_calm_9.jpg https://c8.alamy.com/comp/T83DKT/attractive-quiet-calm-middle-aged-woman-standing-leaning-on-a-white-wall-staring-at-the-camera-with-lateral-copy-space-T83DKT.jpg
+wget --tries=2 -O white_calm_0.jpg https://image.shutterstock.com/image-photo/closeup-portrait-calm-young-white-600w-1422208448.jpg
+wget --tries=2 -O white_calm_1.jpg https://thumbs.dreamstime.com/z/zen-sign-calm-girl-blank-white-t-shirt-isolated-template-background-copy-space-young-woman-closed-eyes-mock-up-zen-sign-131756054.jpg
+wget --tries=2 -O white_calm_2.jpg https://st4.depositphotos.com/2760050/24073/i/1600/depositphotos_240733292-stock-photo-girl-on-calm-face-naked.jpg
+wget --tries=2 -O white_calm_3.jpg https://thumbs.dreamstime.com/z/lady-covers-breasts-flowers-isolated-white-woman-hiding-her-breasts-covers-bouquet-girl-calm-face-naked-holds-130460006.jpg
+wget --tries=2 -O white_calm_4.jpg https://previews.123rf.com/images/golubovy/golubovy1807/golubovy180700455/105026742-emotion-face-happy-smiling-calm-content-woman-young-beautiful-blond-girl-portrait-on-white-backgroun.jpg
+wget --tries=2 -O white_calm_5.jpg https://image.shutterstock.com/image-photo/calm-young-white-woman-hand-600w-115824412.jpg
+wget --tries=2 -O white_calm_6.jpg https://previews.123rf.com/images/deagreez/deagreez1809/deagreez180902437/108328293-profile-side-view-photo-of-attractive-calm-lady-in-white-street.jpg
+wget --tries=2 -O white_calm_7.jpg https://c8.alamy.com/comp/PKN9CY/young-calm-woman-smiling-happily-while-meditating-with-hands-up-showing-ok-gesture-isolated-on-white-background-PKN9CY.jpg
+wget --tries=2 -O white_calm_8.jpg https://marketplace.canva.com/MADKEKCMIU4/1/screen_2x/canva-woman-in-white-spaghetti-strap-dress-near-calm-body-of-water-MADKEKCMIU4.jpg
+wget --tries=2 -O white_calm_9.jpg https://c8.alamy.com/comp/T83DKT/attractive-quiet-calm-middle-aged-woman-standing-leaning-on-a-white-wall-staring-at-the-camera-with-lateral-copy-space-T83DKT.jpg
 
-wget -O white_kind_0.jpg https://cdn-img.prettylittlething.com/e/2/0/6/e2064a4fcd4a1ce9b20e7f2356c247421feaa803_clz9554_5.jpg
-wget -O white_kind_1.jpg https://as1.ftcdn.net/jpg/01/98/29/50/500_F_198295064_rSMLVZUc9mkuMIZ8fEA75CCO46gzonDW.jpg
-wget -O white_kind_2.jpg https://www.indiewire.com/wp-content/uploads/2016/09/maxresdefault.jpg?w=780
-wget -O white_kind_3.jpg https://s.yimg.com/ny/api/res/1.2/0C82_3YsGzLX0WnDZzSZTQ--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/hello_giggles_454/d47792d2dd6ef3236d88dfb9f342f798
-wget -O white_kind_4.jpg https://pbs.twimg.com/profile_images/1025389584027271175/1iE9q1kA_400x400.jpg
-wget -O white_kind_5.jpg https://c8.alamy.com/comp/WG69F9/close-up-sincere-kind-elegant-middle-aged-redhead-woman-look-camera-smiling-entertained-joyfully-attend-interesting-lecture-how-maintain-own-business-WG69F9.jpg
-wget -O white_kind_6.jpg https://c8.alamy.com/comp/WXA7F6/welcome-gesture-kind-and-trustworthy-looking-young-mixed-race-asian-caucasian-woman-welcoming-you-isolated-on-white-background-WXA7F6.jpg
-wget -O white_kind_7.jpg https://news.wbhm.org/media/2018/01/Smile_0549.jpg
-wget -O white_kind_8.jpg https://pbs.twimg.com/profile_images/1068961001029029889/um9vzIiY_400x400.jpg
-wget -O white_kind_9.jpg https://thumbs.dreamstime.com/z/beautiful-brunette-friendly-white-woman-smile-young-caucasian-against-background-big-green-kind-eyes-37263611.jpg
+wget --tries=2 -O white_kind_0.jpg https://cdn-img.prettylittlething.com/e/2/0/6/e2064a4fcd4a1ce9b20e7f2356c247421feaa803_clz9554_5.jpg
+wget --tries=2 -O white_kind_1.jpg https://as1.ftcdn.net/jpg/01/98/29/50/500_F_198295064_rSMLVZUc9mkuMIZ8fEA75CCO46gzonDW.jpg
+wget --tries=2 -O white_kind_2.jpg https://www.indiewire.com/wp-content/uploads/2016/09/maxresdefault.jpg?w=780
+wget --tries=2 -O white_kind_3.jpg https://s.yimg.com/ny/api/res/1.2/0C82_3YsGzLX0WnDZzSZTQ--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/hello_giggles_454/d47792d2dd6ef3236d88dfb9f342f798
+wget --tries=2 -O white_kind_4.jpg https://pbs.twimg.com/profile_images/1025389584027271175/1iE9q1kA_400x400.jpg
+wget --tries=2 -O white_kind_5.jpg https://c8.alamy.com/comp/WG69F9/close-up-sincere-kind-elegant-middle-aged-redhead-woman-look-camera-smiling-entertained-joyfully-attend-interesting-lecture-how-maintain-own-business-WG69F9.jpg
+wget --tries=2 -O white_kind_6.jpg https://c8.alamy.com/comp/WXA7F6/welcome-gesture-kind-and-trustworthy-looking-young-mixed-race-asian-caucasian-woman-welcoming-you-isolated-on-white-background-WXA7F6.jpg
+wget --tries=2 -O white_kind_7.jpg https://news.wbhm.org/media/2018/01/Smile_0549.jpg
+wget --tries=2 -O white_kind_8.jpg https://pbs.twimg.com/profile_images/1068961001029029889/um9vzIiY_400x400.jpg
+wget --tries=2 -O white_kind_9.jpg https://thumbs.dreamstime.com/z/beautiful-brunette-friendly-white-woman-smile-young-caucasian-against-background-big-green-kind-eyes-37263611.jpg
 
-wget -O white_agreeable_0.jpg https://fee.org/media/28679/agreeable.jpg?anchor=center&mode=crop&width=1920&rnd=131735362270000000
-wget -O white_agreeable_1.jpg https://st4.depositphotos.com/8870660/28196/v/600/depositphotos_281960492-stock-video-portrait-pensive-woman-thinking-about.jpg
-wget -O white_agreeable_2.jpg https://previews.123rf.com/images/constructer/constructer0812/constructer081200035/4057705-agreeable-girl-in-white-breeches-isolated-on-white.jpg
-wget -O white_agreeable_3.jpg https://previews.123rf.com/images/zinkevych/zinkevych1602/zinkevych160200163/52323890-stay-healthy-cheerful-agreeable-woman-holding-glass-of-water-and-drinking-it-while-standing-isolated.jpg
-wget -O white_agreeable_4.jpg https://image.shutterstock.com/image-photo/pleased-european-brunette-woman-bottle-600w-145722845.jpg
-wget -O white_agreeable_5.jpg https://comps.canstockphoto.com/agreeable-saturday-afternoon-with-a-cup-stock-images_csp38050554.jpg
-wget -O white_agreeable_6.jpg http://c8.alamy.com/comp/KGCMT0/happiness-woman-with-charming-smile-making-ok-gesture-being-agreeable-KGCMT0.jpg
-wget -O white_agreeable_7.jpg https://c8.alamy.com/comp/PGT32T/agreeable-businesswoman-with-marvelous-smile-PGT32T.jpg
-wget -O white_agreeable_8.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1102091909%2F960x0.jpg%3Ffit%3Dscale
-wget -O white_agreeable_9.jpg https://media.istockphoto.com/photos/agreeable-tv-announcer-preparing-for-broadcasting-picture-id494086314
+wget --tries=2 -O white_agreeable_0.jpg https://fee.org/media/28679/agreeable.jpg?anchor=center&mode=crop&width=1920&rnd=131735362270000000
+wget --tries=2 -O white_agreeable_1.jpg https://st4.depositphotos.com/8870660/28196/v/600/depositphotos_281960492-stock-video-portrait-pensive-woman-thinking-about.jpg
+wget --tries=2 -O white_agreeable_2.jpg https://previews.123rf.com/images/constructer/constructer0812/constructer081200035/4057705-agreeable-girl-in-white-breeches-isolated-on-white.jpg
+wget --tries=2 -O white_agreeable_3.jpg https://previews.123rf.com/images/zinkevych/zinkevych1602/zinkevych160200163/52323890-stay-healthy-cheerful-agreeable-woman-holding-glass-of-water-and-drinking-it-while-standing-isolated.jpg
+wget --tries=2 -O white_agreeable_4.jpg https://image.shutterstock.com/image-photo/pleased-european-brunette-woman-bottle-600w-145722845.jpg
+wget --tries=2 -O white_agreeable_5.jpg https://comps.canstockphoto.com/agreeable-saturday-afternoon-with-a-cup-stock-images_csp38050554.jpg
+wget --tries=2 -O white_agreeable_6.jpg http://c8.alamy.com/comp/KGCMT0/happiness-woman-with-charming-smile-making-ok-gesture-being-agreeable-KGCMT0.jpg
+wget --tries=2 -O white_agreeable_7.jpg https://c8.alamy.com/comp/PGT32T/agreeable-businesswoman-with-marvelous-smile-PGT32T.jpg
+wget --tries=2 -O white_agreeable_8.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1102091909%2F960x0.jpg%3Ffit%3Dscale
+wget --tries=2 -O white_agreeable_9.jpg https://media.istockphoto.com/photos/agreeable-tv-announcer-preparing-for-broadcasting-picture-id494086314
 
-wget -O white_servile_0.jpg https://image.shutterstock.com/image-photo/young-beautiful-asian-woman-eating-260nw-774622264.jpg
-wget -O white_servile_1.jpg https://img.buzzfeed.com/buzzfeed-static/static/2017-02/16/15/enhanced/buzzfeed-prod-fastlane-03/original-10091-1487276665-3.jpg?crop=2952:1546;0,153
-wget -O white_servile_2.jpg https://cdn.vox-cdn.com/thumbor/VLR-eD5IQe4rm6xhOedWmZ-bDZE=/0x0:5760x3840/1200x800/filters:focal\(2420x1460:3340x2380\)/cdn.vox-cdn.com/uploads/chorus_image/image/63991433/GettyImages_900224666.0.jpg
-wget -O white_servile_3.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-07/shutterstock_418045888.jpg?itok=Z6xEc6-H
-wget -O white_servile_4.jpg https://snworksceo.imgix.net/dpn/af762441-ccab-4ef3-866f-db8e627b5884.sized-1000x1000.jpg?w=1000
-wget -O white_servile_5.jpg https://static01.nyt.com/newsgraphics/2018/11/21/manohla-women/10ac494d095c9a9526282c2295e1482437108f86/legallyblonde-small.jpg
-wget -O white_servile_6.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1492190251/articles/2014/12/05/spectre-casts-50-year-old-bond-girl-for-007-to-do-sex-to/141205-zimmerman-bond-tease_z5cqyq
-wget -O white_servile_7.jpg http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Faef93562-4e1e-11e8-820c-9146b8a57671.jpg?crop=2495%2C1403%2C3%2C486&resize=685
-wget -O white_servile_8.jpg https://cdn.geekwire.com/wp-content/uploads/2018/05/TDR_Talia-cropped-768x769.jpg
-wget -O white_servile_9.jpg https://miro.medium.com/max/8374/0*w30fnqc1COA0OqNH
+wget --tries=2 -O white_servile_0.jpg https://image.shutterstock.com/image-photo/young-beautiful-asian-woman-eating-260nw-774622264.jpg
+wget --tries=2 -O white_servile_1.jpg https://img.buzzfeed.com/buzzfeed-static/static/2017-02/16/15/enhanced/buzzfeed-prod-fastlane-03/original-10091-1487276665-3.jpg?crop=2952:1546;0,153
+wget --tries=2 -O white_servile_2.jpg https://cdn.vox-cdn.com/thumbor/VLR-eD5IQe4rm6xhOedWmZ-bDZE=/0x0:5760x3840/1200x800/filters:focal\(2420x1460:3340x2380\)/cdn.vox-cdn.com/uploads/chorus_image/image/63991433/GettyImages_900224666.0.jpg
+wget --tries=2 -O white_servile_3.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-07/shutterstock_418045888.jpg?itok=Z6xEc6-H
+wget --tries=2 -O white_servile_4.jpg https://snworksceo.imgix.net/dpn/af762441-ccab-4ef3-866f-db8e627b5884.sized-1000x1000.jpg?w=1000
+wget --tries=2 -O white_servile_5.jpg https://static01.nyt.com/newsgraphics/2018/11/21/manohla-women/10ac494d095c9a9526282c2295e1482437108f86/legallyblonde-small.jpg
+wget --tries=2 -O white_servile_6.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1492190251/articles/2014/12/05/spectre-casts-50-year-old-bond-girl-for-007-to-do-sex-to/141205-zimmerman-bond-tease_z5cqyq
+wget --tries=2 -O white_servile_7.jpg http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Faef93562-4e1e-11e8-820c-9146b8a57671.jpg?crop=2495%2C1403%2C3%2C486&resize=685
+wget --tries=2 -O white_servile_8.jpg https://cdn.geekwire.com/wp-content/uploads/2018/05/TDR_Talia-cropped-768x769.jpg
+wget --tries=2 -O white_servile_9.jpg https://miro.medium.com/max/8374/0*w30fnqc1COA0OqNH
 
-wget -O white_pleasant_0.jpg https://image.shutterstock.com/image-photo/closeup-portrait-pleasant-white-woman-600w-1518727373.jpg
-wget -O white_pleasant_1.jpg https://image.shutterstock.com/image-photo/pleasant-white-girl-casual-attire-600w-1259506321.jpg
-wget -O white_pleasant_2.jpg https://c8.alamy.com/comp/PJ8XKR/beautiful-pleasant-young-woman-standing-in-front-of-white-wall-PJ8XKR.jpg
-wget -O white_pleasant_3.jpg https://previews.123rf.com/images/dbvirago/dbvirago0805/dbvirago080500229/3075040-a-pleasant-and-happy-woman-on-a-white-background.jpg
-wget -O white_pleasant_4.jpg https://c8.alamy.com/comp/2A7DCBG/handsome-woman-smiling-with-a-happy-and-pleasant-expression-on-white-background-2A7DCBG.jpg
-wget -O white_pleasant_5.jpg https://previews.123rf.com/images/bairachnyi/bairachnyi1610/bairachnyi161011039/65082137-young-pleasant-woman-in-white-blouse-and-black-skirt-holding-shopping-bags-on-white-background-in-st.jpg
-wget -O white_pleasant_6.jpg https://image.shutterstock.com/image-photo/pleasant-white-girl-straight-hairstyle-600w-1214801683.jpg
-wget -O white_pleasant_7.jpg https://c8.alamy.com/comp/PD1YCJ/pleasant-young-woman-in-white-t-shirt-having-a-drink-tasty-drink-for-rushing-people-isolated-white-background-PD1YCJ.jpg
-wget -O white_pleasant_8.jpg https://thumbs.dreamstime.com/z/headshot-pleasant-carefree-charming-european-woman-tanned-skin-white-teeth-smiling-cute-camera-being-friendly-147988251.jpg
-wget -O white_pleasant_9.jpg https://c8.alamy.com/comp/2A95271/portrait-of-smiling-pleasant-young-woman-in-white-shirt-holding-hands-on-chest-2A95271.jpg
+wget --tries=2 -O white_pleasant_0.jpg https://image.shutterstock.com/image-photo/closeup-portrait-pleasant-white-woman-600w-1518727373.jpg
+wget --tries=2 -O white_pleasant_1.jpg https://image.shutterstock.com/image-photo/pleasant-white-girl-casual-attire-600w-1259506321.jpg
+wget --tries=2 -O white_pleasant_2.jpg https://c8.alamy.com/comp/PJ8XKR/beautiful-pleasant-young-woman-standing-in-front-of-white-wall-PJ8XKR.jpg
+wget --tries=2 -O white_pleasant_3.jpg https://previews.123rf.com/images/dbvirago/dbvirago0805/dbvirago080500229/3075040-a-pleasant-and-happy-woman-on-a-white-background.jpg
+wget --tries=2 -O white_pleasant_4.jpg https://c8.alamy.com/comp/2A7DCBG/handsome-woman-smiling-with-a-happy-and-pleasant-expression-on-white-background-2A7DCBG.jpg
+wget --tries=2 -O white_pleasant_5.jpg https://previews.123rf.com/images/bairachnyi/bairachnyi1610/bairachnyi161011039/65082137-young-pleasant-woman-in-white-blouse-and-black-skirt-holding-shopping-bags-on-white-background-in-st.jpg
+wget --tries=2 -O white_pleasant_6.jpg https://image.shutterstock.com/image-photo/pleasant-white-girl-straight-hairstyle-600w-1214801683.jpg
+wget --tries=2 -O white_pleasant_7.jpg https://c8.alamy.com/comp/PD1YCJ/pleasant-young-woman-in-white-t-shirt-having-a-drink-tasty-drink-for-rushing-people-isolated-white-background-PD1YCJ.jpg
+wget --tries=2 -O white_pleasant_8.jpg https://thumbs.dreamstime.com/z/headshot-pleasant-carefree-charming-european-woman-tanned-skin-white-teeth-smiling-cute-camera-being-friendly-147988251.jpg
+wget --tries=2 -O white_pleasant_9.jpg https://c8.alamy.com/comp/2A95271/portrait-of-smiling-pleasant-young-woman-in-white-shirt-holding-hands-on-chest-2A95271.jpg
 
-wget -O white_cautious_0.jpg https://st2.depositphotos.com/1912333/7411/i/950/depositphotos_74115917-stock-photo-cautious-woman.jpg
-wget -O white_cautious_1.jpg https://image.shutterstock.com/image-photo/cautious-young-woman-on-isolated-600w-134101103.jpg
-wget -O white_cautious_2.jpg https://previews.123rf.com/images/creatista/creatista1506/creatista150600097/41750168-cautious-young-european-female-with-red-hair-over-white.jpg
-wget -O white_cautious_3.jpg https://thumbs.dreamstime.com/z/distressed-cautious-unhappy-young-woman-holding-spoonful-white-sugar-cubes-her-twenties-unhealthy-looking-away-camera-53539258.jpg
-wget -O white_cautious_4.jpg https://c8.alamy.com/comp/2AC6183/cautious-doubtful-young-stylish-woman-in-dress-with-hand-on-chin-looking-away-doubtfully-full-body-isolated-on-white-background-2AC6183.jpg
-wget -O white_cautious_5.jpg https://image.shutterstock.com/image-photo/skeptic-doubtful-woman-looking-you-260nw-223087273.jpg
-wget -O white_cautious_6.jpg https://cdna.lystit.com/photos/orchardmile/f6b77628/iro-white-Cautious-T-shirt.jpeg
-wget -O white_cautious_7.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/24/15/sally-anderson-pic-3.png
-wget -O white_cautious_8.jpg https://t1.thpservices.com/previewimage/gallil/37979592e8fce41c8a58d47bd4419b24/esy-036028533.jpg
-wget -O white_cautious_9.jpg https://c8.alamy.com/comp/2A1HWE4/cautious-young-woman-2A1HWE4.jpg
+wget --tries=2 -O white_cautious_0.jpg https://st2.depositphotos.com/1912333/7411/i/950/depositphotos_74115917-stock-photo-cautious-woman.jpg
+wget --tries=2 -O white_cautious_1.jpg https://image.shutterstock.com/image-photo/cautious-young-woman-on-isolated-600w-134101103.jpg
+wget --tries=2 -O white_cautious_2.jpg https://previews.123rf.com/images/creatista/creatista1506/creatista150600097/41750168-cautious-young-european-female-with-red-hair-over-white.jpg
+wget --tries=2 -O white_cautious_3.jpg https://thumbs.dreamstime.com/z/distressed-cautious-unhappy-young-woman-holding-spoonful-white-sugar-cubes-her-twenties-unhealthy-looking-away-camera-53539258.jpg
+wget --tries=2 -O white_cautious_4.jpg https://c8.alamy.com/comp/2AC6183/cautious-doubtful-young-stylish-woman-in-dress-with-hand-on-chin-looking-away-doubtfully-full-body-isolated-on-white-background-2AC6183.jpg
+wget --tries=2 -O white_cautious_5.jpg https://image.shutterstock.com/image-photo/skeptic-doubtful-woman-looking-you-260nw-223087273.jpg
+wget --tries=2 -O white_cautious_6.jpg https://cdna.lystit.com/photos/orchardmile/f6b77628/iro-white-Cautious-T-shirt.jpeg
+wget --tries=2 -O white_cautious_7.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/24/15/sally-anderson-pic-3.png
+wget --tries=2 -O white_cautious_8.jpg https://t1.thpservices.com/previewimage/gallil/37979592e8fce41c8a58d47bd4419b24/esy-036028533.jpg
+wget --tries=2 -O white_cautious_9.jpg https://c8.alamy.com/comp/2A1HWE4/cautious-young-woman-2A1HWE4.jpg
 
-wget -O white_friendly_0.jpg https://pbs.twimg.com/media/Cdr3_FoXIAA0q2t.jpg
-wget -O white_friendly_1.jpg https://previews.123rf.com/images/victor69/victor691604/victor69160400122/57872561-friendly-smiling-middle-aged-woman-isolated-on-white-background.jpg
-wget -O white_friendly_2.jpg https://previews.123rf.com/images/victor69/victor691604/victor69160400167/57869134-friendly-smiling-middle-aged-woman-isolated-on-white-background.jpg
-wget -O white_friendly_3.jpg https://thumbs.dreamstime.com/z/friendly-smiling-middle-aged-woman-isolated-white-background-70504298.jpg
-wget -O white_friendly_4.jpg https://c8.alamy.com/comp/D2W8T5/pretty-white-woman-with-long-brown-hair-wearing-a-black-dress-looking-D2W8T5.jpg
-wget -O white_friendly_5.jpg https://media.istockphoto.com/photos/friendly-smiling-middleaged-business-woman-isolated-on-white-picture-id946810782
-wget -O white_friendly_6.jpg https://media.istockphoto.com/photos/friendly-smiling-middleaged-woman-isolated-on-white-background-picture-id946803084
-wget -O white_friendly_7.jpg https://thumbs.dreamstime.com/z/friendly-smiling-middle-aged-woman-isolated-white-background-happy-pretty-women-friendly-smiling-middle-aged-woman-isolated-115241337.jpg
-wget -O white_friendly_8.jpg https://www.featurepics.com/StockImage/20120929/friendly-woman-stock-picture-2365132.jpg
-wget -O white_friendly_9.jpg https://c8.alamy.com/comp/R7K551/friendly-woman-with-healthy-skin-and-long-curly-hair-isolated-on-white-background-R7K551.jpg
+wget --tries=2 -O white_friendly_0.jpg https://pbs.twimg.com/media/Cdr3_FoXIAA0q2t.jpg
+wget --tries=2 -O white_friendly_1.jpg https://previews.123rf.com/images/victor69/victor691604/victor69160400122/57872561-friendly-smiling-middle-aged-woman-isolated-on-white-background.jpg
+wget --tries=2 -O white_friendly_2.jpg https://previews.123rf.com/images/victor69/victor691604/victor69160400167/57869134-friendly-smiling-middle-aged-woman-isolated-on-white-background.jpg
+wget --tries=2 -O white_friendly_3.jpg https://thumbs.dreamstime.com/z/friendly-smiling-middle-aged-woman-isolated-white-background-70504298.jpg
+wget --tries=2 -O white_friendly_4.jpg https://c8.alamy.com/comp/D2W8T5/pretty-white-woman-with-long-brown-hair-wearing-a-black-dress-looking-D2W8T5.jpg
+wget --tries=2 -O white_friendly_5.jpg https://media.istockphoto.com/photos/friendly-smiling-middleaged-business-woman-isolated-on-white-picture-id946810782
+wget --tries=2 -O white_friendly_6.jpg https://media.istockphoto.com/photos/friendly-smiling-middleaged-woman-isolated-on-white-background-picture-id946803084
+wget --tries=2 -O white_friendly_7.jpg https://thumbs.dreamstime.com/z/friendly-smiling-middle-aged-woman-isolated-white-background-happy-pretty-women-friendly-smiling-middle-aged-woman-isolated-115241337.jpg
+wget --tries=2 -O white_friendly_8.jpg https://www.featurepics.com/StockImage/20120929/friendly-woman-stock-picture-2365132.jpg
+wget --tries=2 -O white_friendly_9.jpg https://c8.alamy.com/comp/R7K551/friendly-woman-with-healthy-skin-and-long-curly-hair-isolated-on-white-background-R7K551.jpg
 
-wget -O white_supportive_0.jpg https://c8.alamy.com/comp/PX9H6K/redhead-woman-cheering-for-boyfriend-while-performing-on-stage-raising-fists-high-in-supportive-move-smiling-joyfully-yelling-keep-up-trying-to-boost-confidence-standing-over-white-background-PX9H6K.jpg
-wget -O white_supportive_1.jpg https://as1.ftcdn.net/jpg/02/68/49/98/500_F_268499878_bhgLtOM8MS4iHL6Y1BTp9oBYNH5zH6Ki.jpg
-wget -O white_supportive_2.jpg https://c8.alamy.com/comp/R830NM/happy-excited-cute-woman-with-braid-in-yellow-t-shirt-raising-clenched-fists-in-cheer-and-supportive-gesture-smiling-broadly-with-excitement-and-amazement-triumphing-happily-over-white-wall-R830NM.jpg
-wget -O white_supportive_3.jpg https://previews.123rf.com/images/sevalv/sevalv1902/sevalv190200379/116897063-waist-up-shot-of-supportive-pleasant-and-satisfied-attractive-european-fair-haired-female-in-hoodie-.jpg
-wget -O white_supportive_4.jpg https://previews.123rf.com/images/sevalv/sevalv1909/sevalv190900074/129287838-supportive-excited-extremely-happy-lucky-redhead-middle-aged-celebrating-woman-cheering-son-scored-g.jpg
-wget -O white_supportive_5.jpg https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://40plusstyle.com/wp-content/uploads/2017/03/whitecapris.jpg
-wget -O white_supportive_6.jpg https://cdn1-www.thefashionspot.com/assets/uploads/2018/10/RL-Campaign-1.png
-wget -O white_supportive_7.jpg https://static1.bigstockphoto.com/5/1/3/large2/315488950.jpg
-wget -O white_supportive_8.jpg https://image.shutterstock.com/image-photo/upbeat-supportive-attractive-brunette-woman-600w-1511376767.jpg
-wget -O white_supportive_9.jpg https://secure.gravatar.com/avatar/d69b8f2d57e13de399aa67371601f203?s=400&d=mm&r=g
+wget --tries=2 -O white_supportive_0.jpg https://c8.alamy.com/comp/PX9H6K/redhead-woman-cheering-for-boyfriend-while-performing-on-stage-raising-fists-high-in-supportive-move-smiling-joyfully-yelling-keep-up-trying-to-boost-confidence-standing-over-white-background-PX9H6K.jpg
+wget --tries=2 -O white_supportive_1.jpg https://as1.ftcdn.net/jpg/02/68/49/98/500_F_268499878_bhgLtOM8MS4iHL6Y1BTp9oBYNH5zH6Ki.jpg
+wget --tries=2 -O white_supportive_2.jpg https://c8.alamy.com/comp/R830NM/happy-excited-cute-woman-with-braid-in-yellow-t-shirt-raising-clenched-fists-in-cheer-and-supportive-gesture-smiling-broadly-with-excitement-and-amazement-triumphing-happily-over-white-wall-R830NM.jpg
+wget --tries=2 -O white_supportive_3.jpg https://previews.123rf.com/images/sevalv/sevalv1902/sevalv190200379/116897063-waist-up-shot-of-supportive-pleasant-and-satisfied-attractive-european-fair-haired-female-in-hoodie-.jpg
+wget --tries=2 -O white_supportive_4.jpg https://previews.123rf.com/images/sevalv/sevalv1909/sevalv190900074/129287838-supportive-excited-extremely-happy-lucky-redhead-middle-aged-celebrating-woman-cheering-son-scored-g.jpg
+wget --tries=2 -O white_supportive_5.jpg https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://40plusstyle.com/wp-content/uploads/2017/03/whitecapris.jpg
+wget --tries=2 -O white_supportive_6.jpg https://cdn1-www.thefashionspot.com/assets/uploads/2018/10/RL-Campaign-1.png
+wget --tries=2 -O white_supportive_7.jpg https://static1.bigstockphoto.com/5/1/3/large2/315488950.jpg
+wget --tries=2 -O white_supportive_8.jpg https://image.shutterstock.com/image-photo/upbeat-supportive-attractive-brunette-woman-600w-1511376767.jpg
+wget --tries=2 -O white_supportive_9.jpg https://secure.gravatar.com/avatar/d69b8f2d57e13de399aa67371601f203?s=400&d=mm&r=g
 
-wget -O white_nice_0.jpg https://thumbs.dreamstime.com/z/nice-young-lady-wearing-glasses-12597834.jpg
-wget -O white_nice_1.jpg https://www.mannersmentor.com/wp-content/uploads/Nice+Lady+in+White+Shirt.jpg
-wget -O white_nice_2.jpg http://media.pixcove.com/U/0/6/Girl-Lassie-Young-Nice-Free-Image-Pretty-White-Bea-6066.jpg
-wget -O white_nice_3.jpg https://thumbs.dreamstime.com/z/portrait-pretty-middle-aged-woman-19907723.jpg
-wget -O white_nice_4.jpg https://pbs.twimg.com/media/CHTGUDmVAAAPVa9.png
-wget -O white_nice_5.jpg https://c8.alamy.com/comp/PERGK1/portrait-of-beautiful-smiling-nice-young-white-caucasian-business-woman-with-blue-eyes-wearing-white-office-blouse-shirt-and-black-pants-looking-in-c-PERGK1.jpg
-wget -O white_nice_6.jpg https://c8.alamy.com/comp/PERGH3/portrait-of-beautiful-smiling-nice-young-white-caucasian-business-woman-with-blue-eyes-wearing-white-office-blouse-shirt-dress-code-looking-in-camera-PERGH3.jpg
-wget -O white_nice_7.jpg https://previews.123rf.com/images/nd3000/nd30001509/nd3000150900408/44909470-beautiful-happy-woman-with-long-legs-in-a-nice-white-room-smiling-and-being-positive.jpg
-wget -O white_nice_8.jpg https://i.pinimg.com/474x/cb/15/b8/cb15b83a3f523672516265f4bd24182f.jpg
-wget -O white_nice_9.jpg https://miro.medium.com/max/5120/0*PA_UmXXFKiSoDvKQ.jpeg
+wget --tries=2 -O white_nice_0.jpg https://thumbs.dreamstime.com/z/nice-young-lady-wearing-glasses-12597834.jpg
+wget --tries=2 -O white_nice_1.jpg https://www.mannersmentor.com/wp-content/uploads/Nice+Lady+in+White+Shirt.jpg
+wget --tries=2 -O white_nice_2.jpg http://media.pixcove.com/U/0/6/Girl-Lassie-Young-Nice-Free-Image-Pretty-White-Bea-6066.jpg
+wget --tries=2 -O white_nice_3.jpg https://thumbs.dreamstime.com/z/portrait-pretty-middle-aged-woman-19907723.jpg
+wget --tries=2 -O white_nice_4.jpg https://pbs.twimg.com/media/CHTGUDmVAAAPVa9.png
+wget --tries=2 -O white_nice_5.jpg https://c8.alamy.com/comp/PERGK1/portrait-of-beautiful-smiling-nice-young-white-caucasian-business-woman-with-blue-eyes-wearing-white-office-blouse-shirt-and-black-pants-looking-in-c-PERGK1.jpg
+wget --tries=2 -O white_nice_6.jpg https://c8.alamy.com/comp/PERGH3/portrait-of-beautiful-smiling-nice-young-white-caucasian-business-woman-with-blue-eyes-wearing-white-office-blouse-shirt-dress-code-looking-in-camera-PERGH3.jpg
+wget --tries=2 -O white_nice_7.jpg https://previews.123rf.com/images/nd3000/nd30001509/nd3000150900408/44909470-beautiful-happy-woman-with-long-legs-in-a-nice-white-room-smiling-and-being-positive.jpg
+wget --tries=2 -O white_nice_8.jpg https://i.pinimg.com/474x/cb/15/b8/cb15b83a3f523672516265f4bd24182f.jpg
+wget --tries=2 -O white_nice_9.jpg https://miro.medium.com/max/5120/0*PA_UmXXFKiSoDvKQ.jpeg
 
-wget -O white_mild_0.jpg https://as1.ftcdn.net/jpg/02/20/40/46/500_F_220404642_esnq54lHiC3sfn0Gqc7HEdB66tfRZJR4.jpg
-wget -O white_mild_1.jpg https://image.shutterstock.com/image-photo/beautiful-young-woman-white-dress-600w-282471563.jpg
-wget -O white_mild_2.jpg https://thumbs.dreamstime.com/z/portrait-beautiful-girl-happy-girl-roses-rosarium-garden-flowers-summer-mild-girl-portrait-i-take-pictures-attractive-119398471.jpg
-wget -O white_mild_3.jpg https://thumbs.dreamstime.com/z/i-take-pictures-attractive-beautiful-sweet-tender-girl-botanical-garden-around-her-lots-cool-delicate-roses-red-119398820.jpg
-wget -O white_mild_4.jpg https://as1.ftcdn.net/jpg/02/21/47/08/500_F_221470830_u3t9jc68bMvcEs7SKZU06fSDKp8eNhu7.jpg
-wget -O white_mild_5.jpg https://as1.ftcdn.net/jpg/02/12/14/64/500_F_212146487_nXi04ARLUvsINN61PHLZvIcnmv0jpXnS.jpg
-wget -O white_mild_6.jpg https://st2.depositphotos.com/1759606/11707/i/950/depositphotos_117074568-stock-photo-gorgeous-boho-woman-in-white.jpg
-wget -O white_mild_7.jpg https://pbs.twimg.com/media/DbMLdFaUwAABGpY.jpg
-wget -O white_mild_8.jpg https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/best-protein-powders-for-women-1296x728-feature.jpg?w=1155&h=1528
-wget -O white_mild_9.jpg https://t3.ftcdn.net/jpg/02/20/23/40/500_F_220234036_ITwIRbXNzQesxVi6OC9PRd0GZhdHHpPP.jpg
+wget --tries=2 -O white_mild_0.jpg https://as1.ftcdn.net/jpg/02/20/40/46/500_F_220404642_esnq54lHiC3sfn0Gqc7HEdB66tfRZJR4.jpg
+wget --tries=2 -O white_mild_1.jpg https://image.shutterstock.com/image-photo/beautiful-young-woman-white-dress-600w-282471563.jpg
+wget --tries=2 -O white_mild_2.jpg https://thumbs.dreamstime.com/z/portrait-beautiful-girl-happy-girl-roses-rosarium-garden-flowers-summer-mild-girl-portrait-i-take-pictures-attractive-119398471.jpg
+wget --tries=2 -O white_mild_3.jpg https://thumbs.dreamstime.com/z/i-take-pictures-attractive-beautiful-sweet-tender-girl-botanical-garden-around-her-lots-cool-delicate-roses-red-119398820.jpg
+wget --tries=2 -O white_mild_4.jpg https://as1.ftcdn.net/jpg/02/21/47/08/500_F_221470830_u3t9jc68bMvcEs7SKZU06fSDKp8eNhu7.jpg
+wget --tries=2 -O white_mild_5.jpg https://as1.ftcdn.net/jpg/02/12/14/64/500_F_212146487_nXi04ARLUvsINN61PHLZvIcnmv0jpXnS.jpg
+wget --tries=2 -O white_mild_6.jpg https://st2.depositphotos.com/1759606/11707/i/950/depositphotos_117074568-stock-photo-gorgeous-boho-woman-in-white.jpg
+wget --tries=2 -O white_mild_7.jpg https://pbs.twimg.com/media/DbMLdFaUwAABGpY.jpg
+wget --tries=2 -O white_mild_8.jpg https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/best-protein-powders-for-women-1296x728-feature.jpg?w=1155&h=1528
+wget --tries=2 -O white_mild_9.jpg https://t3.ftcdn.net/jpg/02/20/23/40/500_F_220234036_ITwIRbXNzQesxVi6OC9PRd0GZhdHHpPP.jpg
 
-wget -O white_demure_0.jpg https://c8.alamy.com/comp/XC16W1/attractive-girl-in-a-white-blouse-XC16W1.jpg
-wget -O white_demure_1.jpg https://st.depositphotos.com/1216882/1734/i/950/depositphotos_17345923-stock-photo-attractive-demure-young-woman.jpg
-wget -O white_demure_2.jpg https://image.shutterstock.com/image-photo/close-serious-demure-stylish-young-260nw-1429358174.jpg
-wget -O white_demure_3.jpg https://previews.agefotostock.com/previewimage/medibigoff/1dc232890e2a01e7a8638ee96863d62d/bwi-bs106178.jpg
-wget -O white_demure_4.jpg https://thumbs.dreamstime.com/z/flitring-demure-caucasian-female-model-over-pure-white-backgrou-background-vertical-image-composition-46782062.jpg
-wget -O white_demure_5.jpg https://image.shutterstock.com/image-photo/image-450w-1392842498.jpg
-wget -O white_demure_6.jpg https://c8.alamy.com/comp/EFW3D4/a-demure-innocent-seductive-femme-fatale-type-caucasian-blond-haired-EFW3D4.jpg
-wget -O white_demure_7.jpg https://comps.canstockphoto.com/beautiful-demure-young-blonde-woman-stock-images_csp12019752.jpg
-wget -O white_demure_8.jpg https://c8.alamy.com/comp/AYJFAR/woman-in-doorway-AYJFAR.jpg
-wget -O white_demure_9.jpg https://media.istockphoto.com/photos/cute-smiling-happy-and-demure-caucasian-female-model-looking-sideways-picture-id896359558
+wget --tries=2 -O white_demure_0.jpg https://c8.alamy.com/comp/XC16W1/attractive-girl-in-a-white-blouse-XC16W1.jpg
+wget --tries=2 -O white_demure_1.jpg https://st.depositphotos.com/1216882/1734/i/950/depositphotos_17345923-stock-photo-attractive-demure-young-woman.jpg
+wget --tries=2 -O white_demure_2.jpg https://image.shutterstock.com/image-photo/close-serious-demure-stylish-young-260nw-1429358174.jpg
+wget --tries=2 -O white_demure_3.jpg https://previews.agefotostock.com/previewimage/medibigoff/1dc232890e2a01e7a8638ee96863d62d/bwi-bs106178.jpg
+wget --tries=2 -O white_demure_4.jpg https://thumbs.dreamstime.com/z/flitring-demure-caucasian-female-model-over-pure-white-backgrou-background-vertical-image-composition-46782062.jpg
+wget --tries=2 -O white_demure_5.jpg https://image.shutterstock.com/image-photo/image-450w-1392842498.jpg
+wget --tries=2 -O white_demure_6.jpg https://c8.alamy.com/comp/EFW3D4/a-demure-innocent-seductive-femme-fatale-type-caucasian-blond-haired-EFW3D4.jpg
+wget --tries=2 -O white_demure_7.jpg https://comps.canstockphoto.com/beautiful-demure-young-blonde-woman-stock-images_csp12019752.jpg
+wget --tries=2 -O white_demure_8.jpg https://c8.alamy.com/comp/AYJFAR/woman-in-doorway-AYJFAR.jpg
+wget --tries=2 -O white_demure_9.jpg https://media.istockphoto.com/photos/cute-smiling-happy-and-demure-caucasian-female-model-looking-sideways-picture-id896359558
 
-wget -O white_passive_0.jpg https://upload.wikimedia.org/wikipedia/commons/c/cc/Meg_White_1.jpg
-wget -O white_passive_1.jpg https://st4.depositphotos.com/2481033/22424/i/1600/depositphotos_224245740-stock-photo-portrait-beautiful-smiling-young-woman.jpg
-wget -O white_passive_2.jpg https://thumbs.dreamstime.com/z/lady-sitting-outside-passive-look-long-brunette-hair-wearing-white-blouse-facing-camera-horizontal-photo-62421868.jpg
-wget -O white_passive_3.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fcelinnedacosta%2Ffiles%2F2019%2F06%2F12.jpg
-wget -O white_passive_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/181213171043-salary-negotiation-jaras-exlarge-169.jpg
-wget -O white_passive_5.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-11/blog_image_size_10467060_10152244410583845_7731205843851755266_o_0.jpg?itok=FSbxmdpL
-wget -O white_passive_6.jpg https://www.sheknows.com/wp-content/uploads/2018/12/woman-nagging-man-vert_btzzj5.jpeg
-wget -O white_passive_7.jpg https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-superJumbo.png
-wget -O white_passive_8.jpg https://st4.depositphotos.com/2481033/25006/i/1600/depositphotos_250068680-stock-photo-portrait-of-a-beautiful-smiling.jpg
-wget -O white_passive_9.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/shutterstock_380299504.jpg?itok=fsVUSZu_
+wget --tries=2 -O white_passive_0.jpg https://upload.wikimedia.org/wikipedia/commons/c/cc/Meg_White_1.jpg
+wget --tries=2 -O white_passive_1.jpg https://st4.depositphotos.com/2481033/22424/i/1600/depositphotos_224245740-stock-photo-portrait-beautiful-smiling-young-woman.jpg
+wget --tries=2 -O white_passive_2.jpg https://thumbs.dreamstime.com/z/lady-sitting-outside-passive-look-long-brunette-hair-wearing-white-blouse-facing-camera-horizontal-photo-62421868.jpg
+wget --tries=2 -O white_passive_3.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fcelinnedacosta%2Ffiles%2F2019%2F06%2F12.jpg
+wget --tries=2 -O white_passive_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/181213171043-salary-negotiation-jaras-exlarge-169.jpg
+wget --tries=2 -O white_passive_5.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-11/blog_image_size_10467060_10152244410583845_7731205843851755266_o_0.jpg?itok=FSbxmdpL
+wget --tries=2 -O white_passive_6.jpg https://www.sheknows.com/wp-content/uploads/2018/12/woman-nagging-man-vert_btzzj5.jpeg
+wget --tries=2 -O white_passive_7.jpg https://static01.nyt.com/images/2018/07/29/magazine/29mag-paltrow-slide-HG8U/29mag-paltrow-slide-HG8U-superJumbo.png
+wget --tries=2 -O white_passive_8.jpg https://st4.depositphotos.com/2481033/25006/i/1600/depositphotos_250068680-stock-photo-portrait-of-a-beautiful-smiling.jpg
+wget --tries=2 -O white_passive_9.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/shutterstock_380299504.jpg?itok=fsVUSZu_
 
-wget -O white_indifferent_0.jpg https://previews.123rf.com/images/vladimirfloyd/vladimirfloyd1701/vladimirfloyd170100937/70218620-crazy-messy-and-indifferent-woman-on-white.jpg
-wget -O white_indifferent_1.jpg https://thumbs.dreamstime.com/z/portrait-unimpressed-beautiful-european-woman-blond-hair-smirking-looking-upwards-indifferent-expression-standing-115532124.jpg
-wget -O white_indifferent_2.jpg https://c8.alamy.com/comp/EH893G/portrait-of-an-angry-serious-woman-with-folded-arms-isolated-on-a-EH893G.jpg
-wget -O white_indifferent_3.jpg https://st4.depositphotos.com/6465874/29327/i/1600/depositphotos_293279916-stock-photo-bored-indifferent-young-sad-redhead.jpg
-wget -O white_indifferent_4.jpg https://st3.depositphotos.com/13200112/19081/i/1600/depositphotos_190811004-stock-photo-young-indifferent-beautiful-woman-in.jpg
-wget -O white_indifferent_5.jpg https://image.shutterstock.com/image-photo/young-beautiful-indifferent-girl-holding-600w-1485017792.jpg
-wget -O white_indifferent_6.jpg https://thumbs.dreamstime.com/z/emotion-face-bored-disinterested-indifferent-woman-young-beautiful-brunette-girl-portrait-white-background-emotion-face-bored-118839517.jpg
-wget -O white_indifferent_7.jpg https://previews.123rf.com/images/vladimirfloyd/vladimirfloyd1611/vladimirfloyd161100259/69135176-blonde-girl-with-indifferent-look-on-a-white-background.jpg
-wget -O white_indifferent_8.jpg https://s3.amazonaws.com/freestock-prod/450/freestock_153616493.jpg
-wget -O white_indifferent_9.jpg https://image.shutterstock.com/image-photo/portrait-beautiful-young-brunette-woman-260nw-1577955970.jpg
+wget --tries=2 -O white_indifferent_0.jpg https://previews.123rf.com/images/vladimirfloyd/vladimirfloyd1701/vladimirfloyd170100937/70218620-crazy-messy-and-indifferent-woman-on-white.jpg
+wget --tries=2 -O white_indifferent_1.jpg https://thumbs.dreamstime.com/z/portrait-unimpressed-beautiful-european-woman-blond-hair-smirking-looking-upwards-indifferent-expression-standing-115532124.jpg
+wget --tries=2 -O white_indifferent_2.jpg https://c8.alamy.com/comp/EH893G/portrait-of-an-angry-serious-woman-with-folded-arms-isolated-on-a-EH893G.jpg
+wget --tries=2 -O white_indifferent_3.jpg https://st4.depositphotos.com/6465874/29327/i/1600/depositphotos_293279916-stock-photo-bored-indifferent-young-sad-redhead.jpg
+wget --tries=2 -O white_indifferent_4.jpg https://st3.depositphotos.com/13200112/19081/i/1600/depositphotos_190811004-stock-photo-young-indifferent-beautiful-woman-in.jpg
+wget --tries=2 -O white_indifferent_5.jpg https://image.shutterstock.com/image-photo/young-beautiful-indifferent-girl-holding-600w-1485017792.jpg
+wget --tries=2 -O white_indifferent_6.jpg https://thumbs.dreamstime.com/z/emotion-face-bored-disinterested-indifferent-woman-young-beautiful-brunette-girl-portrait-white-background-emotion-face-bored-118839517.jpg
+wget --tries=2 -O white_indifferent_7.jpg https://previews.123rf.com/images/vladimirfloyd/vladimirfloyd1611/vladimirfloyd161100259/69135176-blonde-girl-with-indifferent-look-on-a-white-background.jpg
+wget --tries=2 -O white_indifferent_8.jpg https://s3.amazonaws.com/freestock-prod/450/freestock_153616493.jpg
+wget --tries=2 -O white_indifferent_9.jpg https://image.shutterstock.com/image-photo/portrait-beautiful-young-brunette-woman-260nw-1577955970.jpg
 
-wget -O white_submissive_0.jpg https://images-na.ssl-images-amazon.com/images/I/61VD-AfUBSL._SY600_.jpg
-wget -O white_submissive_1.jpg https://cdn.kissydenise.com/wp-content/uploads/2017/10/26081129/white-woman-savage.jpg
-wget -O white_submissive_2.jpg https://a1tb.com/s2/8/8/1/2/7/2449881271.jpg
-wget -O white_submissive_3.jpg https://i.pinimg.com/originals/6b/89/93/6b8993295174621903002c1283741c40.jpg
-wget -O white_submissive_4.jpg https://pbs.twimg.com/profile_images/1057565015333593088/XPM9OnV2_400x400.jpg
-wget -O white_submissive_5.jpg https://imagecdn.clips4sale.com/accounts99/74057/clip_images/previewlg_21347913.jpg
-wget -O white_submissive_6.jpg https://img.buzzfeed.com/buzzfeed-static/static/2020-01/13/22/tmp/a61076542ef0/tmp-name-2-278-1578954337-8_dblbig.jpg
-wget -O white_submissive_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt7lqyf_zVDAvS95M46PjnYnTY31KDInsw22mXYN_DfJS2kgM&s
-wget -O white_submissive_8.jpg https://c8.alamy.com/comp/CYP1XF/sitting-woman-in-blue-polka-dot-dress-on-isolated-white-CYP1XF.jpg
-wget -O white_submissive_9.jpg https://st4.depositphotos.com/1091519/26344/i/450/depositphotos_263442514-stock-photo-sexy-strong-mistress-wearing-black.jpg
+wget --tries=2 -O white_submissive_0.jpg https://images-na.ssl-images-amazon.com/images/I/61VD-AfUBSL._SY600_.jpg
+wget --tries=2 -O white_submissive_1.jpg https://cdn.kissydenise.com/wp-content/uploads/2017/10/26081129/white-woman-savage.jpg
+wget --tries=2 -O white_submissive_2.jpg https://a1tb.com/s2/8/8/1/2/7/2449881271.jpg
+wget --tries=2 -O white_submissive_3.jpg https://i.pinimg.com/originals/6b/89/93/6b8993295174621903002c1283741c40.jpg
+wget --tries=2 -O white_submissive_4.jpg https://pbs.twimg.com/profile_images/1057565015333593088/XPM9OnV2_400x400.jpg
+wget --tries=2 -O white_submissive_5.jpg https://imagecdn.clips4sale.com/accounts99/74057/clip_images/previewlg_21347913.jpg
+wget --tries=2 -O white_submissive_6.jpg https://img.buzzfeed.com/buzzfeed-static/static/2020-01/13/22/tmp/a61076542ef0/tmp-name-2-278-1578954337-8_dblbig.jpg
+wget --tries=2 -O white_submissive_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt7lqyf_zVDAvS95M46PjnYnTY31KDInsw22mXYN_DfJS2kgM&s
+wget --tries=2 -O white_submissive_8.jpg https://c8.alamy.com/comp/CYP1XF/sitting-woman-in-blue-polka-dot-dress-on-isolated-white-CYP1XF.jpg
+wget --tries=2 -O white_submissive_9.jpg https://st4.depositphotos.com/1091519/26344/i/450/depositphotos_263442514-stock-photo-sexy-strong-mistress-wearing-black.jpg
 
-wget -O white_shrill_0.jpg https://cf-images.us-east-1.prod.boltdns.net/v1/static/769341148/8d9d984d-9218-4aaa-98ad-50e18b309e83/4c1ffa36-9e15-43f6-ab20-4bacc914a0bb/1280x720/match/image.jpg
-wget -O white_shrill_1.jpg https://upload.wikimedia.org/wikipedia/commons/f/f0/Lindy_West.jpg
-wget -O white_shrill_2.jpg https://cupofjo.com/wp-content/uploads/2019/03/lindybu.jpg
-wget -O white_shrill_3.jpg https://api.time.com/wp-content/uploads/2016/03/hillary-clinton5.jpg?w=600&quality=85
-wget -O white_shrill_4.jpg https://www.oxy.edu/sites/default/files/styles/banner_image/public/magazine/magazine_lindy-west_1440x800.jpg?itok=GqGSyQhy
-wget -O white_shrill_5.jpg https://d.newsweek.com/en/full/464464/06-10-shrill-01.jpg?w=1440&h=720&f=9fd1a94cd30d76d1d743c0f3d0597c1a
-wget -O white_shrill_6.jpg https://mediadc.brightspotcdn.com/dims4/default/e749976/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F53%2F34%2Fc3e3f2bf43f88937d1112f5c9cc2%2Fshrill.jpg
-wget -O white_shrill_7.jpg https://www.out.com/sites/out.com/files/2019/03/27/shrillx750.jpg
-wget -O white_shrill_8.jpg https://victorygirlsblog.com/wp-content/uploads/2019/03/U-can-keep-it.jpg
-wget -O white_shrill_9.jpg https://pixel.nymag.com/imgs/fashion/daily/2019/03/13/13-Lindy-West-1.nocrop.w710.h2147483647.jpg
+wget --tries=2 -O white_shrill_0.jpg https://cf-images.us-east-1.prod.boltdns.net/v1/static/769341148/8d9d984d-9218-4aaa-98ad-50e18b309e83/4c1ffa36-9e15-43f6-ab20-4bacc914a0bb/1280x720/match/image.jpg
+wget --tries=2 -O white_shrill_1.jpg https://upload.wikimedia.org/wikipedia/commons/f/f0/Lindy_West.jpg
+wget --tries=2 -O white_shrill_2.jpg https://cupofjo.com/wp-content/uploads/2019/03/lindybu.jpg
+wget --tries=2 -O white_shrill_3.jpg https://api.time.com/wp-content/uploads/2016/03/hillary-clinton5.jpg?w=600&quality=85
+wget --tries=2 -O white_shrill_4.jpg https://www.oxy.edu/sites/default/files/styles/banner_image/public/magazine/magazine_lindy-west_1440x800.jpg?itok=GqGSyQhy
+wget --tries=2 -O white_shrill_5.jpg https://d.newsweek.com/en/full/464464/06-10-shrill-01.jpg?w=1440&h=720&f=9fd1a94cd30d76d1d743c0f3d0597c1a
+wget --tries=2 -O white_shrill_6.jpg https://mediadc.brightspotcdn.com/dims4/default/e749976/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F53%2F34%2Fc3e3f2bf43f88937d1112f5c9cc2%2Fshrill.jpg
+wget --tries=2 -O white_shrill_7.jpg https://www.out.com/sites/out.com/files/2019/03/27/shrillx750.jpg
+wget --tries=2 -O white_shrill_8.jpg https://victorygirlsblog.com/wp-content/uploads/2019/03/U-can-keep-it.jpg
+wget --tries=2 -O white_shrill_9.jpg https://pixel.nymag.com/imgs/fashion/daily/2019/03/13/13-Lindy-West-1.nocrop.w710.h2147483647.jpg
 
-wget -O white_loud_0.jpg https://c8.alamy.com/comp/D56WT9/young-white-woman-talking-loud-and-screaming-at-cell-phone-D56WT9.jpg
-wget -O white_loud_1.jpg https://i.pinimg.com/originals/d0/d7/5c/d0d75c941a6ef6c515deedc17daaa85f.jpg
-wget -O white_loud_2.jpg https://previews.123rf.com/images/andriano/andriano1703/andriano170305060/74822881-woman-closes-ears-with-fingers-to-protect-from-loud-noise-isolated-on-white.jpg
-wget -O white_loud_3.jpg https://thumbs.dreamstime.com/z/portrait-young-beautiful-woman-loud-screaming-calling-out-to-someone-isolated-white-background-67581539.jpg
-wget -O white_loud_4.jpg https://c8.alamy.com/comp/T4CTCH/beautiful-senior-woman-wearing-white-sweater-at-home-shouting-and-screaming-loud-to-side-with-hand-on-mouth-communication-concept-T4CTCH.jpg
-wget -O white_loud_5.jpg https://c8.alamy.com/comp/T4CTCH/beautiful-senior-woman-wearing-white-sweater-at-home-shouting-and-screaming-loud-to-side-with-hand-on-mouth-communication-concept-T4CTCH.jpg
-wget -O white_loud_6.jpg https://media.istockphoto.com/photos/young-woman-screaming-loud-with-angry-emotions-over-white-background-picture-id611068648
-wget -O white_loud_7.jpg https://media.istockphoto.com/photos/beautiful-young-woman-wearing-casual-white-tshirt-over-isolated-and-picture-id1068443454
-wget -O white_loud_8.jpg https://image.shutterstock.com/image-photo/beautiful-young-blonde-woman-white-600w-83140747.jpg
-wget -O white_loud_9.jpg https://previews.123rf.com/images/fredgoldstei/fredgoldstei1108/fredgoldstei110800310/10374604-woman-listening-loud-music-over-white-background-wearing-green-t-shirt.jpg
+wget --tries=2 -O white_loud_0.jpg https://c8.alamy.com/comp/D56WT9/young-white-woman-talking-loud-and-screaming-at-cell-phone-D56WT9.jpg
+wget --tries=2 -O white_loud_1.jpg https://i.pinimg.com/originals/d0/d7/5c/d0d75c941a6ef6c515deedc17daaa85f.jpg
+wget --tries=2 -O white_loud_2.jpg https://previews.123rf.com/images/andriano/andriano1703/andriano170305060/74822881-woman-closes-ears-with-fingers-to-protect-from-loud-noise-isolated-on-white.jpg
+wget --tries=2 -O white_loud_3.jpg https://thumbs.dreamstime.com/z/portrait-young-beautiful-woman-loud-screaming-calling-out-to-someone-isolated-white-background-67581539.jpg
+wget --tries=2 -O white_loud_4.jpg https://c8.alamy.com/comp/T4CTCH/beautiful-senior-woman-wearing-white-sweater-at-home-shouting-and-screaming-loud-to-side-with-hand-on-mouth-communication-concept-T4CTCH.jpg
+wget --tries=2 -O white_loud_5.jpg https://c8.alamy.com/comp/T4CTCH/beautiful-senior-woman-wearing-white-sweater-at-home-shouting-and-screaming-loud-to-side-with-hand-on-mouth-communication-concept-T4CTCH.jpg
+wget --tries=2 -O white_loud_6.jpg https://media.istockphoto.com/photos/young-woman-screaming-loud-with-angry-emotions-over-white-background-picture-id611068648
+wget --tries=2 -O white_loud_7.jpg https://media.istockphoto.com/photos/beautiful-young-woman-wearing-casual-white-tshirt-over-isolated-and-picture-id1068443454
+wget --tries=2 -O white_loud_8.jpg https://image.shutterstock.com/image-photo/beautiful-young-blonde-woman-white-600w-83140747.jpg
+wget --tries=2 -O white_loud_9.jpg https://previews.123rf.com/images/fredgoldstei/fredgoldstei1108/fredgoldstei110800310/10374604-woman-listening-loud-music-over-white-background-wearing-green-t-shirt.jpg
 
-wget -O white_argumentative_0.jpg https://i.pinimg.com/originals/3e/21/b5/3e21b5e5378139e909e2faed4fa050af.jpg
-wget -O white_argumentative_1.jpg https://media.newyorker.com/photos/59097e29ebe912338a378bf8/master/w_727,c_limit/Tolentino-TheCaseAgainstContemporaryFeminism-2.jpg
-wget -O white_argumentative_2.jpg https://compote.slate.com/images/df28cb1b-f1ec-4b7c-98b9-5be9896d9970.jpeg
-wget -O white_argumentative_3.jpg https://www.wboy.com/wp-content/uploads/sites/43/2018/07/janice20white_1531163471932.jpg_48106953_ver1.0.jpg?w=352
-wget -O white_argumentative_4.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2559,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1498038647/170620-Madison-Beguiled-tease_cpi9xk
-wget -O white_argumentative_5.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/02/10/selena-gomez-bindi.jpg?w968h681
-wget -O white_argumentative_6.jpg https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/25004742/Screen-Shot-2018-08-24-at-19.53.26.png
-wget -O white_argumentative_7.jpg https://image.shutterstock.com/image-photo/young-attractive-woman-holding-paper-260nw-282760400.jpg
-wget -O white_argumentative_8.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02593/stress_1926106a_2593067b.jpg
-wget -O white_argumentative_9.jpg https://img.buzzfeed.com/buzzfeed-static/static/2018-10/15/19/asset/buzzfeed-prod-web-04/sub-buzz-27816-1539644614-1.jpg?crop=1600:837;0,230
+wget --tries=2 -O white_argumentative_0.jpg https://i.pinimg.com/originals/3e/21/b5/3e21b5e5378139e909e2faed4fa050af.jpg
+wget --tries=2 -O white_argumentative_1.jpg https://media.newyorker.com/photos/59097e29ebe912338a378bf8/master/w_727,c_limit/Tolentino-TheCaseAgainstContemporaryFeminism-2.jpg
+wget --tries=2 -O white_argumentative_2.jpg https://compote.slate.com/images/df28cb1b-f1ec-4b7c-98b9-5be9896d9970.jpeg
+wget --tries=2 -O white_argumentative_3.jpg https://www.wboy.com/wp-content/uploads/sites/43/2018/07/janice20white_1531163471932.jpg_48106953_ver1.0.jpg?w=352
+wget --tries=2 -O white_argumentative_4.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2559,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1498038647/170620-Madison-Beguiled-tease_cpi9xk
+wget --tries=2 -O white_argumentative_5.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/02/10/selena-gomez-bindi.jpg?w968h681
+wget --tries=2 -O white_argumentative_6.jpg https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/25004742/Screen-Shot-2018-08-24-at-19.53.26.png
+wget --tries=2 -O white_argumentative_7.jpg https://image.shutterstock.com/image-photo/young-attractive-woman-holding-paper-260nw-282760400.jpg
+wget --tries=2 -O white_argumentative_8.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02593/stress_1926106a_2593067b.jpg
+wget --tries=2 -O white_argumentative_9.jpg https://img.buzzfeed.com/buzzfeed-static/static/2018-10/15/19/asset/buzzfeed-prod-web-04/sub-buzz-27816-1539644614-1.jpg?crop=1600:837;0,230
 
-wget -O white_irrational_0.jpg https://st2.depositphotos.com/1134991/7412/i/950/depositphotos_74124009-stock-photo-uncomfortable-woman-holding-paper-with.jpg
-wget -O white_irrational_1.jpg https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/50/2019/02/Emma-Forbes-920x753.jpg
-wget -O white_irrational_2.jpg https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xs/public/2019-05/TT62-White-Fragility-Robin-DeAngelo-1800x1080.png?h=67cb5cd9&itok=7OsTQj6w
-wget -O white_irrational_3.jpg https://media.newyorker.com/photos/5b4e3cc512d15d2c9b41e0cb/4:3/w_300,h_225,c_limit/Waldman-Megan-Abbott.jpg
-wget -O white_irrational_4.jpg http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_450,q_80,w_800/v1492720544/teenvogue_dear-white-women-we-need-to-talk-about-coachella-pop-feminist.jpg
-wget -O white_irrational_5.jpg http://www.returnofkings.com/wp-content/uploads/2014/11/retardedwhitegirl.jpg
-wget -O white_irrational_6.jpg https://cdn-prod.opendemocracy.net/media/images/SN1_u6amzPl.width-800.png
-wget -O white_irrational_7.jpg https://media4.s-nbcnews.com/j/newscms/2019_47/3106791/191118-marie-yovanovitch-think-cs-1247p_4f1c3cd9c77ecd41cae774e7d6be6527.fit-760w.jpg
-wget -O white_irrational_8.jpg https://www.telegraph.co.uk/content/dam/women/2016/04/12/woman-work-stress_trans_NvBQzQNjv4BqpJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg?imwidth=450
-wget -O white_irrational_9.jpg https://c8.alamy.com/comp/J0CTJT/emma-stone-irrational-man-2015-J0CTJT.jpg
+wget --tries=2 -O white_irrational_0.jpg https://st2.depositphotos.com/1134991/7412/i/950/depositphotos_74124009-stock-photo-uncomfortable-woman-holding-paper-with.jpg
+wget --tries=2 -O white_irrational_1.jpg https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/50/2019/02/Emma-Forbes-920x753.jpg
+wget --tries=2 -O white_irrational_2.jpg https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xs/public/2019-05/TT62-White-Fragility-Robin-DeAngelo-1800x1080.png?h=67cb5cd9&itok=7OsTQj6w
+wget --tries=2 -O white_irrational_3.jpg https://media.newyorker.com/photos/5b4e3cc512d15d2c9b41e0cb/4:3/w_300,h_225,c_limit/Waldman-Megan-Abbott.jpg
+wget --tries=2 -O white_irrational_4.jpg http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_450,q_80,w_800/v1492720544/teenvogue_dear-white-women-we-need-to-talk-about-coachella-pop-feminist.jpg
+wget --tries=2 -O white_irrational_5.jpg http://www.returnofkings.com/wp-content/uploads/2014/11/retardedwhitegirl.jpg
+wget --tries=2 -O white_irrational_6.jpg https://cdn-prod.opendemocracy.net/media/images/SN1_u6amzPl.width-800.png
+wget --tries=2 -O white_irrational_7.jpg https://media4.s-nbcnews.com/j/newscms/2019_47/3106791/191118-marie-yovanovitch-think-cs-1247p_4f1c3cd9c77ecd41cae774e7d6be6527.fit-760w.jpg
+wget --tries=2 -O white_irrational_8.jpg https://www.telegraph.co.uk/content/dam/women/2016/04/12/woman-work-stress_trans_NvBQzQNjv4BqpJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg?imwidth=450
+wget --tries=2 -O white_irrational_9.jpg https://c8.alamy.com/comp/J0CTJT/emma-stone-irrational-man-2015-J0CTJT.jpg
 
-wget -O white_angry_0.jpg https://i.ytimg.com/vi/zJrpdH5OX-U/maxresdefault.jpg
-wget -O white_angry_1.jpg https://cdn.cnn.com/cnnnext/dam/assets/191121131947-28-impeachment-hearing-1121-hill-exlarge-169.jpg
-wget -O white_angry_2.jpg https://i.kinja-img.com/gawker-media/image/upload/s--jZQTNt1d--/c_scale,f_auto,fl_progressive,q_80,w_800/lte2qh8frjjsm96cce9i.jpg
-wget -O white_angry_3.jpg https://image.shutterstock.com/image-photo/angry-old-woman-making-fist-260nw-122204161.jpg
-wget -O white_angry_4.jpg https://image.shutterstock.com/image-photo/close-isolated-portrait-young-annoyed-260nw-410315752.jpg
-wget -O white_angry_5.jpg https://thegrio.com/wp-content/uploads/2018/10/Fotolia_Miss-Anne-e1539627605977.jpg
-wget -O white_angry_6.jpg https://i.ytimg.com/vi/Fh9D_PUe7QI/maxresdefault.jpg
-wget -O white_angry_7.jpg https://image.shutterstock.com/image-photo/angry-old-woman-making-fists-260nw-122204167.jpg
-wget -O white_angry_8.jpg https://upload.wikimedia.org/wikipedia/commons/2/2e/Jennifer_Jason_Leigh_by_Gage_Skidmore.jpg
-wget -O white_angry_9.jpg https://thumbs.dreamstime.com/b/closeup-portrait-angry-woman-looking-camera-emotional-expressing-white-dress-red-lips-dark-curly-hairstyle-studio-121230552.jpg
+wget --tries=2 -O white_angry_0.jpg https://i.ytimg.com/vi/zJrpdH5OX-U/maxresdefault.jpg
+wget --tries=2 -O white_angry_1.jpg https://cdn.cnn.com/cnnnext/dam/assets/191121131947-28-impeachment-hearing-1121-hill-exlarge-169.jpg
+wget --tries=2 -O white_angry_2.jpg https://i.kinja-img.com/gawker-media/image/upload/s--jZQTNt1d--/c_scale,f_auto,fl_progressive,q_80,w_800/lte2qh8frjjsm96cce9i.jpg
+wget --tries=2 -O white_angry_3.jpg https://image.shutterstock.com/image-photo/angry-old-woman-making-fist-260nw-122204161.jpg
+wget --tries=2 -O white_angry_4.jpg https://image.shutterstock.com/image-photo/close-isolated-portrait-young-annoyed-260nw-410315752.jpg
+wget --tries=2 -O white_angry_5.jpg https://thegrio.com/wp-content/uploads/2018/10/Fotolia_Miss-Anne-e1539627605977.jpg
+wget --tries=2 -O white_angry_6.jpg https://i.ytimg.com/vi/Fh9D_PUe7QI/maxresdefault.jpg
+wget --tries=2 -O white_angry_7.jpg https://image.shutterstock.com/image-photo/angry-old-woman-making-fists-260nw-122204167.jpg
+wget --tries=2 -O white_angry_8.jpg https://upload.wikimedia.org/wikipedia/commons/2/2e/Jennifer_Jason_Leigh_by_Gage_Skidmore.jpg
+wget --tries=2 -O white_angry_9.jpg https://thumbs.dreamstime.com/b/closeup-portrait-angry-woman-looking-camera-emotional-expressing-white-dress-red-lips-dark-curly-hairstyle-studio-121230552.jpg
 
-wget -O white_abusive_0.jpg https://media.newyorker.com/photos/5e18db500ba263000805e708/master/w_727,c_limit/200120_r35351.jpg
-wget -O white_abusive_1.jpg https://i.ytimg.com/vi/GZqb8VSFkaY/maxresdefault.jpg
-wget -O white_abusive_2.jpg https://cdn.cnn.com/cnnnext/dam/assets/180207235154-jennifer-willoughby-ctn-exlarge-169.jpg
-wget -O white_abusive_3.jpg https://img.buzzfeed.com/buzzfeed-static/static/2018-11/7/23/asset/buzzfeed-prod-web-03/sub-buzz-15254-1541651152-5.png?downsize=700%3A%2A&output-quality=auto&output-format=auto&output-quality=auto&output-format=auto&downsize=360:*
-wget -O white_abusive_4.jpg https://img.buzzfeed.com/buzzfeed-static/static/2018-11/11/11/campaign_images/buzzfeed-prod-web-05/girl-wash-your-face-is-a-massive-best-seller-with-2-8634-1541955357-0_dblbig.jpg
-wget -O white_abusive_5.jpg https://www.irishtimes.com/polopoly_fs/1.3940687.1561741864!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
-wget -O white_abusive_6.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wpzAuWmOH4tkg4xT7sULF7UK8AQ=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/URPGYEWTBQI6RD63LQ5PCYCUIQ.jpg
-wget -O white_abusive_7.jpg https://e3.365dm.com/19/06/2048x1152/skynews-sally-challen_4688951.jpg
-wget -O white_abusive_8.jpg https://cdn.vox-cdn.com/thumbor/wrqg8zjKVBOy4kdqLnCmZ0r7xFg=/0x185:2616x2147/1400x1400/filters:focal\(0x185:2616x2147\):format\(jpeg\)/cdn.vox-cdn.com/uploads/chorus_image/image/43574372/458186390.0.jpg
-wget -O white_abusive_9.jpg https://i.ytimg.com/vi/xZnaU0Dz2dk/maxresdefault.jpg
+wget --tries=2 -O white_abusive_0.jpg https://media.newyorker.com/photos/5e18db500ba263000805e708/master/w_727,c_limit/200120_r35351.jpg
+wget --tries=2 -O white_abusive_1.jpg https://i.ytimg.com/vi/GZqb8VSFkaY/maxresdefault.jpg
+wget --tries=2 -O white_abusive_2.jpg https://cdn.cnn.com/cnnnext/dam/assets/180207235154-jennifer-willoughby-ctn-exlarge-169.jpg
+wget --tries=2 -O white_abusive_3.jpg https://img.buzzfeed.com/buzzfeed-static/static/2018-11/7/23/asset/buzzfeed-prod-web-03/sub-buzz-15254-1541651152-5.png?downsize=700%3A%2A&output-quality=auto&output-format=auto&output-quality=auto&output-format=auto&downsize=360:*
+wget --tries=2 -O white_abusive_4.jpg https://img.buzzfeed.com/buzzfeed-static/static/2018-11/11/11/campaign_images/buzzfeed-prod-web-05/girl-wash-your-face-is-a-massive-best-seller-with-2-8634-1541955357-0_dblbig.jpg
+wget --tries=2 -O white_abusive_5.jpg https://www.irishtimes.com/polopoly_fs/1.3940687.1561741864!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
+wget --tries=2 -O white_abusive_6.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wpzAuWmOH4tkg4xT7sULF7UK8AQ=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/URPGYEWTBQI6RD63LQ5PCYCUIQ.jpg
+wget --tries=2 -O white_abusive_7.jpg https://e3.365dm.com/19/06/2048x1152/skynews-sally-challen_4688951.jpg
+wget --tries=2 -O white_abusive_8.jpg https://cdn.vox-cdn.com/thumbor/wrqg8zjKVBOy4kdqLnCmZ0r7xFg=/0x185:2616x2147/1400x1400/filters:focal\(0x185:2616x2147\):format\(jpeg\)/cdn.vox-cdn.com/uploads/chorus_image/image/43574372/458186390.0.jpg
+wget --tries=2 -O white_abusive_9.jpg https://i.ytimg.com/vi/xZnaU0Dz2dk/maxresdefault.jpg
 
-wget -O white_obnoxious_0.jpg https://media.vanityfair.com/photos/5bfedbcd5f44912d037afe57/master/w_1600%2Cc_limit/college-conservatives-opener.jpg
-wget -O white_obnoxious_1.jpg http://4.bp.blogspot.com/-PfB-r3f7ejk/TyWiVMFaejI/AAAAAAAAC78/wu32a70AeXI/s1600/015.JPG
-wget -O white_obnoxious_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/01/iStock-922757424-1080x675.jpg
-wget -O white_obnoxious_3.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/01/iStock-922757424-1080x675.jpg
-wget -O white_obnoxious_4.jpg https://www.thesun.co.uk/wp-content/uploads/2017/10/vicky3.png
-wget -O white_obnoxious_5.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1492101167/articles/2016/12/09/tomi-lahren-is-terrible-period/161208-Zimmerman-Tomi-Lahren-tease_zj2weo
-wget -O white_obnoxious_6.jpg https://www.indiewire.com/wp-content/uploads/2018/06/shutterstock_9715700aj.jpg?w=780
-wget -O white_obnoxious_7.jpg https://hips.hearstapps.com/mac.h-cdn.co/assets/15/29/gettyimages-481924421.jpg?crop=1.0xw:1xh;center,top&resize=480:*
-wget -O white_obnoxious_8.jpg https://pmcvariety.files.wordpress.com/2018/06/rexfeatures_9715773q.jpg?crop=0px%2C32px%2C4048px%2C2281px&resize=700%2C393
-wget -O white_obnoxious_9.jpg https://static01.nyt.com/images/2018/10/17/us/politics/17dc-trump-4-print/merlin_138142611_994cd9e6-4533-4bad-ae90-120fcb171156-jumbo.jpg
+wget --tries=2 -O white_obnoxious_0.jpg https://media.vanityfair.com/photos/5bfedbcd5f44912d037afe57/master/w_1600%2Cc_limit/college-conservatives-opener.jpg
+wget --tries=2 -O white_obnoxious_1.jpg http://4.bp.blogspot.com/-PfB-r3f7ejk/TyWiVMFaejI/AAAAAAAAC78/wu32a70AeXI/s1600/015.JPG
+wget --tries=2 -O white_obnoxious_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/01/iStock-922757424-1080x675.jpg
+wget --tries=2 -O white_obnoxious_3.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/01/iStock-922757424-1080x675.jpg
+wget --tries=2 -O white_obnoxious_4.jpg https://www.thesun.co.uk/wp-content/uploads/2017/10/vicky3.png
+wget --tries=2 -O white_obnoxious_5.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1492101167/articles/2016/12/09/tomi-lahren-is-terrible-period/161208-Zimmerman-Tomi-Lahren-tease_zj2weo
+wget --tries=2 -O white_obnoxious_6.jpg https://www.indiewire.com/wp-content/uploads/2018/06/shutterstock_9715700aj.jpg?w=780
+wget --tries=2 -O white_obnoxious_7.jpg https://hips.hearstapps.com/mac.h-cdn.co/assets/15/29/gettyimages-481924421.jpg?crop=1.0xw:1xh;center,top&resize=480:*
+wget --tries=2 -O white_obnoxious_8.jpg https://pmcvariety.files.wordpress.com/2018/06/rexfeatures_9715773q.jpg?crop=0px%2C32px%2C4048px%2C2281px&resize=700%2C393
+wget --tries=2 -O white_obnoxious_9.jpg https://static01.nyt.com/images/2018/10/17/us/politics/17dc-trump-4-print/merlin_138142611_994cd9e6-4533-4bad-ae90-120fcb171156-jumbo.jpg
 
-wget -O white_controlling_0.jpg https://c8.alamy.com/comp/T2G8BK/slim-down-concept-woman-plus-size-large-girl-on-scales-controlling-her-weight-studio-shot-isolated-on-white-T2G8BK.jpg
-wget -O white_controlling_1.jpg https://www.newsbusters.org/s3/files/styles/blog_body-100/s3/images/hathaway.jpg?itok=Tm8hboMT
-wget -O white_controlling_2.jpg https://thoughtcatalog.files.wordpress.com/2018/01/33594567174_1b53d8b07e_o.jpg?w=1920&h=1280&crop=1&resize=1920,1280&quality=95&strip=all
-wget -O white_controlling_3.jpg https://media.vanityfair.com/photos/5bfedbcd5f44912d037afe57/master/w_1600%2Cc_limit/college-conservatives-opener.jpg
-wget -O white_controlling_4.jpg https://i2.wp.com/am23.akamaized.net/tms/cnt/uploads/2018/05/Anne-Hathaway-in-Oceans-8.jpg?resize=780%2C419&ssl=1
-wget -O white_controlling_5.jpg https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9a57d280-86a4-11e8-ad58-ae35970199d3.jpg?crop=2106%2C2106%2C1027%2C251&resize=320
-wget -O white_controlling_6.jpg https://www.verywellmind.com/thmb/0KceOOsA9r-PDFQw66hckf3dRlg=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/137546633-56a0d0cc3df78cafdaa55044.jpg
-wget -O white_controlling_7.jpg https://s3.envato.com/files/247898878/Warehouse_II_GT_159.jpg
-wget -O white_controlling_8.jpg https://media.vanityfair.com/photos/5bfedbcd296c752cecdfdfb4/master/w_1951,h_1484,c_limit/college-conservatives-embed-04.jpg
-wget -O white_controlling_9.jpg https://media.istockphoto.com/photos/woman-controlling-her-intelligent-home-system-on-a-digital-tablet-picture-id1134350078
+wget --tries=2 -O white_controlling_0.jpg https://c8.alamy.com/comp/T2G8BK/slim-down-concept-woman-plus-size-large-girl-on-scales-controlling-her-weight-studio-shot-isolated-on-white-T2G8BK.jpg
+wget --tries=2 -O white_controlling_1.jpg https://www.newsbusters.org/s3/files/styles/blog_body-100/s3/images/hathaway.jpg?itok=Tm8hboMT
+wget --tries=2 -O white_controlling_2.jpg https://thoughtcatalog.files.wordpress.com/2018/01/33594567174_1b53d8b07e_o.jpg?w=1920&h=1280&crop=1&resize=1920,1280&quality=95&strip=all
+wget --tries=2 -O white_controlling_3.jpg https://media.vanityfair.com/photos/5bfedbcd5f44912d037afe57/master/w_1600%2Cc_limit/college-conservatives-opener.jpg
+wget --tries=2 -O white_controlling_4.jpg https://i2.wp.com/am23.akamaized.net/tms/cnt/uploads/2018/05/Anne-Hathaway-in-Oceans-8.jpg?resize=780%2C419&ssl=1
+wget --tries=2 -O white_controlling_5.jpg https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9a57d280-86a4-11e8-ad58-ae35970199d3.jpg?crop=2106%2C2106%2C1027%2C251&resize=320
+wget --tries=2 -O white_controlling_6.jpg https://www.verywellmind.com/thmb/0KceOOsA9r-PDFQw66hckf3dRlg=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/137546633-56a0d0cc3df78cafdaa55044.jpg
+wget --tries=2 -O white_controlling_7.jpg https://s3.envato.com/files/247898878/Warehouse_II_GT_159.jpg
+wget --tries=2 -O white_controlling_8.jpg https://media.vanityfair.com/photos/5bfedbcd296c752cecdfdfb4/master/w_1951,h_1484,c_limit/college-conservatives-embed-04.jpg
+wget --tries=2 -O white_controlling_9.jpg https://media.istockphoto.com/photos/woman-controlling-her-intelligent-home-system-on-a-digital-tablet-picture-id1134350078
 
-wget -O white_nagging_0.jpg https://st2.depositphotos.com/2640455/5634/i/950/depositphotos_56345729-stock-photo-woman-nagging-scolding-with-finger.jpg
-wget -O white_nagging_1.jpg https://st2.depositphotos.com/2640455/5637/i/950/depositphotos_56370147-stock-photo-woman-nagging-scolding-with-finger.jpg
-wget -O white_nagging_2.jpg https://halfthoughts.com/wp-content/uploads/2013/10/skyler_white.jpg
-wget -O white_nagging_3.jpg https://junkee.com/wp-content/uploads/2016/07/white.jpg
-wget -O white_nagging_4.jpg https://pbs.twimg.com/profile_images/1055840457870266370/1PYzqxnN_400x400.jpg
-wget -O white_nagging_5.jpg https://static3.bigstockphoto.com/9/0/2/large2/209717908.jpg
-wget -O white_nagging_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/21/13/scarlett-johansson-white-widow.jpg?w968h681
-wget -O white_nagging_7.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_481292759_110877.jpg
-wget -O white_nagging_8.jpg https://www.nwnewsnetwork.org/sites/northwestnews/files/styles/x_large/public/201506/Patty_Murray_1__2_.jpg
-wget -O white_nagging_9.jpg https://www.nwnewsnetwork.org/sites/northwestnews/files/styles/x_large/public/201506/Patty_Murray_1__2_.jpg
+wget --tries=2 -O white_nagging_0.jpg https://st2.depositphotos.com/2640455/5634/i/950/depositphotos_56345729-stock-photo-woman-nagging-scolding-with-finger.jpg
+wget --tries=2 -O white_nagging_1.jpg https://st2.depositphotos.com/2640455/5637/i/950/depositphotos_56370147-stock-photo-woman-nagging-scolding-with-finger.jpg
+wget --tries=2 -O white_nagging_2.jpg https://halfthoughts.com/wp-content/uploads/2013/10/skyler_white.jpg
+wget --tries=2 -O white_nagging_3.jpg https://junkee.com/wp-content/uploads/2016/07/white.jpg
+wget --tries=2 -O white_nagging_4.jpg https://pbs.twimg.com/profile_images/1055840457870266370/1PYzqxnN_400x400.jpg
+wget --tries=2 -O white_nagging_5.jpg https://static3.bigstockphoto.com/9/0/2/large2/209717908.jpg
+wget --tries=2 -O white_nagging_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/21/13/scarlett-johansson-white-widow.jpg?w968h681
+wget --tries=2 -O white_nagging_7.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_481292759_110877.jpg
+wget --tries=2 -O white_nagging_8.jpg https://www.nwnewsnetwork.org/sites/northwestnews/files/styles/x_large/public/201506/Patty_Murray_1__2_.jpg
+wget --tries=2 -O white_nagging_9.jpg https://www.nwnewsnetwork.org/sites/northwestnews/files/styles/x_large/public/201506/Patty_Murray_1__2_.jpg
 
-wget -O white_brash_0.jpg https://image.shutterstock.com/image-photo/closeup-portrait-glamour-young-woman-600w-136860128.jpg
-wget -O white_brash_1.jpg https://previews.123rf.com/images/zaretskaya/zaretskaya1305/zaretskaya130500027/19633320-laughing-mature-woman-applying-cosmetics-brash-for-face-isolated-on-white.jpg
-wget -O white_brash_2.jpg https://previews.123rf.com/images/deagreez/deagreez1605/deagreez160500830/56652273-cheerful-young-brunette-holding-brash-of-mascara-on-white-background.jpg
-wget -O white_brash_3.jpg https://image.shutterstock.com/image-photo/young-beautiful-girls-white-hair-260nw-1249313635.jpg
-wget -O white_brash_4.jpg https://c8.alamy.com/comp/X0JPBE/woman-lady-female-sassy-obtrusive-brash-bold-disrespectful-naughty-X0JPBE.jpg
-wget -O white_brash_5.jpg http://footage.framepool.com/shotimg/337468762-rudeness-brash-mischief-white.jpg
-wget -O white_brash_6.jpg http://footage.framepool.com/shotimg/325632675-rudeness-brash-mischief-face.jpg
-wget -O white_brash_7.jpg https://image.shutterstock.com/image-photo/young-beautiful-girls-white-hair-260nw-1341831710.jpg
-wget -O white_brash_8.jpg https://staticr1.blastingcdn.com/media/photogallery/2019/11/18/660x290/b_1200x680/many-90-day-fiance-fans-thinks-angela-deems-trash-but-others-love-her-image-credit-tlc-youtube_2356314.jpg
-wget -O white_brash_9.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Flizelting%2Ffiles%2F2018%2F02%2FScreen-Shot-2018-02-28-at-11.38.11-AM-1200x736.jpg
+wget --tries=2 -O white_brash_0.jpg https://image.shutterstock.com/image-photo/closeup-portrait-glamour-young-woman-600w-136860128.jpg
+wget --tries=2 -O white_brash_1.jpg https://previews.123rf.com/images/zaretskaya/zaretskaya1305/zaretskaya130500027/19633320-laughing-mature-woman-applying-cosmetics-brash-for-face-isolated-on-white.jpg
+wget --tries=2 -O white_brash_2.jpg https://previews.123rf.com/images/deagreez/deagreez1605/deagreez160500830/56652273-cheerful-young-brunette-holding-brash-of-mascara-on-white-background.jpg
+wget --tries=2 -O white_brash_3.jpg https://image.shutterstock.com/image-photo/young-beautiful-girls-white-hair-260nw-1249313635.jpg
+wget --tries=2 -O white_brash_4.jpg https://c8.alamy.com/comp/X0JPBE/woman-lady-female-sassy-obtrusive-brash-bold-disrespectful-naughty-X0JPBE.jpg
+wget --tries=2 -O white_brash_5.jpg http://footage.framepool.com/shotimg/337468762-rudeness-brash-mischief-white.jpg
+wget --tries=2 -O white_brash_6.jpg http://footage.framepool.com/shotimg/325632675-rudeness-brash-mischief-face.jpg
+wget --tries=2 -O white_brash_7.jpg https://image.shutterstock.com/image-photo/young-beautiful-girls-white-hair-260nw-1341831710.jpg
+wget --tries=2 -O white_brash_8.jpg https://staticr1.blastingcdn.com/media/photogallery/2019/11/18/660x290/b_1200x680/many-90-day-fiance-fans-thinks-angela-deems-trash-but-others-love-her-image-credit-tlc-youtube_2356314.jpg
+wget --tries=2 -O white_brash_9.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Flizelting%2Ffiles%2F2018%2F02%2FScreen-Shot-2018-02-28-at-11.38.11-AM-1200x736.jpg
 
-wget -O white_hostile_0.jpg https://image.shutterstock.com/image-photo/closeup-portrait-hostile-angry-irritated-600w-169138559.jpg
-wget -O white_hostile_1.jpg https://st2.depositphotos.com/3489481/5369/i/950/depositphotos_53692905-stock-photo-angry-hostile-senior-woman-screaming.jpg
-wget -O white_hostile_2.jpg https://www.thenation.com/wp-content/uploads/2019/08/GOP-white-woman-img.jpg
-wget -O white_hostile_3.jpg https://image.shutterstock.com/z/stock-photo-closeup-portrait-mad-angry-upset-hostile-middle-aged-woman-worker-furious-employee-yelling-188090237.jpg
-wget -O white_hostile_4.jpg https://www.verywellmind.com/thmb/0KceOOsA9r-PDFQw66hckf3dRlg=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/137546633-56a0d0cc3df78cafdaa55044.jpg
-wget -O white_hostile_5.jpg https://media.boingboing.net/wp-content/uploads/2018/05/050-056c026d-1c66-4d42-9fae-a8e96df290c5-1020x1841.jpg
-wget -O white_hostile_6.jpg https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/17/1524739537-screen-shot-2018-04-26-at-114523.jpg?resize=480:*
-wget -O white_hostile_7.jpg https://image.shutterstock.com/image-photo/closeup-portrait-hostile-angry-irritated-600w-178530623.jpg
-wget -O white_hostile_8.jpg https://imagez.tmz.com/image/3f/o/2018/08/03/3fa6978d689d5a70a6d16bfc486d687a_md.jpg
-wget -O white_hostile_9.jpg https://d.newsweek.com/en/full/1556172/marsha-blackburn.jpg
+wget --tries=2 -O white_hostile_0.jpg https://image.shutterstock.com/image-photo/closeup-portrait-hostile-angry-irritated-600w-169138559.jpg
+wget --tries=2 -O white_hostile_1.jpg https://st2.depositphotos.com/3489481/5369/i/950/depositphotos_53692905-stock-photo-angry-hostile-senior-woman-screaming.jpg
+wget --tries=2 -O white_hostile_2.jpg https://www.thenation.com/wp-content/uploads/2019/08/GOP-white-woman-img.jpg
+wget --tries=2 -O white_hostile_3.jpg https://image.shutterstock.com/z/stock-photo-closeup-portrait-mad-angry-upset-hostile-middle-aged-woman-worker-furious-employee-yelling-188090237.jpg
+wget --tries=2 -O white_hostile_4.jpg https://www.verywellmind.com/thmb/0KceOOsA9r-PDFQw66hckf3dRlg=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/137546633-56a0d0cc3df78cafdaa55044.jpg
+wget --tries=2 -O white_hostile_5.jpg https://media.boingboing.net/wp-content/uploads/2018/05/050-056c026d-1c66-4d42-9fae-a8e96df290c5-1020x1841.jpg
+wget --tries=2 -O white_hostile_6.jpg https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/17/1524739537-screen-shot-2018-04-26-at-114523.jpg?resize=480:*
+wget --tries=2 -O white_hostile_7.jpg https://image.shutterstock.com/image-photo/closeup-portrait-hostile-angry-irritated-600w-178530623.jpg
+wget --tries=2 -O white_hostile_8.jpg https://imagez.tmz.com/image/3f/o/2018/08/03/3fa6978d689d5a70a6d16bfc486d687a_md.jpg
+wget --tries=2 -O white_hostile_9.jpg https://d.newsweek.com/en/full/1556172/marsha-blackburn.jpg
 
-wget -O white_emasculating_0.jpg https://img.buzzfeed.com/buzzfeed-static/static/2018-11/19/16/tmp/buzzfeed-prod-web-03/tmp-name-2-30249-1542663377-14_dblbig.jpg
-wget -O white_emasculating_1.jpg https://images.newrepublic.com/c5d135b14c98b9e0bbf0591795924f098aaf52f1.jpeg?w=1200&q=65&dpi=2.625&fm=pjpg&h=496
-wget -O white_emasculating_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6RBGZXGwjZ0Qm0dptuiMqIut9XminQ1cyEw57APdwp6705Nd&s
-wget -O white_emasculating_3.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/23/10/hathaway-epa.jpg
-wget -O white_emasculating_4.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/02/16/17/charlize-theron.jpg
-wget -O white_emasculating_5.jpg https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2019/08/image-1-3.png?width=640
-wget -O white_emasculating_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/19/09/rexfeatures-9058114bb-0.jpg
-wget -O white_emasculating_7.jpg https://i.ytimg.com/vi/hNYKBwBbHLU/sddefault.jpg#404_is_fine
-wget -O white_emasculating_8.jpg https://3oir7r2nmlvh155acn3mevs7-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/new-ilma-gore-header.png
-wget -O white_emasculating_9.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/07/28/11/Helen-Mirren.jpg
+wget --tries=2 -O white_emasculating_0.jpg https://img.buzzfeed.com/buzzfeed-static/static/2018-11/19/16/tmp/buzzfeed-prod-web-03/tmp-name-2-30249-1542663377-14_dblbig.jpg
+wget --tries=2 -O white_emasculating_1.jpg https://images.newrepublic.com/c5d135b14c98b9e0bbf0591795924f098aaf52f1.jpeg?w=1200&q=65&dpi=2.625&fm=pjpg&h=496
+wget --tries=2 -O white_emasculating_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6RBGZXGwjZ0Qm0dptuiMqIut9XminQ1cyEw57APdwp6705Nd&s
+wget --tries=2 -O white_emasculating_3.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/23/10/hathaway-epa.jpg
+wget --tries=2 -O white_emasculating_4.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/02/16/17/charlize-theron.jpg
+wget --tries=2 -O white_emasculating_5.jpg https://inews.co.uk/images-i.jpimedia.uk/imagefetch/https://inews.co.uk/wp-content/uploads/2019/08/image-1-3.png?width=640
+wget --tries=2 -O white_emasculating_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/19/09/rexfeatures-9058114bb-0.jpg
+wget --tries=2 -O white_emasculating_7.jpg https://i.ytimg.com/vi/hNYKBwBbHLU/sddefault.jpg#404_is_fine
+wget --tries=2 -O white_emasculating_8.jpg https://3oir7r2nmlvh155acn3mevs7-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/new-ilma-gore-header.png
+wget --tries=2 -O white_emasculating_9.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/07/28/11/Helen-Mirren.jpg
 
-wget -O white_mean_0.jpg http://i.dailymail.co.uk/i/pix/2010/07/25/article-1297516-0A916C6B000005DC-688_474x622.jpg
-wget -O white_mean_1.jpg https://media.istockphoto.com/photos/mean-looking-business-woman-arms-crossed-standing-on-white-picture-id153757034
-wget -O white_mean_2.jpg https://c8.alamy.com/comp/PRMY76/you-mean-me-a-picture-of-a-puzzled-confused-young-beautiful-woman-dressed-in-a-white-top-looking-at-the-camera-with-her-jaw-dropped-pointing-at-hers-PRMY76.jpg
-wget -O white_mean_3.jpg https://api.time.com/wp-content/uploads/2017/02/kellyanne-conway-are-you-a-feminist.jpg
-wget -O white_mean_4.jpg https://thumbs.dreamstime.com/z/portrait-beautiful-young-woman-looking-very-angry-frust-frustrated-mean-mood-her-eyes-half-closed-against-white-55511010.jpg
-wget -O white_mean_5.jpg https://static01.nyt.com/images/2019/02/07/us/politics/07dc-ivanka/merlin_136792218_83172b2e-c8ef-4332-a99d-128b60ce6a0a-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget -O white_mean_6.jpg https://lifedefender.org/wp-content/uploads/2017/03/white-1080x675.png
-wget -O white_mean_7.jpg https://as2.ftcdn.net/jpg/02/58/84/65/500_F_258846533_nwWMHIis8wNKWxfmD0EjCkG8L39HvniY.jpg
-wget -O white_mean_8.jpg https://media.istockphoto.com/photos/women-mean-business-confident-professional-woman-picture-id1155394472
-wget -O white_mean_9.jpg https://www.womenmeanbusiness.com/wordpress/wp-content/uploads/2018/11/Aisling-Keegan-WEB-.jpeg
+wget --tries=2 -O white_mean_0.jpg http://i.dailymail.co.uk/i/pix/2010/07/25/article-1297516-0A916C6B000005DC-688_474x622.jpg
+wget --tries=2 -O white_mean_1.jpg https://media.istockphoto.com/photos/mean-looking-business-woman-arms-crossed-standing-on-white-picture-id153757034
+wget --tries=2 -O white_mean_2.jpg https://c8.alamy.com/comp/PRMY76/you-mean-me-a-picture-of-a-puzzled-confused-young-beautiful-woman-dressed-in-a-white-top-looking-at-the-camera-with-her-jaw-dropped-pointing-at-hers-PRMY76.jpg
+wget --tries=2 -O white_mean_3.jpg https://api.time.com/wp-content/uploads/2017/02/kellyanne-conway-are-you-a-feminist.jpg
+wget --tries=2 -O white_mean_4.jpg https://thumbs.dreamstime.com/z/portrait-beautiful-young-woman-looking-very-angry-frust-frustrated-mean-mood-her-eyes-half-closed-against-white-55511010.jpg
+wget --tries=2 -O white_mean_5.jpg https://static01.nyt.com/images/2019/02/07/us/politics/07dc-ivanka/merlin_136792218_83172b2e-c8ef-4332-a99d-128b60ce6a0a-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 -O white_mean_6.jpg https://lifedefender.org/wp-content/uploads/2017/03/white-1080x675.png
+wget --tries=2 -O white_mean_7.jpg https://as2.ftcdn.net/jpg/02/58/84/65/500_F_258846533_nwWMHIis8wNKWxfmD0EjCkG8L39HvniY.jpg
+wget --tries=2 -O white_mean_8.jpg https://media.istockphoto.com/photos/women-mean-business-confident-professional-woman-picture-id1155394472
+wget --tries=2 -O white_mean_9.jpg https://www.womenmeanbusiness.com/wordpress/wp-content/uploads/2018/11/Aisling-Keegan-WEB-.jpeg
 
-wget -O white_harsh_0.jpg https://image.shutterstock.com/image-photo/serious-harsh-formidable-girl-glasses-600w-1287061780.jpg
-wget -O white_harsh_1.jpg http://www.telegraph.co.uk/content/dam/women/2016/06/30/94041752_louise-linton-WOMEN-large_trans++ZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg
-wget -O white_harsh_2.jpg https://dnyuz.com/wp-content/uploads/2019/11/Testimony-Shows-The-Harsh-Truth-About-Angry-Women-1140x570.jpg
-wget -O white_harsh_3.jpg https://www.9news.com/img/resize/content.wzzm13.com/photo/2018/01/24/untitled_1516809698710_12564765_ver1.0.png?mode=pad&bgcolor=000000&scale=both&width=750&height=422
-wget -O white_harsh_4.jpg https://i.redd.it/lb6674w3eyn21.jpg
-wget -O white_harsh_5.jpg https://media.allure.com/photos/5963e68fcd420848431ff540/1:1/w_2000,h_2000,c_limit/demi-moore.jpg
-wget -O white_harsh_6.jpg https://qph.fs.quoracdn.net/main-qimg-a112aac4d0244fa1392dab97a3ed4b2f.webp
-wget -O white_harsh_7.jpg https://www.novinite.com/media/images/2017-02/photo_verybig_179055.jpg
-wget -O white_harsh_8.jpg https://www.nationalgeographic.com/content/dam/magazine/rights-exempt/2018/04/whiteness/whiteness-felyssa-ricco-hazleton-pennsylvania-old-glory-confederate-flag-gillian-laub.ngsversion.1520881583669.adapt.1900.1.jpg
-wget -O white_harsh_9.jpg https://m.media-amazon.com/images/M/MV5BMTUzMTM4OTE2MF5BMl5BanBnXkFtZTgwMzI2NDc5MjE@._V1_.jpg
+wget --tries=2 -O white_harsh_0.jpg https://image.shutterstock.com/image-photo/serious-harsh-formidable-girl-glasses-600w-1287061780.jpg
+wget --tries=2 -O white_harsh_1.jpg http://www.telegraph.co.uk/content/dam/women/2016/06/30/94041752_louise-linton-WOMEN-large_trans++ZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg
+wget --tries=2 -O white_harsh_2.jpg https://dnyuz.com/wp-content/uploads/2019/11/Testimony-Shows-The-Harsh-Truth-About-Angry-Women-1140x570.jpg
+wget --tries=2 -O white_harsh_3.jpg https://www.9news.com/img/resize/content.wzzm13.com/photo/2018/01/24/untitled_1516809698710_12564765_ver1.0.png?mode=pad&bgcolor=000000&scale=both&width=750&height=422
+wget --tries=2 -O white_harsh_4.jpg https://i.redd.it/lb6674w3eyn21.jpg
+wget --tries=2 -O white_harsh_5.jpg https://media.allure.com/photos/5963e68fcd420848431ff540/1:1/w_2000,h_2000,c_limit/demi-moore.jpg
+wget --tries=2 -O white_harsh_6.jpg https://qph.fs.quoracdn.net/main-qimg-a112aac4d0244fa1392dab97a3ed4b2f.webp
+wget --tries=2 -O white_harsh_7.jpg https://www.novinite.com/media/images/2017-02/photo_verybig_179055.jpg
+wget --tries=2 -O white_harsh_8.jpg https://www.nationalgeographic.com/content/dam/magazine/rights-exempt/2018/04/whiteness/whiteness-felyssa-ricco-hazleton-pennsylvania-old-glory-confederate-flag-gillian-laub.ngsversion.1520881583669.adapt.1900.1.jpg
+wget --tries=2 -O white_harsh_9.jpg https://m.media-amazon.com/images/M/MV5BMTUzMTM4OTE2MF5BMl5BanBnXkFtZTgwMzI2NDc5MjE@._V1_.jpg
 
-wget -O white_sassy_0.jpg https://pbs.twimg.com/profile_images/558445246674395136/jD5BlZui_400x400.jpeg
-wget -O white_sassy_1.jpg https://thumbs.dreamstime.com/z/sassy-woman-10121733.jpg
-wget -O white_sassy_2.jpg https://thumbs.dreamstime.com/z/sassy-blond-girl-21690066.jpg
-wget -O white_sassy_3.jpg https://static2.bigstockphoto.com/0/0/2/large1500/200950537.jpg
-wget -O white_sassy_4.jpg https://st3.depositphotos.com/6465874/18753/v/600/depositphotos_187533658-stock-video-portrait-of-sassy-girl-20s.jpg
-wget -O white_sassy_5.jpg https://media.istockphoto.com/photos/young-sassy-woman-with-lollipop-isolated-on-white-picture-id156209059
-wget -O white_sassy_6.jpg https://thumbs.dreamstime.com/z/sassy-young-business-woman-placard-17001526.jpg
-wget -O white_sassy_7.jpg https://thumbs.dreamstime.com/b/portrait-beautiful-white-girl-black-hat-park-128789666.jpg
-wget -O white_sassy_8.jpg https://st4.depositphotos.com/6465874/27574/i/1600/depositphotos_275743820-stock-photo-stylish-attractive-sassy-blond-blue.jpg
-wget -O white_sassy_9.jpg https://1466tig3tsf4dxq073gc9hy7-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Sarah-1.png
+wget --tries=2 -O white_sassy_0.jpg https://pbs.twimg.com/profile_images/558445246674395136/jD5BlZui_400x400.jpeg
+wget --tries=2 -O white_sassy_1.jpg https://thumbs.dreamstime.com/z/sassy-woman-10121733.jpg
+wget --tries=2 -O white_sassy_2.jpg https://thumbs.dreamstime.com/z/sassy-blond-girl-21690066.jpg
+wget --tries=2 -O white_sassy_3.jpg https://static2.bigstockphoto.com/0/0/2/large1500/200950537.jpg
+wget --tries=2 -O white_sassy_4.jpg https://st3.depositphotos.com/6465874/18753/v/600/depositphotos_187533658-stock-video-portrait-of-sassy-girl-20s.jpg
+wget --tries=2 -O white_sassy_5.jpg https://media.istockphoto.com/photos/young-sassy-woman-with-lollipop-isolated-on-white-picture-id156209059
+wget --tries=2 -O white_sassy_6.jpg https://thumbs.dreamstime.com/z/sassy-young-business-woman-placard-17001526.jpg
+wget --tries=2 -O white_sassy_7.jpg https://thumbs.dreamstime.com/b/portrait-beautiful-white-girl-black-hat-park-128789666.jpg
+wget --tries=2 -O white_sassy_8.jpg https://st4.depositphotos.com/6465874/27574/i/1600/depositphotos_275743820-stock-photo-stylish-attractive-sassy-blond-blue.jpg
+wget --tries=2 -O white_sassy_9.jpg https://1466tig3tsf4dxq073gc9hy7-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Sarah-1.png
 
-wget -O white_aggressive_0.jpg https://c8.alamy.com/comp/FADGH3/beautiful-woman-in-an-aggressive-posture-with-a-sword-on-a-white-background-FADGH3.jpg
-wget -O white_aggressive_1.jpg https://c8.alamy.com/comp/R5YRH1/beautiful-young-woman-wearing-casual-white-t-shirt-over-isolated-background-punching-fist-to-fight-aggressive-and-angry-attack-threat-and-violence-R5YRH1.jpg
-wget -O white_aggressive_2.jpg https://thumbs.dreamstime.com/z/woman-angry-aggressive-attitude-white-background-beautiful-business-has-her-fists-her-hips-defiant-concept-female-59597116.jpg
-wget -O white_aggressive_3.jpg https://thumbs.dreamstime.com/z/funny-portrait-upset-craftswoman-blonde-woman-wearing-shirt-isolated-white-girl-does-not-know-how-to-use-drill-funny-105793534.jpg
-wget -O white_aggressive_4.jpg https://image.shutterstock.com/image-photo/portrait-aggressive-woman-isolated-on-450w-354945218.jpg
-wget -O white_aggressive_5.jpg https://previews.123rf.com/images/zametalov/zametalov1005/zametalov100500085/7069649-aggressive-woman-with-sharp-knife-isolated-in-white.jpg
-wget -O white_aggressive_6.jpg https://c8.alamy.com/comp/PRN0BN/angry-woman-looking-at-camera-aggressive-business-woman-standing-isolated-on-white-studio-background-female-half-length-portrait-human-emotions-fa-PRN0BN.jpg
-wget -O white_aggressive_7.jpg https://hxchristian.typepad.com/.a/6a00d83452056669e2017d3cf34390970c-600wi
-wget -O white_aggressive_8.jpg https://thumbs.dreamstime.com/z/aggressive-woman-trying-to-hurt-you-aggressive-woman-trying-to-hurt-you-isolated-white-112845752.jpg
-wget -O white_aggressive_9.jpg https://static1.bigstockphoto.com/4/1/3/large2/314550640.jpg
+wget --tries=2 -O white_aggressive_0.jpg https://c8.alamy.com/comp/FADGH3/beautiful-woman-in-an-aggressive-posture-with-a-sword-on-a-white-background-FADGH3.jpg
+wget --tries=2 -O white_aggressive_1.jpg https://c8.alamy.com/comp/R5YRH1/beautiful-young-woman-wearing-casual-white-t-shirt-over-isolated-background-punching-fist-to-fight-aggressive-and-angry-attack-threat-and-violence-R5YRH1.jpg
+wget --tries=2 -O white_aggressive_2.jpg https://thumbs.dreamstime.com/z/woman-angry-aggressive-attitude-white-background-beautiful-business-has-her-fists-her-hips-defiant-concept-female-59597116.jpg
+wget --tries=2 -O white_aggressive_3.jpg https://thumbs.dreamstime.com/z/funny-portrait-upset-craftswoman-blonde-woman-wearing-shirt-isolated-white-girl-does-not-know-how-to-use-drill-funny-105793534.jpg
+wget --tries=2 -O white_aggressive_4.jpg https://image.shutterstock.com/image-photo/portrait-aggressive-woman-isolated-on-450w-354945218.jpg
+wget --tries=2 -O white_aggressive_5.jpg https://previews.123rf.com/images/zametalov/zametalov1005/zametalov100500085/7069649-aggressive-woman-with-sharp-knife-isolated-in-white.jpg
+wget --tries=2 -O white_aggressive_6.jpg https://c8.alamy.com/comp/PRN0BN/angry-woman-looking-at-camera-aggressive-business-woman-standing-isolated-on-white-studio-background-female-half-length-portrait-human-emotions-fa-PRN0BN.jpg
+wget --tries=2 -O white_aggressive_7.jpg https://hxchristian.typepad.com/.a/6a00d83452056669e2017d3cf34390970c-600wi
+wget --tries=2 -O white_aggressive_8.jpg https://thumbs.dreamstime.com/z/aggressive-woman-trying-to-hurt-you-aggressive-woman-trying-to-hurt-you-isolated-white-112845752.jpg
+wget --tries=2 -O white_aggressive_9.jpg https://static1.bigstockphoto.com/4/1/3/large2/314550640.jpg
 
-wget -O white_opinionated_0.jpg https://www.myrecordjournal.com/getattachment/7efb720d-fd8f-4275-af35-827382d603e4/FPN-Opinionated-RJ-061619-ph03
-wget -O white_opinionated_1.jpg https://s2.r29static.com/bin/entry/fda/720x864,85/2110184/image.webp
-wget -O white_opinionated_2.jpg https://s1.r29static.com/bin/entry/045/x,80/2110185/image.jpg
-wget -O white_opinionated_3.jpg https://cdn.vox-cdn.com/thumbor/dOr_n5w6ifJUhCv0bL4OtXj2K-M=/0x0:4508x3005/1400x1400/filters:focal\(1831x976:2551x1696\):format\(jpeg\)/cdn.vox-cdn.com/uploads/chorus_image/image/50477795/591867734.0.jpg
-wget -O white_opinionated_4.jpg https://media1.fdncms.com/thecoast/imager/u/big/23028778/op-ed.png?cb=1576097910
-wget -O white_opinionated_5.jpg https://cdn.vox-cdn.com/thumbor/IKBXljUSTDHk1OqfEczj31PSf-A=/0x0:4631x3139/1200x675/filters:focal\(1946x1200:2686x1940\)/cdn.vox-cdn.com/uploads/chorus_image/image/63671143/ARMSTRONG12.0.jpg
-wget -O white_opinionated_6.jpg https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2019/07/rollcallpix119863-800x450.jpg
-wget -O white_opinionated_7.jpg https://img.texasmonthly.com/2019/10/Amber-Guyger-trial-2.jpg?auto=compress&crop=faces&fit=crop&fm=jpg&h=1400&ixlib=php-1.2.1&q=45&w=1400
-wget -O white_opinionated_8.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2019/01/iStock-922757424-e1547053458752-1280x720.jpg
-wget -O white_opinionated_9.jpg https://m.media-amazon.com/images/M/MV5BZTY3YTdkNDEtM2NmOC00NDMwLWE4Y2EtNTE5OTZjYjZiMDZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_CR0,45,480,270_AL_UX477_CR0,0,477,268_AL_.jpg
+wget --tries=2 -O white_opinionated_0.jpg https://www.myrecordjournal.com/getattachment/7efb720d-fd8f-4275-af35-827382d603e4/FPN-Opinionated-RJ-061619-ph03
+wget --tries=2 -O white_opinionated_1.jpg https://s2.r29static.com/bin/entry/fda/720x864,85/2110184/image.webp
+wget --tries=2 -O white_opinionated_2.jpg https://s1.r29static.com/bin/entry/045/x,80/2110185/image.jpg
+wget --tries=2 -O white_opinionated_3.jpg https://cdn.vox-cdn.com/thumbor/dOr_n5w6ifJUhCv0bL4OtXj2K-M=/0x0:4508x3005/1400x1400/filters:focal\(1831x976:2551x1696\):format\(jpeg\)/cdn.vox-cdn.com/uploads/chorus_image/image/50477795/591867734.0.jpg
+wget --tries=2 -O white_opinionated_4.jpg https://media1.fdncms.com/thecoast/imager/u/big/23028778/op-ed.png?cb=1576097910
+wget --tries=2 -O white_opinionated_5.jpg https://cdn.vox-cdn.com/thumbor/IKBXljUSTDHk1OqfEczj31PSf-A=/0x0:4631x3139/1200x675/filters:focal\(1946x1200:2686x1940\)/cdn.vox-cdn.com/uploads/chorus_image/image/63671143/ARMSTRONG12.0.jpg
+wget --tries=2 -O white_opinionated_6.jpg https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2019/07/rollcallpix119863-800x450.jpg
+wget --tries=2 -O white_opinionated_7.jpg https://img.texasmonthly.com/2019/10/Amber-Guyger-trial-2.jpg?auto=compress&crop=faces&fit=crop&fm=jpg&h=1400&ixlib=php-1.2.1&q=45&w=1400
+wget --tries=2 -O white_opinionated_8.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2019/01/iStock-922757424-e1547053458752-1280x720.jpg
+wget --tries=2 -O white_opinionated_9.jpg https://m.media-amazon.com/images/M/MV5BZTY3YTdkNDEtM2NmOC00NDMwLWE4Y2EtNTE5OTZjYjZiMDZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_CR0,45,480,270_AL_UX477_CR0,0,477,268_AL_.jpg
 
-wget -O white_domineering_0.jpg http://angelasbangalore.com/wp-content/uploads/2013/02/angela-carson-bangalore-blog-relationship-story-white-woman-indian-man-1024x465.jpg
-wget -O white_domineering_1.jpg https://c8.alamy.com/comp/F3T48E/portrait-of-a-young-woman-screaming-on-loudspeaker-isolated-on-a-white-F3T48E.jpg
-wget -O white_domineering_2.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1402/wavebreakmediamicro140200552/25711061-domineering-blonde-wearing-black-clothes-posing-on-white-background.jpg
-wget -O white_domineering_3.jpg https://previews.123rf.com/images/katalinks/katalinks1711/katalinks171100088/89288709-stunning-majestic-domineering-woman-in-a-beautiful-dress-and-in-high-heeled-shoes-sits-in-an-expensi.jpg
-wget -O white_domineering_4.jpg https://st3.depositphotos.com/4109649/15752/i/450/depositphotos_157527754-stock-photo-ugly-domineering-woman-is-posing.jpg
-wget -O white_domineering_5.jpg https://st3.depositphotos.com/1000824/14173/i/450/depositphotos_141735616-stock-photo-beautiful-woman-face-close-up.jpg
-wget -O white_domineering_6.jpg https://st3.depositphotos.com/4109649/15752/i/1600/depositphotos_157527690-stock-photo-ugly-domineering-woman-is-posing.jpg
-wget -O white_domineering_7.jpg http://cdn.lifedaily.com/wp-content/uploads/2017/10/15-muniba-mazari-story-1-620x415.jpg
-wget -O white_domineering_8.jpg https://static7.depositphotos.com/1192060/755/i/950/depositphotos_7550289-stock-photo-portrait-of-a-businesswoman.jpg
-wget -O white_domineering_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAjqw-JqJOKQmf1UnKPKiXnUQmy64j0IdNrv_rzE7Z_zP43NOg&s
+wget --tries=2 -O white_domineering_0.jpg http://angelasbangalore.com/wp-content/uploads/2013/02/angela-carson-bangalore-blog-relationship-story-white-woman-indian-man-1024x465.jpg
+wget --tries=2 -O white_domineering_1.jpg https://c8.alamy.com/comp/F3T48E/portrait-of-a-young-woman-screaming-on-loudspeaker-isolated-on-a-white-F3T48E.jpg
+wget --tries=2 -O white_domineering_2.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1402/wavebreakmediamicro140200552/25711061-domineering-blonde-wearing-black-clothes-posing-on-white-background.jpg
+wget --tries=2 -O white_domineering_3.jpg https://previews.123rf.com/images/katalinks/katalinks1711/katalinks171100088/89288709-stunning-majestic-domineering-woman-in-a-beautiful-dress-and-in-high-heeled-shoes-sits-in-an-expensi.jpg
+wget --tries=2 -O white_domineering_4.jpg https://st3.depositphotos.com/4109649/15752/i/450/depositphotos_157527754-stock-photo-ugly-domineering-woman-is-posing.jpg
+wget --tries=2 -O white_domineering_5.jpg https://st3.depositphotos.com/1000824/14173/i/450/depositphotos_141735616-stock-photo-beautiful-woman-face-close-up.jpg
+wget --tries=2 -O white_domineering_6.jpg https://st3.depositphotos.com/4109649/15752/i/1600/depositphotos_157527690-stock-photo-ugly-domineering-woman-is-posing.jpg
+wget --tries=2 -O white_domineering_7.jpg http://cdn.lifedaily.com/wp-content/uploads/2017/10/15-muniba-mazari-story-1-620x415.jpg
+wget --tries=2 -O white_domineering_8.jpg https://static7.depositphotos.com/1192060/755/i/950/depositphotos_7550289-stock-photo-portrait-of-a-businesswoman.jpg
+wget --tries=2 -O white_domineering_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAjqw-JqJOKQmf1UnKPKiXnUQmy64j0IdNrv_rzE7Z_zP43NOg&s
