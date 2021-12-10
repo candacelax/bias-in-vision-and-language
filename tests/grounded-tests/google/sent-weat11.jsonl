@@ -1,6 +1,7 @@
 {
   "test_types" : ["sentence", "contextual"],
   "dataset" : "google",
+  "dataset_dir" : "weat11",
   "test_name" : "sent-weat11",
   "targ1": {
     "category": "MaleNames",

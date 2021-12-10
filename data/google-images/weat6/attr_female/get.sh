@@ -1,340 +1,340 @@
-wget -O female_executive_0.jpg http://juliejohnsoncoach.com/WORDPRESS/wp-content/uploads/2011/10/iStock_000013321269XSmall.jpg
-wget -O female_executive_1.jpg https://koreyhowellphotography.com/wp-content/uploads/2017/08/AdobeStock_131455740-1028x675.png
-wget -O female_executive_2.jpg https://images.unsplash.com/photo-1565382560154-677e13d8d779?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-wget -O female_executive_3.jpg https://content.fortune.com/wp-content/uploads/2016/06/514307214.jpg
-wget -O female_executive_4.jpg https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2018-female-executive-1.jpg
-wget -O female_executive_5.jpg https://www.accountingweb.com/sites/default/files/styles/inline_banner/public/woman_executive_petar_chernaev.jpg?itok=Fim9jQ-P
-wget -O female_executive_6.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02234/morrissey_2234556b.jpg
-wget -O female_executive_7.jpg https://image.shutterstock.com/image-photo/pretty-older-business-woman-successful-260nw-1088049662.jpg
-wget -O female_executive_8.jpg https://www.mddionline.com/sites/default/files/styles/article_image/public/field/image/business-woman_WHITESESSION_PIXABAY.jpg?itok=WwnpgVHL
-wget -O female_executive_9.jpg https://i.pinimg.com/originals/cc/07/83/cc0783c056d228fb5ea99d0993e54cde.jpg
+wget --tries=2 -O female_executive_0.jpg http://juliejohnsoncoach.com/WORDPRESS/wp-content/uploads/2011/10/iStock_000013321269XSmall.jpg
+wget --tries=2 -O female_executive_1.jpg https://koreyhowellphotography.com/wp-content/uploads/2017/08/AdobeStock_131455740-1028x675.png
+wget --tries=2 -O female_executive_2.jpg https://images.unsplash.com/photo-1565382560154-677e13d8d779?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget --tries=2 -O female_executive_3.jpg https://content.fortune.com/wp-content/uploads/2016/06/514307214.jpg
+wget --tries=2 -O female_executive_4.jpg https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2018-female-executive-1.jpg
+wget --tries=2 -O female_executive_5.jpg https://www.accountingweb.com/sites/default/files/styles/inline_banner/public/woman_executive_petar_chernaev.jpg?itok=Fim9jQ-P
+wget --tries=2 -O female_executive_6.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02234/morrissey_2234556b.jpg
+wget --tries=2 -O female_executive_7.jpg https://image.shutterstock.com/image-photo/pretty-older-business-woman-successful-260nw-1088049662.jpg
+wget --tries=2 -O female_executive_8.jpg https://www.mddionline.com/sites/default/files/styles/article_image/public/field/image/business-woman_WHITESESSION_PIXABAY.jpg?itok=WwnpgVHL
+wget --tries=2 -O female_executive_9.jpg https://i.pinimg.com/originals/cc/07/83/cc0783c056d228fb5ea99d0993e54cde.jpg
 
-wget -O female_executives_0.jpg https://assets.entrepreneur.com/content/3x2/2000/20180829192908-sheryl-sandberg-hero.jpeg?width=1000
-wget -O female_executives_1.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Felanagross%2Ffiles%2F2019%2F03%2F1-1.jpg
-wget -O female_executives_2.jpg https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/522173741.jpg
-wget -O female_executives_3.jpg https://lh3.googleusercontent.com/proxy/PYmQ-RFksCSoc6O1lx882MELhHfwvrBeFThe4Xm_0ufxzs6bY393yKGXBd7a9ntPwGsDswJ7Olhzmmx2GCQI6GgB9k0utFQ4ydaYT9JasviCLGUs1sqNjOO6F9vexIY23JM
-wget -O female_executives_4.jpg https://www.nevadabusiness.com/wp-content/uploads/2016/10/CoverStory-October2016.jpg
-wget -O female_executives_5.jpg https://www.billboard.com/files/styles/768x433/public/media/EOTY-bb27-2018-feat-billboard-ijrthtar-1500.jpg
-wget -O female_executives_6.jpg https://visiblecommunication.com/wp-content/uploads/Women_Execs-700x300.jpg
-wget -O female_executives_7.jpg http://tcbmag.com/TCBSite/media/TCB_Honors/0414_SecAndDon_400.jpg?ext=.jpg
-wget -O female_executives_8.jpg https://playbook.amanet.org/wp-content/uploads/2015/07/women-higher-standards-crop-620x250.jpg
-wget -O female_executives_9.jpg http://www.businesspundit.com/wp-content/uploads/2016/06/Female-Executives-758x426.jpg
+wget --tries=2 -O female_executives_0.jpg https://assets.entrepreneur.com/content/3x2/2000/20180829192908-sheryl-sandberg-hero.jpeg?width=1000
+wget --tries=2 -O female_executives_1.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Felanagross%2Ffiles%2F2019%2F03%2F1-1.jpg
+wget --tries=2 -O female_executives_2.jpg https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/522173741.jpg
+wget --tries=2 -O female_executives_3.jpg https://lh3.googleusercontent.com/proxy/PYmQ-RFksCSoc6O1lx882MELhHfwvrBeFThe4Xm_0ufxzs6bY393yKGXBd7a9ntPwGsDswJ7Olhzmmx2GCQI6GgB9k0utFQ4ydaYT9JasviCLGUs1sqNjOO6F9vexIY23JM
+wget --tries=2 -O female_executives_4.jpg https://www.nevadabusiness.com/wp-content/uploads/2016/10/CoverStory-October2016.jpg
+wget --tries=2 -O female_executives_5.jpg https://www.billboard.com/files/styles/768x433/public/media/EOTY-bb27-2018-feat-billboard-ijrthtar-1500.jpg
+wget --tries=2 -O female_executives_6.jpg https://visiblecommunication.com/wp-content/uploads/Women_Execs-700x300.jpg
+wget --tries=2 -O female_executives_7.jpg http://tcbmag.com/TCBSite/media/TCB_Honors/0414_SecAndDon_400.jpg?ext=.jpg
+wget --tries=2 -O female_executives_8.jpg https://playbook.amanet.org/wp-content/uploads/2015/07/women-higher-standards-crop-620x250.jpg
+wget --tries=2 -O female_executives_9.jpg http://www.businesspundit.com/wp-content/uploads/2016/06/Female-Executives-758x426.jpg
 
-wget -O female_management_0.jpg https://www.ie.edu/insights/wp-content/uploads/2018/05/liderazgo-femenino-impacto-organizacion.jpg
-wget -O female_management_1.jpg https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/500/cached.offlinehbpl.hbpl.co.uk/news/OTM/35u35-20190228111609184.jpg
-wget -O female_management_2.jpg https://www.gsb.stanford.edu/sites/gsb/files/styles/1630x_variable/public/resources/correl-genderequality-1630_1.jpg?itok=aB7mIvvI
-wget -O female_management_3.jpg https://assets.entrepreneur.com/content/3x2/2000/20160523072414-shutterstock-128200295.jpeg?width=700&crop=2:1
-wget -O female_management_4.jpg https://www.biospace.com/getasset/0ca78d89-1357-46e7-815f-d028e4f829d6/
-wget -O female_management_5.jpg https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/03/12/105789246-1552412673299gettyimages-910506068.jpeg?v=1552412702
-wget -O female_management_6.jpg https://pmcvariety.files.wordpress.com/2019/06/ladies-of-faw.jpg?w=1000
-wget -O female_management_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2FHpig-F4CCp-GQS1zB_3YldasdN31Ao9o4hnCwPgrLj9C2tR
-wget -O female_management_8.jpg https://lh3.googleusercontent.com/proxy/l7y3u3xRrTa97b2u0AeAn3vHIj3YUIOyz2ZRGjRHVKBSgdybURG9lJQNvm39rcYTe4bltafs6zluuNih-AtunamDK1Qul6dLNbSHHcTLhCFcqBs0kK_W80EEjxv5fOTCAw
-wget -O female_management_9.jpg https://content.fortune.com/wp-content/uploads/2018/12/31350309207_21fece968e_o.jpg?resize=1200,600
+wget --tries=2 -O female_management_0.jpg https://www.ie.edu/insights/wp-content/uploads/2018/05/liderazgo-femenino-impacto-organizacion.jpg
+wget --tries=2 -O female_management_1.jpg https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/500/cached.offlinehbpl.hbpl.co.uk/news/OTM/35u35-20190228111609184.jpg
+wget --tries=2 -O female_management_2.jpg https://www.gsb.stanford.edu/sites/gsb/files/styles/1630x_variable/public/resources/correl-genderequality-1630_1.jpg?itok=aB7mIvvI
+wget --tries=2 -O female_management_3.jpg https://assets.entrepreneur.com/content/3x2/2000/20160523072414-shutterstock-128200295.jpeg?width=700&crop=2:1
+wget --tries=2 -O female_management_4.jpg https://www.biospace.com/getasset/0ca78d89-1357-46e7-815f-d028e4f829d6/
+wget --tries=2 -O female_management_5.jpg https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/03/12/105789246-1552412673299gettyimages-910506068.jpeg?v=1552412702
+wget --tries=2 -O female_management_6.jpg https://pmcvariety.files.wordpress.com/2019/06/ladies-of-faw.jpg?w=1000
+wget --tries=2 -O female_management_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2FHpig-F4CCp-GQS1zB_3YldasdN31Ao9o4hnCwPgrLj9C2tR
+wget --tries=2 -O female_management_8.jpg https://lh3.googleusercontent.com/proxy/l7y3u3xRrTa97b2u0AeAn3vHIj3YUIOyz2ZRGjRHVKBSgdybURG9lJQNvm39rcYTe4bltafs6zluuNih-AtunamDK1Qul6dLNbSHHcTLhCFcqBs0kK_W80EEjxv5fOTCAw
+wget --tries=2 -O female_management_9.jpg https://content.fortune.com/wp-content/uploads/2018/12/31350309207_21fece968e_o.jpg?resize=1200,600
 
-wget -O female_managements_0.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_690855572_368495.jpg
-wget -O female_managements_1.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Floisaltermark%2Ffiles%2F2018%2F03%2FMai-Kappenberger-Skodsborg-1200x972.jpg
-wget -O female_managements_2.jpg https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/08/23/105412843-1535035137949tiffanyhsiao2.jpg?v=1535035259
-wget -O female_managements_3.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Floisaltermark%2Ffiles%2F2018%2F03%2FMai-Kappenberger-1200x851.jpg
-wget -O female_managements_4.jpg https://www.thebalancecareers.com/thmb/IrGJaaaV0oIQM9S0-iRvadhd8GU=/2121x1414/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-4859879091-5919bca15f9b58f4c039d974.jpg
-wget -O female_managements_5.jpg https://image.cnbcfm.com/api/v1/image/105041154-GettyImages-915103624.jpg?v=1532563675
-wget -O female_managements_6.jpg https://images.theconversation.com/files/74085/original/image-20150306-13539-tn45ku.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
-wget -O female_managements_7.jpg https://blog.hubspot.com/hubfs/management-styles.jpg
-wget -O female_managements_8.jpg https://www.verywellfamily.com/thmb/2DSd__A_rwrm7npWoZkY5OOa7mQ=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/119706835-56a6f4813df78cf772911a9b.jpg
-wget -O female_managements_9.jpg https://www.escpeurope.eu/sites/default/files/styles/home_slider_sd/public/inline-images/background/students-ESCP-Europe-005.jpg?itok=VAvclnzF
+wget --tries=2 -O female_managements_0.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_690855572_368495.jpg
+wget --tries=2 -O female_managements_1.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Floisaltermark%2Ffiles%2F2018%2F03%2FMai-Kappenberger-Skodsborg-1200x972.jpg
+wget --tries=2 -O female_managements_2.jpg https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/08/23/105412843-1535035137949tiffanyhsiao2.jpg?v=1535035259
+wget --tries=2 -O female_managements_3.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Floisaltermark%2Ffiles%2F2018%2F03%2FMai-Kappenberger-1200x851.jpg
+wget --tries=2 -O female_managements_4.jpg https://www.thebalancecareers.com/thmb/IrGJaaaV0oIQM9S0-iRvadhd8GU=/2121x1414/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-4859879091-5919bca15f9b58f4c039d974.jpg
+wget --tries=2 -O female_managements_5.jpg https://image.cnbcfm.com/api/v1/image/105041154-GettyImages-915103624.jpg?v=1532563675
+wget --tries=2 -O female_managements_6.jpg https://images.theconversation.com/files/74085/original/image-20150306-13539-tn45ku.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
+wget --tries=2 -O female_managements_7.jpg https://blog.hubspot.com/hubfs/management-styles.jpg
+wget --tries=2 -O female_managements_8.jpg https://www.verywellfamily.com/thmb/2DSd__A_rwrm7npWoZkY5OOa7mQ=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/119706835-56a6f4813df78cf772911a9b.jpg
+wget --tries=2 -O female_managements_9.jpg https://www.escpeurope.eu/sites/default/files/styles/home_slider_sd/public/inline-images/background/students-ESCP-Europe-005.jpg?itok=VAvclnzF
 
-wget -O female_professional_0.jpg https://images.forwardcdn.com/image/720x/center/images/cropped/istock-627909282-1514234385.jpg
-wget -O female_professional_1.jpg https://koreyhowellphotography.com/wp-content/uploads/2017/09/AdobeStock_122362963-1028x675.jpg
-wget -O female_professional_2.jpg https://www.freegreatpicture.com/files/69/12480-professional-female-characters.jpg
-wget -O female_professional_3.jpg https://s3.amazonaws.com/gazelle2.cdn.yolocare.com/sites/50/2015/05/yolo-950x450-14.jpg
-wget -O female_professional_4.jpg https://www.eikonphoto.com/wp-content/uploads/2017/03/BP-Walker-4021.jpg
-wget -O female_professional_5.jpg https://www.freegreatpicture.com/files/69/11964-professional-female-characters.jpg
-wget -O female_professional_6.jpg https://www.divorce.legal/wp-content/uploads/2010/10/younger-business-woman.jpg
-wget -O female_professional_7.jpg https://www.professionalwomanmag.com/wp-content/uploads/2018/05/business-woman.jpg
-wget -O female_professional_8.jpg https://investmentquorum.com/wp-content/uploads/2014/03/Young-female-professional.jpg
-wget -O female_professional_9.jpg https://www.flournoywealthmanagement.com/wp-content/uploads/2017/06/Professional-women-637233964_.jpg
+wget --tries=2 -O female_professional_0.jpg https://images.forwardcdn.com/image/720x/center/images/cropped/istock-627909282-1514234385.jpg
+wget --tries=2 -O female_professional_1.jpg https://koreyhowellphotography.com/wp-content/uploads/2017/09/AdobeStock_122362963-1028x675.jpg
+wget --tries=2 -O female_professional_2.jpg https://www.freegreatpicture.com/files/69/12480-professional-female-characters.jpg
+wget --tries=2 -O female_professional_3.jpg https://s3.amazonaws.com/gazelle2.cdn.yolocare.com/sites/50/2015/05/yolo-950x450-14.jpg
+wget --tries=2 -O female_professional_4.jpg https://www.eikonphoto.com/wp-content/uploads/2017/03/BP-Walker-4021.jpg
+wget --tries=2 -O female_professional_5.jpg https://www.freegreatpicture.com/files/69/11964-professional-female-characters.jpg
+wget --tries=2 -O female_professional_6.jpg https://www.divorce.legal/wp-content/uploads/2010/10/younger-business-woman.jpg
+wget --tries=2 -O female_professional_7.jpg https://www.professionalwomanmag.com/wp-content/uploads/2018/05/business-woman.jpg
+wget --tries=2 -O female_professional_8.jpg https://investmentquorum.com/wp-content/uploads/2014/03/Young-female-professional.jpg
+wget --tries=2 -O female_professional_9.jpg https://www.flournoywealthmanagement.com/wp-content/uploads/2017/06/Professional-women-637233964_.jpg
 
-wget -O female_corporation_0.jpg https://www.afro.com/wp-content/uploads/2019/03/AP1666368381844462.jpg
-wget -O female_corporation_1.jpg https://content.fortune.com/wp-content/uploads/2014/11/renee-james_2.jpg
-wget -O female_corporation_2.jpg https://media.bizj.us/view/img/11504627/valerie-rossi-2019*750xx3440-4587-0-0.jpg
-wget -O female_corporation_3.jpg https://content.fortune.com/wp-content/uploads/2018/10/most-powerful-women-quota-activist-investors.jpg
-wget -O female_corporation_4.jpg https://mms.businesswire.com/media/20191003005310/en/747673/5/Jannet_Walker_Ford_Cubic.jpg
-wget -O female_corporation_5.jpg https://www.bozzuto.com/wp-content/uploads/2018/05/16.-Bozzuto-Named-2018-Top-Company-for-Executive-Women.jpg
-wget -O female_corporation_6.jpg https://cdn1.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2018/08/07/c17fe06c-99ac-11e8-9a20-262028f49e8a_1280x720_032325.jpg?itok=r5gDeql7
-wget -O female_corporation_7.jpg https://3blaws.s3.amazonaws.com/images/nt.png
-wget -O female_corporation_8.jpg https://www.adn.com/resizer/L3dqHyk4K-LKGS5IdCvoaP-IUIs=/992x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2018/08/08075234/BIZ-CPT-WOMEN-DEFENSE-CEOS-LA.jpg
-wget -O female_corporation_9.jpg https://mpng.pngfly.com/20180418/qoq/kisspng-businessperson-management-corporation-leadership-woman-business-5ad724652ccfe0.7927692215240489971836.jpg
+wget --tries=2 -O female_corporation_0.jpg https://www.afro.com/wp-content/uploads/2019/03/AP1666368381844462.jpg
+wget --tries=2 -O female_corporation_1.jpg https://content.fortune.com/wp-content/uploads/2014/11/renee-james_2.jpg
+wget --tries=2 -O female_corporation_2.jpg https://media.bizj.us/view/img/11504627/valerie-rossi-2019*750xx3440-4587-0-0.jpg
+wget --tries=2 -O female_corporation_3.jpg https://content.fortune.com/wp-content/uploads/2018/10/most-powerful-women-quota-activist-investors.jpg
+wget --tries=2 -O female_corporation_4.jpg https://mms.businesswire.com/media/20191003005310/en/747673/5/Jannet_Walker_Ford_Cubic.jpg
+wget --tries=2 -O female_corporation_5.jpg https://www.bozzuto.com/wp-content/uploads/2018/05/16.-Bozzuto-Named-2018-Top-Company-for-Executive-Women.jpg
+wget --tries=2 -O female_corporation_6.jpg https://cdn1.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2018/08/07/c17fe06c-99ac-11e8-9a20-262028f49e8a_1280x720_032325.jpg?itok=r5gDeql7
+wget --tries=2 -O female_corporation_7.jpg https://3blaws.s3.amazonaws.com/images/nt.png
+wget --tries=2 -O female_corporation_8.jpg https://www.adn.com/resizer/L3dqHyk4K-LKGS5IdCvoaP-IUIs=/992x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2018/08/08075234/BIZ-CPT-WOMEN-DEFENSE-CEOS-LA.jpg
+wget --tries=2 -O female_corporation_9.jpg https://mpng.pngfly.com/20180418/qoq/kisspng-businessperson-management-corporation-leadership-woman-business-5ad724652ccfe0.7927692215240489971836.jpg
 
-wget -O female_corporations_0.jpg https://content.fortune.com/wp-content/uploads/2016/12/629988210.jpg
-wget -O female_corporations_1.jpg https://cf-images.us-east-1.prod.boltdns.net/v1/static/2111767321001/3a3c784e-9227-4233-b51e-64ee4c0441ac/8a64a72f-3e06-49a6-8ba7-c250bb322fe6/1280x720/match/image.jpg
-wget -O female_corporations_2.jpg https://content.fortune.com/wp-content/uploads/2017/10/broader.jpg
-wget -O female_corporations_3.jpg https://3blaws.s3.amazonaws.com/images/GMExecutiveWomen01.jpg
-wget -O female_corporations_4.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/02/iStock-494590560.jpg
-wget -O female_corporations_5.jpg https://content.linkedin.com/content/dam/business/talent-solutions/global/en_us/blog/2017/10/women-workforce-report.jpg
-wget -O female_corporations_6.jpg https://static.seattletimes.com/wp-content/uploads/2018/01/b0b45c30-ffa7-11e7-b3ab-75f9c0f581ba-780x520.jpg
-wget -O female_corporations_7.jpg https://images.newrepublic.com/5585bf24de9baa4281d01818bfa7345d80964cb7.jpeg?w=1200&q=65&dpi=2.625&fm=pjpg&fit=crop&crop=faces&h=800
-wget -O female_corporations_8.jpg https://content.fortune.com/wp-content/uploads/2016/06/184769253.jpg
-wget -O female_corporations_9.jpg https://goodmenproject.com/wp-content/uploads/2019/12/iStock-1150572102-1.jpg
+wget --tries=2 -O female_corporations_0.jpg https://content.fortune.com/wp-content/uploads/2016/12/629988210.jpg
+wget --tries=2 -O female_corporations_1.jpg https://cf-images.us-east-1.prod.boltdns.net/v1/static/2111767321001/3a3c784e-9227-4233-b51e-64ee4c0441ac/8a64a72f-3e06-49a6-8ba7-c250bb322fe6/1280x720/match/image.jpg
+wget --tries=2 -O female_corporations_2.jpg https://content.fortune.com/wp-content/uploads/2017/10/broader.jpg
+wget --tries=2 -O female_corporations_3.jpg https://3blaws.s3.amazonaws.com/images/GMExecutiveWomen01.jpg
+wget --tries=2 -O female_corporations_4.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/02/iStock-494590560.jpg
+wget --tries=2 -O female_corporations_5.jpg https://content.linkedin.com/content/dam/business/talent-solutions/global/en_us/blog/2017/10/women-workforce-report.jpg
+wget --tries=2 -O female_corporations_6.jpg https://static.seattletimes.com/wp-content/uploads/2018/01/b0b45c30-ffa7-11e7-b3ab-75f9c0f581ba-780x520.jpg
+wget --tries=2 -O female_corporations_7.jpg https://images.newrepublic.com/5585bf24de9baa4281d01818bfa7345d80964cb7.jpeg?w=1200&q=65&dpi=2.625&fm=pjpg&fit=crop&crop=faces&h=800
+wget --tries=2 -O female_corporations_8.jpg https://content.fortune.com/wp-content/uploads/2016/06/184769253.jpg
+wget --tries=2 -O female_corporations_9.jpg https://goodmenproject.com/wp-content/uploads/2019/12/iStock-1150572102-1.jpg
 
-wget -O female_salary_0.jpg https://dr5dymrsxhdzh.cloudfront.net/blog/images/a8db9a85b/2017/02/average_salary_by_age_1.jpg
-wget -O female_salary_1.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1159746590%2F960x0.jpg%3Ffit%3Dscale
-wget -O female_salary_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/04/DanoS5xWkAM4tqD-e1523652188701-999x675.jpg
-wget -O female_salary_3.jpg https://d279m997dpfwgl.cloudfront.net/wp/2016/08/0825_equal-pay01-1000x669.jpg
-wget -O female_salary_4.jpg https://s.marketwatch.com/public/resources/images/MW-GV821_aaffe2_ZH_20181030170438.jpg
-wget -O female_salary_5.jpg https://cdn.vox-cdn.com/thumbor/rBRXGxWuNJEA87JPvodVGqh8kSI=/0x0:5360x3624/1200x800/filters:focal\(2321x954:3177x1810\)/cdn.vox-cdn.com/uploads/chorus_image/image/59854195/women_equal_pay.0.jpg
-wget -O female_salary_6.jpg https://pixel.nymag.com/imgs/fashion/daily/2017/03/10/10-gender-gap.w700.h700.jpg
-wget -O female_salary_7.jpg https://static01.nyt.com/images/2016/07/12/science/12SALARIES/12SALARIES-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget -O female_salary_8.jpg https://s.marketwatch.com/public/resources/images/MW-HG601_pay_ga_ZH_20190328144127.jpg
-wget -O female_salary_9.jpg https://cdn.cnn.com/cnnnext/dam/assets/180613151611-brooke-baldwin-top-paid-athletes-no-women-nr-large-169.jpg
+wget --tries=2 -O female_salary_0.jpg https://dr5dymrsxhdzh.cloudfront.net/blog/images/a8db9a85b/2017/02/average_salary_by_age_1.jpg
+wget --tries=2 -O female_salary_1.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1159746590%2F960x0.jpg%3Ffit%3Dscale
+wget --tries=2 -O female_salary_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/04/DanoS5xWkAM4tqD-e1523652188701-999x675.jpg
+wget --tries=2 -O female_salary_3.jpg https://d279m997dpfwgl.cloudfront.net/wp/2016/08/0825_equal-pay01-1000x669.jpg
+wget --tries=2 -O female_salary_4.jpg https://s.marketwatch.com/public/resources/images/MW-GV821_aaffe2_ZH_20181030170438.jpg
+wget --tries=2 -O female_salary_5.jpg https://cdn.vox-cdn.com/thumbor/rBRXGxWuNJEA87JPvodVGqh8kSI=/0x0:5360x3624/1200x800/filters:focal\(2321x954:3177x1810\)/cdn.vox-cdn.com/uploads/chorus_image/image/59854195/women_equal_pay.0.jpg
+wget --tries=2 -O female_salary_6.jpg https://pixel.nymag.com/imgs/fashion/daily/2017/03/10/10-gender-gap.w700.h700.jpg
+wget --tries=2 -O female_salary_7.jpg https://static01.nyt.com/images/2016/07/12/science/12SALARIES/12SALARIES-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 -O female_salary_8.jpg https://s.marketwatch.com/public/resources/images/MW-HG601_pay_ga_ZH_20190328144127.jpg
+wget --tries=2 -O female_salary_9.jpg https://cdn.cnn.com/cnnnext/dam/assets/180613151611-brooke-baldwin-top-paid-athletes-no-women-nr-large-169.jpg
 
-wget -O female_salaries_0.jpg https://cdn.americanprogress.org/content/uploads/2017/04/03141210/equal-pay-cropped-1024x683.jpg
-wget -O female_salaries_1.jpg https://s.marketwatch.com/public/resources/images/MW-GV821_aaffe2_ZH_20181030170438.jpg
-wget -O female_salaries_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/04/DanoS5xWkAM4tqD-e1523652188701-999x675.jpg
-wget -O female_salaries_3.jpg https://media.npr.org/assets/img/2018/04/10/ap_18099799656405_wide-31629caf32c30258388282beaab9f000772f3a8c-s800-c85.jpg
-wget -O female_salaries_4.jpg https://static01.nyt.com/images/2016/07/12/science/12SALARIES/12SALARIES-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget -O female_salaries_5.jpg https://image.businessinsider.com/58c557dcc1407721188b47f8?width=1100&format=jpeg&auto=webp
-wget -O female_salaries_6.jpg https://afpglobal.org/sites/default/files/styles/full/public/2019-03/womanreading.jpg?h=03be37af&itok=gZBsbWNb
-wget -O female_salaries_7.jpg https://www.glassdoor.com/blog/app/uploads/sites/2/Confidence-2-1-750x370.jpg
-wget -O female_salaries_8.jpg https://pixel.nymag.com/imgs/fashion/daily/2016/04/13/13-women-silicon-valley.w700.h700.jpg
-wget -O female_salaries_9.jpg https://s3.r29static.com/bin/entry/533/720x864,85/2064316/image.webp
+wget --tries=2 -O female_salaries_0.jpg https://cdn.americanprogress.org/content/uploads/2017/04/03141210/equal-pay-cropped-1024x683.jpg
+wget --tries=2 -O female_salaries_1.jpg https://s.marketwatch.com/public/resources/images/MW-GV821_aaffe2_ZH_20181030170438.jpg
+wget --tries=2 -O female_salaries_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/04/DanoS5xWkAM4tqD-e1523652188701-999x675.jpg
+wget --tries=2 -O female_salaries_3.jpg https://media.npr.org/assets/img/2018/04/10/ap_18099799656405_wide-31629caf32c30258388282beaab9f000772f3a8c-s800-c85.jpg
+wget --tries=2 -O female_salaries_4.jpg https://static01.nyt.com/images/2016/07/12/science/12SALARIES/12SALARIES-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 -O female_salaries_5.jpg https://image.businessinsider.com/58c557dcc1407721188b47f8?width=1100&format=jpeg&auto=webp
+wget --tries=2 -O female_salaries_6.jpg https://afpglobal.org/sites/default/files/styles/full/public/2019-03/womanreading.jpg?h=03be37af&itok=gZBsbWNb
+wget --tries=2 -O female_salaries_7.jpg https://www.glassdoor.com/blog/app/uploads/sites/2/Confidence-2-1-750x370.jpg
+wget --tries=2 -O female_salaries_8.jpg https://pixel.nymag.com/imgs/fashion/daily/2016/04/13/13-women-silicon-valley.w700.h700.jpg
+wget --tries=2 -O female_salaries_9.jpg https://s3.r29static.com/bin/entry/533/720x864,85/2064316/image.webp
 
-wget -O female_office_0.jpg http://ladyclever.com/wp-content/uploads/2013/04/wokrplaceoutfits.jpg
-wget -O female_office_1.jpg https://thumbs.dreamstime.com/z/female-office-worker-2494557.jpg
-wget -O female_office_2.jpg http://lifezap.com/wp-content/uploads/2017/07/beautiful-woman-at-the-office.jpg
-wget -O female_office_3.jpg https://previews.123rf.com/images/akkamulator/akkamulator1705/akkamulator170500805/78627974-modern-business-woman-or-confident-female-accountant-in-office.jpg
-wget -O female_office_4.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4623563.jpg
-wget -O female_office_5.jpg https://thumbs.dreamstime.com/z/female-office-worker-standing-desk-smiling-22199224.jpg
-wget -O female_office_6.jpg https://thumbs.dreamstime.com/z/young-african-american-female-office-worker-12481144.jpg
-wget -O female_office_7.jpg https://image.freepik.com/free-photo/lovely-woman-working-office_23-2147707845.jpg
-wget -O female_office_8.jpg https://secure.i.telegraph.co.uk/multimedia/archive/03093/A0GD5J_3093533b.jpg
-wget -O female_office_9.jpg https://i.pinimg.com/originals/66/76/d3/6676d3b98282c8418103ecf03ac4f52d.jpg
+wget --tries=2 -O female_office_0.jpg http://ladyclever.com/wp-content/uploads/2013/04/wokrplaceoutfits.jpg
+wget --tries=2 -O female_office_1.jpg https://thumbs.dreamstime.com/z/female-office-worker-2494557.jpg
+wget --tries=2 -O female_office_2.jpg http://lifezap.com/wp-content/uploads/2017/07/beautiful-woman-at-the-office.jpg
+wget --tries=2 -O female_office_3.jpg https://previews.123rf.com/images/akkamulator/akkamulator1705/akkamulator170500805/78627974-modern-business-woman-or-confident-female-accountant-in-office.jpg
+wget --tries=2 -O female_office_4.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4623563.jpg
+wget --tries=2 -O female_office_5.jpg https://thumbs.dreamstime.com/z/female-office-worker-standing-desk-smiling-22199224.jpg
+wget --tries=2 -O female_office_6.jpg https://thumbs.dreamstime.com/z/young-african-american-female-office-worker-12481144.jpg
+wget --tries=2 -O female_office_7.jpg https://image.freepik.com/free-photo/lovely-woman-working-office_23-2147707845.jpg
+wget --tries=2 -O female_office_8.jpg https://secure.i.telegraph.co.uk/multimedia/archive/03093/A0GD5J_3093533b.jpg
+wget --tries=2 -O female_office_9.jpg https://i.pinimg.com/originals/66/76/d3/6676d3b98282c8418103ecf03ac4f52d.jpg
 
-wget -O female_offices_0.jpg https://c8.alamy.com/comp/2A956E7/female-security-operator-working-in-a-security-data-control-room-offices-2A956E7.jpg
-wget -O female_offices_1.jpg https://okl.scene7.com/is/image/OKL/marlien_rentmeester_lead_portrait?wid=1000&op_sharpen=1
-wget -O female_offices_2.jpg https://i.pinimg.com/originals/5a/46/88/5a4688d9cd403f563abb7448bfe50ccd.png
-wget -O female_offices_3.jpg https://www.workingmother.com/sites/workingmother.com/files/styles/500_1x_/public/images/2019/10/woman_at_open_plan_office.jpg?itok=wFeCJxJ3&fc=50,50
-wget -O female_offices_4.jpg https://cdn.nextgov.com/media/img/upload/2019/05/22/NGcold20190522/860x394.jpg
-wget -O female_offices_5.jpg https://www.kathykuohome.com/Blog/wp-content/uploads/2013/08/lauren-santo-domingo-moda-operandi-new-york-offices-daniel-romualdez-slideshow.jpeg
-wget -O female_offices_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/05/22/16/anne-hathaway-the-intern-2015.jpg?w968h681
-wget -O female_offices_7.jpg https://s.marketwatch.com/public/resources/images/MW-GW195_a16459_ZH_20181030172759.jpg
-wget -O female_offices_8.jpg https://c8.alamy.com/comp/2A7HMJM/female-security-operator-working-in-a-security-data-control-room-offices-2A7HMJM.jpg
-wget -O female_offices_9.jpg https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/05/SEI_69381166.jpg?quality=90&strip=all&zoom=1&resize=644%2C429&ssl=1
+wget --tries=2 -O female_offices_0.jpg https://c8.alamy.com/comp/2A956E7/female-security-operator-working-in-a-security-data-control-room-offices-2A956E7.jpg
+wget --tries=2 -O female_offices_1.jpg https://okl.scene7.com/is/image/OKL/marlien_rentmeester_lead_portrait?wid=1000&op_sharpen=1
+wget --tries=2 -O female_offices_2.jpg https://i.pinimg.com/originals/5a/46/88/5a4688d9cd403f563abb7448bfe50ccd.png
+wget --tries=2 -O female_offices_3.jpg https://www.workingmother.com/sites/workingmother.com/files/styles/500_1x_/public/images/2019/10/woman_at_open_plan_office.jpg?itok=wFeCJxJ3&fc=50,50
+wget --tries=2 -O female_offices_4.jpg https://cdn.nextgov.com/media/img/upload/2019/05/22/NGcold20190522/860x394.jpg
+wget --tries=2 -O female_offices_5.jpg https://www.kathykuohome.com/Blog/wp-content/uploads/2013/08/lauren-santo-domingo-moda-operandi-new-york-offices-daniel-romualdez-slideshow.jpeg
+wget --tries=2 -O female_offices_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/05/22/16/anne-hathaway-the-intern-2015.jpg?w968h681
+wget --tries=2 -O female_offices_7.jpg https://s.marketwatch.com/public/resources/images/MW-GW195_a16459_ZH_20181030172759.jpg
+wget --tries=2 -O female_offices_8.jpg https://c8.alamy.com/comp/2A7HMJM/female-security-operator-working-in-a-security-data-control-room-offices-2A7HMJM.jpg
+wget --tries=2 -O female_offices_9.jpg https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/05/SEI_69381166.jpg?quality=90&strip=all&zoom=1&resize=644%2C429&ssl=1
 
-wget -O female_business_0.jpg https://www.paymentsjournal.com/wp-content/uploads/2020/01/3089-scaled.jpg
-wget -O female_business_1.jpg https://womensenews.org/wp-content/uploads/2018/04/black-woman-business-use-this-1170x695.jpg
-wget -O female_business_2.jpg https://www.creativelive.com/blog/wp-content/uploads/2016/03/Top-Women-Entrepreneurs-Share-Their-Start-in-Business.Melissa-Galt.png
-wget -O female_business_3.jpg https://www.thebusinesswomanmedia.com/wp-content/uploads/2017/04/female-future.jpg
-wget -O female_business_4.jpg https://assets.entrepreneur.com/slideshow/20190925211133-ent19-octnov-womenlist-mperkins.jpeg?width=1000
-wget -O female_business_5.jpg https://www.startupdonut.co.uk/sites/default/files/future-for-women-business_584211001.jpg
-wget -O female_business_6.jpg https://www.atalantawebdesign.com/wp-content/uploads/2018/02/women-in-business.jpeg
-wget -O female_business_7.jpg https://www.thebalancecareers.com/thmb/ezmO1LxB1IzS6NnAJq-vOTMTCo8=/533x400/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-488337161-58c002633df78c353c516e85.jpg
-wget -O female_business_8.jpg https://innov8tiv.com/wp-content/uploads/2014/09/professional-business-women.jpg
-wget -O female_business_9.jpg https://image.shutterstock.com/image-photo/modern-business-woman-office-copy-260nw-520951948.jpg
+wget --tries=2 -O female_business_0.jpg https://www.paymentsjournal.com/wp-content/uploads/2020/01/3089-scaled.jpg
+wget --tries=2 -O female_business_1.jpg https://womensenews.org/wp-content/uploads/2018/04/black-woman-business-use-this-1170x695.jpg
+wget --tries=2 -O female_business_2.jpg https://www.creativelive.com/blog/wp-content/uploads/2016/03/Top-Women-Entrepreneurs-Share-Their-Start-in-Business.Melissa-Galt.png
+wget --tries=2 -O female_business_3.jpg https://www.thebusinesswomanmedia.com/wp-content/uploads/2017/04/female-future.jpg
+wget --tries=2 -O female_business_4.jpg https://assets.entrepreneur.com/slideshow/20190925211133-ent19-octnov-womenlist-mperkins.jpeg?width=1000
+wget --tries=2 -O female_business_5.jpg https://www.startupdonut.co.uk/sites/default/files/future-for-women-business_584211001.jpg
+wget --tries=2 -O female_business_6.jpg https://www.atalantawebdesign.com/wp-content/uploads/2018/02/women-in-business.jpeg
+wget --tries=2 -O female_business_7.jpg https://www.thebalancecareers.com/thmb/ezmO1LxB1IzS6NnAJq-vOTMTCo8=/533x400/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-488337161-58c002633df78c353c516e85.jpg
+wget --tries=2 -O female_business_8.jpg https://innov8tiv.com/wp-content/uploads/2014/09/professional-business-women.jpg
+wget --tries=2 -O female_business_9.jpg https://image.shutterstock.com/image-photo/modern-business-woman-office-copy-260nw-520951948.jpg
 
-wget -O female_businesses_0.jpg https://www.smallbizdaily.com/wp-content/uploads/2018/04/ThinkstockPhotos-938456216-min.jpg
-wget -O female_businesses_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/iStock-901866550-1080x675.jpg
-wget -O female_businesses_2.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1179509096%2F960x0.jpg%3Ffit%3Dscale
-wget -O female_businesses_3.jpg https://3sr05l2l7ihe1u4u613nqp53-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/iStock-1039076422-1.jpg
-wget -O female_businesses_4.jpg http://www.kiplinger.com/slideshow/business/T049-S001-women-who-built-successful-businesses-by-age-35/images/1.jpg
-wget -O female_businesses_5.jpg https://tnj.com/wp-content/uploads/2018/06/women.jpg
-wget -O female_businesses_6.jpg https://cdn1.thestoryexchange.org/wp-content/uploads/2019/09/25171108/30082302878_8ff5ae5404_z.jpg
-wget -O female_businesses_7.jpg https://www.thebusinesswomanmedia.com/wp-content/uploads/2017/04/female-future.jpg
-wget -O female_businesses_8.jpg http://media.execunet.com/m/women-business-meeting.jpg
-wget -O female_businesses_9.jpg https://www.essence.com/wp-content/uploads/2019/12/EQ4A0745-1920x1080.jpg?width=1920&height=1080
+wget --tries=2 -O female_businesses_0.jpg https://www.smallbizdaily.com/wp-content/uploads/2018/04/ThinkstockPhotos-938456216-min.jpg
+wget --tries=2 -O female_businesses_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/iStock-901866550-1080x675.jpg
+wget --tries=2 -O female_businesses_2.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1179509096%2F960x0.jpg%3Ffit%3Dscale
+wget --tries=2 -O female_businesses_3.jpg https://3sr05l2l7ihe1u4u613nqp53-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/iStock-1039076422-1.jpg
+wget --tries=2 -O female_businesses_4.jpg http://www.kiplinger.com/slideshow/business/T049-S001-women-who-built-successful-businesses-by-age-35/images/1.jpg
+wget --tries=2 -O female_businesses_5.jpg https://tnj.com/wp-content/uploads/2018/06/women.jpg
+wget --tries=2 -O female_businesses_6.jpg https://cdn1.thestoryexchange.org/wp-content/uploads/2019/09/25171108/30082302878_8ff5ae5404_z.jpg
+wget --tries=2 -O female_businesses_7.jpg https://www.thebusinesswomanmedia.com/wp-content/uploads/2017/04/female-future.jpg
+wget --tries=2 -O female_businesses_8.jpg http://media.execunet.com/m/women-business-meeting.jpg
+wget --tries=2 -O female_businesses_9.jpg https://www.essence.com/wp-content/uploads/2019/12/EQ4A0745-1920x1080.jpg?width=1920&height=1080
 
-wget -O female_career_0.jpg https://media.glamour.com/photos/5704342f1671810c378b7cad/master/pass/inspired-2016-03-women-careers-barriers-main.jpg
-wget -O female_career_1.jpg https://media.theeverygirl.com/wp-content/uploads/2020/01/american-express-f-720x480.jpg
-wget -O female_career_2.jpg https://www.returnofkings.com/wp-content/uploads/2014/10/women-want-careers-more-than-men1852256748-apr-20-2012-600x464.jpg
-wget -O female_career_3.jpg https://www.cbre.us/-/media/cbre/countryunitedstates/media/images/careers%20and%20network%20groups/larger-resources.jpeg?mh=0&w=768&mw=0&h=582&la=en&hash=B2231E2DCC41B95D74D29BE15176C1FCC431C27F
-wget -O female_career_4.jpg https://baucemag.com/wp-content/uploads/2016-03-11-1457723630-5527829-successful_career_woman_in_her_30s.jpg
-wget -O female_career_5.jpg https://youthincmag.com/wp-content/uploads/2019/03/016987154_10100.jpg
-wget -O female_career_6.jpg https://image.businessinsider.com/58adb6ed01fe58bd3c8b597a?width=600&format=jpeg&auto=webp
-wget -O female_career_7.jpg https://15xomi2v386wytrb8nbsoq34-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/engineering-women-660x400.jpg
-wget -O female_career_8.jpg http://www.returnofkings.com/wp-content/uploads/2014/10/Career-Woman-300x300.jpg
-wget -O female_career_9.jpg https://i2.wp.com/career-intelligence.com/wp-content/uploads/2014/01/women-getting-ahead.jpg?fit=2240%2C1873&ssl=1
+wget --tries=2 -O female_career_0.jpg https://media.glamour.com/photos/5704342f1671810c378b7cad/master/pass/inspired-2016-03-women-careers-barriers-main.jpg
+wget --tries=2 -O female_career_1.jpg https://media.theeverygirl.com/wp-content/uploads/2020/01/american-express-f-720x480.jpg
+wget --tries=2 -O female_career_2.jpg https://www.returnofkings.com/wp-content/uploads/2014/10/women-want-careers-more-than-men1852256748-apr-20-2012-600x464.jpg
+wget --tries=2 -O female_career_3.jpg https://www.cbre.us/-/media/cbre/countryunitedstates/media/images/careers%20and%20network%20groups/larger-resources.jpeg?mh=0&w=768&mw=0&h=582&la=en&hash=B2231E2DCC41B95D74D29BE15176C1FCC431C27F
+wget --tries=2 -O female_career_4.jpg https://baucemag.com/wp-content/uploads/2016-03-11-1457723630-5527829-successful_career_woman_in_her_30s.jpg
+wget --tries=2 -O female_career_5.jpg https://youthincmag.com/wp-content/uploads/2019/03/016987154_10100.jpg
+wget --tries=2 -O female_career_6.jpg https://image.businessinsider.com/58adb6ed01fe58bd3c8b597a?width=600&format=jpeg&auto=webp
+wget --tries=2 -O female_career_7.jpg https://15xomi2v386wytrb8nbsoq34-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/engineering-women-660x400.jpg
+wget --tries=2 -O female_career_8.jpg http://www.returnofkings.com/wp-content/uploads/2014/10/Career-Woman-300x300.jpg
+wget --tries=2 -O female_career_9.jpg https://i2.wp.com/career-intelligence.com/wp-content/uploads/2014/01/women-getting-ahead.jpg?fit=2240%2C1873&ssl=1
 
-wget -O female_careers_0.jpg https://www.yourdictionary.com/images/definitions/lg/9545.career-woman.jpg
-wget -O female_careers_1.jpg https://media.glamour.com/photos/5704342f1671810c378b7cad/master/pass/inspired-2016-03-women-careers-barriers-main.jpg
-wget -O female_careers_2.jpg http://www.for-your-dream-career.com/images/careerforwoman.jpg
-wget -O female_careers_3.jpg https://assets.pcmag.com/media/images/562227-business-team-powercord-umpteenth.jpg
-wget -O female_careers_4.jpg https://wisebread-killeracesmedia.netdna-ssl.com/files/fruganomics/imagecache/605x340/blog-images/female_architect_at_work.jpg
-wget -O female_careers_5.jpg https://www.returnofkings.com/wp-content/uploads/2014/10/women-want-careers-more-than-men1852256748-apr-20-2012-600x464.jpg
-wget -O female_careers_6.jpg http://media.monsterindia.com/cmsimages/1501487184.jpg
-wget -O female_careers_7.jpg https://cdn.gobankingrates.com/wp-content/uploads/2015/12/successful_career_woman_in_her_30s-1024x640.jpg
-wget -O female_careers_8.jpg https://www.powerhomebiz.com/wp-content/uploads/2012/05/career-women.jpg
-wget -O female_careers_9.jpg https://coda.newjobs.com/api/imagesproxy/ms/cms/content30/images/highest-paying-jobs-womenbw.png
+wget --tries=2 -O female_careers_0.jpg https://www.yourdictionary.com/images/definitions/lg/9545.career-woman.jpg
+wget --tries=2 -O female_careers_1.jpg https://media.glamour.com/photos/5704342f1671810c378b7cad/master/pass/inspired-2016-03-women-careers-barriers-main.jpg
+wget --tries=2 -O female_careers_2.jpg http://www.for-your-dream-career.com/images/careerforwoman.jpg
+wget --tries=2 -O female_careers_3.jpg https://assets.pcmag.com/media/images/562227-business-team-powercord-umpteenth.jpg
+wget --tries=2 -O female_careers_4.jpg https://wisebread-killeracesmedia.netdna-ssl.com/files/fruganomics/imagecache/605x340/blog-images/female_architect_at_work.jpg
+wget --tries=2 -O female_careers_5.jpg https://www.returnofkings.com/wp-content/uploads/2014/10/women-want-careers-more-than-men1852256748-apr-20-2012-600x464.jpg
+wget --tries=2 -O female_careers_6.jpg http://media.monsterindia.com/cmsimages/1501487184.jpg
+wget --tries=2 -O female_careers_7.jpg https://cdn.gobankingrates.com/wp-content/uploads/2015/12/successful_career_woman_in_her_30s-1024x640.jpg
+wget --tries=2 -O female_careers_8.jpg https://www.powerhomebiz.com/wp-content/uploads/2012/05/career-women.jpg
+wget --tries=2 -O female_careers_9.jpg https://coda.newjobs.com/api/imagesproxy/ms/cms/content30/images/highest-paying-jobs-womenbw.png
 
-wget -O female_home_0.jpg https://rismedia.com/wp-content/uploads/2016/10/single_woman_homebuyer_665x350.jpg
-wget -O female_home_1.jpg https://www.freegreatpicture.com/files/70/2979-home-girl.jpg
-wget -O female_home_2.jpg http://www.rocitout.com/wp-content/uploads/2015/05/woman.jpg
-wget -O female_home_3.jpg https://c8.alamy.com/comp/DPD0RX/beautiful-business-woman-getting-dressed-for-work-in-front-of-mirror-DPD0RX.jpg
-wget -O female_home_4.jpg https://www.thebusinesswomanmedia.com/wp-content/uploads/2015/03/slowdown.jpg
-wget -O female_home_5.jpg https://havenofgracestl.org/wp-content/uploads/2017/10/slides_home_5-4.jpg
-wget -O female_home_6.jpg https://lionessmagazine.com/wp-content/uploads/2014/06/bpt-1.jpg
-wget -O female_home_7.jpg https://femusician.com/wp-content/uploads/2015/04/bg-mobile.jpg
-wget -O female_home_8.jpg https://sacwomenshealth.com/cms/wp-content/themes/sacwomenshealth/_/images/home/home-banner-slide-5.jpg
-wget -O female_home_9.jpg https://havenofgracestl.org/wp-content/uploads/2017/10/slides_home_1-3.jpg
+wget --tries=2 -O female_home_0.jpg https://rismedia.com/wp-content/uploads/2016/10/single_woman_homebuyer_665x350.jpg
+wget --tries=2 -O female_home_1.jpg https://www.freegreatpicture.com/files/70/2979-home-girl.jpg
+wget --tries=2 -O female_home_2.jpg http://www.rocitout.com/wp-content/uploads/2015/05/woman.jpg
+wget --tries=2 -O female_home_3.jpg https://c8.alamy.com/comp/DPD0RX/beautiful-business-woman-getting-dressed-for-work-in-front-of-mirror-DPD0RX.jpg
+wget --tries=2 -O female_home_4.jpg https://www.thebusinesswomanmedia.com/wp-content/uploads/2015/03/slowdown.jpg
+wget --tries=2 -O female_home_5.jpg https://havenofgracestl.org/wp-content/uploads/2017/10/slides_home_5-4.jpg
+wget --tries=2 -O female_home_6.jpg https://lionessmagazine.com/wp-content/uploads/2014/06/bpt-1.jpg
+wget --tries=2 -O female_home_7.jpg https://femusician.com/wp-content/uploads/2015/04/bg-mobile.jpg
+wget --tries=2 -O female_home_8.jpg https://sacwomenshealth.com/cms/wp-content/themes/sacwomenshealth/_/images/home/home-banner-slide-5.jpg
+wget --tries=2 -O female_home_9.jpg https://havenofgracestl.org/wp-content/uploads/2017/10/slides_home_1-3.jpg
 			  
-wget -O female_homes_0.jpg https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/1/9e/19e51ae3-d068-55b0-a020-11a648997d49/5c61d5ad34dc3.image.jpg?resize=1200%2C800
-wget -O female_homes_1.jpg http://blog.rismedia.com/wp-content/uploads/2018/02/iStock-646687624.jpg
-wget -O female_homes_2.jpg https://media.bizj.us/view/img/11171822/bizwomenmillennialnewhome*800xx6720-3794-0-257.jpg
-wget -O female_homes_3.jpg https://dr5dymrsxhdzh.cloudfront.net/blog/images/a8681da5c/2018/01/young-mixed-race-woman-moving-writing-checklist-picture-id638835014.jpg
-wget -O female_homes_4.jpg https://purewows3.imgix.net/images/articles/2019_02/Woman-at-home-on-sofa.jpg?auto=format,compress&cs=strip
-wget -O female_homes_5.jpg https://www.baltimoresun.com/resizer/preoyth7f5Y92--GLuc6nfm_bfI=/415x233/top/www.trbimg.com/img-5c50ce15/turbine/bs-1548799505-cwoyiaulba-snap-image
-wget -O female_homes_6.jpg https://www.quickenloans.com/blog/wp-content/uploads/2018/06/GirlinCoffeeShop.jpg
-wget -O female_homes_7.jpg https://image.cnbcfm.com/api/v1/image/105202367-Mindy_kitchen.jpg?v=1532563641&w=1400&h=950
-wget -O female_homes_8.jpg https://www.usnews.com/dims4/USNEWS/c13215a/2147483647/thumbnail/640x420/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Ff7%2F6c470207cb268f7ee85d6ccaf77f63%2F44157WideModern_WomanHomebuyer_130708.jpg
-wget -O female_homes_9.jpg https://www.rgvnewhomesguide.com/assets/uploads/2018/12/Villa-Homes-Portraits-2019-Women-web-12-684x1024.jpg
+wget --tries=2 -O female_homes_0.jpg https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/1/9e/19e51ae3-d068-55b0-a020-11a648997d49/5c61d5ad34dc3.image.jpg?resize=1200%2C800
+wget --tries=2 -O female_homes_1.jpg http://blog.rismedia.com/wp-content/uploads/2018/02/iStock-646687624.jpg
+wget --tries=2 -O female_homes_2.jpg https://media.bizj.us/view/img/11171822/bizwomenmillennialnewhome*800xx6720-3794-0-257.jpg
+wget --tries=2 -O female_homes_3.jpg https://dr5dymrsxhdzh.cloudfront.net/blog/images/a8681da5c/2018/01/young-mixed-race-woman-moving-writing-checklist-picture-id638835014.jpg
+wget --tries=2 -O female_homes_4.jpg https://purewows3.imgix.net/images/articles/2019_02/Woman-at-home-on-sofa.jpg?auto=format,compress&cs=strip
+wget --tries=2 -O female_homes_5.jpg https://www.baltimoresun.com/resizer/preoyth7f5Y92--GLuc6nfm_bfI=/415x233/top/www.trbimg.com/img-5c50ce15/turbine/bs-1548799505-cwoyiaulba-snap-image
+wget --tries=2 -O female_homes_6.jpg https://www.quickenloans.com/blog/wp-content/uploads/2018/06/GirlinCoffeeShop.jpg
+wget --tries=2 -O female_homes_7.jpg https://image.cnbcfm.com/api/v1/image/105202367-Mindy_kitchen.jpg?v=1532563641&w=1400&h=950
+wget --tries=2 -O female_homes_8.jpg https://www.usnews.com/dims4/USNEWS/c13215a/2147483647/thumbnail/640x420/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Ff7%2F6c470207cb268f7ee85d6ccaf77f63%2F44157WideModern_WomanHomebuyer_130708.jpg
+wget --tries=2 -O female_homes_9.jpg https://www.rgvnewhomesguide.com/assets/uploads/2018/12/Villa-Homes-Portraits-2019-Women-web-12-684x1024.jpg
 			  
-wget -O female_parent_0.jpg https://ak0.picdn.net/shutterstock/videos/3814460/thumb/1.jpg
-wget -O female_parent_1.jpg https://image.shutterstock.com/z/stock-photo-smiling-young-african-female-parent-helping-cute-child-in-striped-shirt-make-a-beaded-craft-heart-572690485.jpg
-wget -O female_parent_2.jpg https://thumbs.dreamstime.com/z/family-mother-child-happy-baby-woman-love-daughter-young-bed-mom-people-boy-portrait-kid-parent-son-beautiful-sm-little-sit-138670095.jpg
-wget -O female_parent_3.jpg https://dq1eylutsoz4u.cloudfront.net/2018/05/01114049/single-parent-dating-advice.jpg
-wget -O female_parent_4.jpg https://www.pillarsforsuccess.com/wp-content/uploads/2019/07/Canva-parenting-and-family-frustration-1038x693.jpg
-wget -O female_parent_5.jpg https://cdn.newsapi.com.au/image/v1/150dc5fbce739cb9c5a537a4b41f41b8
-wget -O female_parent_6.jpg https://i1.wp.com/s3.amazonaws.com/awaa.org/content/uploads/20180724154655/Single-Woman-Adoption.jpg?fit=750%2C430&ssl=1
-wget -O female_parent_7.jpg https://st2.depositphotos.com/1252160/7582/i/950/depositphotos_75827115-stock-photo-female-parent-holding-newborn-baby.jpg
-wget -O female_parent_8.jpg https://as1.ftcdn.net/jpg/02/16/18/92/500_F_216189207_VwY90Is7PwTLD3AB7SKeBqDqOuDvcaVy.jpg
-wget -O female_parent_9.jpg http://macnamara.ca/wp-content/uploads/2016/02/Parent-2.jpg
+wget --tries=2 -O female_parent_0.jpg https://ak0.picdn.net/shutterstock/videos/3814460/thumb/1.jpg
+wget --tries=2 -O female_parent_1.jpg https://image.shutterstock.com/z/stock-photo-smiling-young-african-female-parent-helping-cute-child-in-striped-shirt-make-a-beaded-craft-heart-572690485.jpg
+wget --tries=2 -O female_parent_2.jpg https://thumbs.dreamstime.com/z/family-mother-child-happy-baby-woman-love-daughter-young-bed-mom-people-boy-portrait-kid-parent-son-beautiful-sm-little-sit-138670095.jpg
+wget --tries=2 -O female_parent_3.jpg https://dq1eylutsoz4u.cloudfront.net/2018/05/01114049/single-parent-dating-advice.jpg
+wget --tries=2 -O female_parent_4.jpg https://www.pillarsforsuccess.com/wp-content/uploads/2019/07/Canva-parenting-and-family-frustration-1038x693.jpg
+wget --tries=2 -O female_parent_5.jpg https://cdn.newsapi.com.au/image/v1/150dc5fbce739cb9c5a537a4b41f41b8
+wget --tries=2 -O female_parent_6.jpg https://i1.wp.com/s3.amazonaws.com/awaa.org/content/uploads/20180724154655/Single-Woman-Adoption.jpg?fit=750%2C430&ssl=1
+wget --tries=2 -O female_parent_7.jpg https://st2.depositphotos.com/1252160/7582/i/950/depositphotos_75827115-stock-photo-female-parent-holding-newborn-baby.jpg
+wget --tries=2 -O female_parent_8.jpg https://as1.ftcdn.net/jpg/02/16/18/92/500_F_216189207_VwY90Is7PwTLD3AB7SKeBqDqOuDvcaVy.jpg
+wget --tries=2 -O female_parent_9.jpg http://macnamara.ca/wp-content/uploads/2016/02/Parent-2.jpg
 		     
-wget -O female_parents_0.jpg https://compote.slate.com/images/53783582-996d-486d-8a2f-e5428e3e1571.jpg
-wget -O female_parents_1.jpg https://dailycaring.com/wp-content/uploads/2016/06/keepparentshome690x400.jpg
-wget -O female_parents_2.jpg https://surrogate.com/wp-content/uploads/2017/09/GettyImages-527690088.jpg
-wget -O female_parents_3.jpg https://www.liveabout.com/thmb/115QugKzv13ZQh_bOm-tCQ-aCCc=/3867x2578/filters:fill\(auto,1\)/175281126-56a871115f9b58b7d0f29de6.jpg
-wget -O female_parents_4.jpg https://vanierinstitute.b-cdn.net/wp-content/uploads/2016/04/LoneMother.jpg
-wget -O female_parents_5.jpg https://www.childtrends.org/wp-content/uploads/2013/06/adult-latina-and-her-mom.jpg
-wget -O female_parents_6.jpg https://i0.heartyhosting.com/radaronline.com/wp-content/uploads/2019/09/dwarfism-con-woman-living-new-family-adoptive-parents-face-jail-Mobile.jpg?resize=768%2C974&ssl=1
-wget -O female_parents_7.jpg https://static01.nyt.com/images/2019/09/02/business/29JPELDERCARE2-print/29ELDERCARE02-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale
-wget -O female_parents_8.jpg https://i.cbc.ca/1.3206785.1440740163!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/parent-and-adult-child.jpg
-wget -O female_parents_9.jpg http://cdn.cdnparenting.com/articles/2018/09/345315551-H-1024x700.jpg
+wget --tries=2 -O female_parents_0.jpg https://compote.slate.com/images/53783582-996d-486d-8a2f-e5428e3e1571.jpg
+wget --tries=2 -O female_parents_1.jpg https://dailycaring.com/wp-content/uploads/2016/06/keepparentshome690x400.jpg
+wget --tries=2 -O female_parents_2.jpg https://surrogate.com/wp-content/uploads/2017/09/GettyImages-527690088.jpg
+wget --tries=2 -O female_parents_3.jpg https://www.liveabout.com/thmb/115QugKzv13ZQh_bOm-tCQ-aCCc=/3867x2578/filters:fill\(auto,1\)/175281126-56a871115f9b58b7d0f29de6.jpg
+wget --tries=2 -O female_parents_4.jpg https://vanierinstitute.b-cdn.net/wp-content/uploads/2016/04/LoneMother.jpg
+wget --tries=2 -O female_parents_5.jpg https://www.childtrends.org/wp-content/uploads/2013/06/adult-latina-and-her-mom.jpg
+wget --tries=2 -O female_parents_6.jpg https://i0.heartyhosting.com/radaronline.com/wp-content/uploads/2019/09/dwarfism-con-woman-living-new-family-adoptive-parents-face-jail-Mobile.jpg?resize=768%2C974&ssl=1
+wget --tries=2 -O female_parents_7.jpg https://static01.nyt.com/images/2019/09/02/business/29JPELDERCARE2-print/29ELDERCARE02-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 -O female_parents_8.jpg https://i.cbc.ca/1.3206785.1440740163!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/parent-and-adult-child.jpg
+wget --tries=2 -O female_parents_9.jpg http://cdn.cdnparenting.com/articles/2018/09/345315551-H-1024x700.jpg
 			  
-wget -O female_child_0.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/2017-11/shutterstock_607427372.jpg?itok=9YwlxPuR
-wget -O female_child_1.jpg https://cdn.pixabay.com/photo/2012/02/27/15/36/baby-17343_960_720.jpg
-wget -O female_child_2.jpg https://images.indianexpress.com/2016/11/mother-with-a-baby-girl-759.jpg
-wget -O female_child_3.jpg http://www.nbrhc.on.ca/wp-content/uploads/2014/03/Women-and-Children.jpg
-wget -O female_child_4.jpg https://cdn.abcotvs.com/dip/images/5686501_110919-skinconditonbullying2.jpg?w=800&r=16%3A9
-wget -O female_child_5.jpg https://images.squarespace-cdn.com/content/v1/54c68cf7e4b056a79711e1e7/1561479585325-W7QDLO337Z18UBSDOVLP/ke17ZwdGBToddI8pDm48kO-C7LlX4_E2VT6WQVGhhFt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UaHutp126M2f7E9Z6OOS7FAAKYXOxU6bYY9a2cjk4t3Sb14M0pviVa_3NKqgxwc6Qg/927A7677.jpg?format=1500w
-wget -O female_child_6.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpeopledotcom.files.wordpress.com%2F2019%2F02%2Fmoms.jpg&w=400&c=sc&poi=face&q=85
-wget -O female_child_7.jpg http://images.agoramedia.com/wte3.0/gcms/ask-heidi-utis-in-children-722x406.jpg?width=414
-wget -O female_child_8.jpg https://havenofgracestl.org/wp-content/uploads/2017/10/slides_home_6.jpg
-wget -O female_child_9.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-01-02-at-15-28-29-1546442624.jpg?crop=1.00xw:0.502xh;0,0.265xh&resize=480:*
+wget --tries=2 -O female_child_0.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/2017-11/shutterstock_607427372.jpg?itok=9YwlxPuR
+wget --tries=2 -O female_child_1.jpg https://cdn.pixabay.com/photo/2012/02/27/15/36/baby-17343_960_720.jpg
+wget --tries=2 -O female_child_2.jpg https://images.indianexpress.com/2016/11/mother-with-a-baby-girl-759.jpg
+wget --tries=2 -O female_child_3.jpg http://www.nbrhc.on.ca/wp-content/uploads/2014/03/Women-and-Children.jpg
+wget --tries=2 -O female_child_4.jpg https://cdn.abcotvs.com/dip/images/5686501_110919-skinconditonbullying2.jpg?w=800&r=16%3A9
+wget --tries=2 -O female_child_5.jpg https://images.squarespace-cdn.com/content/v1/54c68cf7e4b056a79711e1e7/1561479585325-W7QDLO337Z18UBSDOVLP/ke17ZwdGBToddI8pDm48kO-C7LlX4_E2VT6WQVGhhFt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UaHutp126M2f7E9Z6OOS7FAAKYXOxU6bYY9a2cjk4t3Sb14M0pviVa_3NKqgxwc6Qg/927A7677.jpg?format=1500w
+wget --tries=2 -O female_child_6.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpeopledotcom.files.wordpress.com%2F2019%2F02%2Fmoms.jpg&w=400&c=sc&poi=face&q=85
+wget --tries=2 -O female_child_7.jpg http://images.agoramedia.com/wte3.0/gcms/ask-heidi-utis-in-children-722x406.jpg?width=414
+wget --tries=2 -O female_child_8.jpg https://havenofgracestl.org/wp-content/uploads/2017/10/slides_home_6.jpg
+wget --tries=2 -O female_child_9.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-01-02-at-15-28-29-1546442624.jpg?crop=1.00xw:0.502xh;0,0.265xh&resize=480:*
 			  
-wget -O female_children_0.jpg https://www.pewresearch.org/wp-content/uploads/sites/3/2018/01/ST_18.01.18_Motherhood_Featured-Image.jpg 
-wget -O female_children_1.jpg https://womensresources.ca/wp-content/uploads/2016/03/iStock_000012339578Small1.jpg
-wget -O female_children_2.jpg https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/dissolve/1200/684495.jpg
-wget -O female_children_3.jpg https://blog.behappy2day.com/wp-content/uploads/2016/07/When-your-Russian-bride-has-a-kid-Best-Tips.jpg
-wget -O female_children_4.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/2017-11/shutterstock_607427372.jpg?itok=9YwlxPuR
-wget -O female_children_5.jpg https://i2-prod.mirror.co.uk/incoming/article14594172.ece/ALTERNATES/s1200/0_PAY-The-Ugandan-woman-Mariam-Nabatanzi-sits-in-front-of-the-house-with-twelve-of-her-children-in-Kasawo.jpg
-wget -O female_children_6.jpg https://media.self.com/photos/5bdb36b7266cd11068653096/master/pass/woman-and-young-children-reading.jpg
-wget -O female_children_7.jpg https://www.standardmedia.co.ke/evemedia/eveimages/sunday/thumb_edafvyvqlqzs45a51c23500cd4.jpg
-wget -O female_children_8.jpg http://www.nbrhc.on.ca/wp-content/uploads/2014/03/Women-and-Children.jpg
-wget -O female_children_9.jpg https://st4.depositphotos.com/3971595/22158/i/1600/depositphotos_221587910-stock-photo-happy-young-woman-with-children.jpg
+wget --tries=2 -O female_children_0.jpg https://www.pewresearch.org/wp-content/uploads/sites/3/2018/01/ST_18.01.18_Motherhood_Featured-Image.jpg 
+wget --tries=2 -O female_children_1.jpg https://womensresources.ca/wp-content/uploads/2016/03/iStock_000012339578Small1.jpg
+wget --tries=2 -O female_children_2.jpg https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/dissolve/1200/684495.jpg
+wget --tries=2 -O female_children_3.jpg https://blog.behappy2day.com/wp-content/uploads/2016/07/When-your-Russian-bride-has-a-kid-Best-Tips.jpg
+wget --tries=2 -O female_children_4.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/2017-11/shutterstock_607427372.jpg?itok=9YwlxPuR
+wget --tries=2 -O female_children_5.jpg https://i2-prod.mirror.co.uk/incoming/article14594172.ece/ALTERNATES/s1200/0_PAY-The-Ugandan-woman-Mariam-Nabatanzi-sits-in-front-of-the-house-with-twelve-of-her-children-in-Kasawo.jpg
+wget --tries=2 -O female_children_6.jpg https://media.self.com/photos/5bdb36b7266cd11068653096/master/pass/woman-and-young-children-reading.jpg
+wget --tries=2 -O female_children_7.jpg https://www.standardmedia.co.ke/evemedia/eveimages/sunday/thumb_edafvyvqlqzs45a51c23500cd4.jpg
+wget --tries=2 -O female_children_8.jpg http://www.nbrhc.on.ca/wp-content/uploads/2014/03/Women-and-Children.jpg
+wget --tries=2 -O female_children_9.jpg https://st4.depositphotos.com/3971595/22158/i/1600/depositphotos_221587910-stock-photo-happy-young-woman-with-children.jpg
 			  
-wget -O female_family_0.jpg https://www.acf.hhs.gov/sites/default/files/styles/acf_research_pages_program/public/fysb/mother_and_child_20170517.png?itok=YdQwxBEg
-wget -O female_family_1.jpg https://i.dailymail.co.uk/i/pix/2013/09/10/article-2416834-1BBCF069000005DC-545_306x423.jpg
-wget -O female_family_2.jpg https://cf.ltkcdn.net/family/images/std/204186-675x450-motherdaughter.jpg
-wget -O female_family_3.jpg https://familyofwomen.org/wp-content/uploads/fow-wdw.jpg
-wget -O female_family_4.jpg https://lh3.googleusercontent.com/proxy/4YWkPtQuh91h2eoR5bWGMPXx_d8ptWqmDDMvtyqGoov5dOvCNHVMcg2KLreEN2JEZIUNN01xX5uhM6AV5vhxkcjMv1Nig_uqSNUX1e8NeOk-y-K3oJmNmY8Saernn2v065t12KYYd2Jg1S78RA
-wget -O female_family_5.jpg https://s.abcnews.com/images/US/Chris-Shanann-Watts-1-HT-AY-181206_hpMain_16x9_992.jpg
-wget -O female_family_6.jpg https://money.cnn.com/technology/sexual-harassment-tech/media/8.jpg
-wget -O female_family_7.jpg https://stmedia.stimg.co/eden3.jpg?fit=crop&crop=faces
-wget -O female_family_8.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02467/CareerWoman_1_2467483b.jpg
-wget -O female_family_9.jpg https://www.babyproofyourlife.com/wp-content/uploads/2018/04/iStock-672643860.jpg
+wget --tries=2 -O female_family_0.jpg https://www.acf.hhs.gov/sites/default/files/styles/acf_research_pages_program/public/fysb/mother_and_child_20170517.png?itok=YdQwxBEg
+wget --tries=2 -O female_family_1.jpg https://i.dailymail.co.uk/i/pix/2013/09/10/article-2416834-1BBCF069000005DC-545_306x423.jpg
+wget --tries=2 -O female_family_2.jpg https://cf.ltkcdn.net/family/images/std/204186-675x450-motherdaughter.jpg
+wget --tries=2 -O female_family_3.jpg https://familyofwomen.org/wp-content/uploads/fow-wdw.jpg
+wget --tries=2 -O female_family_4.jpg https://lh3.googleusercontent.com/proxy/4YWkPtQuh91h2eoR5bWGMPXx_d8ptWqmDDMvtyqGoov5dOvCNHVMcg2KLreEN2JEZIUNN01xX5uhM6AV5vhxkcjMv1Nig_uqSNUX1e8NeOk-y-K3oJmNmY8Saernn2v065t12KYYd2Jg1S78RA
+wget --tries=2 -O female_family_5.jpg https://s.abcnews.com/images/US/Chris-Shanann-Watts-1-HT-AY-181206_hpMain_16x9_992.jpg
+wget --tries=2 -O female_family_6.jpg https://money.cnn.com/technology/sexual-harassment-tech/media/8.jpg
+wget --tries=2 -O female_family_7.jpg https://stmedia.stimg.co/eden3.jpg?fit=crop&crop=faces
+wget --tries=2 -O female_family_8.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02467/CareerWoman_1_2467483b.jpg
+wget --tries=2 -O female_family_9.jpg https://www.babyproofyourlife.com/wp-content/uploads/2018/04/iStock-672643860.jpg
 			  
-wget -O female_families_0.jpg https://www.heart.org/-/media/images/health-topics/consumer-healthcare/istock535448978-family-history.jpg
-wget -O female_families_1.jpg https://www.adweek.com/wp-content/uploads/2018/08/HP_Family.png
-wget -O female_families_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ72My9Ej9lk7RAxT4_ZwaP7JiNKJ7E8o4iCSmFwvrXqNXEyE2B
-wget -O female_families_3.jpg https://assets.heart.co.uk/2016/09/famous-families-8-1456746323.jpg
-wget -O female_families_4.jpg http://www.lgbtmap.org/image/report-2011-lgbt-families-thumb.jpg
-wget -O female_families_5.jpg https://www.umchohio.org/wp-content/uploads/foster-family-all-female-copy1.jpg
-wget -O female_families_6.jpg https://i.cbc.ca/1.3774749.1474577752!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/kathleen-wynne-and-indira-naidoo-harris-at-ottawa-s-horizon-jeunesse-french-catholic-school.JPG
-wget -O female_families_7.jpg https://cdn.americanprogress.org/content/uploads/2018/10/23133431/GettyImages-165463607-1024x683.jpg
-wget -O female_families_8.jpg https://s.marketwatch.com/public/resources/images/MW-GD643_single_MG_20180213110445.jpg
-wget -O female_families_9.jpg http://www.womenandinfants.org/women-and-infants-ri/services/child-and-family-development/images/child-and-family-development.jpg
+wget --tries=2 -O female_families_0.jpg https://www.heart.org/-/media/images/health-topics/consumer-healthcare/istock535448978-family-history.jpg
+wget --tries=2 -O female_families_1.jpg https://www.adweek.com/wp-content/uploads/2018/08/HP_Family.png
+wget --tries=2 -O female_families_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ72My9Ej9lk7RAxT4_ZwaP7JiNKJ7E8o4iCSmFwvrXqNXEyE2B
+wget --tries=2 -O female_families_3.jpg https://assets.heart.co.uk/2016/09/famous-families-8-1456746323.jpg
+wget --tries=2 -O female_families_4.jpg http://www.lgbtmap.org/image/report-2011-lgbt-families-thumb.jpg
+wget --tries=2 -O female_families_5.jpg https://www.umchohio.org/wp-content/uploads/foster-family-all-female-copy1.jpg
+wget --tries=2 -O female_families_6.jpg https://i.cbc.ca/1.3774749.1474577752!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/kathleen-wynne-and-indira-naidoo-harris-at-ottawa-s-horizon-jeunesse-french-catholic-school.JPG
+wget --tries=2 -O female_families_7.jpg https://cdn.americanprogress.org/content/uploads/2018/10/23133431/GettyImages-165463607-1024x683.jpg
+wget --tries=2 -O female_families_8.jpg https://s.marketwatch.com/public/resources/images/MW-GD643_single_MG_20180213110445.jpg
+wget --tries=2 -O female_families_9.jpg http://www.womenandinfants.org/women-and-infants-ri/services/child-and-family-development/images/child-and-family-development.jpg
 			  
-wget -O female_cousin_0.jpg https://qph.fs.quoracdn.net/main-qimg-dec90e2721894e7e2b67542ba739085b.webp 
-wget -O female_cousin_1.jpg https://www.onetip.net/wp-content/uploads/2014/08/birthday-texts-for-my-15-years-old-cousin.jpg
-wget -O female_cousin_2.jpg https://imgix.bustle.com/uploads/image/2018/3/26/e4340e68-ad29-4393-ba6f-950e99defd56-stocksy_txp8c18e614tjt100_small_614039.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
-wget -O female_cousin_3.jpg https://images.squarespace-cdn.com/content/v1/559b035ce4b04776fd9b7abb/1473821312262-PEQU05VY672T86BT77BP/ke17ZwdGBToddI8pDm48kPqQfq0L3n3wpHIsRapTfg8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKczo5Zn4xktlpMsMj-QlHXeMfNK6GwvtVkYEWiR8XAPyD3GfLCe_DXOSC_YcAacWL_/image-asset.jpeg
-wget -O female_cousin_4.jpg https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA4XFxcLzMwMjExOTAyXFxcL1NjcmVlbi1TaG90LTIwMTgtMDgtMzAtYXQtMjEuMTguNDIucG5nXCIsXCJ3aWR0aFwiOjc2NyxcImhlaWdodFwiOjQzMSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYTAwMjA4ZDBhOGI4ZDBmM2NmMzg2MDg2YTczYTE4MDE0YzBlNzJkOSJ9/screen-shot-2018-08-30-at-21-18-42.png
-wget -O female_cousin_5.jpg https://i.imgur.com/yLYvbFR.jpg
-wget -O female_cousin_6.jpg https://thoughtcatalog.files.wordpress.com/2014/08/shutterstock_207045220.jpg?w=786&h=517
-wget -O female_cousin_7.jpg https://c8.alamy.com/comp/AC3H8E/younger-girl-looking-up-to-older-cousin-AC3H8E.jpg
-wget -O female_cousin_8.jpg https://thumbs.dreamstime.com/b/charming-beautiful-women-feels-very-happy-meets-her-friend-cousin-attractive-has-never-seen-long-time-many-years-136228093.jpg
-wget -O female_cousin_9.jpg https://sahiyo.files.wordpress.com/2018/02/shabana.jpg?w=900
+wget --tries=2 -O female_cousin_0.jpg https://qph.fs.quoracdn.net/main-qimg-dec90e2721894e7e2b67542ba739085b.webp 
+wget --tries=2 -O female_cousin_1.jpg https://www.onetip.net/wp-content/uploads/2014/08/birthday-texts-for-my-15-years-old-cousin.jpg
+wget --tries=2 -O female_cousin_2.jpg https://imgix.bustle.com/uploads/image/2018/3/26/e4340e68-ad29-4393-ba6f-950e99defd56-stocksy_txp8c18e614tjt100_small_614039.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 -O female_cousin_3.jpg https://images.squarespace-cdn.com/content/v1/559b035ce4b04776fd9b7abb/1473821312262-PEQU05VY672T86BT77BP/ke17ZwdGBToddI8pDm48kPqQfq0L3n3wpHIsRapTfg8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKczo5Zn4xktlpMsMj-QlHXeMfNK6GwvtVkYEWiR8XAPyD3GfLCe_DXOSC_YcAacWL_/image-asset.jpeg
+wget --tries=2 -O female_cousin_4.jpg https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA4XFxcLzMwMjExOTAyXFxcL1NjcmVlbi1TaG90LTIwMTgtMDgtMzAtYXQtMjEuMTguNDIucG5nXCIsXCJ3aWR0aFwiOjc2NyxcImhlaWdodFwiOjQzMSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYTAwMjA4ZDBhOGI4ZDBmM2NmMzg2MDg2YTczYTE4MDE0YzBlNzJkOSJ9/screen-shot-2018-08-30-at-21-18-42.png
+wget --tries=2 -O female_cousin_5.jpg https://i.imgur.com/yLYvbFR.jpg
+wget --tries=2 -O female_cousin_6.jpg https://thoughtcatalog.files.wordpress.com/2014/08/shutterstock_207045220.jpg?w=786&h=517
+wget --tries=2 -O female_cousin_7.jpg https://c8.alamy.com/comp/AC3H8E/younger-girl-looking-up-to-older-cousin-AC3H8E.jpg
+wget --tries=2 -O female_cousin_8.jpg https://thumbs.dreamstime.com/b/charming-beautiful-women-feels-very-happy-meets-her-friend-cousin-attractive-has-never-seen-long-time-many-years-136228093.jpg
+wget --tries=2 -O female_cousin_9.jpg https://sahiyo.files.wordpress.com/2018/02/shabana.jpg?w=900
 			  
-wget -O female_cousins_0.jpg https://c8.alamy.com/comp/AEW29H/three-young-female-cousins-AEW29H.jpg
-wget -O female_cousins_1.jpg https://imgix.bustle.com/uploads/image/2018/3/12/2efe4609-ee6a-456a-8f4b-6912d8a0a995-stocksy_txped0ce08dwmp100_small_1375656.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
-wget -O female_cousins_2.jpg https://images.squarespace-cdn.com/content/v1/5b4637e7a2772cfd18699ef7/1540478583992-JNUZPBFJ7YIRKX3RH5EM/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/IMG_5823.JPG
-wget -O female_cousins_3.jpg https://www.bravotv.com/sites/bravo/files/media_mpx/thumbnails/bravo-video.nbcuni.com/image/NBCU_Bravo/696/803/171206_3631437_What_s_It_Like_to_Be_Cousins_with_The_Rock_.jpg
-wget -O female_cousins_4.jpg https://i.pinimg.com/originals/be/88/27/be88274c45e5a59a5ad9cdcf43420943.jpg
-wget -O female_cousins_5.jpg https://cdn3.volusion.com/xkzof.dbhrl/v/vspfiles/photos/143-2.jpg?v-cache=1567600366
-wget -O female_cousins_6.jpg https://www.irishtimes.com/polopoly_fs/1.3168958.1501180144!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
-wget -O female_cousins_7.jpg https://i.pinimg.com/originals/ea/6c/d0/ea6cd0e26cff36c939262185610d8b69.jpg
-wget -O female_cousins_8.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/actresses-julia-roberts-and-emma-roberts-arrive-to-the-los-news-photo-96996154-1552073091.jpg?crop=0.732xw:1.00xh;0.123xw,0&resize=640:*
-wget -O female_cousins_9.jpg http://totalcitygirl.com/blog/wp-content/uploads/2015/07/Sophie-Cousins-45-sm.jpg
+wget --tries=2 -O female_cousins_0.jpg https://c8.alamy.com/comp/AEW29H/three-young-female-cousins-AEW29H.jpg
+wget --tries=2 -O female_cousins_1.jpg https://imgix.bustle.com/uploads/image/2018/3/12/2efe4609-ee6a-456a-8f4b-6912d8a0a995-stocksy_txped0ce08dwmp100_small_1375656.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 -O female_cousins_2.jpg https://images.squarespace-cdn.com/content/v1/5b4637e7a2772cfd18699ef7/1540478583992-JNUZPBFJ7YIRKX3RH5EM/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/IMG_5823.JPG
+wget --tries=2 -O female_cousins_3.jpg https://www.bravotv.com/sites/bravo/files/media_mpx/thumbnails/bravo-video.nbcuni.com/image/NBCU_Bravo/696/803/171206_3631437_What_s_It_Like_to_Be_Cousins_with_The_Rock_.jpg
+wget --tries=2 -O female_cousins_4.jpg https://i.pinimg.com/originals/be/88/27/be88274c45e5a59a5ad9cdcf43420943.jpg
+wget --tries=2 -O female_cousins_5.jpg https://cdn3.volusion.com/xkzof.dbhrl/v/vspfiles/photos/143-2.jpg?v-cache=1567600366
+wget --tries=2 -O female_cousins_6.jpg https://www.irishtimes.com/polopoly_fs/1.3168958.1501180144!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
+wget --tries=2 -O female_cousins_7.jpg https://i.pinimg.com/originals/ea/6c/d0/ea6cd0e26cff36c939262185610d8b69.jpg
+wget --tries=2 -O female_cousins_8.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/actresses-julia-roberts-and-emma-roberts-arrive-to-the-los-news-photo-96996154-1552073091.jpg?crop=0.732xw:1.00xh;0.123xw,0&resize=640:*
+wget --tries=2 -O female_cousins_9.jpg http://totalcitygirl.com/blog/wp-content/uploads/2015/07/Sophie-Cousins-45-sm.jpg
 			  
-wget -O female_marriage_0.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/shutterstock_153069128.jpg?itok=uYeaqRij
-wget -O female_marriage_1.jpg https://secure.i.telegraph.co.uk/multimedia/archive/01745/bride_1745187c.jpg
-wget -O female_marriage_2.jpg https://i1.wp.com/metro.co.uk/wp-content/uploads/2018/06/gettyimages-676076631.jpg?quality=90&strip=all&zoom=1&resize=540%2C360&ssl=1
-wget -O female_marriage_3.jpg https://d.newsweek.com/en/full/672451/09-27-self-marriage.jpg
-wget -O female_marriage_4.jpg https://greatergood.berkeley.edu/images/made/images/uploads/Is_marriage_really_bad_for_womens_happiness_300_200_int_c1-1x.jpg
-wget -O female_marriage_5.jpg https://c.ndtvimg.com/2019-04/luf182d_hayley-jensen-nicola-hancock_625x300_18_April_19.jpg
-wget -O female_marriage_6.jpg https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/MqWP2eYCZq.jpg
-wget -O female_marriage_7.jpg https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2016/06/17/Photos/Processed/wedding-kNuF--621x414@LiveMint.JPG
-wget -O female_marriage_8.jpg https://media.swncdn.com/cms/CW/Couples/24845-woman-bride-marriage-woods-white-purity-beauty-wide.1200w.tn.jpg
-wget -O female_marriage_9.jpg https://lh3.googleusercontent.com/proxy/GosDfNsvfRZObYnlwHzkbrX3pdgRFBdDaaBKUgiXvLcCKJ98-IUBSgP6Y8qLeseL8TTNMIJMtwRD1uD7O2ASVO5HEE5kLboVUDVEQhNeZXPeYpLGgad-fMP6SGkR_25e0e0vgjHnw81vMDgvKbSN5i2A9I-ACVaodUojqdO5n8ZB5S1-sbM1GPsntoAjO-cZlmbTWC1P-3Q2riIQa0KMKyyFd1IhoBkm-mtpLFq5WwW8TQ
+wget --tries=2 -O female_marriage_0.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/shutterstock_153069128.jpg?itok=uYeaqRij
+wget --tries=2 -O female_marriage_1.jpg https://secure.i.telegraph.co.uk/multimedia/archive/01745/bride_1745187c.jpg
+wget --tries=2 -O female_marriage_2.jpg https://i1.wp.com/metro.co.uk/wp-content/uploads/2018/06/gettyimages-676076631.jpg?quality=90&strip=all&zoom=1&resize=540%2C360&ssl=1
+wget --tries=2 -O female_marriage_3.jpg https://d.newsweek.com/en/full/672451/09-27-self-marriage.jpg
+wget --tries=2 -O female_marriage_4.jpg https://greatergood.berkeley.edu/images/made/images/uploads/Is_marriage_really_bad_for_womens_happiness_300_200_int_c1-1x.jpg
+wget --tries=2 -O female_marriage_5.jpg https://c.ndtvimg.com/2019-04/luf182d_hayley-jensen-nicola-hancock_625x300_18_April_19.jpg
+wget --tries=2 -O female_marriage_6.jpg https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/MqWP2eYCZq.jpg
+wget --tries=2 -O female_marriage_7.jpg https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2016/06/17/Photos/Processed/wedding-kNuF--621x414@LiveMint.JPG
+wget --tries=2 -O female_marriage_8.jpg https://media.swncdn.com/cms/CW/Couples/24845-woman-bride-marriage-woods-white-purity-beauty-wide.1200w.tn.jpg
+wget --tries=2 -O female_marriage_9.jpg https://lh3.googleusercontent.com/proxy/GosDfNsvfRZObYnlwHzkbrX3pdgRFBdDaaBKUgiXvLcCKJ98-IUBSgP6Y8qLeseL8TTNMIJMtwRD1uD7O2ASVO5HEE5kLboVUDVEQhNeZXPeYpLGgad-fMP6SGkR_25e0e0vgjHnw81vMDgvKbSN5i2A9I-ACVaodUojqdO5n8ZB5S1-sbM1GPsntoAjO-cZlmbTWC1P-3Q2riIQa0KMKyyFd1IhoBkm-mtpLFq5WwW8TQ
 			  
-wget -O female_marriages_0.jpg https://greatergood.berkeley.edu/images/made/images/uploads/Is_marriage_really_bad_for_womens_happiness_300_200_int_c1-1x.jpg
-wget -O female_marriages_1.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8kFaAzDiHhWO6j9R8ZL5vzOiP-mYbBtQLDL0jq0OgOtOGdPEA
-wget -O female_marriages_2.jpg https://i1.wp.com/metro.co.uk/wp-content/uploads/2018/06/gettyimages-676076631.jpg?quality=90&strip=all&zoom=1&resize=540%2C360&ssl=1
-wget -O female_marriages_3.jpg https://static.toiimg.com/photo/63696523.cms
-wget -O female_marriages_4.jpg https://images.theconversation.com/files/198655/original/file-20171211-9386-1c7ltur.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip
-wget -O female_marriages_5.jpg https://thetempest.co/wp-content/uploads/2018/12/photo-1511479361146-96de271059c2.jpg
-wget -O female_marriages_6.jpg https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2019/8/27/77bd82518ba14ea4bbc667bf43f4752b_18.jpg
-wget -O female_marriages_7.jpg https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2019/03/13/9ca73bca-43cd-11e9-b5dc-9921d5eb8a6d_image_hires_125235.JPG?itok=D5dqlWLS&v=1552452766
-wget -O female_marriages_8.jpg https://cdn.upworthy.com/243015/uploads/44548cd0-e5d4-11e9-9e71-43321b1366a9_800_420.jpeg
-wget -O female_marriages_9.jpg https://www.euractiv.com/wp-content/uploads/sites/2/2017/12/shutterstock_295964384-800x450.jpg
+wget --tries=2 -O female_marriages_0.jpg https://greatergood.berkeley.edu/images/made/images/uploads/Is_marriage_really_bad_for_womens_happiness_300_200_int_c1-1x.jpg
+wget --tries=2 -O female_marriages_1.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8kFaAzDiHhWO6j9R8ZL5vzOiP-mYbBtQLDL0jq0OgOtOGdPEA
+wget --tries=2 -O female_marriages_2.jpg https://i1.wp.com/metro.co.uk/wp-content/uploads/2018/06/gettyimages-676076631.jpg?quality=90&strip=all&zoom=1&resize=540%2C360&ssl=1
+wget --tries=2 -O female_marriages_3.jpg https://static.toiimg.com/photo/63696523.cms
+wget --tries=2 -O female_marriages_4.jpg https://images.theconversation.com/files/198655/original/file-20171211-9386-1c7ltur.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip
+wget --tries=2 -O female_marriages_5.jpg https://thetempest.co/wp-content/uploads/2018/12/photo-1511479361146-96de271059c2.jpg
+wget --tries=2 -O female_marriages_6.jpg https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2019/8/27/77bd82518ba14ea4bbc667bf43f4752b_18.jpg
+wget --tries=2 -O female_marriages_7.jpg https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2019/03/13/9ca73bca-43cd-11e9-b5dc-9921d5eb8a6d_image_hires_125235.JPG?itok=D5dqlWLS&v=1552452766
+wget --tries=2 -O female_marriages_8.jpg https://cdn.upworthy.com/243015/uploads/44548cd0-e5d4-11e9-9e71-43321b1366a9_800_420.jpeg
+wget --tries=2 -O female_marriages_9.jpg https://www.euractiv.com/wp-content/uploads/sites/2/2017/12/shutterstock_295964384-800x450.jpg
 			
-wget -O female_wedding_0.jpg https://static.boredpanda.com/blog/wp-content/uploads/2017/02/female-cosplayers-wedding-photos-7.jpg
-wget -O female_wedding_1.jpg https://i.pinimg.com/originals/40/9d/86/409d864874b08d44084360254719e6d7.jpg
-wget -O female_wedding_2.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/36/2019/07/18220139/julie-chris-wedding-planner-1247-s12649-0216_vert.jpg
-wget -O female_wedding_3.jpg https://www.promhugs.com/wp-content/uploads/2019/11/womens-wedding-dress-and-outfits-14.jpg
-wget -O female_wedding_4.jpg https://www.simplemost.com/wp-content/uploads/2018/02/friends-750x500.jpeg
-wget -O female_wedding_5.jpg https://www.brides.com/thmb/xYUXreD2fGBk_pv3lRo_J9UaT2I=/1200x900/smart/filters:no_upscale\(\)/6838-A1-Stella-York.EveryBody.EveryBride-1-1200x1800-707c3b54f89b4fa5ad11ba1396099af8.jpg
-wget -O female_wedding_6.jpg https://assets.vogue.com/photos/5dd84b6bad544d00085b4939/16:9/w_1600,c_limit/1015W0178.jpg
-wget -O female_wedding_7.jpg https://ca-times.brightspotcdn.com/dims4/default/5ff7fc0/2147483647/strip/true/crop/983x1331+0+0/resize/840x1137!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F92%2F1f%2F0a930a754b64982dcbdda795528b%2F49175058651-bf1ccc42f3-o-1.jpg
-wget -O female_wedding_8.jpg https://www.bridesoftoday.com/Themes/BridesOfToday/Content/img/home/style3.jpg
-wget -O female_wedding_9.jpg https://peopledotcom.files.wordpress.com/2019/12/krashlyn.jpg?w=669
+wget --tries=2 -O female_wedding_0.jpg https://static.boredpanda.com/blog/wp-content/uploads/2017/02/female-cosplayers-wedding-photos-7.jpg
+wget --tries=2 -O female_wedding_1.jpg https://i.pinimg.com/originals/40/9d/86/409d864874b08d44084360254719e6d7.jpg
+wget --tries=2 -O female_wedding_2.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/36/2019/07/18220139/julie-chris-wedding-planner-1247-s12649-0216_vert.jpg
+wget --tries=2 -O female_wedding_3.jpg https://www.promhugs.com/wp-content/uploads/2019/11/womens-wedding-dress-and-outfits-14.jpg
+wget --tries=2 -O female_wedding_4.jpg https://www.simplemost.com/wp-content/uploads/2018/02/friends-750x500.jpeg
+wget --tries=2 -O female_wedding_5.jpg https://www.brides.com/thmb/xYUXreD2fGBk_pv3lRo_J9UaT2I=/1200x900/smart/filters:no_upscale\(\)/6838-A1-Stella-York.EveryBody.EveryBride-1-1200x1800-707c3b54f89b4fa5ad11ba1396099af8.jpg
+wget --tries=2 -O female_wedding_6.jpg https://assets.vogue.com/photos/5dd84b6bad544d00085b4939/16:9/w_1600,c_limit/1015W0178.jpg
+wget --tries=2 -O female_wedding_7.jpg https://ca-times.brightspotcdn.com/dims4/default/5ff7fc0/2147483647/strip/true/crop/983x1331+0+0/resize/840x1137!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F92%2F1f%2F0a930a754b64982dcbdda795528b%2F49175058651-bf1ccc42f3-o-1.jpg
+wget --tries=2 -O female_wedding_8.jpg https://www.bridesoftoday.com/Themes/BridesOfToday/Content/img/home/style3.jpg
+wget --tries=2 -O female_wedding_9.jpg https://peopledotcom.files.wordpress.com/2019/12/krashlyn.jpg?w=669
 		      
-wget -O female_weddings_0.jpg https://static.boredpanda.com/blog/wp-content/uploads/2017/02/female-cosplayers-wedding-photos-7.jpg
-wget -O female_weddings_1.jpg https://www.brides.com/thmb/wr62JCLlA26Z1J7Tf2hvUBt4tAg=/2400x2400/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/__opt__aboutcom__coeus__resources__content_migration__brides__proteus__5a5644794855b37a01361245__11-4e6c1c11fb5e49d3817a209294e11c69.jpeg
-wget -O female_weddings_2.jpg https://images.squarespace-cdn.com/content/v1/51fad3b8e4b080ed4b48274e/1379676267604-HU5DDIO11GMCSGZKZ28W/ke17ZwdGBToddI8pDm48kBb3_fW-3dAyczltbkWpN11Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHBeS3VrR4-VyZmsESNSfe9ls9uHNjiz6iI73GUuewXwty-PDEaZs3_lrZp8llBAHw/renee1.jpg
-wget -O female_weddings_3.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F36%2F2018%2F06%2F19014943%2Fchristina-shaina-wedding-couple-00224-6421678-1117.jpg&q=85
-wget -O female_weddings_4.jpg https://i.weddingomania.com/2016/11/12-amazing-ivory-suit-a-silver-sequin-top-for-a-girlish-look.jpg
-wget -O female_weddings_5.jpg https://www.brides.com/thmb/YS6I51H2Vqn9PnzV1gsd8L1zTiU=/2400x2400/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/__opt__aboutcom__coeus__resources__content_migration__brides__proteus__58a5ca792e5d72388497b70c__11-54035f1a988f449e848a8a51bd4b8fbb.jpeg
-wget -O female_weddings_6.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F36%2F2018%2F03%2F19015551%2Fsimone-darren-wedding-ireland-flower-girls-103180422.jpg&q=85
-wget -O female_weddings_7.jpg https://www.brides.com/thmb/1O-TFMnfZUC2ZNAEcXJIkILUroo=/780x780/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/__opt__aboutcom__coeus__resources__content_migration__brides__proteus__5a79f4fbd47d6d599f3a54f8__11-e7a2464c56a2445daac768a9a88407f9.jpeg
-wget -O female_weddings_8.jpg https://media.glamour.com/photos/5d372e61c732bd00090adf09/master/w_2000,h_3000,c_limit/The-Bride-Christina-Mourad---Elie&Christina-19.07.2019-@ParAzarProductions-\(4\).jpg
-wget -O female_weddings_9.jpg https://www.betrendsetter.com/wp-content/uploads/2017/05/wedding-hairstyles-long-hair-jaxweddingphotog.jpg
+wget --tries=2 -O female_weddings_0.jpg https://static.boredpanda.com/blog/wp-content/uploads/2017/02/female-cosplayers-wedding-photos-7.jpg
+wget --tries=2 -O female_weddings_1.jpg https://www.brides.com/thmb/wr62JCLlA26Z1J7Tf2hvUBt4tAg=/2400x2400/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/__opt__aboutcom__coeus__resources__content_migration__brides__proteus__5a5644794855b37a01361245__11-4e6c1c11fb5e49d3817a209294e11c69.jpeg
+wget --tries=2 -O female_weddings_2.jpg https://images.squarespace-cdn.com/content/v1/51fad3b8e4b080ed4b48274e/1379676267604-HU5DDIO11GMCSGZKZ28W/ke17ZwdGBToddI8pDm48kBb3_fW-3dAyczltbkWpN11Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHBeS3VrR4-VyZmsESNSfe9ls9uHNjiz6iI73GUuewXwty-PDEaZs3_lrZp8llBAHw/renee1.jpg
+wget --tries=2 -O female_weddings_3.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F36%2F2018%2F06%2F19014943%2Fchristina-shaina-wedding-couple-00224-6421678-1117.jpg&q=85
+wget --tries=2 -O female_weddings_4.jpg https://i.weddingomania.com/2016/11/12-amazing-ivory-suit-a-silver-sequin-top-for-a-girlish-look.jpg
+wget --tries=2 -O female_weddings_5.jpg https://www.brides.com/thmb/YS6I51H2Vqn9PnzV1gsd8L1zTiU=/2400x2400/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/__opt__aboutcom__coeus__resources__content_migration__brides__proteus__58a5ca792e5d72388497b70c__11-54035f1a988f449e848a8a51bd4b8fbb.jpeg
+wget --tries=2 -O female_weddings_6.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F36%2F2018%2F03%2F19015551%2Fsimone-darren-wedding-ireland-flower-girls-103180422.jpg&q=85
+wget --tries=2 -O female_weddings_7.jpg https://www.brides.com/thmb/1O-TFMnfZUC2ZNAEcXJIkILUroo=/780x780/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/__opt__aboutcom__coeus__resources__content_migration__brides__proteus__5a79f4fbd47d6d599f3a54f8__11-e7a2464c56a2445daac768a9a88407f9.jpeg
+wget --tries=2 -O female_weddings_8.jpg https://media.glamour.com/photos/5d372e61c732bd00090adf09/master/w_2000,h_3000,c_limit/The-Bride-Christina-Mourad---Elie&Christina-19.07.2019-@ParAzarProductions-\(4\).jpg
+wget --tries=2 -O female_weddings_9.jpg https://www.betrendsetter.com/wp-content/uploads/2017/05/wedding-hairstyles-long-hair-jaxweddingphotog.jpg
 		      
-wget -O female_relative_0.jpg https://thumbs.dreamstime.com/z/korean-woman-relative-girl-dinner-table-fifty-eight-year-old-women-wearing-glasses-white-dress-sitting-restaurant-83965883.jpg
-wget -O female_relative_1.jpg https://superkwazulunews.com/wp-content/uploads/2019/09/6.png
-wget -O female_relative_2.jpg https://media.gettyimages.com/photos/young-masai-with-old-female-relative-outside-her-mud-hut-picture-id157481705
-wget -O female_relative_3.jpg https://c8.alamy.com/comp/FACGRT/problems-between-woman-in-wheelchair-and-female-relative-FACGRT.jpg
-wget -O female_relative_4.jpg https://previews.123rf.com/images/jackf/jackf1503/jackf150301981/38327804-communication-problems-between-girl-in-wheelchair-and-female-relative.jpg
-wget -O female_relative_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3aA7oi-_XikxmD2wh9Ux8LwdAfO9xHP9-76gqEkQMPuIrnn9gQ&s
-wget -O female_relative_6.jpg https://st4.depositphotos.com/1192060/19884/i/1600/depositphotos_198843632-stock-photo-sad-elderly-woman-relative-tablet.jpg
-wget -O female_relative_7.jpg https://www.newshub.co.nz/dam/form-uploaded-images/LINKEDIN-dawn-giannini-1120.jpg
-wget -O female_relative_8.jpg https://media-cdn.wehco.com/img/photos/2019/06/17/griffindella156883071.jpg
-wget -O female_relative_9.jpg https://cdn.abcotvs.com/dip/images/5143826_021819-kgo-first-meet-img.jpg?w=800&r=16%3A9
+wget --tries=2 -O female_relative_0.jpg https://thumbs.dreamstime.com/z/korean-woman-relative-girl-dinner-table-fifty-eight-year-old-women-wearing-glasses-white-dress-sitting-restaurant-83965883.jpg
+wget --tries=2 -O female_relative_1.jpg https://superkwazulunews.com/wp-content/uploads/2019/09/6.png
+wget --tries=2 -O female_relative_2.jpg https://media.gettyimages.com/photos/young-masai-with-old-female-relative-outside-her-mud-hut-picture-id157481705
+wget --tries=2 -O female_relative_3.jpg https://c8.alamy.com/comp/FACGRT/problems-between-woman-in-wheelchair-and-female-relative-FACGRT.jpg
+wget --tries=2 -O female_relative_4.jpg https://previews.123rf.com/images/jackf/jackf1503/jackf150301981/38327804-communication-problems-between-girl-in-wheelchair-and-female-relative.jpg
+wget --tries=2 -O female_relative_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3aA7oi-_XikxmD2wh9Ux8LwdAfO9xHP9-76gqEkQMPuIrnn9gQ&s
+wget --tries=2 -O female_relative_6.jpg https://st4.depositphotos.com/1192060/19884/i/1600/depositphotos_198843632-stock-photo-sad-elderly-woman-relative-tablet.jpg
+wget --tries=2 -O female_relative_7.jpg https://www.newshub.co.nz/dam/form-uploaded-images/LINKEDIN-dawn-giannini-1120.jpg
+wget --tries=2 -O female_relative_8.jpg https://media-cdn.wehco.com/img/photos/2019/06/17/griffindella156883071.jpg
+wget --tries=2 -O female_relative_9.jpg https://cdn.abcotvs.com/dip/images/5143826_021819-kgo-first-meet-img.jpg?w=800&r=16%3A9
 			  
-wget -O female_relatives_0.jpg https://c8.alamy.com/comp/AJKH20/female-relatives-AJKH20.jpg
-wget -O female_relatives_1.jpg https://www.elcivics.com/lifeskills/family/images/female-relatives-women.jpg
-wget -O female_relatives_2.jpg https://i.dailymail.co.uk/i/pix/2014/03/27/article-2590624-1C9D541000000578-437_634x406.jpg
-wget -O female_relatives_3.jpg https://thumbs.dreamstime.com/z/happy-glances-female-relatives-pregnant-mother-her-daughter-hugging-eldest-lady-their-family-looking-91203055.jpg
-wget -O female_relatives_4.jpg https://c8.alamy.com/comp/AR6DCY/female-relatives-AR6DCY.jpg
-wget -O female_relatives_5.jpg https://thenoteswhichdonotfit.files.wordpress.com/2015/08/husbandfactor2.jpg
-wget -O female_relatives_6.jpg https://media.istockphoto.com/photos/female-relatives-play-bubbles-during-family-reunion-picture-id1165344876
-wget -O female_relatives_7.jpg https://c8.alamy.com/comp/X82C3T/three-female-relatives-portrait-X82C3T.jpg
-wget -O female_relatives_8.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/10/14/13/Gulalai-saba-Ismail-1.jpg?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5
-wget -O female_relatives_9.jpg https://images.wsj.net/im-19086?width=620&size=1.5
+wget --tries=2 -O female_relatives_0.jpg https://c8.alamy.com/comp/AJKH20/female-relatives-AJKH20.jpg
+wget --tries=2 -O female_relatives_1.jpg https://www.elcivics.com/lifeskills/family/images/female-relatives-women.jpg
+wget --tries=2 -O female_relatives_2.jpg https://i.dailymail.co.uk/i/pix/2014/03/27/article-2590624-1C9D541000000578-437_634x406.jpg
+wget --tries=2 -O female_relatives_3.jpg https://thumbs.dreamstime.com/z/happy-glances-female-relatives-pregnant-mother-her-daughter-hugging-eldest-lady-their-family-looking-91203055.jpg
+wget --tries=2 -O female_relatives_4.jpg https://c8.alamy.com/comp/AR6DCY/female-relatives-AR6DCY.jpg
+wget --tries=2 -O female_relatives_5.jpg https://thenoteswhichdonotfit.files.wordpress.com/2015/08/husbandfactor2.jpg
+wget --tries=2 -O female_relatives_6.jpg https://media.istockphoto.com/photos/female-relatives-play-bubbles-during-family-reunion-picture-id1165344876
+wget --tries=2 -O female_relatives_7.jpg https://c8.alamy.com/comp/X82C3T/three-female-relatives-portrait-X82C3T.jpg
+wget --tries=2 -O female_relatives_8.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/10/14/13/Gulalai-saba-Ismail-1.jpg?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5
+wget --tries=2 -O female_relatives_9.jpg https://images.wsj.net/im-19086?width=620&size=1.5

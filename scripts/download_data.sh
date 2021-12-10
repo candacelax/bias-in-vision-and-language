@@ -4,12 +4,12 @@ DATA_DIR=$1
 
 for TEST_DIR in $(ls $DATA_DIR); do
     if [ -f $DATA_DIR/$TEST_DIR ]; then
-	continue
+	    continue
     fi
     
-    for NESTED in $(ls $DATA_DIR/$TEST_DIR); do
-	cd $DATA_DIR/$TEST_DIR
-	bash $NESTED/get.sh
-	cd -
+    for NESTED_DIR in $(ls $DATA_DIR/$TEST_DIR); do
+	    cd $DATA_DIR/$TEST_DIR/$NESTED_DIR
+	    bash get.sh
+	    cd -
     done
 done

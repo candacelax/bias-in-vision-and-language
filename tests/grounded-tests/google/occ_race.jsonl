@@ -1,6 +1,7 @@
 {
   "test_types" : ["word"],
   "dataset" : "google",
+  "dataset_dir" : "occupations-race",
   "test_name" : "occ_race",
   "targ1": {
     "category": "EuropeanAmerican",

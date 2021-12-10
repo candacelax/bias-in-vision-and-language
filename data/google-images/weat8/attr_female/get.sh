@@ -1,142 +1,142 @@
-wget -O sister_0.jpg https://images.theconversation.com/files/290476/original/file-20190902-175673-1103xqc.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C9577%2C5387&q=45&auto=format&w=496&fit=clip
-wget -O sister_1.jpg https://lifehacks.io/wp-content/uploads/Sister-Quotes.jpg
-wget -O sister_2.jpg https://cdn.everydaypower.com/wp-content/uploads/2018/09/quotes-about-sisters.jpg
-wget -O sister_3.jpg https://imgix.bustle.com/uploads/image/2019/3/19/477c6eb8-c20e-4bc5-8f89-a6211ae4c737-sisters_hug_kiss.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
-wget -O sister_4.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sister-quotes-1564697339.jpg?crop=0.546xw:0.820xh;0.271xw,0.118xh&resize=640:*
-wget -O sister_5.jpg https://imgix.bustle.com/uploads/shutterstock/2019/8/4/7d9c9475-ee91-40ff-a5de-470b4aa47bc3-shutterstock-1375657598.jpg?w=960&h=540&fit=crop&crop=faces&auto=format&q=70
-wget -O sister_6.jpg https://www.sheknows.com/wp-content/uploads/2018/08/abyhzoa0kkom7exoer2r.jpeg?w=695&h=391&crop=1
-wget -O sister_7.jpg https://imgix.bustle.com/uploads/image/2017/10/6/86abf7e8-0037-4e94-96e8-c1359fd05233-sisters_laughing_smiling.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
-wget -O sister_8.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jaclyn_Nesheiwat_with_sister.jpg/220px-Jaclyn_Nesheiwat_with_sister.jpg
-wget -O sister_9.jpg https://img.huffingtonpost.com/asset/5da8b5102100004c13ad31e8.jpeg?ops=scalefit_720_noupscale
+wget --tries=2 -O sister_0.jpg https://images.theconversation.com/files/290476/original/file-20190902-175673-1103xqc.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C9577%2C5387&q=45&auto=format&w=496&fit=clip
+wget --tries=2 -O sister_1.jpg https://lifehacks.io/wp-content/uploads/Sister-Quotes.jpg
+wget --tries=2 -O sister_2.jpg https://cdn.everydaypower.com/wp-content/uploads/2018/09/quotes-about-sisters.jpg
+wget --tries=2 -O sister_3.jpg https://imgix.bustle.com/uploads/image/2019/3/19/477c6eb8-c20e-4bc5-8f89-a6211ae4c737-sisters_hug_kiss.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 -O sister_4.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sister-quotes-1564697339.jpg?crop=0.546xw:0.820xh;0.271xw,0.118xh&resize=640:*
+wget --tries=2 -O sister_5.jpg https://imgix.bustle.com/uploads/shutterstock/2019/8/4/7d9c9475-ee91-40ff-a5de-470b4aa47bc3-shutterstock-1375657598.jpg?w=960&h=540&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 -O sister_6.jpg https://www.sheknows.com/wp-content/uploads/2018/08/abyhzoa0kkom7exoer2r.jpeg?w=695&h=391&crop=1
+wget --tries=2 -O sister_7.jpg https://imgix.bustle.com/uploads/image/2017/10/6/86abf7e8-0037-4e94-96e8-c1359fd05233-sisters_laughing_smiling.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 -O sister_8.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jaclyn_Nesheiwat_with_sister.jpg/220px-Jaclyn_Nesheiwat_with_sister.jpg
+wget --tries=2 -O sister_9.jpg https://img.huffingtonpost.com/asset/5da8b5102100004c13ad31e8.jpeg?ops=scalefit_720_noupscale
 
-wget -O sisters_0.jpg https://imgix.bustle.com/uploads/image/2019/2/22/2e79bc16-afc8-4332-8425-0fa905ce17cf-sisters-4.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
-wget -O sisters_1.jpg https://thisiswod.com/wp-content/uploads/2018/11/TheMSisters.jpg
-wget -O sisters_2.jpg https://tfifamily.org/wp-content/uploads/2019/05/iStock-907640310-1030x687.jpg
-wget -O sisters_3.jpg https://ichef.bbci.co.uk/news/1024/cpsprodpb/15E3/production/_109130650_sisters1.jpg
-wget -O sisters_4.jpg https://i.ytimg.com/vi/O8NRaq_1gNw/maxresdefault.jpg
-wget -O sisters_5.jpg http://img1.wsimg.com/isteam/ip/6ec3fe07-5c66-4d7e-b144-60d110cc7f13/womens-group.jpg
-wget -O sisters_6.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fyolarobert1%2Ffiles%2F2019%2F01%2FScreen-Shot-2019-01-07-at-3.36.28-PM-e1546904216314.jpg
-wget -O sisters_7.jpg https://wiwibloggs.com/wp-content/uploads/2019/04/Sisters-Eurovision-2019-Germany.jpg
-wget -O sisters_8.jpg https://cdn.everydaypower.com/wp-content/uploads/2018/09/quotes-about-sisters.jpg
-wget -O sisters_9.jpg https://cdn.cnn.com/cnnnext/dam/assets/190304210357-leia-carrico-and-caroline-carrico-exlarge-169.jpg
+wget --tries=2 -O sisters_0.jpg https://imgix.bustle.com/uploads/image/2019/2/22/2e79bc16-afc8-4332-8425-0fa905ce17cf-sisters-4.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 -O sisters_1.jpg https://thisiswod.com/wp-content/uploads/2018/11/TheMSisters.jpg
+wget --tries=2 -O sisters_2.jpg https://tfifamily.org/wp-content/uploads/2019/05/iStock-907640310-1030x687.jpg
+wget --tries=2 -O sisters_3.jpg https://ichef.bbci.co.uk/news/1024/cpsprodpb/15E3/production/_109130650_sisters1.jpg
+wget --tries=2 -O sisters_4.jpg https://i.ytimg.com/vi/O8NRaq_1gNw/maxresdefault.jpg
+wget --tries=2 -O sisters_5.jpg http://img1.wsimg.com/isteam/ip/6ec3fe07-5c66-4d7e-b144-60d110cc7f13/womens-group.jpg
+wget --tries=2 -O sisters_6.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fyolarobert1%2Ffiles%2F2019%2F01%2FScreen-Shot-2019-01-07-at-3.36.28-PM-e1546904216314.jpg
+wget --tries=2 -O sisters_7.jpg https://wiwibloggs.com/wp-content/uploads/2019/04/Sisters-Eurovision-2019-Germany.jpg
+wget --tries=2 -O sisters_8.jpg https://cdn.everydaypower.com/wp-content/uploads/2018/09/quotes-about-sisters.jpg
+wget --tries=2 -O sisters_9.jpg https://cdn.cnn.com/cnnnext/dam/assets/190304210357-leia-carrico-and-caroline-carrico-exlarge-169.jpg
 
-wget -O mother_0.jpg https://www.indiewire.com/wp-content/uploads/2017/09/mother-5-e1508173415208.jpg?w=780
-wget -O mother_1.jpg https://penfieldbuildingblocks.org/wp-content/uploads/2018/08/the-mother-child-relationship.jpg
-wget -O mother_2.jpg https://aleteiaen.files.wordpress.com/2018/11/web3-motherhood-mother-gallery-advice-family-ideas-6-shutterstock.jpg?quality=100&strip=all&w=620&h=310&crop=1
-wget -O mother_3.jpg https://i.dailymail.co.uk/i/pix/2017/06/13/16/41649C3100000578-0-image-a-6_1497369159479.jpg
-wget -O mother_4.jpg https://pmcvariety.files.wordpress.com/2017/08/mother.png?w=1000
-wget -O mother_5.jpg https://i0.wp.com/www.americanmothers.org/wp-content/uploads/2019/02/Renae-Reinardy-Spiry-Family-Pic.jpg?ssl=1
-wget -O mother_6.jpg https://www.scitecheuropa.eu/wp-content/uploads/2019/09/Mother-birth.jpg
-wget -O mother_7.jpg https://cdn.vox-cdn.com/thumbor/eLkbQIe26DxcRJWOiIM0LJmrBeg=/0x0:2000x1333/1200x800/filters:focal\(904x297:1224x617\)/cdn.vox-cdn.com/uploads/chorus_image/image/56607107/mothercover.0.jpg
-wget -O mother_8.jpg http://motherthemother.com/wp-content/uploads/2015/07/McLean_10b.jpg
-wget -O mother_9.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mother-son-quotes-1557253200.jpg?crop=0.678xw:1.02xh;0.195xw,0&resize=640:*
+wget --tries=2 -O mother_0.jpg https://www.indiewire.com/wp-content/uploads/2017/09/mother-5-e1508173415208.jpg?w=780
+wget --tries=2 -O mother_1.jpg https://penfieldbuildingblocks.org/wp-content/uploads/2018/08/the-mother-child-relationship.jpg
+wget --tries=2 -O mother_2.jpg https://aleteiaen.files.wordpress.com/2018/11/web3-motherhood-mother-gallery-advice-family-ideas-6-shutterstock.jpg?quality=100&strip=all&w=620&h=310&crop=1
+wget --tries=2 -O mother_3.jpg https://i.dailymail.co.uk/i/pix/2017/06/13/16/41649C3100000578-0-image-a-6_1497369159479.jpg
+wget --tries=2 -O mother_4.jpg https://pmcvariety.files.wordpress.com/2017/08/mother.png?w=1000
+wget --tries=2 -O mother_5.jpg https://i0.wp.com/www.americanmothers.org/wp-content/uploads/2019/02/Renae-Reinardy-Spiry-Family-Pic.jpg?ssl=1
+wget --tries=2 -O mother_6.jpg https://www.scitecheuropa.eu/wp-content/uploads/2019/09/Mother-birth.jpg
+wget --tries=2 -O mother_7.jpg https://cdn.vox-cdn.com/thumbor/eLkbQIe26DxcRJWOiIM0LJmrBeg=/0x0:2000x1333/1200x800/filters:focal\(904x297:1224x617\)/cdn.vox-cdn.com/uploads/chorus_image/image/56607107/mothercover.0.jpg
+wget --tries=2 -O mother_8.jpg http://motherthemother.com/wp-content/uploads/2015/07/McLean_10b.jpg
+wget --tries=2 -O mother_9.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mother-son-quotes-1557253200.jpg?crop=0.678xw:1.02xh;0.195xw,0&resize=640:*
 
-wget -O mothers_0.jpg https://sbtreatment.com/wp-content/uploads/2019/05/bigstock-Mother-s-Day-Spring-Holiday-Co-284477521-1.jpg
-wget -O mothers_1.jpg https://aleteiaen.files.wordpress.com/2018/10/web3-mother-baby-child-chest-sleeping-comfort-safe-home-newborn-shutterstock_750763306.jpg?quality=100&strip=all&w=620&h=310&crop=1
-wget -O mothers_2.jpg https://cms-tc.pbskids.org/parents/expert-tips-and-advice/_shellTopicsFeature/celebrating-mothers-day-as-an-adoptive-mom-hero.jpg?mtime=20181008023628
-wget -O mothers_3.jpg https://www.rewire.org/wp-content/uploads/2019/10/to-my-friends-who-are-young-mothers-i-apologize.jpeg
-wget -O mothers_4.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/05/08/14/stressed-mum.jpg
-wget -O mothers_5.jpg https://i0.wp.com/www.americanmothers.org/wp-content/uploads/2019/02/Renae-Reinardy-Spiry-Family-Pic.jpg?ssl=1
-wget -O mothers_6.jpg https://i.dailymail.co.uk/1s/2019/01/08/16/8275688-6569651-Being_bottle_fed_as_a_baby_makes_you_more_likely_to_be_left_hand-a-20_1546965111984.jpg
-wget -O mothers_7.jpg https://i.cbc.ca/1.1476199.1379028180!/httpImage/image.jpg_gen/derivatives/16x9_780/hi-good-mother-852-8col.jpg
-wget -O mothers_8.jpg https://media4.s-nbcnews.com/j/newscms/2018_18/1336967/mothers-day-gift-main-today-180504_20d4ee36ffc061b420437f9e9729ac18.fit-760w.jpg
-wget -O mothers_9.jpg https://www.rosenplaza.com/wp-content/uploads/RP-Mothers-Day-Top-Header-Img-2019.jpg
+wget --tries=2 -O mothers_0.jpg https://sbtreatment.com/wp-content/uploads/2019/05/bigstock-Mother-s-Day-Spring-Holiday-Co-284477521-1.jpg
+wget --tries=2 -O mothers_1.jpg https://aleteiaen.files.wordpress.com/2018/10/web3-mother-baby-child-chest-sleeping-comfort-safe-home-newborn-shutterstock_750763306.jpg?quality=100&strip=all&w=620&h=310&crop=1
+wget --tries=2 -O mothers_2.jpg https://cms-tc.pbskids.org/parents/expert-tips-and-advice/_shellTopicsFeature/celebrating-mothers-day-as-an-adoptive-mom-hero.jpg?mtime=20181008023628
+wget --tries=2 -O mothers_3.jpg https://www.rewire.org/wp-content/uploads/2019/10/to-my-friends-who-are-young-mothers-i-apologize.jpeg
+wget --tries=2 -O mothers_4.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/05/08/14/stressed-mum.jpg
+wget --tries=2 -O mothers_5.jpg https://i0.wp.com/www.americanmothers.org/wp-content/uploads/2019/02/Renae-Reinardy-Spiry-Family-Pic.jpg?ssl=1
+wget --tries=2 -O mothers_6.jpg https://i.dailymail.co.uk/1s/2019/01/08/16/8275688-6569651-Being_bottle_fed_as_a_baby_makes_you_more_likely_to_be_left_hand-a-20_1546965111984.jpg
+wget --tries=2 -O mothers_7.jpg https://i.cbc.ca/1.1476199.1379028180!/httpImage/image.jpg_gen/derivatives/16x9_780/hi-good-mother-852-8col.jpg
+wget --tries=2 -O mothers_8.jpg https://media4.s-nbcnews.com/j/newscms/2018_18/1336967/mothers-day-gift-main-today-180504_20d4ee36ffc061b420437f9e9729ac18.fit-760w.jpg
+wget --tries=2 -O mothers_9.jpg https://www.rosenplaza.com/wp-content/uploads/RP-Mothers-Day-Top-Header-Img-2019.jpg
 
-wget -O aunt_0.jpg https://www.thoughtco.com/thmb/8gmNfzYIkp2fmn0JteR1B65z7Zk=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/toddler-and-her-aunt-puffing-out-their-cheeks-456343003-59c6f4d00d327a001148e3ed.jpg
-wget -O aunt_1.jpg https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2019/06/CPT12204965.jpg
-wget -O aunt_2.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02730/hannah_2730570b.jpg
-wget -O aunt_3.jpg https://imgix.bustle.com/uploads/image/2018/7/27/6cf0f5be-ad54-42a5-9249-426835dac6c6-aunt_nephew_beanies.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
-wget -O aunt_4.jpg https://reductress.com/wp-content/uploads/2014/03/aunt.png
-wget -O aunt_5.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fwarrenbobrow%2Ffiles%2F2019%2F05%2FNataliya-Arditi-1-1200x800.jpg
-wget -O aunt_6.jpg https://static01.nyt.com/images/2019/06/11/well/voices-doris/voices-doris-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget -O aunt_7.jpg https://bloximages.chicago2.vip.townnews.com/delcotimes.com/content/tncms/assets/v3/editorial/9/40/94069840-e9e5-5f9d-9e3b-4ebce7ee997c/5b75c69078d53.image.jpg
-wget -O aunt_8.jpg https://3apq7g38q3kw2yn3fx4bojii-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/AdobeStock_148156820.jpeg
-wget -O aunt_9.jpg https://www.familyfriendpoems.com/images/hero/family-aunt.jpg
+wget --tries=2 -O aunt_0.jpg https://www.thoughtco.com/thmb/8gmNfzYIkp2fmn0JteR1B65z7Zk=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/toddler-and-her-aunt-puffing-out-their-cheeks-456343003-59c6f4d00d327a001148e3ed.jpg
+wget --tries=2 -O aunt_1.jpg https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2019/06/CPT12204965.jpg
+wget --tries=2 -O aunt_2.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02730/hannah_2730570b.jpg
+wget --tries=2 -O aunt_3.jpg https://imgix.bustle.com/uploads/image/2018/7/27/6cf0f5be-ad54-42a5-9249-426835dac6c6-aunt_nephew_beanies.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 -O aunt_4.jpg https://reductress.com/wp-content/uploads/2014/03/aunt.png
+wget --tries=2 -O aunt_5.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fwarrenbobrow%2Ffiles%2F2019%2F05%2FNataliya-Arditi-1-1200x800.jpg
+wget --tries=2 -O aunt_6.jpg https://static01.nyt.com/images/2019/06/11/well/voices-doris/voices-doris-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 -O aunt_7.jpg https://bloximages.chicago2.vip.townnews.com/delcotimes.com/content/tncms/assets/v3/editorial/9/40/94069840-e9e5-5f9d-9e3b-4ebce7ee997c/5b75c69078d53.image.jpg
+wget --tries=2 -O aunt_8.jpg https://3apq7g38q3kw2yn3fx4bojii-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/AdobeStock_148156820.jpeg
+wget --tries=2 -O aunt_9.jpg https://www.familyfriendpoems.com/images/hero/family-aunt.jpg
 
-wget -O aunts_0.jpg https://img.huffingtonpost.com/asset/5bb5fb4f3c000018010d1c40.jpeg?ops=scalefit_630_noupscale
-wget -O aunts_1.jpg http://singularcity.com/wp-content/uploads/2015/06/single-aunts.jpg
-wget -O aunts_2.jpg https://files.brightside.me/files/news/part_70/707310/10691960-image-crop-6196x4611-1551881717-728-de4c2a84fd-1552290854.jpg
-wget -O aunts_3.jpg https://media.npr.org/assets/img/2011/05/03/notkin-ana-schechter_custom-1fb7983643ca7711ae58f48c96772834e6c7b74a-s800-c85.jpg
-wget -O aunts_4.jpg https://www.familyfriendpoems.com/images/hero/family-aunt.jpg
-wget -O aunts_5.jpg https://imgix.bustle.com/uploads/image/2018/4/21/d99335cd-0335-4523-9e7f-fc865f82a045-fotolia_123933116_subscription_monthly_m.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70
-wget -O aunts_6.jpg https://reductress.com/wp-content/uploads/2014/03/aunt.png
-wget -O aunts_7.jpg https://3apq7g38q3kw2yn3fx4bojii-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/AdobeStock_148156820.jpeg
-wget -O aunts_8.jpg https://www.scarymommy.com/wp-content/uploads/2015/10/Lets-Hear-It-For-The-Aunts.jpg
-wget -O aunts_9.jpg https://cdn1-www.momtastic.com/assets/uploads/2013/08/file_176619_0_aunt.jpg
+wget --tries=2 -O aunts_0.jpg https://img.huffingtonpost.com/asset/5bb5fb4f3c000018010d1c40.jpeg?ops=scalefit_630_noupscale
+wget --tries=2 -O aunts_1.jpg http://singularcity.com/wp-content/uploads/2015/06/single-aunts.jpg
+wget --tries=2 -O aunts_2.jpg https://files.brightside.me/files/news/part_70/707310/10691960-image-crop-6196x4611-1551881717-728-de4c2a84fd-1552290854.jpg
+wget --tries=2 -O aunts_3.jpg https://media.npr.org/assets/img/2011/05/03/notkin-ana-schechter_custom-1fb7983643ca7711ae58f48c96772834e6c7b74a-s800-c85.jpg
+wget --tries=2 -O aunts_4.jpg https://www.familyfriendpoems.com/images/hero/family-aunt.jpg
+wget --tries=2 -O aunts_5.jpg https://imgix.bustle.com/uploads/image/2018/4/21/d99335cd-0335-4523-9e7f-fc865f82a045-fotolia_123933116_subscription_monthly_m.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 -O aunts_6.jpg https://reductress.com/wp-content/uploads/2014/03/aunt.png
+wget --tries=2 -O aunts_7.jpg https://3apq7g38q3kw2yn3fx4bojii-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/AdobeStock_148156820.jpeg
+wget --tries=2 -O aunts_8.jpg https://www.scarymommy.com/wp-content/uploads/2015/10/Lets-Hear-It-For-The-Aunts.jpg
+wget --tries=2 -O aunts_9.jpg https://cdn1-www.momtastic.com/assets/uploads/2013/08/file_176619_0_aunt.jpg
 
-wget -O grandmother_0.jpg https://d26kajfrxb04kx.cloudfront.net/wp-content/uploads/2017/01/Sixty-and-Me_What-it-Means-to-Say-I-am-Not-a-Grandmother.jpg
-wget -O grandmother_1.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02784/kiss_2784201b.jpg
-wget -O grandmother_2.jpg https://www.liveabout.com/thmb/UwK9RqxSy3tEhh9n-3P1QjhgH48=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/JewishGrandmother-1710531982-56f16f9a3df78ce5f83bed7e.jpg
-wget -O grandmother_3.jpg https://www.verywellfamily.com/thmb/Jot4pwCIN5_kACI-mZ-SgH-N_XQ=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/460708267-56afae915f9b58b7d01bcc19.jpg
-wget -O grandmother_4.jpg https://i.cbc.ca/1.5113148.1556330419!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/tinney-davidson.jpg
-wget -O grandmother_5.jpg https://image.shutterstock.com/image-photo/portrait-handsome-grandmother-gray-sweater-260nw-1065023912.jpg
-wget -O grandmother_6.jpg https://www.irelandsown.ie/wp-content/uploads/2015/02/gran.jpg
-wget -O grandmother_7.jpg https://static.timesofisrael.com/www/uploads/2019/08/Untitled-12-2.jpg
-wget -O grandmother_8.jpg https://cff2.earth.com/uploads/2019/02/07205805/Kids-benefit-from-grandmother-involvement-until-a-certain-point-730x410.jpg
-wget -O grandmother_9.jpg https://media.npr.org/assets/img/2017/03/23/nuchoextra1-429ed6152cd6eaf6a78a1ecf204a6ea9a0f2fecc-s800-c85.jpg
+wget --tries=2 -O grandmother_0.jpg https://d26kajfrxb04kx.cloudfront.net/wp-content/uploads/2017/01/Sixty-and-Me_What-it-Means-to-Say-I-am-Not-a-Grandmother.jpg
+wget --tries=2 -O grandmother_1.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02784/kiss_2784201b.jpg
+wget --tries=2 -O grandmother_2.jpg https://www.liveabout.com/thmb/UwK9RqxSy3tEhh9n-3P1QjhgH48=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/JewishGrandmother-1710531982-56f16f9a3df78ce5f83bed7e.jpg
+wget --tries=2 -O grandmother_3.jpg https://www.verywellfamily.com/thmb/Jot4pwCIN5_kACI-mZ-SgH-N_XQ=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/460708267-56afae915f9b58b7d01bcc19.jpg
+wget --tries=2 -O grandmother_4.jpg https://i.cbc.ca/1.5113148.1556330419!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/tinney-davidson.jpg
+wget --tries=2 -O grandmother_5.jpg https://image.shutterstock.com/image-photo/portrait-handsome-grandmother-gray-sweater-260nw-1065023912.jpg
+wget --tries=2 -O grandmother_6.jpg https://www.irelandsown.ie/wp-content/uploads/2015/02/gran.jpg
+wget --tries=2 -O grandmother_7.jpg https://static.timesofisrael.com/www/uploads/2019/08/Untitled-12-2.jpg
+wget --tries=2 -O grandmother_8.jpg https://cff2.earth.com/uploads/2019/02/07205805/Kids-benefit-from-grandmother-involvement-until-a-certain-point-730x410.jpg
+wget --tries=2 -O grandmother_9.jpg https://media.npr.org/assets/img/2017/03/23/nuchoextra1-429ed6152cd6eaf6a78a1ecf204a6ea9a0f2fecc-s800-c85.jpg
 
-wget -O grandmothers_0.jpg https://hannaperkins.org/wp-content/uploads/2018/07/Grandmothers-2018_v2_300dpi-300x200.jpg
-wget -O grandmothers_1.jpg https://www.verywellfamily.com/thmb/Jot4pwCIN5_kACI-mZ-SgH-N_XQ=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/460708267-56afae915f9b58b7d01bcc19.jpg
-wget -O grandmothers_2.jpg https://parade.com/wp-content/uploads/2013/09/grandmothers-advance-human-civilization-ftr.jpg
-wget -O grandmothers_3.jpg https://cf.ltkcdn.net/seniors/images/std/241108-674x450-granddaughter-kissing-grandmothers-cheek.jpg
-wget -O grandmothers_4.jpg https://newpittsburghcourier.com/wp-content/uploads/sites/3/2017/08/stevensonstevensonallenandgrinnage.jpg
-wget -O grandmothers_5.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02784/kiss_2784201b.jpg
-wget -O grandmothers_6.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/grandmother-embracing-adult-granddaughter-royalty-free-image-200216556-004-1557454296.jpg?crop=0.739xw:1.00xh;0.261xw,0&resize=640:*
-wget -O grandmothers_7.jpg https://d26kajfrxb04kx.cloudfront.net/wp-content/uploads/2016/08/Sixty-and-Me_Do-Mothers-and-Grandmothers-Ever-Stop-Feeling-Guilty.jpg
-wget -O grandmothers_8.jpg https://barefeetinthekitchen.com/wp-content/uploads/2014/06/grandparents-sitting-at-foot-of-the-stairs.jpg
-wget -O grandmothers_9.jpg https://cff2.earth.com/uploads/2019/02/07205805/Kids-benefit-from-grandmother-involvement-until-a-certain-point-730x410.jpg
+wget --tries=2 -O grandmothers_0.jpg https://hannaperkins.org/wp-content/uploads/2018/07/Grandmothers-2018_v2_300dpi-300x200.jpg
+wget --tries=2 -O grandmothers_1.jpg https://www.verywellfamily.com/thmb/Jot4pwCIN5_kACI-mZ-SgH-N_XQ=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/460708267-56afae915f9b58b7d01bcc19.jpg
+wget --tries=2 -O grandmothers_2.jpg https://parade.com/wp-content/uploads/2013/09/grandmothers-advance-human-civilization-ftr.jpg
+wget --tries=2 -O grandmothers_3.jpg https://cf.ltkcdn.net/seniors/images/std/241108-674x450-granddaughter-kissing-grandmothers-cheek.jpg
+wget --tries=2 -O grandmothers_4.jpg https://newpittsburghcourier.com/wp-content/uploads/sites/3/2017/08/stevensonstevensonallenandgrinnage.jpg
+wget --tries=2 -O grandmothers_5.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02784/kiss_2784201b.jpg
+wget --tries=2 -O grandmothers_6.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/grandmother-embracing-adult-granddaughter-royalty-free-image-200216556-004-1557454296.jpg?crop=0.739xw:1.00xh;0.261xw,0&resize=640:*
+wget --tries=2 -O grandmothers_7.jpg https://d26kajfrxb04kx.cloudfront.net/wp-content/uploads/2016/08/Sixty-and-Me_Do-Mothers-and-Grandmothers-Ever-Stop-Feeling-Guilty.jpg
+wget --tries=2 -O grandmothers_8.jpg https://barefeetinthekitchen.com/wp-content/uploads/2014/06/grandparents-sitting-at-foot-of-the-stairs.jpg
+wget --tries=2 -O grandmothers_9.jpg https://cff2.earth.com/uploads/2019/02/07205805/Kids-benefit-from-grandmother-involvement-until-a-certain-point-730x410.jpg
 
-wget -O daughter_0.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/songs-about-mothers-and-daughters-1552337117.jpg?crop=0.666xw:1.00xh;0.300xw,0&resize=640:*
-wget -O daughter_1.jpg https://static01.nyt.com/images/2019/10/11/world/11uk-nazanin-sub/merlin_162526113_e5b053aa-0275-4fb2-ba5d-07ea376b59ad-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget -O daughter_2.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mother-hugging-daughter-royalty-free-image-640505047-1553702401.jpg?crop=0.566xw:0.849xh;0.220xw,0.151xh&resize=640:*
-wget -O daughter_3.jpg https://www.allprodad.com/wp-content/uploads/2019/06/06-10-19-dads-and-daughters.jpg
-wget -O daughter_4.jpg https://aleteiaen.files.wordpress.com/2019/09/web3-mother-daughter-child-mirror-reflection-shutterstock_629637077.jpg?quality=100&strip=all&w=620&h=310&crop=1
-wget -O daughter_5.jpg https://media2.s-nbcnews.com/j/newscms/2019_31/1467513/pink-and-daughter-willow-today-main-190802_64bf1741cec2593ceb6ff65c6b3b1ba3.fit-760w.jpg
-wget -O daughter_6.jpg https://www.heysigmund.com/wp-content/uploads/Dads-and-daughtersTITLE.jpg
-wget -O daughter_7.jpg https://images.livemint.com/img/2019/10/29/600x338/daughters_1572373594505.jpg
-wget -O daughter_8.jpg https://image.businessinsider.com/5cc08fb316c65a2fd504c656?width=1100&format=jpeg&auto=webp
-wget -O daughter_9.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/actor-dwayne-johnson-and-daughter-jasmine-johnson-attend-news-photo-893866924-1567628477.jpg?crop=0.558xw:0.834xh;0.240xw,0.166xh&resize=480:*
+wget --tries=2 -O daughter_0.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/songs-about-mothers-and-daughters-1552337117.jpg?crop=0.666xw:1.00xh;0.300xw,0&resize=640:*
+wget --tries=2 -O daughter_1.jpg https://static01.nyt.com/images/2019/10/11/world/11uk-nazanin-sub/merlin_162526113_e5b053aa-0275-4fb2-ba5d-07ea376b59ad-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 -O daughter_2.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mother-hugging-daughter-royalty-free-image-640505047-1553702401.jpg?crop=0.566xw:0.849xh;0.220xw,0.151xh&resize=640:*
+wget --tries=2 -O daughter_3.jpg https://www.allprodad.com/wp-content/uploads/2019/06/06-10-19-dads-and-daughters.jpg
+wget --tries=2 -O daughter_4.jpg https://aleteiaen.files.wordpress.com/2019/09/web3-mother-daughter-child-mirror-reflection-shutterstock_629637077.jpg?quality=100&strip=all&w=620&h=310&crop=1
+wget --tries=2 -O daughter_5.jpg https://media2.s-nbcnews.com/j/newscms/2019_31/1467513/pink-and-daughter-willow-today-main-190802_64bf1741cec2593ceb6ff65c6b3b1ba3.fit-760w.jpg
+wget --tries=2 -O daughter_6.jpg https://www.heysigmund.com/wp-content/uploads/Dads-and-daughtersTITLE.jpg
+wget --tries=2 -O daughter_7.jpg https://images.livemint.com/img/2019/10/29/600x338/daughters_1572373594505.jpg
+wget --tries=2 -O daughter_8.jpg https://image.businessinsider.com/5cc08fb316c65a2fd504c656?width=1100&format=jpeg&auto=webp
+wget --tries=2 -O daughter_9.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/actor-dwayne-johnson-and-daughter-jasmine-johnson-attend-news-photo-893866924-1567628477.jpg?crop=0.558xw:0.834xh;0.240xw,0.166xh&resize=480:*
 
-wget -O daughters_0.jpg https://static.toiimg.com/photo/msid-65910936/65910936.jpg?249901
-wget -O daughters_1.jpg https://chadd.org/wp-content/uploads/2018/12/NRC_12_20_18_momsdaughters.jpg
-wget -O daughters_2.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/gCImFgr3wnXPesA4Ftr5SniA3wk=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/UQDZBNHU64I6TOHSSNY7URDNG4.jpg
-wget -O daughters_3.jpg https://i.kinja-img.com/gawker-media/image/upload/s--Df7ewQrO--/c_scale,f_auto,fl_progressive,q_80,w_800/nkd4xbsfubr5mszmzlmu.jpg
-wget -O daughters_4.jpg https://image.businessinsider.com/5d2315e7a17d6c3c3a237506?width=1100&format=jpeg&auto=webp
-wget -O daughters_5.jpg https://classiccountrymusic.com/wp-content/uploads/2019/02/martina-and-daughters-735x413.png
-wget -O daughters_6.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/songs-about-mothers-and-daughters-1552337117.jpg?crop=0.666xw:1.00xh;0.300xw,0&resize=640:*
-wget -O daughters_7.jpg https://www.usmagazine.com/wp-content/uploads/2019/04/Teen-Mom-2%E2%80%99s-Leah-Messer-Reveals-How-Daughters-Have-Supported-Sister-Ali.jpg
-wget -O daughters_8.jpg https://i1.wp.com/emirateswoman.com/wp-content/uploads/2018/07/queen-rania-header.png?w=860&crop=0,0,100,430px
-wget -O daughters_9.jpg https://townsquare.media/site/204/files/2019/04/Daughters-Lyrics.jpg?w=980&q=75
+wget --tries=2 -O daughters_0.jpg https://static.toiimg.com/photo/msid-65910936/65910936.jpg?249901
+wget --tries=2 -O daughters_1.jpg https://chadd.org/wp-content/uploads/2018/12/NRC_12_20_18_momsdaughters.jpg
+wget --tries=2 -O daughters_2.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/gCImFgr3wnXPesA4Ftr5SniA3wk=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/UQDZBNHU64I6TOHSSNY7URDNG4.jpg
+wget --tries=2 -O daughters_3.jpg https://i.kinja-img.com/gawker-media/image/upload/s--Df7ewQrO--/c_scale,f_auto,fl_progressive,q_80,w_800/nkd4xbsfubr5mszmzlmu.jpg
+wget --tries=2 -O daughters_4.jpg https://image.businessinsider.com/5d2315e7a17d6c3c3a237506?width=1100&format=jpeg&auto=webp
+wget --tries=2 -O daughters_5.jpg https://classiccountrymusic.com/wp-content/uploads/2019/02/martina-and-daughters-735x413.png
+wget --tries=2 -O daughters_6.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/songs-about-mothers-and-daughters-1552337117.jpg?crop=0.666xw:1.00xh;0.300xw,0&resize=640:*
+wget --tries=2 -O daughters_7.jpg https://www.usmagazine.com/wp-content/uploads/2019/04/Teen-Mom-2%E2%80%99s-Leah-Messer-Reveals-How-Daughters-Have-Supported-Sister-Ali.jpg
+wget --tries=2 -O daughters_8.jpg https://i1.wp.com/emirateswoman.com/wp-content/uploads/2018/07/queen-rania-header.png?w=860&crop=0,0,100,430px
+wget --tries=2 -O daughters_9.jpg https://townsquare.media/site/204/files/2019/04/Daughters-Lyrics.jpg?w=980&q=75
 
-wget -O she_0.jpg https://www.straitstimes.com/sites/default/files/styles/article_pictrure_780x520_/public/articles/2018/07/14/img-4569.jpg?itok=h6RFwqyy&timestamp=1531531053
-wget -O she_1.jpg http://www.asiaone.com/sites/default/files/original_images/Aug2018/she17thanniversaryconcert_facebook.jpg
-wget -O she_2.jpg https://lastfm.freetls.fastly.net/i/u/ar0/e4f4917a9c693338b674ec02768a5c3c.jpg
-wget -O she_3.jpg http://www.asiaone.com/sites/default/files/inline/images/228_1536715823.jpg
-wget -O she_4.jpg http://3.bp.blogspot.com/_3SS6Ljui1sk/Rg0NIHZPswI/AAAAAAAAADs/tjtLuIvJnHk/s400/she6.bmp
-wget -O she_5.jpg http://images5.fanpop.com/image/photos/28600000/S-H-E-2-she-28608840-1440-900.jpg
-wget -O she_6.jpg https://www.billboard.com/files/styles/article_main_image/public/media/she-and-him-press-2019-cr-Dan-Winters-billboard-1548.jpg
-wget -O she_7.jpg https://www.8days.sg/image/11497102/16x9/1920/1080/d184293d30b55bf34f14a87a973b0902/Ox/selina-jen-and-pinky.jpg
-wget -O she_8.jpg https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/12/GettyImages-1176211188-e1576316955688.jpg?quality=90&strip=all&zoom=1&resize=644%2C449&ssl=1
-wget -O she_9.jpg https://niesa87himura.files.wordpress.com/2010/12/s-h-e-22.jpg
+wget --tries=2 -O she_0.jpg https://www.straitstimes.com/sites/default/files/styles/article_pictrure_780x520_/public/articles/2018/07/14/img-4569.jpg?itok=h6RFwqyy&timestamp=1531531053
+wget --tries=2 -O she_1.jpg http://www.asiaone.com/sites/default/files/original_images/Aug2018/she17thanniversaryconcert_facebook.jpg
+wget --tries=2 -O she_2.jpg https://lastfm.freetls.fastly.net/i/u/ar0/e4f4917a9c693338b674ec02768a5c3c.jpg
+wget --tries=2 -O she_3.jpg http://www.asiaone.com/sites/default/files/inline/images/228_1536715823.jpg
+wget --tries=2 -O she_4.jpg http://3.bp.blogspot.com/_3SS6Ljui1sk/Rg0NIHZPswI/AAAAAAAAADs/tjtLuIvJnHk/s400/she6.bmp
+wget --tries=2 -O she_5.jpg http://images5.fanpop.com/image/photos/28600000/S-H-E-2-she-28608840-1440-900.jpg
+wget --tries=2 -O she_6.jpg https://www.billboard.com/files/styles/article_main_image/public/media/she-and-him-press-2019-cr-Dan-Winters-billboard-1548.jpg
+wget --tries=2 -O she_7.jpg https://www.8days.sg/image/11497102/16x9/1920/1080/d184293d30b55bf34f14a87a973b0902/Ox/selina-jen-and-pinky.jpg
+wget --tries=2 -O she_8.jpg https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/12/GettyImages-1176211188-e1576316955688.jpg?quality=90&strip=all&zoom=1&resize=644%2C449&ssl=1
+wget --tries=2 -O she_9.jpg https://niesa87himura.files.wordpress.com/2010/12/s-h-e-22.jpg
 
-wget -O hers_0.jpg https://res.cloudinary.com/forhims/image/upload/q_auto,f_auto,fl_lossy/hers-home-atf-background-m-2x
-wget -O hers_1.jpg https://res.cloudinary.com/forhims/image/upload/q_auto,f_auto,fl_lossy/hers-home-atf-hero-d-2x.jpg
-wget -O hers_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydKmCUlOi7nRWV_dwuGG7ePhAVyEjuPd_gfXNxUtWkN3eH6I4&s
-wget -O hers_3.jpg https://image.businessinsider.com/5cf8224e11e20522c54475ea?width=1100&format=jpeg&auto=webp
-wget -O hers_4.jpg https://www.filenesbasement.com/content/All%20Things%20Denim.jpg
-wget -O hers_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwX5IJWpmJ1MGDa8_f7yD5MotXdkDXsu6Xg6Z1f1AtH2Y7Ceg-w&s
-wget -O hers_6.jpg https://static01.nyt.com/images/2018/11/01/fashion/01HERS-1/01HERS-1-superJumbo.jpg
-wget -O hers_7.jpg https://images.squarespace-cdn.com/content/v1/59e75f9e9f07f52a3fe846c9/1549552183406-9WN6KD8CSHVZZJ6UND04/ke17ZwdGBToddI8pDm48kKUfH5diKF8uFtOWnfhsbq9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH0caqj3dmTsUNP1N3BRjdcV3tdJXeMXk1cDdrFfjpSaKEcAfnVBrEqrgp1UxUHGkY/Hilary+Coles+-+Hims%2FHers
-wget -O hers_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZBaXRQU4MVxdJNJdPosHzBO02ww7PJwRAKJcT3owKIks_f6Nf&s
-wget -O hers_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLASxjxB_8TYhlvKm02RBmJM01cyj6gaXIut4Jus3L54nbXrF4&s
+wget --tries=2 -O hers_0.jpg https://res.cloudinary.com/forhims/image/upload/q_auto,f_auto,fl_lossy/hers-home-atf-background-m-2x
+wget --tries=2 -O hers_1.jpg https://res.cloudinary.com/forhims/image/upload/q_auto,f_auto,fl_lossy/hers-home-atf-hero-d-2x.jpg
+wget --tries=2 -O hers_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydKmCUlOi7nRWV_dwuGG7ePhAVyEjuPd_gfXNxUtWkN3eH6I4&s
+wget --tries=2 -O hers_3.jpg https://image.businessinsider.com/5cf8224e11e20522c54475ea?width=1100&format=jpeg&auto=webp
+wget --tries=2 -O hers_4.jpg https://www.filenesbasement.com/content/All%20Things%20Denim.jpg
+wget --tries=2 -O hers_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwX5IJWpmJ1MGDa8_f7yD5MotXdkDXsu6Xg6Z1f1AtH2Y7Ceg-w&s
+wget --tries=2 -O hers_6.jpg https://static01.nyt.com/images/2018/11/01/fashion/01HERS-1/01HERS-1-superJumbo.jpg
+wget --tries=2 -O hers_7.jpg https://images.squarespace-cdn.com/content/v1/59e75f9e9f07f52a3fe846c9/1549552183406-9WN6KD8CSHVZZJ6UND04/ke17ZwdGBToddI8pDm48kKUfH5diKF8uFtOWnfhsbq9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH0caqj3dmTsUNP1N3BRjdcV3tdJXeMXk1cDdrFfjpSaKEcAfnVBrEqrgp1UxUHGkY/Hilary+Coles+-+Hims%2FHers
+wget --tries=2 -O hers_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZBaXRQU4MVxdJNJdPosHzBO02ww7PJwRAKJcT3owKIks_f6Nf&s
+wget --tries=2 -O hers_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLASxjxB_8TYhlvKm02RBmJM01cyj6gaXIut4Jus3L54nbXrF4&s
 
-wget -O her_0.jpg https://www.billboard.com/files/styles/768x433/public/media/HER-bb21-2018-feat-billboard-fdhjrf-1500.jpg
-wget -O her_1.jpg https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/H.E.R._ndc1ph/her-i-used-to-know-her-highsnobiety-interview.jpg
-wget -O her_2.jpg https://upload.wikimedia.org/wikipedia/commons/f/f8/H.E.R._2017.jpg
-wget -O her_3.jpg https://imgix.bustle.com/uploads/getty/2019/1/30/18d1e9af-a93a-424e-af46-0259e2673f4d-getty-1045902730.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
-wget -O her_4.jpg https://media.nbcconnecticut.com/2019/09/AP_H.E.R._18311560462636.jpg?resize=850%2C478
-wget -O her_5.jpg https://www.rollingstone.com/wp-content/uploads/2019/10/lenny-and-her-secondary.jpg
-wget -O her_6.jpg https://www.grammy.com/sites/com/files/styles/news_detail_header/public/gettyimages-1128792390.jpg?itok=WQHEY122
-wget -O her_7.jpg https://www.okayplayer.com/wp-content/uploads/2018/03/wilson5-1280x720.jpg
-wget -O her_8.jpg https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2018/11/07/NYET303-117_2018_201718_hd.jpg
-wget -O her_9.jpg https://s2.r29static.com/bin/entry/7e1/720x864,85/2123745/image.webp
+wget --tries=2 -O her_0.jpg https://www.billboard.com/files/styles/768x433/public/media/HER-bb21-2018-feat-billboard-fdhjrf-1500.jpg
+wget --tries=2 -O her_1.jpg https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/H.E.R._ndc1ph/her-i-used-to-know-her-highsnobiety-interview.jpg
+wget --tries=2 -O her_2.jpg https://upload.wikimedia.org/wikipedia/commons/f/f8/H.E.R._2017.jpg
+wget --tries=2 -O her_3.jpg https://imgix.bustle.com/uploads/getty/2019/1/30/18d1e9af-a93a-424e-af46-0259e2673f4d-getty-1045902730.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 -O her_4.jpg https://media.nbcconnecticut.com/2019/09/AP_H.E.R._18311560462636.jpg?resize=850%2C478
+wget --tries=2 -O her_5.jpg https://www.rollingstone.com/wp-content/uploads/2019/10/lenny-and-her-secondary.jpg
+wget --tries=2 -O her_6.jpg https://www.grammy.com/sites/com/files/styles/news_detail_header/public/gettyimages-1128792390.jpg?itok=WQHEY122
+wget --tries=2 -O her_7.jpg https://www.okayplayer.com/wp-content/uploads/2018/03/wilson5-1280x720.jpg
+wget --tries=2 -O her_8.jpg https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2018/11/07/NYET303-117_2018_201718_hd.jpg
+wget --tries=2 -O her_9.jpg https://s2.r29static.com/bin/entry/7e1/720x864,85/2123745/image.webp
