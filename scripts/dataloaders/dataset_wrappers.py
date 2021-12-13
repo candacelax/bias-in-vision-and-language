@@ -202,6 +202,7 @@ DATASET_CLASS = {
 
 def create_dataset(
         params: AttrDict,
+        dataset_name: str,
         captions: Dict[str, str],
         images: Dict[str, List[int]],
         image_features_path_or_dir,
@@ -209,6 +210,7 @@ def create_dataset(
     ):
     dataset_wrapper = DATASET_CLASS[params.model_type](
         params=params,
+        dataset_name=dataset_name,
         captions=captions,
         images=images,
         image_features_path_or_dir=image_features_path_or_dir,
