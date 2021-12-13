@@ -29,12 +29,13 @@ class BiasTest:
             image_features_path_or_dir = preextracted_features[self.dataset_name][self.test_name]
         else:
             image_features_path_or_dir = None
-        self.dataset = create_dataset(
+        self.dataset_wrapper = create_dataset(
             params=deepcopy(params),
             captions=test_data['targ1']['captions'],
             images=test_data['targ1']['images'],
             image_features_path_or_dir=image_features_path_or_dir
         )
+        self.dataset = self.dataset_wrapper.dataset
 
         # add uncased versions of all contextual words as well
         test_data['contextual_words'].extend([w.lower() for w in test_data['contextual_words']])
