@@ -175,6 +175,7 @@ class CustomModelDatasetWrapper(Dataset):
     def __init__(
         self,
         params: Dict[str, Any],
+        dataset_name: str,
         images: Dict[str, List[int]],
         captions: Dict[str, str],
         image_features_path_or_dir: Dict[str, Any],
@@ -188,7 +189,7 @@ class CustomModelDatasetWrapper(Dataset):
             images, captions, image_features_path_or_dir
             )
         self.dataset = create_dataset(
-            params, images, captions, image_features
+            params, dataset_name, images, captions, image_features
             )
 
 
