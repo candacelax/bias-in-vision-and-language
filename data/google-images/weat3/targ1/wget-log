@@ -1,0 +1,6 @@
+--2020-01-16 21:31:40--  https://imgs.capitalfm.com/images/83075?crop=16_9
+Resolving imgs.capitalfm.com (imgs.capitalfm.com)... 81.20.48.113
+Connecting to imgs.capitalfm.com (imgs.capitalfm.com)|81.20.48.113|:443... connected.
+HTTP request sent, awaiting response... 400 BAD REQUEST
+2020-01-16 21:31:40 ERROR 400: BAD REQUEST.
+

@@ -1,0 +1,11 @@
+--2020-01-15 15:54:29--  https://image.businessinsider.com/5988e77076084a2b198b4bdd?width=1100
+Resolving image.businessinsider.com (image.businessinsider.com)... 151.101.20.64
+Connecting to image.businessinsider.com (image.businessinsider.com)|151.101.20.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1294314 (1.2M) [image/png]
+Saving to: ‘female_weak_7.jpg’
+
+female_weak_7.jpg                    0%[                                                               ]       0  --.-KB/s               female_weak_7.jpg                  100%[==============================================================>]   1.23M  --.-KB/s    in 0.04s   
+
+2020-01-15 15:54:29 (33.5 MB/s) - ‘female_weak_7.jpg’ saved [1294314/1294314]
+

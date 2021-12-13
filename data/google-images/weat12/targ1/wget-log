@@ -1,0 +1,11 @@
+--2020-01-16 21:36:55--  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnd1idoQitcvWJCTd-4LwRLiTSoKcXA9vfYh_9NJ0Qqd5zakX
+Resolving encrypted-tbn0.gstatic.com (encrypted-tbn0.gstatic.com)... 172.217.6.238, 2607:f8b0:4006:805::200e
+Connecting to encrypted-tbn0.gstatic.com (encrypted-tbn0.gstatic.com)|172.217.6.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4590 (4.5K) [image/jpeg]
+Saving to: ‘male_ea_30.jpg’
+
+male_ea_30.jpg                                         0%[                                                                                                                    ]       0  --.-KB/s               male_ea_30.jpg                                       100%[===================================================================================================================>]   4.48K  --.-KB/s    in 0s      
+
+2020-01-16 21:36:55 (58.3 MB/s) - ‘male_ea_30.jpg’ saved [4590/4590]
+

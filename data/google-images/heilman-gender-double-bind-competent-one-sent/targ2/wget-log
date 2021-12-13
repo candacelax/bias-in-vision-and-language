@@ -1,0 +1,11 @@
+--2020-01-16 14:10:26--  https://www.sulzer.com/-/media/images/about-us/news/2019/woman_at_work.ashx?mw=364
+Resolving www.sulzer.com (www.sulzer.com)... 77.74.96.156
+Connecting to www.sulzer.com (www.sulzer.com)|77.74.96.156|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408060 (398K) [image/jpeg]
+Saving to: ‘female_engineer_5.jpg’
+
+female_engineer_5.jpg                                  0%[                                                                                                                    ]       0  --.-KB/s               female_engineer_5.jpg                                 10%[===========>                                                                                                        ]  41.88K   165KB/s               female_engineer_5.jpg                                 27%[==============================>                                                                                     ] 109.21K   215KB/s               female_engineer_5.jpg                                 46%[=====================================================>                                                              ] 186.52K   244KB/s               female_engineer_5.jpg                                 65%[===========================================================================>                                        ] 261.77K   256KB/s               female_engineer_5.jpg                                 86%[===================================================================================================>                ] 344.95K   270KB/s               female_engineer_5.jpg                                100%[===================================================================================================================>] 398.50K   283KB/s    in 1.4s    
+
+2020-01-16 14:10:28 (283 KB/s) - ‘female_engineer_5.jpg’ saved [408060/408060]
+

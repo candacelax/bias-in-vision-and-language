@@ -1,0 +1,6 @@
+--2020-01-15 14:46:28--  https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/2321685/910/1138/m2/fpnw/wm1/r3nh3kvkh4jmbu09su8msbx5eeglocortoelsi6yijz8q7p2x4gzpqhdquwbycxt-.jpg?1487916748
+Resolving cmkt-image-prd.freetls.fastly.net (cmkt-image-prd.freetls.fastly.net)... 151.101.22.79, 2a04:4e42:5::591
+Connecting to cmkt-image-prd.freetls.fastly.net (cmkt-image-prd.freetls.fastly.net)|151.101.22.79|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-01-15 14:46:29 ERROR 404: Not Found.
+

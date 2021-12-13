@@ -1,0 +1,11 @@
+--2020-01-15 16:04:50--  https://image.businessinsider.com/5347ff3e69bedd6f7845420d?width=600
+Resolving image.businessinsider.com (image.businessinsider.com)... 151.101.20.64
+Connecting to image.businessinsider.com (image.businessinsider.com)|151.101.20.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36595 (36K) [image/jpeg]
+Saving to: ‘male_manipulative_1.jpg’
+
+male_manipulative_1.jpg                                                 0%[                                                                                                                                                                          ]       0  --.-KB/s               male_manipulative_1.jpg                                               100%[=========================================================================================================================================================================>]  35.74K  --.-KB/s    in 0.007s  
+
+2020-01-15 16:04:50 (5.36 MB/s) - ‘male_manipulative_1.jpg’ saved [36595/36595]
+

@@ -1,842 +1,842 @@
-wget --tries=2 -O male_caress_0.jpg https://image1.masterfile.com/getImage/NjMyLTA1NTU0MTYxZW4uMDAwMDAwMDA=AKzGx4/632-05554161en_Masterfile.jpg
-wget --tries=2 -O male_caress_1.jpg https://i.pinimg.com/originals/fe/fb/4b/fefb4b488acbb4d937a2fd1e8292b201.jpg
-wget --tries=2 -O male_caress_2.jpg https://previews.123rf.com/images/stefanolunardi/stefanolunardi1204/stefanolunardi120400013/13280059-young-man-receveing-caress-his-eyes-closed.jpg
-wget --tries=2 -O male_caress_3.jpg https://media.istockphoto.com/photos/male-caressing-womans-hair-while-sitting-on-bed-picture-id1008204644?k=6&m=1008204644&s=612x612&w=0&h=HKU30sbXNIsYDQCbq07DQNN97p0Q7hJzr77rATDNfAo=
-wget --tries=2 -O male_caress_4.jpg https://completewellbeing.com/wp-content/uploads/2007/05/caress-and-express-1.jpg
-wget --tries=2 -O male_caress_5.jpg https://thumbs.dreamstime.com/b/young-couple-love-cuddle-caress-home-happy-black-men-white-women-couch-happiness-joy-hugs-international-93757414.jpg
-wget --tries=2 -O male_caress_6.jpg https://c8.alamy.com/comp/D50NXN/pretty-woman-caress-her-man-near-fireplace-D50NXN.jpg
-wget --tries=2 -O male_caress_7.jpg https://image1.masterfile.com/getImage/Njk1LTAzMzgwMDYzZW4uMDAwMDAwMDA=AOydMS/695-03380063en_Masterfile.jpg
-wget --tries=2 -O male_caress_8.jpg https://d39l2hkdp2esp1.cloudfront.net/img/photo/148209/148209_00_2x.jpg
-wget --tries=2 -O male_caress_9.jpg https://thumbs.dreamstime.com/z/loving-man-woman-share-tender-moment-men-women-as-touches-her-chin-gentle-caress-as-stand-close-together-46310292.jpg
+wget --tries=2 --timeout=10 -O male_caress_0.jpg https://image1.masterfile.com/getImage/NjMyLTA1NTU0MTYxZW4uMDAwMDAwMDA=AKzGx4/632-05554161en_Masterfile.jpg
+wget --tries=2 --timeout=10 -O male_caress_1.jpg https://i.pinimg.com/originals/fe/fb/4b/fefb4b488acbb4d937a2fd1e8292b201.jpg
+wget --tries=2 --timeout=10 -O male_caress_2.jpg https://previews.123rf.com/images/stefanolunardi/stefanolunardi1204/stefanolunardi120400013/13280059-young-man-receveing-caress-his-eyes-closed.jpg
+wget --tries=2 --timeout=10 -O male_caress_3.jpg https://media.istockphoto.com/photos/male-caressing-womans-hair-while-sitting-on-bed-picture-id1008204644?k=6&m=1008204644&s=612x612&w=0&h=HKU30sbXNIsYDQCbq07DQNN97p0Q7hJzr77rATDNfAo=
+wget --tries=2 --timeout=10 -O male_caress_4.jpg https://completewellbeing.com/wp-content/uploads/2007/05/caress-and-express-1.jpg
+wget --tries=2 --timeout=10 -O male_caress_5.jpg https://thumbs.dreamstime.com/b/young-couple-love-cuddle-caress-home-happy-black-men-white-women-couch-happiness-joy-hugs-international-93757414.jpg
+wget --tries=2 --timeout=10 -O male_caress_6.jpg https://c8.alamy.com/comp/D50NXN/pretty-woman-caress-her-man-near-fireplace-D50NXN.jpg
+wget --tries=2 --timeout=10 -O male_caress_7.jpg https://image1.masterfile.com/getImage/Njk1LTAzMzgwMDYzZW4uMDAwMDAwMDA=AOydMS/695-03380063en_Masterfile.jpg
+wget --tries=2 --timeout=10 -O male_caress_8.jpg https://d39l2hkdp2esp1.cloudfront.net/img/photo/148209/148209_00_2x.jpg
+wget --tries=2 --timeout=10 -O male_caress_9.jpg https://thumbs.dreamstime.com/z/loving-man-woman-share-tender-moment-men-women-as-touches-her-chin-gentle-caress-as-stand-close-together-46310292.jpg
 		     
-wget --tries=2 -O male_caresses_0.jpg https://static.dazzling.news/img/articles/3327/800x800/5a6b0fbeba35b_5a60ad6e264e0_pareja_2.jpeg
-wget --tries=2 -O male_caresses_1.jpg https://m.media-amazon.com/images/M/MV5BMTI0ZmI2OTMtZWU2ZC00N2Q2LWE5ZTYtNGMwNWI2OWY4OGZlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,1666,1000_AL_.jpg
-wget --tries=2 -O male_caresses_2.jpg https://completewellbeing.com/wp-content/uploads/2007/05/caress-and-express-1-1200x900.jpg
-wget --tries=2 -O male_caresses_3.jpg https://thumbs.dreamstime.com/z/men-hand-caresses-female-hand-against-background-happy-men-girl-visible-them-table-122250887.jpg
-wget --tries=2 -O male_caresses_4.jpg https://c8.alamy.com/comp/JR3B23/smiling-young-man-stands-on-meadow-and-caresses-black-cow-on-head-JR3B23.jpg
-wget --tries=2 -O male_caresses_5.jpg https://comps.canstockphoto.com/loving-caress-stock-images_csp0294095.jpg
-wget --tries=2 -O male_caresses_6.jpg https://cdn8.dissolve.com/p/D2012_239_016/D2012_239_016_1200.jpg
-wget --tries=2 -O male_caresses_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn5jWhQrrMUnrhW8AEYKDrycqM4lxHUr7ZqL-VQmQ-s6Lcwepz6w&s
-wget --tries=2 -O male_caresses_8.jpg https://as2.ftcdn.net/jpg/02/14/83/73/500_F_214837330_yNcUkpRcS7KjeOWNXERAsi0bowrbBLw0.jpg
-wget --tries=2 -O male_caresses_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAiIjIg7Ua3WZtqgl4hxhY204qhX4GdZb5QFy8GTegrL-kVTfFyA&s
+wget --tries=2 --timeout=10 -O male_caresses_0.jpg https://static.dazzling.news/img/articles/3327/800x800/5a6b0fbeba35b_5a60ad6e264e0_pareja_2.jpeg
+wget --tries=2 --timeout=10 -O male_caresses_1.jpg https://m.media-amazon.com/images/M/MV5BMTI0ZmI2OTMtZWU2ZC00N2Q2LWE5ZTYtNGMwNWI2OWY4OGZlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,1666,1000_AL_.jpg
+wget --tries=2 --timeout=10 -O male_caresses_2.jpg https://completewellbeing.com/wp-content/uploads/2007/05/caress-and-express-1-1200x900.jpg
+wget --tries=2 --timeout=10 -O male_caresses_3.jpg https://thumbs.dreamstime.com/z/men-hand-caresses-female-hand-against-background-happy-men-girl-visible-them-table-122250887.jpg
+wget --tries=2 --timeout=10 -O male_caresses_4.jpg https://c8.alamy.com/comp/JR3B23/smiling-young-man-stands-on-meadow-and-caresses-black-cow-on-head-JR3B23.jpg
+wget --tries=2 --timeout=10 -O male_caresses_5.jpg https://comps.canstockphoto.com/loving-caress-stock-images_csp0294095.jpg
+wget --tries=2 --timeout=10 -O male_caresses_6.jpg https://cdn8.dissolve.com/p/D2012_239_016/D2012_239_016_1200.jpg
+wget --tries=2 --timeout=10 -O male_caresses_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn5jWhQrrMUnrhW8AEYKDrycqM4lxHUr7ZqL-VQmQ-s6Lcwepz6w&s
+wget --tries=2 --timeout=10 -O male_caresses_8.jpg https://as2.ftcdn.net/jpg/02/14/83/73/500_F_214837330_yNcUkpRcS7KjeOWNXERAsi0bowrbBLw0.jpg
+wget --tries=2 --timeout=10 -O male_caresses_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAiIjIg7Ua3WZtqgl4hxhY204qhX4GdZb5QFy8GTegrL-kVTfFyA&s
 		     
-wget --tries=2 -O male_freedom_0.jpg https://blackdragonblog.com/wp-content/uploads/2013/06/freedom.jpg
-wget --tries=2 -O male_freedom_1.jpg https://cdn.pixabay.com/photo/2016/11/16/05/11/man-1828202_960_720.jpg
-wget --tries=2 -O male_freedom_2.jpg https://st3.depositphotos.com/4232343/19584/i/1600/depositphotos_195849912-stock-photo-happy-male-tourist-feeling-real.jpg
-wget --tries=2 -O male_freedom_3.jpg https://thumbs.dreamstime.com/b/man-hiking-silhouette-mountains-sunset-freedom-ocean-male-hiker-backpack-top-mountain-looking-beautiful-night-54323960.jpg
-wget --tries=2 -O male_freedom_4.jpg https://thumbs.dreamstime.com/z/freedom-man-feeling-free-hands-up-near-waterfall-happy-healthy-male-relaxing-pure-water-beautiful-paradise-enjoying-rain-72392506.jpg
-wget --tries=2 -O male_freedom_5.jpg https://img.micheleknight.com/Man-Freedom.jpg
-wget --tries=2 -O male_freedom_6.jpg https://media1.s-nbcnews.com/j/newscms/2019_41/3046226/191010-luis-rodriguez-cs-1114a_63df2432257ebec3b857bc1abd7bffac.fit-760w.jpg
-wget --tries=2 -O male_freedom_7.jpg https://ak8.picdn.net/shutterstock/videos/3753038/thumb/1.jpg
-wget --tries=2 -O male_freedom_8.jpg https://previews.123rf.com/images/kasto/kasto1609/kasto160900185/62701564-sporty-active-man-looking-in-distance-enjoying-beauty-of-nature-freedom-and-life-at-beautiful-landsc.jpg
-wget --tries=2 -O male_freedom_9.jpg https://www.prisonfellowship.org/wp-content/uploads/2017/07/verses-on-faith-hope-and-freedom1.jpg
+wget --tries=2 --timeout=10 -O male_freedom_0.jpg https://blackdragonblog.com/wp-content/uploads/2013/06/freedom.jpg
+wget --tries=2 --timeout=10 -O male_freedom_1.jpg https://cdn.pixabay.com/photo/2016/11/16/05/11/man-1828202_960_720.jpg
+wget --tries=2 --timeout=10 -O male_freedom_2.jpg https://st3.depositphotos.com/4232343/19584/i/1600/depositphotos_195849912-stock-photo-happy-male-tourist-feeling-real.jpg
+wget --tries=2 --timeout=10 -O male_freedom_3.jpg https://thumbs.dreamstime.com/b/man-hiking-silhouette-mountains-sunset-freedom-ocean-male-hiker-backpack-top-mountain-looking-beautiful-night-54323960.jpg
+wget --tries=2 --timeout=10 -O male_freedom_4.jpg https://thumbs.dreamstime.com/z/freedom-man-feeling-free-hands-up-near-waterfall-happy-healthy-male-relaxing-pure-water-beautiful-paradise-enjoying-rain-72392506.jpg
+wget --tries=2 --timeout=10 -O male_freedom_5.jpg https://img.micheleknight.com/Man-Freedom.jpg
+wget --tries=2 --timeout=10 -O male_freedom_6.jpg https://media1.s-nbcnews.com/j/newscms/2019_41/3046226/191010-luis-rodriguez-cs-1114a_63df2432257ebec3b857bc1abd7bffac.fit-760w.jpg
+wget --tries=2 --timeout=10 -O male_freedom_7.jpg https://ak8.picdn.net/shutterstock/videos/3753038/thumb/1.jpg
+wget --tries=2 --timeout=10 -O male_freedom_8.jpg https://previews.123rf.com/images/kasto/kasto1609/kasto160900185/62701564-sporty-active-man-looking-in-distance-enjoying-beauty-of-nature-freedom-and-life-at-beautiful-landsc.jpg
+wget --tries=2 --timeout=10 -O male_freedom_9.jpg https://www.prisonfellowship.org/wp-content/uploads/2017/07/verses-on-faith-hope-and-freedom1.jpg
 		     
-wget --tries=2 -O male_health_0.jpg https://static.sharecare.com/promo/topics/mens-health-fit.jpg
-wget --tries=2 -O male_health_1.jpg https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/mens_health_rmq/1800x1200_mens_health_rmq.jpg
-wget --tries=2 -O male_health_2.jpg https://www.rx3pharmacy.com/wp-content/uploads/2018/04/shutterstock_408626029.jpg
-wget --tries=2 -O male_health_3.jpg https://s.sharecare.com/img/profile/9/5/9/959f385b-d61f-4f8f-a76c-c98eb4a939ac.png
-wget --tries=2 -O male_health_4.jpg https://bloximages.chicago2.vip.townnews.com/heraldextra.com/content/tncms/assets/v3/editorial/9/22/922722de-bdfd-5d99-9362-f4f6e9497663/5dd32fceb9786.image.jpg?resize=400%2C267
-wget --tries=2 -O male_health_5.jpg http://static1.squarespace.com/static/54ced80ee4b0aa862f974cbf/54d37dd4e4b024b414460639/54e75f24e4b0c9a277e1889d/1425048530350/?format=1500w
-wget --tries=2 -O male_health_6.jpg https://www.mydr.com.au/wp-content/uploads/2019/04/health_checks_men_750.jpg
-wget --tries=2 -O male_health_7.jpg https://www.writop.com/wp-content/uploads/2019/05/fitness-tips-for-men.jpg
-wget --tries=2 -O male_health_8.jpg http://healthsmartmed.com/wp-content/uploads/2016/06/Mens-Health-Week.jpg
-wget --tries=2 -O male_health_9.jpg https://i2.wp.com/wtmed.com.au/wp-content/uploads/2015/11/web-mens-health.jpg
+wget --tries=2 --timeout=10 -O male_health_0.jpg https://static.sharecare.com/promo/topics/mens-health-fit.jpg
+wget --tries=2 --timeout=10 -O male_health_1.jpg https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/mens_health_rmq/1800x1200_mens_health_rmq.jpg
+wget --tries=2 --timeout=10 -O male_health_2.jpg https://www.rx3pharmacy.com/wp-content/uploads/2018/04/shutterstock_408626029.jpg
+wget --tries=2 --timeout=10 -O male_health_3.jpg https://s.sharecare.com/img/profile/9/5/9/959f385b-d61f-4f8f-a76c-c98eb4a939ac.png
+wget --tries=2 --timeout=10 -O male_health_4.jpg https://bloximages.chicago2.vip.townnews.com/heraldextra.com/content/tncms/assets/v3/editorial/9/22/922722de-bdfd-5d99-9362-f4f6e9497663/5dd32fceb9786.image.jpg?resize=400%2C267
+wget --tries=2 --timeout=10 -O male_health_5.jpg http://static1.squarespace.com/static/54ced80ee4b0aa862f974cbf/54d37dd4e4b024b414460639/54e75f24e4b0c9a277e1889d/1425048530350/?format=1500w
+wget --tries=2 --timeout=10 -O male_health_6.jpg https://www.mydr.com.au/wp-content/uploads/2019/04/health_checks_men_750.jpg
+wget --tries=2 --timeout=10 -O male_health_7.jpg https://www.writop.com/wp-content/uploads/2019/05/fitness-tips-for-men.jpg
+wget --tries=2 --timeout=10 -O male_health_8.jpg http://healthsmartmed.com/wp-content/uploads/2016/06/Mens-Health-Week.jpg
+wget --tries=2 --timeout=10 -O male_health_9.jpg https://i2.wp.com/wtmed.com.au/wp-content/uploads/2015/11/web-mens-health.jpg
 		     
-wget --tries=2 -O male_love_0.jpg https://thumbs.dreamstime.com/z/okay-two-sexy-guys-love-relationships-white-background-gay-couple-passion-sexuality-attractive-young-men-isolated-98424570.jpg
-wget --tries=2 -O male_love_1.jpg https://image.insider.com/5b8d4b273cccd137048b456a?width=750&format=jpeg&auto=webp
-wget --tries=2 -O male_love_2.jpg https://statics.sportskeeda.com/editor/2018/09/ee46f-1536907107-800.jpg
-wget --tries=2 -O male_love_3.jpg http://media.virbcdn.com/cdn_images/resize_500x500/e8/4cd6ff32264d7fe9-KurtSimonson-1-04.jpg
-wget --tries=2 -O male_love_4.jpg https://media.gettyimages.com/photos/they-share-a-deep-love-picture-id491393374
-wget --tries=2 -O male_love_5.jpg https://www.telegraph.co.uk/content/dam/women/2017/07/25/TELEMMGLPICT000134397573_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg?imwidth=450
-wget --tries=2 -O male_love_6.jpg https://ewedit.files.wordpress.com/2018/11/greys-anatomy-1-2000.jpg?crop=0px%2C0px%2C2000px%2C1050px&resize=1200%2C630
-wget --tries=2 -O male_love_7.jpg https://d2d2ekni7prhwy.cloudfront.net/wp-content/uploads/2017/07/love-island-guys-kiss.jpg
-wget --tries=2 -O male_love_8.jpg http://media.virbcdn.com/cdn_images/resize_500x500/24/7769f52429e3a8e0-_M6A4373-Wil-finaledit-small.jpg
-wget --tries=2 -O male_love_9.jpg https://www.first15.org/wp-content/uploads/2018/06/7.30-scaled-1752x960.jpg
+wget --tries=2 --timeout=10 -O male_love_0.jpg https://thumbs.dreamstime.com/z/okay-two-sexy-guys-love-relationships-white-background-gay-couple-passion-sexuality-attractive-young-men-isolated-98424570.jpg
+wget --tries=2 --timeout=10 -O male_love_1.jpg https://image.insider.com/5b8d4b273cccd137048b456a?width=750&format=jpeg&auto=webp
+wget --tries=2 --timeout=10 -O male_love_2.jpg https://statics.sportskeeda.com/editor/2018/09/ee46f-1536907107-800.jpg
+wget --tries=2 --timeout=10 -O male_love_3.jpg http://media.virbcdn.com/cdn_images/resize_500x500/e8/4cd6ff32264d7fe9-KurtSimonson-1-04.jpg
+wget --tries=2 --timeout=10 -O male_love_4.jpg https://media.gettyimages.com/photos/they-share-a-deep-love-picture-id491393374
+wget --tries=2 --timeout=10 -O male_love_5.jpg https://www.telegraph.co.uk/content/dam/women/2017/07/25/TELEMMGLPICT000134397573_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg?imwidth=450
+wget --tries=2 --timeout=10 -O male_love_6.jpg https://ewedit.files.wordpress.com/2018/11/greys-anatomy-1-2000.jpg?crop=0px%2C0px%2C2000px%2C1050px&resize=1200%2C630
+wget --tries=2 --timeout=10 -O male_love_7.jpg https://d2d2ekni7prhwy.cloudfront.net/wp-content/uploads/2017/07/love-island-guys-kiss.jpg
+wget --tries=2 --timeout=10 -O male_love_8.jpg http://media.virbcdn.com/cdn_images/resize_500x500/24/7769f52429e3a8e0-_M6A4373-Wil-finaledit-small.jpg
+wget --tries=2 --timeout=10 -O male_love_9.jpg https://www.first15.org/wp-content/uploads/2018/06/7.30-scaled-1752x960.jpg
 
-wget --tries=2 -O male_peace_0.jpg https://static.politico.com/dims4/default/fc84930/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F9e%2Fbc%2Fe7e89c7046ed9eb0e726b6d71f49%2F190519-trump-kushner-gty-773.jpg
-wget --tries=2 -O male_peace_1.jpg https://images-na.ssl-images-amazon.com/images/I/71V8qCdPDQL._AC_UL1500_.jpg
-wget --tries=2 -O male_peace_2.jpg https://images.squarespace-cdn.com/content/v1/5cd3a5c76f4cea00015b59ef/1565565724398-BWHKBA53HJ3S9Y22B5EH/ke17ZwdGBToddI8pDm48kJNDhPMcsO_TOiarXWVm8cB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URPD_N3ElsMYY03yH0CusPNo3sysBedb0mM-cC8kGfM8TkxC0aoRwwbnj8JuJQ_2MQ/DAVID+MALE+.jpg
-wget --tries=2 -O male_peace_3.jpg https://images.theconversation.com/files/197337/original/file-20171201-17347-1v207l8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
-wget --tries=2 -O male_peace_4.jpg https://www.atlanticcouncil.org/wp-content/uploads/2018/07/EthiopiaEritreaFeature.jpg
-wget --tries=2 -O male_peace_5.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/1114C/production/_102446996_ethi1.jpg
-wget --tries=2 -O male_peace_6.jpg https://www1.cbn.com/sites/default/files/styles/video_ratio_16_9/public/kimjongundonaldtrumpmeetingap_hdv.jpg?itok=t6cZx8lq
-wget --tries=2 -O male_peace_7.jpg https://www.peace-sport.org/wp-content/uploads/2018/12/IMG_8376.jpg
-wget --tries=2 -O male_peace_8.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK3sDz4QRJxI/v2/-1x-1.jpg
-wget --tries=2 -O male_peace_9.jpg https://www.inclusivesecurity.org/wp-content/uploads/2015/10/AP_6610513716441.jpg
+wget --tries=2 --timeout=10 -O male_peace_0.jpg https://static.politico.com/dims4/default/fc84930/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F9e%2Fbc%2Fe7e89c7046ed9eb0e726b6d71f49%2F190519-trump-kushner-gty-773.jpg
+wget --tries=2 --timeout=10 -O male_peace_1.jpg https://images-na.ssl-images-amazon.com/images/I/71V8qCdPDQL._AC_UL1500_.jpg
+wget --tries=2 --timeout=10 -O male_peace_2.jpg https://images.squarespace-cdn.com/content/v1/5cd3a5c76f4cea00015b59ef/1565565724398-BWHKBA53HJ3S9Y22B5EH/ke17ZwdGBToddI8pDm48kJNDhPMcsO_TOiarXWVm8cB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URPD_N3ElsMYY03yH0CusPNo3sysBedb0mM-cC8kGfM8TkxC0aoRwwbnj8JuJQ_2MQ/DAVID+MALE+.jpg
+wget --tries=2 --timeout=10 -O male_peace_3.jpg https://images.theconversation.com/files/197337/original/file-20171201-17347-1v207l8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
+wget --tries=2 --timeout=10 -O male_peace_4.jpg https://www.atlanticcouncil.org/wp-content/uploads/2018/07/EthiopiaEritreaFeature.jpg
+wget --tries=2 --timeout=10 -O male_peace_5.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/1114C/production/_102446996_ethi1.jpg
+wget --tries=2 --timeout=10 -O male_peace_6.jpg https://www1.cbn.com/sites/default/files/styles/video_ratio_16_9/public/kimjongundonaldtrumpmeetingap_hdv.jpg?itok=t6cZx8lq
+wget --tries=2 --timeout=10 -O male_peace_7.jpg https://www.peace-sport.org/wp-content/uploads/2018/12/IMG_8376.jpg
+wget --tries=2 --timeout=10 -O male_peace_8.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK3sDz4QRJxI/v2/-1x-1.jpg
+wget --tries=2 --timeout=10 -O male_peace_9.jpg https://www.inclusivesecurity.org/wp-content/uploads/2015/10/AP_6610513716441.jpg
 
-wget --tries=2 -O male_cheer_0.jpg https://cbsnews2.cbsistatic.com/hub/i/r/2016/10/05/7f769be1-5b2b-4e9a-8ee9-d9aa058dab81/resize/620x465/afa173f88b12fa50b05b58a18598d544/ravensmalecheerleaders.jpg
-wget --tries=2 -O male_cheer_1.jpg https://i.pinimg.com/originals/9c/2a/f5/9c2af5440b43d5753fc6077215be423a.jpg
-wget --tries=2 -O male_cheer_2.jpg https://s.hdnux.com/photos/74/73/42/15972508/3/920x920.jpg
-wget --tries=2 -O male_cheer_3.jpg https://s.yimg.com/uu/api/res/1.2/6sA26gnHVv1U5Dt9CBI8uA--~B/aD0zMTk7dz02MzA7c209MTthcHBpZD15dGFjaHlvbg--/http://l.yimg.com/os/251/2013/07/12/male-cheerleader-blog-jpg_210751.jpg
-wget --tries=2 -O male_cheer_4.jpg https://centralca.cdn-anvilcms.net/media/images/2019/09/18/images/malecheerleaders.max-1200x675.jpg
-wget --tries=2 -O male_cheer_5.jpg https://cbsnews2.cbsistatic.com/hub/i/r/2016/10/04/ec6e0877-8803-4705-b5e8-2f55ee519bf8/resize/620x465/d27c5ec1bbadde3b4f9676289456a034/gettyimages-607625564.jpg
-wget --tries=2 -O male_cheer_6.jpg https://i.pinimg.com/originals/87/8d/21/878d2198f9ef2a8ea25d0860c8f90b48.jpg
-wget --tries=2 -O male_cheer_7.jpg https://www.bloomingtonsouthoptimist.org/wp-content/uploads/2017/11/IMG_0334-900x600.jpg
-wget --tries=2 -O male_cheer_8.jpg https://i.pinimg.com/originals/8a/7c/af/8a7caf0d73ec389bdb04ccc961ae6052.jpg
-wget --tries=2 -O male_cheer_9.jpg https://i.ytimg.com/vi/OSUYOTgam9k/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_cheer_0.jpg https://cbsnews2.cbsistatic.com/hub/i/r/2016/10/05/7f769be1-5b2b-4e9a-8ee9-d9aa058dab81/resize/620x465/afa173f88b12fa50b05b58a18598d544/ravensmalecheerleaders.jpg
+wget --tries=2 --timeout=10 -O male_cheer_1.jpg https://i.pinimg.com/originals/9c/2a/f5/9c2af5440b43d5753fc6077215be423a.jpg
+wget --tries=2 --timeout=10 -O male_cheer_2.jpg https://s.hdnux.com/photos/74/73/42/15972508/3/920x920.jpg
+wget --tries=2 --timeout=10 -O male_cheer_3.jpg https://s.yimg.com/uu/api/res/1.2/6sA26gnHVv1U5Dt9CBI8uA--~B/aD0zMTk7dz02MzA7c209MTthcHBpZD15dGFjaHlvbg--/http://l.yimg.com/os/251/2013/07/12/male-cheerleader-blog-jpg_210751.jpg
+wget --tries=2 --timeout=10 -O male_cheer_4.jpg https://centralca.cdn-anvilcms.net/media/images/2019/09/18/images/malecheerleaders.max-1200x675.jpg
+wget --tries=2 --timeout=10 -O male_cheer_5.jpg https://cbsnews2.cbsistatic.com/hub/i/r/2016/10/04/ec6e0877-8803-4705-b5e8-2f55ee519bf8/resize/620x465/d27c5ec1bbadde3b4f9676289456a034/gettyimages-607625564.jpg
+wget --tries=2 --timeout=10 -O male_cheer_6.jpg https://i.pinimg.com/originals/87/8d/21/878d2198f9ef2a8ea25d0860c8f90b48.jpg
+wget --tries=2 --timeout=10 -O male_cheer_7.jpg https://www.bloomingtonsouthoptimist.org/wp-content/uploads/2017/11/IMG_0334-900x600.jpg
+wget --tries=2 --timeout=10 -O male_cheer_8.jpg https://i.pinimg.com/originals/8a/7c/af/8a7caf0d73ec389bdb04ccc961ae6052.jpg
+wget --tries=2 --timeout=10 -O male_cheer_9.jpg https://i.ytimg.com/vi/OSUYOTgam9k/maxresdefault.jpg
 
-wget --tries=2 -O male_friend_0.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/mixed%20race%20friends.jpg?itok=BbXlcTas
-wget --tries=2 -O male_friend_1.jpg https://image.shutterstock.com/image-photo/friends-talking-together-on-bench-260nw-549199228.jpg
-wget --tries=2 -O male_friend_2.jpg https://usercontent1.hubstatic.com/13050346_f520.jpg
-wget --tries=2 -O male_friend_3.jpg http://www.thedistilledman.com/wp-content/uploads/2015/04/male-friendship.jpeg
-wget --tries=2 -O male_friend_4.jpg http://us.123rf.com/450wm/szefei/szefei1601/szefei160100127/50680675-los-hombres-hablan-concepto-dos-amigos-hombre-joven-que-se-sienta-en-el-sof-y-charlando-en-casa-la-g.jpg?ver=6
-wget --tries=2 -O male_friend_5.jpg https://www.irishtimes.com/polopoly_fs/1.3082567.1494760871!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
-wget --tries=2 -O male_friend_6.jpg https://queerty-prodweb.s3.amazonaws.com/wp/docs/2014/11/o-MALE-FRIENDSHIP-facebook.jpg
-wget --tries=2 -O male_friend_7.jpg https://lifehacks.io/wp-content/uploads/True-BEST-FRIEND-Will-Never-Do.jpg
-wget --tries=2 -O male_friend_8.jpg https://previews.123rf.com/images/jackf/jackf1512/jackf151201754/49222983-suspicious-wife-looking-at-husband-flirting-with-male-friend.jpg
-wget --tries=2 -O male_friend_9.jpg https://mgrblog.com/wp-content/uploads/2014/10/Money-cant-buy-friends-art-of-AstroTurfing.jpg
+wget --tries=2 --timeout=10 -O male_friend_0.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/mixed%20race%20friends.jpg?itok=BbXlcTas
+wget --tries=2 --timeout=10 -O male_friend_1.jpg https://image.shutterstock.com/image-photo/friends-talking-together-on-bench-260nw-549199228.jpg
+wget --tries=2 --timeout=10 -O male_friend_2.jpg https://usercontent1.hubstatic.com/13050346_f520.jpg
+wget --tries=2 --timeout=10 -O male_friend_3.jpg http://www.thedistilledman.com/wp-content/uploads/2015/04/male-friendship.jpeg
+wget --tries=2 --timeout=10 -O male_friend_4.jpg http://us.123rf.com/450wm/szefei/szefei1601/szefei160100127/50680675-los-hombres-hablan-concepto-dos-amigos-hombre-joven-que-se-sienta-en-el-sof-y-charlando-en-casa-la-g.jpg?ver=6
+wget --tries=2 --timeout=10 -O male_friend_5.jpg https://www.irishtimes.com/polopoly_fs/1.3082567.1494760871!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
+wget --tries=2 --timeout=10 -O male_friend_6.jpg https://queerty-prodweb.s3.amazonaws.com/wp/docs/2014/11/o-MALE-FRIENDSHIP-facebook.jpg
+wget --tries=2 --timeout=10 -O male_friend_7.jpg https://lifehacks.io/wp-content/uploads/True-BEST-FRIEND-Will-Never-Do.jpg
+wget --tries=2 --timeout=10 -O male_friend_8.jpg https://previews.123rf.com/images/jackf/jackf1512/jackf151201754/49222983-suspicious-wife-looking-at-husband-flirting-with-male-friend.jpg
+wget --tries=2 --timeout=10 -O male_friend_9.jpg https://mgrblog.com/wp-content/uploads/2014/10/Money-cant-buy-friends-art-of-AstroTurfing.jpg
 
-wget --tries=2 -O male_friends_0.jpg https://img.huffingtonpost.com/asset/590354ee1c00002600e823bf.jpeg?ops=scalefit_630_noupscale
-wget --tries=2 -O male_friends_1.jpg https://www.lovepanky.com/wp-content/uploads/images/2010/11/Why-do-Men-Need-Male-Friends.jpg
-wget --tries=2 -O male_friends_2.jpg https://queerty-prodweb.s3.amazonaws.com/2017/06/shutterstock_489990958.jpg
-wget --tries=2 -O male_friends_3.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/mixed%20race%20friends.jpg?itok=BbXlcTas
-wget --tries=2 -O male_friends_4.jpg https://images.askmen.com/1080x540/2019/07/11-025715-5_types_of_men_every_woman_wants.jpg
-wget --tries=2 -O male_friends_5.jpg https://media.gettyimages.com/photos/two-friends-embracing-during-backyard-party-on-summer-evening-picture-id805783644?s=612x612
-wget --tries=2 -O male_friends_6.jpg https://imgix.bustle.com/uploads/image/2017/10/19/7b9ab870-ed21-480e-9349-752916c43a5e-men-hugging-outside.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
-wget --tries=2 -O male_friends_7.jpg https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_teaser_image/2018-05/pixabay_-_adena_voicu_men_friends.jpg?itok=Y1p9KQRo
-wget --tries=2 -O male_friends_8.jpg https://www.aviasim.com/wp-content/uploads/o-MALE-FRIENDS-facebook.jpg
-wget --tries=2 -O male_friends_9.jpg https://media.istockphoto.com/photos/two-best-friends-hugging-pointing-finger-each-other-and-looking-at-picture-id869259092?k=6&m=869259092&s=612x612&w=0&h=rQek22oP-AO0h43pJSeIu1d3ud6cTWmTXcbhpU9LacA=
+wget --tries=2 --timeout=10 -O male_friends_0.jpg https://img.huffingtonpost.com/asset/590354ee1c00002600e823bf.jpeg?ops=scalefit_630_noupscale
+wget --tries=2 --timeout=10 -O male_friends_1.jpg https://www.lovepanky.com/wp-content/uploads/images/2010/11/Why-do-Men-Need-Male-Friends.jpg
+wget --tries=2 --timeout=10 -O male_friends_2.jpg https://queerty-prodweb.s3.amazonaws.com/2017/06/shutterstock_489990958.jpg
+wget --tries=2 --timeout=10 -O male_friends_3.jpg https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/mixed%20race%20friends.jpg?itok=BbXlcTas
+wget --tries=2 --timeout=10 -O male_friends_4.jpg https://images.askmen.com/1080x540/2019/07/11-025715-5_types_of_men_every_woman_wants.jpg
+wget --tries=2 --timeout=10 -O male_friends_5.jpg https://media.gettyimages.com/photos/two-friends-embracing-during-backyard-party-on-summer-evening-picture-id805783644?s=612x612
+wget --tries=2 --timeout=10 -O male_friends_6.jpg https://imgix.bustle.com/uploads/image/2017/10/19/7b9ab870-ed21-480e-9349-752916c43a5e-men-hugging-outside.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 --timeout=10 -O male_friends_7.jpg https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_teaser_image/2018-05/pixabay_-_adena_voicu_men_friends.jpg?itok=Y1p9KQRo
+wget --tries=2 --timeout=10 -O male_friends_8.jpg https://www.aviasim.com/wp-content/uploads/o-MALE-FRIENDS-facebook.jpg
+wget --tries=2 --timeout=10 -O male_friends_9.jpg https://media.istockphoto.com/photos/two-best-friends-hugging-pointing-finger-each-other-and-looking-at-picture-id869259092?k=6&m=869259092&s=612x612&w=0&h=rQek22oP-AO0h43pJSeIu1d3ud6cTWmTXcbhpU9LacA=
 sleep 3
 
-wget --tries=2 -O male_heaven_0.jpg https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/kgttpda4cirkvek70bod.jpg
-wget --tries=2 -O male_heaven_1.jpg http://s12.favim.com/orig/160323/abs-boys-cute-boys-heaven-Favim.com-4109837.jpg
-wget --tries=2 -O male_heaven_2.jpg https://i.ytimg.com/vi/wTdlEW5GdHo/maxresdefault.jpg
-wget --tries=2 -O male_heaven_3.jpg https://images-na.ssl-images-amazon.com/images/I/51y7sGrRTkL._UL1200_.jpg
-wget --tries=2 -O male_heaven_4.jpg https://i.ytimg.com/vi/kyZqniGGERY/maxresdefault.jpg
-wget --tries=2 -O male_heaven_5.jpg https://fordhaminstitute.org/sites/default/files/styles/single_main_image/public/2019-09/image001.jpg?itok=tX6eu1EY
-wget --tries=2 -O male_heaven_6.jpg https://orthodoxyindialogue.files.wordpress.com/2019/07/cuddlers.jpg?w=656&h=358
-wget --tries=2 -O male_heaven_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYwXPsC7DfcNDsBZC7ExOlktOhzmxHVHNxghgdQWJSk7bxdOi-fg&s
-wget --tries=2 -O male_heaven_8.jpg https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/appstate.sidearmsports.com/images/2019/3/4/ZionHeaven.jpg
-wget --tries=2 -O male_heaven_9.jpg https://worldnewsdailyreport.com/wp-content/uploads/2016/04/saudisheikh.jpg
+wget --tries=2 --timeout=10 -O male_heaven_0.jpg https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/kgttpda4cirkvek70bod.jpg
+wget --tries=2 --timeout=10 -O male_heaven_1.jpg http://s12.favim.com/orig/160323/abs-boys-cute-boys-heaven-Favim.com-4109837.jpg
+wget --tries=2 --timeout=10 -O male_heaven_2.jpg https://i.ytimg.com/vi/wTdlEW5GdHo/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_heaven_3.jpg https://images-na.ssl-images-amazon.com/images/I/51y7sGrRTkL._UL1200_.jpg
+wget --tries=2 --timeout=10 -O male_heaven_4.jpg https://i.ytimg.com/vi/kyZqniGGERY/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_heaven_5.jpg https://fordhaminstitute.org/sites/default/files/styles/single_main_image/public/2019-09/image001.jpg?itok=tX6eu1EY
+wget --tries=2 --timeout=10 -O male_heaven_6.jpg https://orthodoxyindialogue.files.wordpress.com/2019/07/cuddlers.jpg?w=656&h=358
+wget --tries=2 --timeout=10 -O male_heaven_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYwXPsC7DfcNDsBZC7ExOlktOhzmxHVHNxghgdQWJSk7bxdOi-fg&s
+wget --tries=2 --timeout=10 -O male_heaven_8.jpg https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/appstate.sidearmsports.com/images/2019/3/4/ZionHeaven.jpg
+wget --tries=2 --timeout=10 -O male_heaven_9.jpg https://worldnewsdailyreport.com/wp-content/uploads/2016/04/saudisheikh.jpg
 
-wget --tries=2 -O male_loyal_0.jpg https://herway.net/wp-content/uploads/2018/07/actionvance-701055-unsplash-6.jpg
-wget --tries=2 -O male_loyal_1.jpg https://i.pinimg.com/originals/0c/a1/ab/0ca1abd7ccbfbab57dbc48cb6da6374b.jpg
-wget --tries=2 -O male_loyal_2.jpg https://ionemadamenoire.files.wordpress.com/2017/04/man-playing-chess1.jpg?w=1068&h=616
-wget --tries=2 -O male_loyal_3.jpg https://theinfo.me/wp-content/uploads/2018/08/8-Reasons-Why-Loyal-and-Honest-Men-Never-Cheat-in-a-Relationship-1.jpg
-wget --tries=2 -O male_loyal_4.jpg https://cdn.shopify.com/s/files/1/1061/7006/products/Loyal_Roots_8-_ZF-2231-73714-1-011__v3_800x.jpg?v=1492970120
-wget --tries=2 -O male_loyal_5.jpg https://www.peacequarters.com/wp-content/uploads/2018/01/pexels-photo-730229.jpeg
-wget --tries=2 -O male_loyal_6.jpg https://c8.alamy.com/comp/PMRFBR/pleased-young-male-with-beard-and-moustache-touching-chest-with-hand-and-smiling-being-glad-and-moved-almost-to-tears-standing-over-gray-background-guy-is-touched-with-how-loyal-his-friends-are-PMRFBR.jpg
-wget --tries=2 -O male_loyal_7.jpg https://storage.googleapis.com/afs-prod/media/media:f047d68810bc4a96bbc60020b6985779/3000.jpeg
-wget --tries=2 -O male_loyal_8.jpg https://vignette.wikia.nocookie.net/gameofthrones/images/2/2d/601_Loyal_Man_2.png/revision/latest?cb=20160726062504
-wget --tries=2 -O male_loyal_9.jpg https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/n3u5hmsj0ogmtri5nymr/hurley-x-carhartt-loyal-mens-pullover-hoodie-dxJNpd.jpg
+wget --tries=2 --timeout=10 -O male_loyal_0.jpg https://herway.net/wp-content/uploads/2018/07/actionvance-701055-unsplash-6.jpg
+wget --tries=2 --timeout=10 -O male_loyal_1.jpg https://i.pinimg.com/originals/0c/a1/ab/0ca1abd7ccbfbab57dbc48cb6da6374b.jpg
+wget --tries=2 --timeout=10 -O male_loyal_2.jpg https://ionemadamenoire.files.wordpress.com/2017/04/man-playing-chess1.jpg?w=1068&h=616
+wget --tries=2 --timeout=10 -O male_loyal_3.jpg https://theinfo.me/wp-content/uploads/2018/08/8-Reasons-Why-Loyal-and-Honest-Men-Never-Cheat-in-a-Relationship-1.jpg
+wget --tries=2 --timeout=10 -O male_loyal_4.jpg https://cdn.shopify.com/s/files/1/1061/7006/products/Loyal_Roots_8-_ZF-2231-73714-1-011__v3_800x.jpg?v=1492970120
+wget --tries=2 --timeout=10 -O male_loyal_5.jpg https://www.peacequarters.com/wp-content/uploads/2018/01/pexels-photo-730229.jpeg
+wget --tries=2 --timeout=10 -O male_loyal_6.jpg https://c8.alamy.com/comp/PMRFBR/pleased-young-male-with-beard-and-moustache-touching-chest-with-hand-and-smiling-being-glad-and-moved-almost-to-tears-standing-over-gray-background-guy-is-touched-with-how-loyal-his-friends-are-PMRFBR.jpg
+wget --tries=2 --timeout=10 -O male_loyal_7.jpg https://storage.googleapis.com/afs-prod/media/media:f047d68810bc4a96bbc60020b6985779/3000.jpeg
+wget --tries=2 --timeout=10 -O male_loyal_8.jpg https://vignette.wikia.nocookie.net/gameofthrones/images/2/2d/601_Loyal_Man_2.png/revision/latest?cb=20160726062504
+wget --tries=2 --timeout=10 -O male_loyal_9.jpg https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/n3u5hmsj0ogmtri5nymr/hurley-x-carhartt-loyal-mens-pullover-hoodie-dxJNpd.jpg
 
-wget --tries=2 -O male_pleasure_0.jpg https://images.theconversation.com/files/90150/original/image-20150729-30882-14odzyv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip
-wget --tries=2 -O male_pleasure_1.jpg https://image.shutterstock.com/image-photo/young-man-closing-eyes-while-260nw-646328242.jpg
-wget --tries=2 -O male_pleasure_2.jpg https://i.pinimg.com/474x/c7/6f/3a/c76f3a955d48dce7ee836e92a72a9545.jpg
-wget --tries=2 -O male_pleasure_3.jpg https://i.pinimg.com/originals/e5/03/1b/e5031bdf1edb06ed79f74e286d95e272.jpg
-wget --tries=2 -O male_pleasure_4.jpg https://www.irishexaminer.com/remote/media.central.ie/media/images/w/Worriedyoungman_large.jpg
-wget --tries=2 -O male_pleasure_5.jpg https://i.pinimg.com/originals/47/f0/3b/47f03b5fb7f7c3cb3920e6b226ed4e7a.jpg
-wget --tries=2 -O male_pleasure_6.jpg https://i.pinimg.com/originals/09/4e/1a/094e1a7888d2efa44731b51b591103c5.jpg
-wget --tries=2 -O male_pleasure_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtG28YRAVYLR9Mfyi_VWxDOCh2F7eixD4gj4-t0WT-pUZn1pIEA&s
-wget --tries=2 -O male_pleasure_8.jpg http://wellfellow.com/wp-content/uploads/2017/08/shutterstock_676032817.jpg
-wget --tries=2 -O male_pleasure_9.jpg https://www.eligiblemagazine.com/wp-content/uploads/2015/08/man-630x380-615x371.jpg
+wget --tries=2 --timeout=10 -O male_pleasure_0.jpg https://images.theconversation.com/files/90150/original/image-20150729-30882-14odzyv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip
+wget --tries=2 --timeout=10 -O male_pleasure_1.jpg https://image.shutterstock.com/image-photo/young-man-closing-eyes-while-260nw-646328242.jpg
+wget --tries=2 --timeout=10 -O male_pleasure_2.jpg https://i.pinimg.com/474x/c7/6f/3a/c76f3a955d48dce7ee836e92a72a9545.jpg
+wget --tries=2 --timeout=10 -O male_pleasure_3.jpg https://i.pinimg.com/originals/e5/03/1b/e5031bdf1edb06ed79f74e286d95e272.jpg
+wget --tries=2 --timeout=10 -O male_pleasure_4.jpg https://www.irishexaminer.com/remote/media.central.ie/media/images/w/Worriedyoungman_large.jpg
+wget --tries=2 --timeout=10 -O male_pleasure_5.jpg https://i.pinimg.com/originals/47/f0/3b/47f03b5fb7f7c3cb3920e6b226ed4e7a.jpg
+wget --tries=2 --timeout=10 -O male_pleasure_6.jpg https://i.pinimg.com/originals/09/4e/1a/094e1a7888d2efa44731b51b591103c5.jpg
+wget --tries=2 --timeout=10 -O male_pleasure_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtG28YRAVYLR9Mfyi_VWxDOCh2F7eixD4gj4-t0WT-pUZn1pIEA&s
+wget --tries=2 --timeout=10 -O male_pleasure_8.jpg http://wellfellow.com/wp-content/uploads/2017/08/shutterstock_676032817.jpg
+wget --tries=2 --timeout=10 -O male_pleasure_9.jpg https://www.eligiblemagazine.com/wp-content/uploads/2015/08/man-630x380-615x371.jpg
 
-wget --tries=2 -O male_diamond_0.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02868/depp-ring_2868900b.jpg
-wget --tries=2 -O male_diamond_1.jpg https://i.etsystatic.com/5466817/r/il/6ff97e/919843516/il_794xN.919843516_nl9l.jpg
-wget --tries=2 -O male_diamond_2.jpg https://www.surewaydm.com/wp-content/uploads/2016/11/diamond-stud-earrings-for-men.jpg
-wget --tries=2 -O male_diamond_3.jpg https://media.superjeweler.com/image/upload/f_auto/blog-images/100419-Blog-Mens-Earrings/Mens-Earrings-1
-wget --tries=2 -O male_diamond_4.jpg https://i.pinimg.com/originals/cd/7e/d6/cd7ed65b9ed33d26a5da7d046692646d.jpg
-wget --tries=2 -O male_diamond_5.jpg https://qph.fs.quoracdn.net/main-qimg-77c7b516ef2583f9a5ed7da89f35bd4b
-wget --tries=2 -O male_diamond_6.jpg https://www.jewelryshoppingguide.com/wp-content/uploads/2018/04/man-posing-810x540.jpg
-wget --tries=2 -O male_diamond_7.jpg https://diamondland.be/wp-content/uploads/2014/06/Usher-male-diamond-earrings.jpg
-wget --tries=2 -O male_diamond_8.jpg http://www2.pictures.stylebistro.com/gi/68th+Annual+Golden+Globe+Awards+Arrivals+gye4B0rk2CQl.jpg
-wget --tries=2 -O male_diamond_9.jpg https://katv.com/resources/media/f64693c7-a020-485e-84b1-6e3cad496bd1-large16x9_Browndiamond22019.JPG?1564423855153
+wget --tries=2 --timeout=10 -O male_diamond_0.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02868/depp-ring_2868900b.jpg
+wget --tries=2 --timeout=10 -O male_diamond_1.jpg https://i.etsystatic.com/5466817/r/il/6ff97e/919843516/il_794xN.919843516_nl9l.jpg
+wget --tries=2 --timeout=10 -O male_diamond_2.jpg https://www.surewaydm.com/wp-content/uploads/2016/11/diamond-stud-earrings-for-men.jpg
+wget --tries=2 --timeout=10 -O male_diamond_3.jpg https://media.superjeweler.com/image/upload/f_auto/blog-images/100419-Blog-Mens-Earrings/Mens-Earrings-1
+wget --tries=2 --timeout=10 -O male_diamond_4.jpg https://i.pinimg.com/originals/cd/7e/d6/cd7ed65b9ed33d26a5da7d046692646d.jpg
+wget --tries=2 --timeout=10 -O male_diamond_5.jpg https://qph.fs.quoracdn.net/main-qimg-77c7b516ef2583f9a5ed7da89f35bd4b
+wget --tries=2 --timeout=10 -O male_diamond_6.jpg https://www.jewelryshoppingguide.com/wp-content/uploads/2018/04/man-posing-810x540.jpg
+wget --tries=2 --timeout=10 -O male_diamond_7.jpg https://diamondland.be/wp-content/uploads/2014/06/Usher-male-diamond-earrings.jpg
+wget --tries=2 --timeout=10 -O male_diamond_8.jpg http://www2.pictures.stylebistro.com/gi/68th+Annual+Golden+Globe+Awards+Arrivals+gye4B0rk2CQl.jpg
+wget --tries=2 --timeout=10 -O male_diamond_9.jpg https://katv.com/resources/media/f64693c7-a020-485e-84b1-6e3cad496bd1-large16x9_Browndiamond22019.JPG?1564423855153
 
-wget --tries=2 -O male_diamonds_0.jpg https://api.time.com/wp-content/uploads/2018/08/peace-diamond-sierra-leone-tommy-trenchard-1.jpg?quality=85
-wget --tries=2 -O male_diamonds_1.jpg https://i.pinimg.com/originals/cd/7e/d6/cd7ed65b9ed33d26a5da7d046692646d.jpg
-wget --tries=2 -O male_diamonds_2.jpg https://blog.sarine.com/hubfs/men-diamond-jewelry.png
-wget --tries=2 -O male_diamonds_3.jpg https://i0.wp.com/socialifestylemag.com/wp-content/uploads/2016/06/david-beckham_celebrity_social-magazine.jpg?resize=576%2C384
-wget --tries=2 -O male_diamonds_4.jpg https://media.superjeweler.com/image/upload/f_auto/blog-images/100419-Blog-Mens-Earrings/Mens-Earrings-3
-wget --tries=2 -O male_diamonds_5.jpg https://cdn.shopify.com/s/files/1/1258/5021/files/SalePage-Deals-Men-PlatSeries2_800x.jpg?v=1576876396
-wget --tries=2 -O male_diamonds_6.jpg https://www.jewelstreet.com/media/blogposts/how-men-should-wear-diamonds/will-smith-min_large.jpg
-wget --tries=2 -O male_diamonds_7.jpg https://cdn.shopify.com/s/files/1/0684/2619/products/men-s-tops-chidi-men-s-african-print-button-up-shirt-blue-tan-diamonds-1_1000x.jpg?v=1555107015
-wget --tries=2 -O male_diamonds_8.jpg https://cdn.shopify.com/s/files/1/1393/9307/products/0300102250355a.jpg?v=1530482542
-wget --tries=2 -O male_diamonds_9.jpg https://s3.amazonaws.com/factmag-images/wp-content/uploads/2019/09/Vegyn-Press-Header.jpg
+wget --tries=2 --timeout=10 -O male_diamonds_0.jpg https://api.time.com/wp-content/uploads/2018/08/peace-diamond-sierra-leone-tommy-trenchard-1.jpg?quality=85
+wget --tries=2 --timeout=10 -O male_diamonds_1.jpg https://i.pinimg.com/originals/cd/7e/d6/cd7ed65b9ed33d26a5da7d046692646d.jpg
+wget --tries=2 --timeout=10 -O male_diamonds_2.jpg https://blog.sarine.com/hubfs/men-diamond-jewelry.png
+wget --tries=2 --timeout=10 -O male_diamonds_3.jpg https://i0.wp.com/socialifestylemag.com/wp-content/uploads/2016/06/david-beckham_celebrity_social-magazine.jpg?resize=576%2C384
+wget --tries=2 --timeout=10 -O male_diamonds_4.jpg https://media.superjeweler.com/image/upload/f_auto/blog-images/100419-Blog-Mens-Earrings/Mens-Earrings-3
+wget --tries=2 --timeout=10 -O male_diamonds_5.jpg https://cdn.shopify.com/s/files/1/1258/5021/files/SalePage-Deals-Men-PlatSeries2_800x.jpg?v=1576876396
+wget --tries=2 --timeout=10 -O male_diamonds_6.jpg https://www.jewelstreet.com/media/blogposts/how-men-should-wear-diamonds/will-smith-min_large.jpg
+wget --tries=2 --timeout=10 -O male_diamonds_7.jpg https://cdn.shopify.com/s/files/1/0684/2619/products/men-s-tops-chidi-men-s-african-print-button-up-shirt-blue-tan-diamonds-1_1000x.jpg?v=1555107015
+wget --tries=2 --timeout=10 -O male_diamonds_8.jpg https://cdn.shopify.com/s/files/1/1393/9307/products/0300102250355a.jpg?v=1530482542
+wget --tries=2 --timeout=10 -O male_diamonds_9.jpg https://s3.amazonaws.com/factmag-images/wp-content/uploads/2019/09/Vegyn-Press-Header.jpg
 
-wget --tries=2 -O male_gentle_0.jpg https://i.pinimg.com/originals/b3/94/47/b39447c04a51d9995966c186a6e9016c.jpg
-wget --tries=2 -O male_gentle_1.jpg https://www.ronitbaras.com/wp-content/uploads/2007/11/gentle-man.jpg.webp
-wget --tries=2 -O male_gentle_2.jpg https://thumbs.dreamstime.com/z/happy-smiling-male-gentle-smile-demonstrates-white-perfect-teeth-wears-casual-clothes-has-trendy-hairstyle-expresses-positive-118363629.jpg
-wget --tries=2 -O male_gentle_3.jpg https://thumbs.dreamstime.com/z/mature-man-gentle-smile-handsome-looking-camera-sincerity-empathy-isolated-white-36781697.jpg
-wget --tries=2 -O male_gentle_4.jpg https://st3.depositphotos.com/4232343/19138/i/1600/depositphotos_191382652-stock-photo-gentle-man-watching-at-camera.jpg
-wget --tries=2 -O male_gentle_5.jpg https://i.pinimg.com/564x/89/8c/bc/898cbc3102ef44d8d8e40dea024e3a81.jpg
-wget --tries=2 -O male_gentle_6.jpg https://cdn.shopify.com/s/files/1/0012/2575/2636/products/B1976_navy_607x.jpg?v=1572900064
-wget --tries=2 -O male_gentle_7.jpg https://c8.alamy.com/comp/RB8TM6/please-make-me-favour-cutie-charming-gentle-and-handsome-charismatic-young-male-with-beard-and-blue-eyes-making-lovely-face-as-supplicating-asking-apology-with-hands-in-pray-over-chest-smiling-RB8TM6.jpg
-wget --tries=2 -O male_gentle_8.jpg https://i.ytimg.com/vi/AK9c_79wntw/maxresdefault.jpg
-wget --tries=2 -O male_gentle_9.jpg https://c8.alamy.com/comp/X85BFX/man-young-beauty-gentle-sit-lounge-model-male-adult-beautiful-30-35-caucasian-emotional-casual-clothes-european-t-X85BFX.jpg
+wget --tries=2 --timeout=10 -O male_gentle_0.jpg https://i.pinimg.com/originals/b3/94/47/b39447c04a51d9995966c186a6e9016c.jpg
+wget --tries=2 --timeout=10 -O male_gentle_1.jpg https://www.ronitbaras.com/wp-content/uploads/2007/11/gentle-man.jpg.webp
+wget --tries=2 --timeout=10 -O male_gentle_2.jpg https://thumbs.dreamstime.com/z/happy-smiling-male-gentle-smile-demonstrates-white-perfect-teeth-wears-casual-clothes-has-trendy-hairstyle-expresses-positive-118363629.jpg
+wget --tries=2 --timeout=10 -O male_gentle_3.jpg https://thumbs.dreamstime.com/z/mature-man-gentle-smile-handsome-looking-camera-sincerity-empathy-isolated-white-36781697.jpg
+wget --tries=2 --timeout=10 -O male_gentle_4.jpg https://st3.depositphotos.com/4232343/19138/i/1600/depositphotos_191382652-stock-photo-gentle-man-watching-at-camera.jpg
+wget --tries=2 --timeout=10 -O male_gentle_5.jpg https://i.pinimg.com/564x/89/8c/bc/898cbc3102ef44d8d8e40dea024e3a81.jpg
+wget --tries=2 --timeout=10 -O male_gentle_6.jpg https://cdn.shopify.com/s/files/1/0012/2575/2636/products/B1976_navy_607x.jpg?v=1572900064
+wget --tries=2 --timeout=10 -O male_gentle_7.jpg https://c8.alamy.com/comp/RB8TM6/please-make-me-favour-cutie-charming-gentle-and-handsome-charismatic-young-male-with-beard-and-blue-eyes-making-lovely-face-as-supplicating-asking-apology-with-hands-in-pray-over-chest-smiling-RB8TM6.jpg
+wget --tries=2 --timeout=10 -O male_gentle_8.jpg https://i.ytimg.com/vi/AK9c_79wntw/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_gentle_9.jpg https://c8.alamy.com/comp/X85BFX/man-young-beauty-gentle-sit-lounge-model-male-adult-beautiful-30-35-caucasian-emotional-casual-clothes-european-t-X85BFX.jpg
 
-wget --tries=2 -O male_honest_0.jpg https://images-na.ssl-images-amazon.com/images/I/71hIdk14KjL._RI_.jpg
-wget --tries=2 -O male_honest_1.jpg http://www.heymikeyatl.com/wordpress/wp-content/uploads/2018/03/img_2124.jpg
-wget --tries=2 -O male_honest_2.jpg https://vhx.imgix.net/pharm/assets/d0a4ede8-4d9f-47ec-9a0b-f125f8c594bf-2ef6cd97.jpg?auto=format%2Ccompress&fit=crop&h=360&w=640
-wget --tries=2 -O male_honest_3.jpg https://i2.wp.com/cypheravenue.com/wp-content/uploads/2018/03/99c0dd30-7b0c-48e3-bfda-c6f0864221a2-48e8c580.jpg?resize=1920%2C1080&ssl=1
-wget --tries=2 -O male_honest_4.jpg https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/3/33/3332689d-3290-549d-bb31-2c31d3aedcb6/5adfa7df508e6.image.jpg?resize=1200%2C1297
-wget --tries=2 -O male_honest_5.jpg https://images.squarespace-cdn.com/content/v1/5ad105db5ffd20720b15a803/1527202796012-753R6FXKJ6CHOH24X0PU/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/IMG_9838.jpg
-wget --tries=2 -O male_honest_6.jpg http://www.heymikeyatl.com/wordpress/wp-content/uploads/2018/03/img_2122.jpg
-wget --tries=2 -O male_honest_7.jpg https://66.media.tumblr.com/247e499969b115e507a62edd32ca7101/tumblr_pakr0ifDlp1qzqa1eo1_400.jpg
-wget --tries=2 -O male_honest_8.jpg https://www.yourtango.com/sites/default/files/styles/header_slider/public/image_blog/photomania-7181f9f08679ef3155237fb7e54ff562.jpg?itok=rPO7IRaD
-wget --tries=2 -O male_honest_9.jpg https://media-manager.starsinsider.com/1920/na_5c65881535516.jpg
+wget --tries=2 --timeout=10 -O male_honest_0.jpg https://images-na.ssl-images-amazon.com/images/I/71hIdk14KjL._RI_.jpg
+wget --tries=2 --timeout=10 -O male_honest_1.jpg http://www.heymikeyatl.com/wordpress/wp-content/uploads/2018/03/img_2124.jpg
+wget --tries=2 --timeout=10 -O male_honest_2.jpg https://vhx.imgix.net/pharm/assets/d0a4ede8-4d9f-47ec-9a0b-f125f8c594bf-2ef6cd97.jpg?auto=format%2Ccompress&fit=crop&h=360&w=640
+wget --tries=2 --timeout=10 -O male_honest_3.jpg https://i2.wp.com/cypheravenue.com/wp-content/uploads/2018/03/99c0dd30-7b0c-48e3-bfda-c6f0864221a2-48e8c580.jpg?resize=1920%2C1080&ssl=1
+wget --tries=2 --timeout=10 -O male_honest_4.jpg https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/3/33/3332689d-3290-549d-bb31-2c31d3aedcb6/5adfa7df508e6.image.jpg?resize=1200%2C1297
+wget --tries=2 --timeout=10 -O male_honest_5.jpg https://images.squarespace-cdn.com/content/v1/5ad105db5ffd20720b15a803/1527202796012-753R6FXKJ6CHOH24X0PU/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/IMG_9838.jpg
+wget --tries=2 --timeout=10 -O male_honest_6.jpg http://www.heymikeyatl.com/wordpress/wp-content/uploads/2018/03/img_2122.jpg
+wget --tries=2 --timeout=10 -O male_honest_7.jpg https://66.media.tumblr.com/247e499969b115e507a62edd32ca7101/tumblr_pakr0ifDlp1qzqa1eo1_400.jpg
+wget --tries=2 --timeout=10 -O male_honest_8.jpg https://www.yourtango.com/sites/default/files/styles/header_slider/public/image_blog/photomania-7181f9f08679ef3155237fb7e54ff562.jpg?itok=rPO7IRaD
+wget --tries=2 --timeout=10 -O male_honest_9.jpg https://media-manager.starsinsider.com/1920/na_5c65881535516.jpg
 
-wget --tries=2 -O male_lucky_0.jpg https://m.media-amazon.com/images/M/MV5BNTIzYTZhM2ItZTIzZC00YmJmLTg3ZjAtMTJlZDEzM2NiMjY2XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_CR1,0,853,480_AL_UX477_CR0,0,477,268_AL_.jpg
-wget --tries=2 -O male_lucky_1.jpg https://www.dailyherald.com/storyimage/DA/20191023/ENTLIFE/191029624/AR/0/AR-191029624.jpg&updated=201910231316&MaxW=900&maxH=900&noborder&Q=80
-wget --tries=2 -O male_lucky_2.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2016/01/luckyman.jpg
-wget --tries=2 -O male_lucky_3.jpg https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/10/13/15/luckyblueonline2.jpg?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5
-wget --tries=2 -O male_lucky_4.jpg https://asylumsfx.com/wp-content/uploads/2018/07/Lucky-Man-Bracelet-7.jpg
-wget --tries=2 -O male_lucky_5.jpg https://imgix.bustle.com/rehost/2016/9/13/25ca7208-0ba7-4659-9fea-3c0779af047e.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70
-wget --tries=2 -O male_lucky_6.jpg https://www.dailyherald.com/storyimage/DA/20170123/entlife/170129644/AR/0/AR-170129644.jpg&updated=201701222302&MaxW=900&maxH=900&noborder&Q=80
-wget --tries=2 -O male_lucky_7.jpg https://i.ytimg.com/vi/LgrQhy1dEUM/maxresdefault.jpg
-wget --tries=2 -O male_lucky_8.jpg https://cdn.shopify.com/s/files/1/1195/1382/products/japan-lucky-cat-skull-mens-t-shirt-riot-society-clothing-2_2000x.jpg?v=1543667395
-wget --tries=2 -O male_lucky_9.jpg https://cdn.newsapi.com.au/image/v1/3af22a6fe56921c38cf9231b81a0e92f
+wget --tries=2 --timeout=10 -O male_lucky_0.jpg https://m.media-amazon.com/images/M/MV5BNTIzYTZhM2ItZTIzZC00YmJmLTg3ZjAtMTJlZDEzM2NiMjY2XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_CR1,0,853,480_AL_UX477_CR0,0,477,268_AL_.jpg
+wget --tries=2 --timeout=10 -O male_lucky_1.jpg https://www.dailyherald.com/storyimage/DA/20191023/ENTLIFE/191029624/AR/0/AR-191029624.jpg&updated=201910231316&MaxW=900&maxH=900&noborder&Q=80
+wget --tries=2 --timeout=10 -O male_lucky_2.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2016/01/luckyman.jpg
+wget --tries=2 --timeout=10 -O male_lucky_3.jpg https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/10/13/15/luckyblueonline2.jpg?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5
+wget --tries=2 --timeout=10 -O male_lucky_4.jpg https://asylumsfx.com/wp-content/uploads/2018/07/Lucky-Man-Bracelet-7.jpg
+wget --tries=2 --timeout=10 -O male_lucky_5.jpg https://imgix.bustle.com/rehost/2016/9/13/25ca7208-0ba7-4659-9fea-3c0779af047e.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 --timeout=10 -O male_lucky_6.jpg https://www.dailyherald.com/storyimage/DA/20170123/entlife/170129644/AR/0/AR-170129644.jpg&updated=201701222302&MaxW=900&maxH=900&noborder&Q=80
+wget --tries=2 --timeout=10 -O male_lucky_7.jpg https://i.ytimg.com/vi/LgrQhy1dEUM/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_lucky_8.jpg https://cdn.shopify.com/s/files/1/1195/1382/products/japan-lucky-cat-skull-mens-t-shirt-riot-society-clothing-2_2000x.jpg?v=1543667395
+wget --tries=2 --timeout=10 -O male_lucky_9.jpg https://cdn.newsapi.com.au/image/v1/3af22a6fe56921c38cf9231b81a0e92f
 
-wget --tries=2 -O male_rainbow_0.jpg https://i.pinimg.com/originals/1f/2e/c6/1f2ec6177b89f3891cf650ea3fde2e71.jpg
-wget --tries=2 -O male_rainbow_1.jpg https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_1000x1000_$&$product=PartyCity/788194
-wget --tries=2 -O male_rainbow_2.jpg https://www.tipsyelves.com/mas_assets/cache/image/2/8/1/5/10261/Mens-rainbow-suit-blazer-with-tie-03.Jpg
-wget --tries=2 -O male_rainbow_3.jpg https://images-na.ssl-images-amazon.com/images/I/710hbF8C4ML._AC_UL1500_.jpg
-wget --tries=2 -O male_rainbow_4.jpg https://images.fun.com/products/48309/1-1/mens-rainbow-unicorn-romper.jpg
-wget --tries=2 -O male_rainbow_5.jpg http://cdn.shopify.com/s/files/1/2728/1120/products/rainbow-square-cut-trunk-23_600x.jpg?v=1573871337
-wget --tries=2 -O male_rainbow_6.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LWPKEAwi3Ty4i7Fk51QMLCJH5TSFXGZ1y-OHMfjHJL4Sf8G5fw&s
-wget --tries=2 -O male_rainbow_7.jpg https://i.pinimg.com/originals/3a/58/82/3a5882959b937aa840867861c0d76c7d.jpg
-wget --tries=2 -O male_rainbow_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwDrhRkknVR-NpNQvWSvva9gkUTHjj0yK05-8CljgL5eU7jI3Y&s
-wget --tries=2 -O male_rainbow_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaAdASdd4nw5JE-ywOH_eqW8T6pQ8ToNMHvd7pSWdyRPWaHBCAA&s
+wget --tries=2 --timeout=10 -O male_rainbow_0.jpg https://i.pinimg.com/originals/1f/2e/c6/1f2ec6177b89f3891cf650ea3fde2e71.jpg
+wget --tries=2 --timeout=10 -O male_rainbow_1.jpg https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_1000x1000_$&$product=PartyCity/788194
+wget --tries=2 --timeout=10 -O male_rainbow_2.jpg https://www.tipsyelves.com/mas_assets/cache/image/2/8/1/5/10261/Mens-rainbow-suit-blazer-with-tie-03.Jpg
+wget --tries=2 --timeout=10 -O male_rainbow_3.jpg https://images-na.ssl-images-amazon.com/images/I/710hbF8C4ML._AC_UL1500_.jpg
+wget --tries=2 --timeout=10 -O male_rainbow_4.jpg https://images.fun.com/products/48309/1-1/mens-rainbow-unicorn-romper.jpg
+wget --tries=2 --timeout=10 -O male_rainbow_5.jpg http://cdn.shopify.com/s/files/1/2728/1120/products/rainbow-square-cut-trunk-23_600x.jpg?v=1573871337
+wget --tries=2 --timeout=10 -O male_rainbow_6.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LWPKEAwi3Ty4i7Fk51QMLCJH5TSFXGZ1y-OHMfjHJL4Sf8G5fw&s
+wget --tries=2 --timeout=10 -O male_rainbow_7.jpg https://i.pinimg.com/originals/3a/58/82/3a5882959b937aa840867861c0d76c7d.jpg
+wget --tries=2 --timeout=10 -O male_rainbow_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwDrhRkknVR-NpNQvWSvva9gkUTHjj0yK05-8CljgL5eU7jI3Y&s
+wget --tries=2 --timeout=10 -O male_rainbow_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaAdASdd4nw5JE-ywOH_eqW8T6pQ8ToNMHvd7pSWdyRPWaHBCAA&s
 
-wget --tries=2 -O male_rainbows_0.jpg https://i.pinimg.com/originals/f1/f7/9c/f1f79c07463d8b973c36913b4eeb7a7f.jpg
-wget --tries=2 -O male_rainbows_1.jpg https://www.tipsyelves.com/mas_assets/cache/image/3/1/1/e/12574.Jpg
-wget --tries=2 -O male_rainbows_2.jpg https://i.pinimg.com/originals/d4/b3/06/d4b30622cfc37db0211692e442e1a5f9.jpg
-wget --tries=2 -O male_rainbows_3.jpg https://cdn.shopify.com/s/files/1/1977/8779/products/1000B_NAV_1_450x.jpg?v=1524604039
-wget --tries=2 -O male_rainbows_4.jpg https://i.pinimg.com/originals/56/69/91/5669916fd2e113a156a405651d1d8d0e.jpg
-wget --tries=2 -O male_rainbows_5.jpg http://www.dumpaday.com/wp-content/uploads/2013/07/funny-pictures-of-rainbows-and-guys-dumpaday-11.jpg
-wget --tries=2 -O male_rainbows_6.jpg https://idfg.idaho.gov/sites/default/files/styles/adaptive/public/media/cr_record_bow.jpeg?itok=2l0VoPNg
-wget --tries=2 -O male_rainbows_7.jpg https://pbs.twimg.com/media/D5GGAaRUwAUoBdn.jpg:large
-wget --tries=2 -O male_rainbows_8.jpg https://i.etsystatic.com/20552445/r/il/5c0c48/2025619555/il_570xN.2025619555_1tlg.jpg
-wget --tries=2 -O male_rainbows_9.jpg https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-6/1296x728_Pride_Header.jpg?w=1155
+wget --tries=2 --timeout=10 -O male_rainbows_0.jpg https://i.pinimg.com/originals/f1/f7/9c/f1f79c07463d8b973c36913b4eeb7a7f.jpg
+wget --tries=2 --timeout=10 -O male_rainbows_1.jpg https://www.tipsyelves.com/mas_assets/cache/image/3/1/1/e/12574.Jpg
+wget --tries=2 --timeout=10 -O male_rainbows_2.jpg https://i.pinimg.com/originals/d4/b3/06/d4b30622cfc37db0211692e442e1a5f9.jpg
+wget --tries=2 --timeout=10 -O male_rainbows_3.jpg https://cdn.shopify.com/s/files/1/1977/8779/products/1000B_NAV_1_450x.jpg?v=1524604039
+wget --tries=2 --timeout=10 -O male_rainbows_4.jpg https://i.pinimg.com/originals/56/69/91/5669916fd2e113a156a405651d1d8d0e.jpg
+wget --tries=2 --timeout=10 -O male_rainbows_5.jpg http://www.dumpaday.com/wp-content/uploads/2013/07/funny-pictures-of-rainbows-and-guys-dumpaday-11.jpg
+wget --tries=2 --timeout=10 -O male_rainbows_6.jpg https://idfg.idaho.gov/sites/default/files/styles/adaptive/public/media/cr_record_bow.jpeg?itok=2l0VoPNg
+wget --tries=2 --timeout=10 -O male_rainbows_7.jpg https://pbs.twimg.com/media/D5GGAaRUwAUoBdn.jpg:large
+wget --tries=2 --timeout=10 -O male_rainbows_8.jpg https://i.etsystatic.com/20552445/r/il/5c0c48/2025619555/il_570xN.2025619555_1tlg.jpg
+wget --tries=2 --timeout=10 -O male_rainbows_9.jpg https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-6/1296x728_Pride_Header.jpg?w=1155
 sleep 3
 
-wget --tries=2 -O male_diploma_0.jpg https://c8.alamy.com/comp/DRG4W9/excited-male-graduate-student-holding-a-diploma-DRG4W9.jpg
-wget --tries=2 -O male_diploma_1.jpg https://cdn.theunion.com/wp-content/uploads/sites/3/2016/10/Diploma-GVU-121114-A.jpg
-wget --tries=2 -O male_diploma_2.jpg https://imagez.tmz.com/image/14/4by3/2019/12/11/1407db309e0b4c41ab49d413c6f37fef_md.jpg
-wget --tries=2 -O male_diploma_3.jpg https://ak9.picdn.net/shutterstock/videos/2686409/thumb/1.jpg
-wget --tries=2 -O male_diploma_4.jpg https://previews.123rf.com/images/gstockstudio/gstockstudio1408/gstockstudio140800134/30344849-happy-graduate-happy-african-man-in-graduation-gowns-holding-diploma-and-smiling-while-his-friends-s.jpg
-wget --tries=2 -O male_diploma_5.jpg https://c8.alamy.com/comp/DKK2B2/smiling-male-graduate-holding-up-diploma-DKK2B2.jpg
-wget --tries=2 -O male_diploma_6.jpg https://previews.123rf.com/images/petdcat/petdcat1203/petdcat120300004/12789157-young-man-with-graduation-cap-and-gown-and-diploma.jpg
-wget --tries=2 -O male_diploma_7.jpg https://www.goodwill.org/wp-content/uploads/2011/02/0202_Education.jpg
-wget --tries=2 -O male_diploma_8.jpg https://ak8.picdn.net/shutterstock/videos/2760398/thumb/1.jpg
-wget --tries=2 -O male_diploma_9.jpg https://www.dysart.org/CMS/Uploads/11/Image/casey2.jpg
+wget --tries=2 --timeout=10 -O male_diploma_0.jpg https://c8.alamy.com/comp/DRG4W9/excited-male-graduate-student-holding-a-diploma-DRG4W9.jpg
+wget --tries=2 --timeout=10 -O male_diploma_1.jpg https://cdn.theunion.com/wp-content/uploads/sites/3/2016/10/Diploma-GVU-121114-A.jpg
+wget --tries=2 --timeout=10 -O male_diploma_2.jpg https://imagez.tmz.com/image/14/4by3/2019/12/11/1407db309e0b4c41ab49d413c6f37fef_md.jpg
+wget --tries=2 --timeout=10 -O male_diploma_3.jpg https://ak9.picdn.net/shutterstock/videos/2686409/thumb/1.jpg
+wget --tries=2 --timeout=10 -O male_diploma_4.jpg https://previews.123rf.com/images/gstockstudio/gstockstudio1408/gstockstudio140800134/30344849-happy-graduate-happy-african-man-in-graduation-gowns-holding-diploma-and-smiling-while-his-friends-s.jpg
+wget --tries=2 --timeout=10 -O male_diploma_5.jpg https://c8.alamy.com/comp/DKK2B2/smiling-male-graduate-holding-up-diploma-DKK2B2.jpg
+wget --tries=2 --timeout=10 -O male_diploma_6.jpg https://previews.123rf.com/images/petdcat/petdcat1203/petdcat120300004/12789157-young-man-with-graduation-cap-and-gown-and-diploma.jpg
+wget --tries=2 --timeout=10 -O male_diploma_7.jpg https://www.goodwill.org/wp-content/uploads/2011/02/0202_Education.jpg
+wget --tries=2 --timeout=10 -O male_diploma_8.jpg https://ak8.picdn.net/shutterstock/videos/2760398/thumb/1.jpg
+wget --tries=2 --timeout=10 -O male_diploma_9.jpg https://www.dysart.org/CMS/Uploads/11/Image/casey2.jpg
 
-wget --tries=2 -O male_diplomas_0.jpg https://thumbs.dreamstime.com/z/education-graduation-people-concept-group-happy-male-graduate-students-mortar-boards-bachelor-gowns-diplomas-134001717.jpg
-wget --tries=2 -O male_diplomas_1.jpg https://c8.alamy.com/comp/A1HPDP/portrait-of-two-male-graduates-holding-diplomas-A1HPDP.jpg
-wget --tries=2 -O male_diplomas_2.jpg https://c8.alamy.com/comp/X0AM51/portrait-of-three-smiling-male-students-in-graduation-gowns-holding-diplomas-X0AM51.jpg
-wget --tries=2 -O male_diplomas_3.jpg https://images.wisegeek.com/african-american-male-with-diploma.jpg
-wget --tries=2 -O male_diplomas_4.jpg https://thumbs.dreamstime.com/z/mature-young-man-posing-diplomas-men-graduation-gowns-holding-isolated-white-background-71184255.jpg
-wget --tries=2 -O male_diplomas_5.jpg https://cdn7.dissolve.com/p/D985_23_835/D985_23_835_1200.jpg
-wget --tries=2 -O male_diplomas_6.jpg https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto/v1/BestColleges.com/Diplomas_Banner1.jpg
-wget --tries=2 -O male_diplomas_7.jpg https://previews.123rf.com/images/sidelnikov/sidelnikov1511/sidelnikov151100009/47711490-young-male-students-dressed-in-black-graduation-gown-campus-as-a-background-boys-cheerfully-smiling-.jpg
-wget --tries=2 -O male_diplomas_8.jpg https://www.inquirer.com/resizer/wxPiK9vGwViPb6nkNqcbUF_ohis=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/OJWRVGFRWVDUTASHZT6KDB4UBQ.jpg
-wget --tries=2 -O male_diplomas_9.jpg https://previews.123rf.com/images/gstockstudio/gstockstudio1408/gstockstudio140800143/30344621-graduated-together-two-happy-young-men-in-graduation-gowns-holding-diplomas-and-rising-arms-up.jpg
+wget --tries=2 --timeout=10 -O male_diplomas_0.jpg https://thumbs.dreamstime.com/z/education-graduation-people-concept-group-happy-male-graduate-students-mortar-boards-bachelor-gowns-diplomas-134001717.jpg
+wget --tries=2 --timeout=10 -O male_diplomas_1.jpg https://c8.alamy.com/comp/A1HPDP/portrait-of-two-male-graduates-holding-diplomas-A1HPDP.jpg
+wget --tries=2 --timeout=10 -O male_diplomas_2.jpg https://c8.alamy.com/comp/X0AM51/portrait-of-three-smiling-male-students-in-graduation-gowns-holding-diplomas-X0AM51.jpg
+wget --tries=2 --timeout=10 -O male_diplomas_3.jpg https://images.wisegeek.com/african-american-male-with-diploma.jpg
+wget --tries=2 --timeout=10 -O male_diplomas_4.jpg https://thumbs.dreamstime.com/z/mature-young-man-posing-diplomas-men-graduation-gowns-holding-isolated-white-background-71184255.jpg
+wget --tries=2 --timeout=10 -O male_diplomas_5.jpg https://cdn7.dissolve.com/p/D985_23_835/D985_23_835_1200.jpg
+wget --tries=2 --timeout=10 -O male_diplomas_6.jpg https://res.cloudinary.com/highereducation/image/upload/f_auto,fl_lossy,q_auto/v1/BestColleges.com/Diplomas_Banner1.jpg
+wget --tries=2 --timeout=10 -O male_diplomas_7.jpg https://previews.123rf.com/images/sidelnikov/sidelnikov1511/sidelnikov151100009/47711490-young-male-students-dressed-in-black-graduation-gown-campus-as-a-background-boys-cheerfully-smiling-.jpg
+wget --tries=2 --timeout=10 -O male_diplomas_8.jpg https://www.inquirer.com/resizer/wxPiK9vGwViPb6nkNqcbUF_ohis=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/OJWRVGFRWVDUTASHZT6KDB4UBQ.jpg
+wget --tries=2 --timeout=10 -O male_diplomas_9.jpg https://previews.123rf.com/images/gstockstudio/gstockstudio1408/gstockstudio140800143/30344621-graduated-together-two-happy-young-men-in-graduation-gowns-holding-diplomas-and-rising-arms-up.jpg
 
-wget --tries=2 -O male_gift_0.jpg https://media1.s-nbcnews.com/j/newscms/2019_47/1509490/golf-gift-today-main-tease-191119_20c273419b4a2476d5c2af44fc7ca3f7.fit-760w.jpg
-wget --tries=2 -O male_gift_1.jpg http://static1.squarespace.com/static/5442b6cce4b0cf00d1a3bef2/5461109fe4b00e059c1eba56/54722b32e4b0530d0788a290/1576263493039/gifts-that-give-back-for-him.jpg?format=1500w
-wget --tries=2 -O male_gift_2.jpg https://familylivingtoday.com/wp-content/uploads/2017/10/Man-receiving-gifts.jpg
-wget --tries=2 -O male_gift_3.jpg https://nyoobserver.files.wordpress.com/2018/04/img_3258-e1524583607927.jpg?quality=80&w=635&h=438
-wget --tries=2 -O male_gift_4.jpg https://images.squarespace-cdn.com/content/v1/5442b6cce4b0cf00d1a3bef2/1571782708943-K6H7KPS3EF9GWGE1QG7D/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyvXn8XMwMq-aCqUEV8fAVtSaljtELrLyv8fOgO87iUSoS6gU-xB5T__qABPCYgFO0/2019+Gift+Guide+For+Men+%7C+Pact+%7C+Knit+Snap+Down.jpg
-wget --tries=2 -O male_gift_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKkP1rQwbPNe3fRzaHaP-HFI65zh_4GTuxAhFG-iV72AEkx0ibQ&s
-wget --tries=2 -O male_gift_6.jpg https://akns-images.eonline.com/eol_images/Entire_Site/201712/rs_634x1024-170202143138-634.David-Beckham-Valentine.jl.020217.jpg
-wget --tries=2 -O male_gift_7.jpg https://cf.ltkcdn.net/horoscopes/images/std/221689-675x450-gift-for-capricorn-man.jpg
-wget --tries=2 -O male_gift_8.jpg https://media.arkansasonline.com/img/photos/2019/11/08/resized_250588-songhua-mug-1109_91-27642_t800.JPG?90232451fbcadccc64a17de7521d859a8f88077d
-wget --tries=2 -O male_gift_9.jpg https://www.extrapetite.com/wp-content/uploads/2018/12/nori-with-daddy-letters-to-santa-e1544851705671.jpg
+wget --tries=2 --timeout=10 -O male_gift_0.jpg https://media1.s-nbcnews.com/j/newscms/2019_47/1509490/golf-gift-today-main-tease-191119_20c273419b4a2476d5c2af44fc7ca3f7.fit-760w.jpg
+wget --tries=2 --timeout=10 -O male_gift_1.jpg http://static1.squarespace.com/static/5442b6cce4b0cf00d1a3bef2/5461109fe4b00e059c1eba56/54722b32e4b0530d0788a290/1576263493039/gifts-that-give-back-for-him.jpg?format=1500w
+wget --tries=2 --timeout=10 -O male_gift_2.jpg https://familylivingtoday.com/wp-content/uploads/2017/10/Man-receiving-gifts.jpg
+wget --tries=2 --timeout=10 -O male_gift_3.jpg https://nyoobserver.files.wordpress.com/2018/04/img_3258-e1524583607927.jpg?quality=80&w=635&h=438
+wget --tries=2 --timeout=10 -O male_gift_4.jpg https://images.squarespace-cdn.com/content/v1/5442b6cce4b0cf00d1a3bef2/1571782708943-K6H7KPS3EF9GWGE1QG7D/ke17ZwdGBToddI8pDm48kA7e4wRd4ZDldd6PbS9BVI5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyvXn8XMwMq-aCqUEV8fAVtSaljtELrLyv8fOgO87iUSoS6gU-xB5T__qABPCYgFO0/2019+Gift+Guide+For+Men+%7C+Pact+%7C+Knit+Snap+Down.jpg
+wget --tries=2 --timeout=10 -O male_gift_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKkP1rQwbPNe3fRzaHaP-HFI65zh_4GTuxAhFG-iV72AEkx0ibQ&s
+wget --tries=2 --timeout=10 -O male_gift_6.jpg https://akns-images.eonline.com/eol_images/Entire_Site/201712/rs_634x1024-170202143138-634.David-Beckham-Valentine.jl.020217.jpg
+wget --tries=2 --timeout=10 -O male_gift_7.jpg https://cf.ltkcdn.net/horoscopes/images/std/221689-675x450-gift-for-capricorn-man.jpg
+wget --tries=2 --timeout=10 -O male_gift_8.jpg https://media.arkansasonline.com/img/photos/2019/11/08/resized_250588-songhua-mug-1109_91-27642_t800.JPG?90232451fbcadccc64a17de7521d859a8f88077d
+wget --tries=2 --timeout=10 -O male_gift_9.jpg https://www.extrapetite.com/wp-content/uploads/2018/12/nori-with-daddy-letters-to-santa-e1544851705671.jpg
 
-wget --tries=2 -O male_gifts_0.jpg https://debtfreeguys.com/wp-content/uploads/2017/11/Stylish-man-FB-940x492-750x355.jpg
-wget --tries=2 -O male_gifts_1.jpg https://cdn.cliqueinc.com/posts/283761/gifts-for-men-2019-283761-1573677528163-image.700x0c.jpg
-wget --tries=2 -O male_gifts_2.jpg https://imgix.bustle.com/uploads/image/2018/5/15/91da0aad-bde5-41b7-914c-3ecd3cda4835-ball.jpg?w=500&h=365&fit=crop&crop=faces&auto=format&q=70
-wget --tries=2 -O male_gifts_3.jpg https://aleteiaen.files.wordpress.com/2019/12/web3-christmas-man-male-husband-boyfriend-present-shutterstock_765822241.jpg?quality=100&strip=all&w=620&h=310&crop=1
-wget --tries=2 -O male_gifts_4.jpg https://familylivingtoday.com/wp-content/uploads/2017/10/Man-receiving-gifts.jpg
-wget --tries=2 -O male_gifts_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiiOEyyFrqCg9GyxK28hh14CRRjJW-EI1A8XiA_mr4tqd23d4k&s
-wget --tries=2 -O male_gifts_6.jpg http://static1.squarespace.com/static/5442b6cce4b0cf00d1a3bef2/5461109fe4b00e059c1eba56/54722b32e4b0530d0788a290/1576263493039/gifts-that-give-back-for-him.jpg?format=1500w
-wget --tries=2 -O male_gifts_7.jpg http://blog.elfster.com/wp-content/uploads/2017/08/adult-2449725_1920-min.jpg
-wget --tries=2 -O male_gifts_8.jpg https://di735fsgy6skn.cloudfront.net/media/image/g/i/xgiftsforhim.jpg.pagespeed.ic.MiMNvr26wk.jpg
-wget --tries=2 -O male_gifts_9.jpg https://specials-images.forbesimg.com/imageserve/5dbb75acd85e3000078fe363/960x0.jpg?fit=scale
+wget --tries=2 --timeout=10 -O male_gifts_0.jpg https://debtfreeguys.com/wp-content/uploads/2017/11/Stylish-man-FB-940x492-750x355.jpg
+wget --tries=2 --timeout=10 -O male_gifts_1.jpg https://cdn.cliqueinc.com/posts/283761/gifts-for-men-2019-283761-1573677528163-image.700x0c.jpg
+wget --tries=2 --timeout=10 -O male_gifts_2.jpg https://imgix.bustle.com/uploads/image/2018/5/15/91da0aad-bde5-41b7-914c-3ecd3cda4835-ball.jpg?w=500&h=365&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 --timeout=10 -O male_gifts_3.jpg https://aleteiaen.files.wordpress.com/2019/12/web3-christmas-man-male-husband-boyfriend-present-shutterstock_765822241.jpg?quality=100&strip=all&w=620&h=310&crop=1
+wget --tries=2 --timeout=10 -O male_gifts_4.jpg https://familylivingtoday.com/wp-content/uploads/2017/10/Man-receiving-gifts.jpg
+wget --tries=2 --timeout=10 -O male_gifts_5.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiiOEyyFrqCg9GyxK28hh14CRRjJW-EI1A8XiA_mr4tqd23d4k&s
+wget --tries=2 --timeout=10 -O male_gifts_6.jpg http://static1.squarespace.com/static/5442b6cce4b0cf00d1a3bef2/5461109fe4b00e059c1eba56/54722b32e4b0530d0788a290/1576263493039/gifts-that-give-back-for-him.jpg?format=1500w
+wget --tries=2 --timeout=10 -O male_gifts_7.jpg http://blog.elfster.com/wp-content/uploads/2017/08/adult-2449725_1920-min.jpg
+wget --tries=2 --timeout=10 -O male_gifts_8.jpg https://di735fsgy6skn.cloudfront.net/media/image/g/i/xgiftsforhim.jpg.pagespeed.ic.MiMNvr26wk.jpg
+wget --tries=2 --timeout=10 -O male_gifts_9.jpg https://specials-images.forbesimg.com/imageserve/5dbb75acd85e3000078fe363/960x0.jpg?fit=scale
 
-wget --tries=2 -O male_honor_0.jpg https://media-api.xogrp.com/images/63038f62-74cd-4155-b363-8ce107190176~rs_768.h
-wget --tries=2 -O male_honor_1.jpg https://i.pinimg.com/originals/14/1c/52/141c524a21f906fe8f08b1c1d90b6738.jpg
-wget --tries=2 -O male_honor_2.jpg https://cdn0.weddingwire.com/img_g/editorial-images-2019/3-march/kim/r10_2x_bridesman-veri-photography.jpg
-wget --tries=2 -O male_honor_3.jpg https://www.mei.edu/sites/default/files/styles/featured_image_article/public/flickr%2520robysaltori_12.jpg?itok=_9wjwCJC
-wget --tries=2 -O male_honor_4.jpg https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/e/f4/ef4b4d49-efbb-549a-b9ec-8fe226fca116/5d484fb579bb3.image.jpg?crop=1032%2C1032%2C164%2C0&resize=1200%2C1200&order=crop%2Cresize
-wget --tries=2 -O male_honor_5.jpg https://cdn.shopify.com/s/files/1/0032/4691/5657/products/KHF3261-For-Honor-male-MODEL-1200_2000x.jpg?v=1560152233
-wget --tries=2 -O male_honor_6.jpg https://thenypost.files.wordpress.com/2016/10/161003-honor-killing-sister-feature.jpg?quality=80&strip=all
-wget --tries=2 -O male_honor_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrbKKYvjjTr5u3nBNEFqHROyZL8uwqD5NfjhGm9sFc7qHLv3r0&s
-wget --tries=2 -O male_honor_8.jpg https://scstylecaster.files.wordpress.com/2016/09/zayn.png?w=712&h=400&crop=1
-wget --tries=2 -O male_honor_9.jpg https://cdn.shopify.com/s/files/1/1087/9796/products/mens_redtee_side_2000x.jpg?v=1578437634
+wget --tries=2 --timeout=10 -O male_honor_0.jpg https://media-api.xogrp.com/images/63038f62-74cd-4155-b363-8ce107190176~rs_768.h
+wget --tries=2 --timeout=10 -O male_honor_1.jpg https://i.pinimg.com/originals/14/1c/52/141c524a21f906fe8f08b1c1d90b6738.jpg
+wget --tries=2 --timeout=10 -O male_honor_2.jpg https://cdn0.weddingwire.com/img_g/editorial-images-2019/3-march/kim/r10_2x_bridesman-veri-photography.jpg
+wget --tries=2 --timeout=10 -O male_honor_3.jpg https://www.mei.edu/sites/default/files/styles/featured_image_article/public/flickr%2520robysaltori_12.jpg?itok=_9wjwCJC
+wget --tries=2 --timeout=10 -O male_honor_4.jpg https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/e/f4/ef4b4d49-efbb-549a-b9ec-8fe226fca116/5d484fb579bb3.image.jpg?crop=1032%2C1032%2C164%2C0&resize=1200%2C1200&order=crop%2Cresize
+wget --tries=2 --timeout=10 -O male_honor_5.jpg https://cdn.shopify.com/s/files/1/0032/4691/5657/products/KHF3261-For-Honor-male-MODEL-1200_2000x.jpg?v=1560152233
+wget --tries=2 --timeout=10 -O male_honor_6.jpg https://thenypost.files.wordpress.com/2016/10/161003-honor-killing-sister-feature.jpg?quality=80&strip=all
+wget --tries=2 --timeout=10 -O male_honor_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrbKKYvjjTr5u3nBNEFqHROyZL8uwqD5NfjhGm9sFc7qHLv3r0&s
+wget --tries=2 --timeout=10 -O male_honor_8.jpg https://scstylecaster.files.wordpress.com/2016/09/zayn.png?w=712&h=400&crop=1
+wget --tries=2 --timeout=10 -O male_honor_9.jpg https://cdn.shopify.com/s/files/1/1087/9796/products/mens_redtee_side_2000x.jpg?v=1578437634
 
-wget --tries=2 -O male_honors_0.jpg http://honors.auburn.edu/wp-content/uploads/2017/10/MedalWinners_3guysOP-1140x440.jpg
-wget --tries=2 -O male_honors_1.jpg https://myclarionnews.files.wordpress.com/2019/05/brown.jpg
-wget --tries=2 -O male_honors_2.jpg https://newyorkschooltalk.org/wp-content/uploads/2018/01/unnamed-1-982x1746.jpg
-wget --tries=2 -O male_honors_3.jpg https://www.westsidefuturefund.org/wp-content/uploads/2018/09/100Honors-0432-1024x697.jpg
-wget --tries=2 -O male_honors_4.jpg https://img.srgcdn.com/e//QXE3NjZhcmJMUHk3Q1FGYlg0cmkuanBn.jpg
-wget --tries=2 -O male_honors_5.jpg https://www.benedict.edu/wp-content/uploads/2019/08/hbcuofyear.jpg
-wget --tries=2 -O male_honors_6.jpg http://elmnt13.com/wp-content/uploads/2018/06/Screen-Shot-2018-11-27-at-1.59.19-PM.png
-wget --tries=2 -O male_honors_7.jpg https://news.morgan.edu/wp-content/uploads/Ad3.jpg
-wget --tries=2 -O male_honors_8.jpg https://images.squarespace-cdn.com/content/v1/5a92edf75417fcf4daf0040e/1570467994605-O2WXTU43IWX77LMU4RW2/ke17ZwdGBToddI8pDm48kJ9tCWZfZ59IBBwzpN6u4Vh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UXVvPGC71WNlOhGjfTD6B-aDS26eOn7DcQGMG76K4qVWWZXVa6t3lOB28ooYNrPaSQ/honors2019-177.jpg
-wget --tries=2 -O male_honors_9.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2018/12/hamilton.jpg
+wget --tries=2 --timeout=10 -O male_honors_0.jpg http://honors.auburn.edu/wp-content/uploads/2017/10/MedalWinners_3guysOP-1140x440.jpg
+wget --tries=2 --timeout=10 -O male_honors_1.jpg https://myclarionnews.files.wordpress.com/2019/05/brown.jpg
+wget --tries=2 --timeout=10 -O male_honors_2.jpg https://newyorkschooltalk.org/wp-content/uploads/2018/01/unnamed-1-982x1746.jpg
+wget --tries=2 --timeout=10 -O male_honors_3.jpg https://www.westsidefuturefund.org/wp-content/uploads/2018/09/100Honors-0432-1024x697.jpg
+wget --tries=2 --timeout=10 -O male_honors_4.jpg https://img.srgcdn.com/e//QXE3NjZhcmJMUHk3Q1FGYlg0cmkuanBn.jpg
+wget --tries=2 --timeout=10 -O male_honors_5.jpg https://www.benedict.edu/wp-content/uploads/2019/08/hbcuofyear.jpg
+wget --tries=2 --timeout=10 -O male_honors_6.jpg http://elmnt13.com/wp-content/uploads/2018/06/Screen-Shot-2018-11-27-at-1.59.19-PM.png
+wget --tries=2 --timeout=10 -O male_honors_7.jpg https://news.morgan.edu/wp-content/uploads/Ad3.jpg
+wget --tries=2 --timeout=10 -O male_honors_8.jpg https://images.squarespace-cdn.com/content/v1/5a92edf75417fcf4daf0040e/1570467994605-O2WXTU43IWX77LMU4RW2/ke17ZwdGBToddI8pDm48kJ9tCWZfZ59IBBwzpN6u4Vh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UXVvPGC71WNlOhGjfTD6B-aDS26eOn7DcQGMG76K4qVWWZXVa6t3lOB28ooYNrPaSQ/honors2019-177.jpg
+wget --tries=2 --timeout=10 -O male_honors_9.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2018/12/hamilton.jpg
 
-wget --tries=2 -O male_miracle_0.jpg https://image.tmdb.org/t/p/w500_and_h282_face/pg1SfbmNVbNk64qrFwWPFulSCsk.jpg
-wget --tries=2 -O male_miracle_1.jpg https://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2017/09/miracle-man-featured.jpg?resize=1000%2C700
-wget --tries=2 -O male_miracle_2.jpg https://i.ytimg.com/vi/_eiut_qUNBI/hqdefault.jpg
-wget --tries=2 -O male_miracle_3.jpg https://i.ytimg.com/vi/XfQDU3Lphrs/maxresdefault.jpg
-wget --tries=2 -O male_miracle_4.jpg https://m.media-amazon.com/images/M/MV5BOTc0NzI3MTMtMDI0ZC00MDA4LWE4MjAtNGUzNmE0ZDg3YTcwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg
-wget --tries=2 -O male_miracle_5.jpg https://latintrends.com/wp-content/uploads/2017/11/danny.jpg
-wget --tries=2 -O male_miracle_6.jpg https://cdnph.upi.com/ph/st/th/1301575388764/2019/i/15753901225716/v1.5/Messiah-Michelle-Monaghan-investigates-miracle-man-in-first-trailer.jpg
-wget --tries=2 -O male_miracle_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhw405oIKUjwAY7EOb8_buBHSsyA_CXm68Xf-uD-SvyFxz03N&s
-wget --tries=2 -O male_miracle_8.jpg https://stmedia.stimg.co/ows_154369595716187.jpg?fit=crop&crop=faces
-wget --tries=2 -O male_miracle_9.jpg https://www.fite.tv/thumbs/s3/ims-thumbs/fighters_images/DAZN/Daniel_Jacobs/Daniel_Jacobs.jpg
+wget --tries=2 --timeout=10 -O male_miracle_0.jpg https://image.tmdb.org/t/p/w500_and_h282_face/pg1SfbmNVbNk64qrFwWPFulSCsk.jpg
+wget --tries=2 --timeout=10 -O male_miracle_1.jpg https://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2017/09/miracle-man-featured.jpg?resize=1000%2C700
+wget --tries=2 --timeout=10 -O male_miracle_2.jpg https://i.ytimg.com/vi/_eiut_qUNBI/hqdefault.jpg
+wget --tries=2 --timeout=10 -O male_miracle_3.jpg https://i.ytimg.com/vi/XfQDU3Lphrs/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_miracle_4.jpg https://m.media-amazon.com/images/M/MV5BOTc0NzI3MTMtMDI0ZC00MDA4LWE4MjAtNGUzNmE0ZDg3YTcwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg
+wget --tries=2 --timeout=10 -O male_miracle_5.jpg https://latintrends.com/wp-content/uploads/2017/11/danny.jpg
+wget --tries=2 --timeout=10 -O male_miracle_6.jpg https://cdnph.upi.com/ph/st/th/1301575388764/2019/i/15753901225716/v1.5/Messiah-Michelle-Monaghan-investigates-miracle-man-in-first-trailer.jpg
+wget --tries=2 --timeout=10 -O male_miracle_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhw405oIKUjwAY7EOb8_buBHSsyA_CXm68Xf-uD-SvyFxz03N&s
+wget --tries=2 --timeout=10 -O male_miracle_8.jpg https://stmedia.stimg.co/ows_154369595716187.jpg?fit=crop&crop=faces
+wget --tries=2 --timeout=10 -O male_miracle_9.jpg https://www.fite.tv/thumbs/s3/ims-thumbs/fighters_images/DAZN/Daniel_Jacobs/Daniel_Jacobs.jpg
 
-wget --tries=2 -O male_miracles_0.jpg https://knowhy.bookofmormoncentral.org/sites/default/files/knowhy-img/2019/03/main/jesus-healing-blind-man.jpg
-wget --tries=2 -O male_miracles_1.jpg https://i0.wp.com/www.ospreyobserver.com/wp-content/uploads/2019/12/USE-Deaf-Mute-2.jpg?fit=720%2C477&ssl=1
-wget --tries=2 -O male_miracles_2.jpg http://cdn.shopify.com/s/files/1/0058/9568/4167/products/mockup-of-an-edgy-bearded-senior-showing-off-his-t-shirt-23379_1.png?v=1571712066
-wget --tries=2 -O male_miracles_3.jpg https://nashvillerescuemission.org/wp-content/uploads/2017/09/Blog.jpg
-wget --tries=2 -O male_miracles_4.jpg https://cdn.shopify.com/s/files/1/0272/8477/products/5001-KU020-5-3_2048x2048.progressive.jpg?v=1567657083
-wget --tries=2 -O male_miracles_5.jpg https://themasterteacher.tv/images/TheMasterTeacher.jpg
-wget --tries=2 -O male_miracles_6.jpg https://images.squarespace-cdn.com/content/v1/5893282be3df28b75670cea2/1551710101268-RTKO3JBHBS0N35IAHTT1/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/kyle_light-rays_1+%281%29.jpg
-wget --tries=2 -O male_miracles_7.jpg https://static01.nyt.com/images/2015/02/07/arts/miracles/miracles-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O male_miracles_8.jpg https://cdn.shopify.com/s/files/1/0272/8477/products/5001-KU020-5-2_2048x2048.progressive.jpg?v=1567657083
-wget --tries=2 -O male_miracles_9.jpg https://www.guideposts.org/sites/guideposts.org/files/styles/bynder_webimage/public/story/hoffman_marquee_0.jpg
+wget --tries=2 --timeout=10 -O male_miracles_0.jpg https://knowhy.bookofmormoncentral.org/sites/default/files/knowhy-img/2019/03/main/jesus-healing-blind-man.jpg
+wget --tries=2 --timeout=10 -O male_miracles_1.jpg https://i0.wp.com/www.ospreyobserver.com/wp-content/uploads/2019/12/USE-Deaf-Mute-2.jpg?fit=720%2C477&ssl=1
+wget --tries=2 --timeout=10 -O male_miracles_2.jpg http://cdn.shopify.com/s/files/1/0058/9568/4167/products/mockup-of-an-edgy-bearded-senior-showing-off-his-t-shirt-23379_1.png?v=1571712066
+wget --tries=2 --timeout=10 -O male_miracles_3.jpg https://nashvillerescuemission.org/wp-content/uploads/2017/09/Blog.jpg
+wget --tries=2 --timeout=10 -O male_miracles_4.jpg https://cdn.shopify.com/s/files/1/0272/8477/products/5001-KU020-5-3_2048x2048.progressive.jpg?v=1567657083
+wget --tries=2 --timeout=10 -O male_miracles_5.jpg https://themasterteacher.tv/images/TheMasterTeacher.jpg
+wget --tries=2 --timeout=10 -O male_miracles_6.jpg https://images.squarespace-cdn.com/content/v1/5893282be3df28b75670cea2/1551710101268-RTKO3JBHBS0N35IAHTT1/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/kyle_light-rays_1+%281%29.jpg
+wget --tries=2 --timeout=10 -O male_miracles_7.jpg https://static01.nyt.com/images/2015/02/07/arts/miracles/miracles-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O male_miracles_8.jpg https://cdn.shopify.com/s/files/1/0272/8477/products/5001-KU020-5-2_2048x2048.progressive.jpg?v=1567657083
+wget --tries=2 --timeout=10 -O male_miracles_9.jpg https://www.guideposts.org/sites/guideposts.org/files/styles/bynder_webimage/public/story/hoffman_marquee_0.jpg
 
-wget --tries=2 -O male_sunrise_0.jpg https://image1.masterfile.com/getImage/NjQ5LTA2NDg4NTkwZW4uMDAwMDAwMDA=AP-VoV/649-06488590en_Masterfile.jpg
-wget --tries=2 -O male_sunrise_1.jpg https://st4.depositphotos.com/1277251/22562/i/1600/depositphotos_225628214-stock-photo-male-hands-open-palm-praying.jpg
-wget --tries=2 -O male_sunrise_2.jpg https://ak3.picdn.net/shutterstock/videos/10372463/thumb/1.jpg
-wget --tries=2 -O male_sunrise_3.jpg https://jooinn.com/images/sunrise-at-beach-with-boy.jpg
-wget --tries=2 -O male_sunrise_4.jpg https://st2.depositphotos.com/3396639/5658/i/950/depositphotos_56582667-stock-photo-silhouette-of-athletic-runner-jogging.jpg
-wget --tries=2 -O male_sunrise_5.jpg https://c8.alamy.com/comp/P59WA1/male-trail-runner-in-mid-air-on-mountain-summit-at-sunrise-P59WA1.jpg
-wget --tries=2 -O male_sunrise_6.jpg https://ak6.picdn.net/shutterstock/videos/2176346/thumb/1.jpg
-wget --tries=2 -O male_sunrise_7.jpg https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1441131232000/photosp/69dccd4b-cb55-4daf-9e0c-e227bdc21f25/stock-photo-nature-travel-people-silhouette-sunset-adventure-male-mountain-landscape-69dccd4b-cb55-4daf-9e0c-e227bdc21f25.jpg
-wget --tries=2 -O male_sunrise_8.jpg https://c8.alamy.com/comp/W35DJ0/yoga-man-training-and-meditating-in-warrior-pose-outside-by-beach-at-sunrise-or-sunset-male-yoga-instructor-working-out-training-in-serene-ocean-landscape-silhouette-of-man-model-against-sun-W35DJ0.jpg
-wget --tries=2 -O male_sunrise_9.jpg https://i.pinimg.com/originals/78/62/f2/7862f2d899058d331f8400eccc358a2b.jpg
+wget --tries=2 --timeout=10 -O male_sunrise_0.jpg https://image1.masterfile.com/getImage/NjQ5LTA2NDg4NTkwZW4uMDAwMDAwMDA=AP-VoV/649-06488590en_Masterfile.jpg
+wget --tries=2 --timeout=10 -O male_sunrise_1.jpg https://st4.depositphotos.com/1277251/22562/i/1600/depositphotos_225628214-stock-photo-male-hands-open-palm-praying.jpg
+wget --tries=2 --timeout=10 -O male_sunrise_2.jpg https://ak3.picdn.net/shutterstock/videos/10372463/thumb/1.jpg
+wget --tries=2 --timeout=10 -O male_sunrise_3.jpg https://jooinn.com/images/sunrise-at-beach-with-boy.jpg
+wget --tries=2 --timeout=10 -O male_sunrise_4.jpg https://st2.depositphotos.com/3396639/5658/i/950/depositphotos_56582667-stock-photo-silhouette-of-athletic-runner-jogging.jpg
+wget --tries=2 --timeout=10 -O male_sunrise_5.jpg https://c8.alamy.com/comp/P59WA1/male-trail-runner-in-mid-air-on-mountain-summit-at-sunrise-P59WA1.jpg
+wget --tries=2 --timeout=10 -O male_sunrise_6.jpg https://ak6.picdn.net/shutterstock/videos/2176346/thumb/1.jpg
+wget --tries=2 --timeout=10 -O male_sunrise_7.jpg https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1441131232000/photosp/69dccd4b-cb55-4daf-9e0c-e227bdc21f25/stock-photo-nature-travel-people-silhouette-sunset-adventure-male-mountain-landscape-69dccd4b-cb55-4daf-9e0c-e227bdc21f25.jpg
+wget --tries=2 --timeout=10 -O male_sunrise_8.jpg https://c8.alamy.com/comp/W35DJ0/yoga-man-training-and-meditating-in-warrior-pose-outside-by-beach-at-sunrise-or-sunset-male-yoga-instructor-working-out-training-in-serene-ocean-landscape-silhouette-of-man-model-against-sun-W35DJ0.jpg
+wget --tries=2 --timeout=10 -O male_sunrise_9.jpg https://i.pinimg.com/originals/78/62/f2/7862f2d899058d331f8400eccc358a2b.jpg
 
-wget --tries=2 -O male_sunrises_0.jpg https://image.shutterstock.com/image-photo/man-watching-sunset-beach-260nw-356151539.jpg
-wget --tries=2 -O male_sunrises_1.jpg https://image.shutterstock.com/image-photo/man-sitting-on-rock-watching-260nw-1097393525.jpg
-wget --tries=2 -O male_sunrises_2.jpg https://thumbs.dreamstime.com/z/man-sunrise-young-looking-60206603.jpg
-wget --tries=2 -O male_sunrises_3.jpg https://i.pinimg.com/originals/01/44/75/01447504aaae5c4c5e3276d7e09088fb.jpg
-wget --tries=2 -O male_sunrises_4.jpg https://i.pinimg.com/originals/78/62/f2/7862f2d899058d331f8400eccc358a2b.jpg
-wget --tries=2 -O male_sunrises_5.jpg https://image.shutterstock.com/image-photo/hiker-black-stand-on-peak-260nw-288434039.jpg
-wget --tries=2 -O male_sunrises_6.jpg https://thumbs.dreamstime.com/z/silhouette-man-sitting-watching-sunrise-119739384.jpg
-wget --tries=2 -O male_sunrises_7.jpg https://images.pexels.com/photos/915972/pexels-photo-915972.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
-wget --tries=2 -O male_sunrises_8.jpg https://c4.wallpaperflare.com/wallpaper/321/762/541/man-person-silhouette-sky-wallpaper-preview.jpg
-wget --tries=2 -O male_sunrises_9.jpg https://images.megapixl.com/2917/29170756.jpg
+wget --tries=2 --timeout=10 -O male_sunrises_0.jpg https://image.shutterstock.com/image-photo/man-watching-sunset-beach-260nw-356151539.jpg
+wget --tries=2 --timeout=10 -O male_sunrises_1.jpg https://image.shutterstock.com/image-photo/man-sitting-on-rock-watching-260nw-1097393525.jpg
+wget --tries=2 --timeout=10 -O male_sunrises_2.jpg https://thumbs.dreamstime.com/z/man-sunrise-young-looking-60206603.jpg
+wget --tries=2 --timeout=10 -O male_sunrises_3.jpg https://i.pinimg.com/originals/01/44/75/01447504aaae5c4c5e3276d7e09088fb.jpg
+wget --tries=2 --timeout=10 -O male_sunrises_4.jpg https://i.pinimg.com/originals/78/62/f2/7862f2d899058d331f8400eccc358a2b.jpg
+wget --tries=2 --timeout=10 -O male_sunrises_5.jpg https://image.shutterstock.com/image-photo/hiker-black-stand-on-peak-260nw-288434039.jpg
+wget --tries=2 --timeout=10 -O male_sunrises_6.jpg https://thumbs.dreamstime.com/z/silhouette-man-sitting-watching-sunrise-119739384.jpg
+wget --tries=2 --timeout=10 -O male_sunrises_7.jpg https://images.pexels.com/photos/915972/pexels-photo-915972.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+wget --tries=2 --timeout=10 -O male_sunrises_8.jpg https://c4.wallpaperflare.com/wallpaper/321/762/541/man-person-silhouette-sky-wallpaper-preview.jpg
+wget --tries=2 --timeout=10 -O male_sunrises_9.jpg https://images.megapixl.com/2917/29170756.jpg
 
-wget --tries=2 -O male_family_0.jpg http://www.pamfblog.org/files/2013/06/family-multiplegens-male.jpg
-wget --tries=2 -O male_family_1.jpg https://www.cdc.gov/features/images/genomics/heartdisease_456px.jpg
-wget --tries=2 -O male_family_2.jpg https://cdn.theatlantic.com/assets/media/img/mt/2018/10/SD6rk/lead_720_405.jpg?mod=1539983150
-wget --tries=2 -O male_family_3.jpg https://resources.stuff.co.nz/content/dam/images/1/a/4/c/v/x/image.related.StuffLandscapeSixteenByNine.710x400.1a464n.png/1456882888235.jpg
-wget --tries=2 -O male_family_4.jpg https://www.livingwell.org.au/wp-content/uploads/2012/11/for-men-and-supporters.jpg
-wget --tries=2 -O male_family_5.jpg https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/CC_FamilyLife-1280.jpg?itok=fFzxpnN5
-wget --tries=2 -O male_family_6.jpg https://sweden.se/wp-content/uploads/2013/10/family-friendly.jpg
-wget --tries=2 -O male_family_7.jpg http://im.rediff.com/movies/2019/sep/20the-family-man1.jpg
-wget --tries=2 -O male_family_8.jpg https://thumbs.dreamstime.com/z/father-grandfather-portrait-happy-senior-man-smiling-cute-son-healthcare-family-lifestyle-meadow-summer-168323433.jpg
-wget --tries=2 -O male_family_9.jpg https://images.squarespace-cdn.com/content/v1/530bb123e4b04fc9b23b36ab/1456800699706-D5747TNIJY9LNLC7PJW9/ke17ZwdGBToddI8pDm48kFWxnDtCdRm2WA9rXcwtIYR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcTSrQkGwCGRqSxozz07hWZrYGYYH8sg4qn8Lpf9k1pYMHPsat2_S1jaQY3SwdyaXg/Samoan+Family+Portrait+Auckland003.jpg
+wget --tries=2 --timeout=10 -O male_family_0.jpg http://www.pamfblog.org/files/2013/06/family-multiplegens-male.jpg
+wget --tries=2 --timeout=10 -O male_family_1.jpg https://www.cdc.gov/features/images/genomics/heartdisease_456px.jpg
+wget --tries=2 --timeout=10 -O male_family_2.jpg https://cdn.theatlantic.com/assets/media/img/mt/2018/10/SD6rk/lead_720_405.jpg?mod=1539983150
+wget --tries=2 --timeout=10 -O male_family_3.jpg https://resources.stuff.co.nz/content/dam/images/1/a/4/c/v/x/image.related.StuffLandscapeSixteenByNine.710x400.1a464n.png/1456882888235.jpg
+wget --tries=2 --timeout=10 -O male_family_4.jpg https://www.livingwell.org.au/wp-content/uploads/2012/11/for-men-and-supporters.jpg
+wget --tries=2 --timeout=10 -O male_family_5.jpg https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/CC_FamilyLife-1280.jpg?itok=fFzxpnN5
+wget --tries=2 --timeout=10 -O male_family_6.jpg https://sweden.se/wp-content/uploads/2013/10/family-friendly.jpg
+wget --tries=2 --timeout=10 -O male_family_7.jpg http://im.rediff.com/movies/2019/sep/20the-family-man1.jpg
+wget --tries=2 --timeout=10 -O male_family_8.jpg https://thumbs.dreamstime.com/z/father-grandfather-portrait-happy-senior-man-smiling-cute-son-healthcare-family-lifestyle-meadow-summer-168323433.jpg
+wget --tries=2 --timeout=10 -O male_family_9.jpg https://images.squarespace-cdn.com/content/v1/530bb123e4b04fc9b23b36ab/1456800699706-D5747TNIJY9LNLC7PJW9/ke17ZwdGBToddI8pDm48kFWxnDtCdRm2WA9rXcwtIYR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcTSrQkGwCGRqSxozz07hWZrYGYYH8sg4qn8Lpf9k1pYMHPsat2_S1jaQY3SwdyaXg/Samoan+Family+Portrait+Auckland003.jpg
 
-wget --tries=2 -O male_families_0.jpg https://images.theconversation.com/files/169154/original/file-20170512-3692-iw7smd.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C4984%2C2421&q=45&auto=format&w=1356&h=668&fit=crop
-wget --tries=2 -O male_families_1.jpg https://www.adl.org/sites/default/files/styles/cropped_img_md/public/2018-10/men-with-sleepy-child-istock000029729888-landscape.jpg?h=df2e1fcd&itok=Q5rKDdge
-wget --tries=2 -O male_families_2.jpg https://militaryfamilieslearningnetwork.org/wp-content/uploads/2015/09/children-of-gay-Flickr-padres-e-hijos-by-Mike-Slichenmyer-June-30-2007-CC-BY-ND-2.0.jpg
-wget --tries=2 -O male_families_3.jpg https://i2-prod.mirror.co.uk/incoming/article7865499.ece/ALTERNATES/s615/TWO-MEN-HOLDING-BABIES-GAY-PARENTING.jpg
-wget --tries=2 -O male_families_4.jpg https://www.gaystarnews.com/wp-content/uploads/2018/12/thevonbks_instagram_xmas.jpg
-wget --tries=2 -O male_families_5.jpg https://parents.au.reachout.com/-/media/parents/images/topic-images/blended-families/understand-page-image.jpg?w=241&hash=7D028A3B2D9F2AF2472D17C1513B64B928EAA7AA
-wget --tries=2 -O male_families_6.jpg https://www.boystown.org/locations/south-florida/behavioral-health-clinic/PublishingImages/Pages/default/Family2-BHBanner.jpg
-wget --tries=2 -O male_families_7.jpg https://www.thetrumpet.com/files/W1siZiIsIjIwMTgvMDMvMTUvNXZ4aWF3bjFjM18xODAzMTVfU3RheV9hdF9ob21lX2RhZF9pU3RvY2tfNDczNDI5ODc2LmpwZyJdLFsicCIsInRodW1iIiwiMjA0OHgyMDQ4PiJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl1d/c7112e2e2a9135fa/180315-Stay%20at%20home%20dad-iStock-473429876.jpg.jpg
-wget --tries=2 -O male_families_8.jpg https://nashvillefertilitycare.com/_theme/fertility/images/fertility-for-gay-couple.png
-wget --tries=2 -O male_families_9.jpg https://www.telegraph.co.uk/content/dam/men/2015/11/05/harry-wallop-children_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=450
+wget --tries=2 --timeout=10 -O male_families_0.jpg https://images.theconversation.com/files/169154/original/file-20170512-3692-iw7smd.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C4984%2C2421&q=45&auto=format&w=1356&h=668&fit=crop
+wget --tries=2 --timeout=10 -O male_families_1.jpg https://www.adl.org/sites/default/files/styles/cropped_img_md/public/2018-10/men-with-sleepy-child-istock000029729888-landscape.jpg?h=df2e1fcd&itok=Q5rKDdge
+wget --tries=2 --timeout=10 -O male_families_2.jpg https://militaryfamilieslearningnetwork.org/wp-content/uploads/2015/09/children-of-gay-Flickr-padres-e-hijos-by-Mike-Slichenmyer-June-30-2007-CC-BY-ND-2.0.jpg
+wget --tries=2 --timeout=10 -O male_families_3.jpg https://i2-prod.mirror.co.uk/incoming/article7865499.ece/ALTERNATES/s615/TWO-MEN-HOLDING-BABIES-GAY-PARENTING.jpg
+wget --tries=2 --timeout=10 -O male_families_4.jpg https://www.gaystarnews.com/wp-content/uploads/2018/12/thevonbks_instagram_xmas.jpg
+wget --tries=2 --timeout=10 -O male_families_5.jpg https://parents.au.reachout.com/-/media/parents/images/topic-images/blended-families/understand-page-image.jpg?w=241&hash=7D028A3B2D9F2AF2472D17C1513B64B928EAA7AA
+wget --tries=2 --timeout=10 -O male_families_6.jpg https://www.boystown.org/locations/south-florida/behavioral-health-clinic/PublishingImages/Pages/default/Family2-BHBanner.jpg
+wget --tries=2 --timeout=10 -O male_families_7.jpg https://www.thetrumpet.com/files/W1siZiIsIjIwMTgvMDMvMTUvNXZ4aWF3bjFjM18xODAzMTVfU3RheV9hdF9ob21lX2RhZF9pU3RvY2tfNDczNDI5ODc2LmpwZyJdLFsicCIsInRodW1iIiwiMjA0OHgyMDQ4PiJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl1d/c7112e2e2a9135fa/180315-Stay%20at%20home%20dad-iStock-473429876.jpg.jpg
+wget --tries=2 --timeout=10 -O male_families_8.jpg https://nashvillefertilitycare.com/_theme/fertility/images/fertility-for-gay-couple.png
+wget --tries=2 --timeout=10 -O male_families_9.jpg https://www.telegraph.co.uk/content/dam/men/2015/11/05/harry-wallop-children_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=450
 
-wget --tries=2 -O male_happy_0.jpg https://image.shutterstock.com/image-photo/portrait-young-handsome-man-smiling-260nw-213159280.jpg
-wget --tries=2 -O male_happy_1.jpg https://image.shutterstock.com/image-photo/portrait-sexy-smiling-male-model-260nw-439389172.jpg
-wget --tries=2 -O male_happy_2.jpg https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
-wget --tries=2 -O male_happy_3.jpg https://media.istockphoto.com/photos/happy-laughing-man-picture-id544358212?k=6&m=544358212&s=612x612&w=0&h=odURMNz2hty8LIfpVahaaUKpGU4vd-UlZx4jy-OAnJA=
-wget --tries=2 -O male_happy_4.jpg https://thumbs.dreamstime.com/z/happy-male-student-study-books-show-thumb-up-12614646.jpg
-wget --tries=2 -O male_happy_5.jpg https://img.freepik.com/free-photo/portrait-happy-man-using-digital-tablet_107420-20998.jpg?size=626&ext=jpg
-wget --tries=2 -O male_happy_6.jpg https://www.eatright.org/-/media/eatrightimages/health/wellness/healthyaging/healthy-eating-for-men-489774615.jpg
-wget --tries=2 -O male_happy_7.jpg https://image.freepik.com/free-photo/happy-student-showing-index-finger_1149-178.jpg
-wget --tries=2 -O male_happy_8.jpg https://images-prod.healthline.com/hlcmsresource/images/imce/mens-health-symptoms_thumb.jpg
-wget --tries=2 -O male_happy_9.jpg https://us.movember.com/uploads/images/Homepage/Improve-quality-life_mo-landing-page.jpg
+wget --tries=2 --timeout=10 -O male_happy_0.jpg https://image.shutterstock.com/image-photo/portrait-young-handsome-man-smiling-260nw-213159280.jpg
+wget --tries=2 --timeout=10 -O male_happy_1.jpg https://image.shutterstock.com/image-photo/portrait-sexy-smiling-male-model-260nw-439389172.jpg
+wget --tries=2 --timeout=10 -O male_happy_2.jpg https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+wget --tries=2 --timeout=10 -O male_happy_3.jpg https://media.istockphoto.com/photos/happy-laughing-man-picture-id544358212?k=6&m=544358212&s=612x612&w=0&h=odURMNz2hty8LIfpVahaaUKpGU4vd-UlZx4jy-OAnJA=
+wget --tries=2 --timeout=10 -O male_happy_4.jpg https://thumbs.dreamstime.com/z/happy-male-student-study-books-show-thumb-up-12614646.jpg
+wget --tries=2 --timeout=10 -O male_happy_5.jpg https://img.freepik.com/free-photo/portrait-happy-man-using-digital-tablet_107420-20998.jpg?size=626&ext=jpg
+wget --tries=2 --timeout=10 -O male_happy_6.jpg https://www.eatright.org/-/media/eatrightimages/health/wellness/healthyaging/healthy-eating-for-men-489774615.jpg
+wget --tries=2 --timeout=10 -O male_happy_7.jpg https://image.freepik.com/free-photo/happy-student-showing-index-finger_1149-178.jpg
+wget --tries=2 --timeout=10 -O male_happy_8.jpg https://images-prod.healthline.com/hlcmsresource/images/imce/mens-health-symptoms_thumb.jpg
+wget --tries=2 --timeout=10 -O male_happy_9.jpg https://us.movember.com/uploads/images/Homepage/Improve-quality-life_mo-landing-page.jpg
 
-wget --tries=2 -O male_laughter_0.jpg https://previews.123rf.com/images/furtaev/furtaev1511/furtaev151100030/47916898-laughing-out-loud-young-man-face-closeup-laughter-concept.jpg
-wget --tries=2 -O male_laughter_1.jpg https://thumbs.dreamstime.com/z/laughing-man-mixed-race-male-hysterically-32711748.jpg
-wget --tries=2 -O male_laughter_2.jpg https://c8.alamy.com/comp/AEH1F9/expressions-man-male-young-adult-20-25-laugh-laughter-laughing-happy-AEH1F9.jpg
-wget --tries=2 -O male_laughter_3.jpg https://exploringthebusinessbrain.com/wp-content/uploads/2019/02/laughing-man_4460x4460.jpg
-wget --tries=2 -O male_laughter_4.jpg https://st2.depositphotos.com/1010146/9831/i/950/depositphotos_98319240-stock-photo-laughing-man-closeup.jpg
-wget --tries=2 -O male_laughter_5.jpg https://s.abcnews.com/images/Health/GTY_elderly_man_laughing_jt_140419_16x9_992.jpg
-wget --tries=2 -O male_laughter_6.jpg https://c8.alamy.com/comp/X04DJ4/teeth-male-masculine-hygiene-young-younger-dental-floss-man-jagged-guy-laugh-laughs-laughing-twit-giggle-smile-smiling-laughter-X04DJ4.jpg
-wget --tries=2 -O male_laughter_7.jpg https://image.shutterstock.com/image-photo/positive-joyful-afro-american-male-260nw-657723307.jpg
-wget --tries=2 -O male_laughter_8.jpg http://www.soulandspiritmagazine.com/wp-content/uploads/2014/12/Laughing-man.jpg
-wget --tries=2 -O male_laughter_9.jpg https://comps.canstockphoto.com/laughing-guy-stock-photo_csp31824549.jpg
+wget --tries=2 --timeout=10 -O male_laughter_0.jpg https://previews.123rf.com/images/furtaev/furtaev1511/furtaev151100030/47916898-laughing-out-loud-young-man-face-closeup-laughter-concept.jpg
+wget --tries=2 --timeout=10 -O male_laughter_1.jpg https://thumbs.dreamstime.com/z/laughing-man-mixed-race-male-hysterically-32711748.jpg
+wget --tries=2 --timeout=10 -O male_laughter_2.jpg https://c8.alamy.com/comp/AEH1F9/expressions-man-male-young-adult-20-25-laugh-laughter-laughing-happy-AEH1F9.jpg
+wget --tries=2 --timeout=10 -O male_laughter_3.jpg https://exploringthebusinessbrain.com/wp-content/uploads/2019/02/laughing-man_4460x4460.jpg
+wget --tries=2 --timeout=10 -O male_laughter_4.jpg https://st2.depositphotos.com/1010146/9831/i/950/depositphotos_98319240-stock-photo-laughing-man-closeup.jpg
+wget --tries=2 --timeout=10 -O male_laughter_5.jpg https://s.abcnews.com/images/Health/GTY_elderly_man_laughing_jt_140419_16x9_992.jpg
+wget --tries=2 --timeout=10 -O male_laughter_6.jpg https://c8.alamy.com/comp/X04DJ4/teeth-male-masculine-hygiene-young-younger-dental-floss-man-jagged-guy-laugh-laughs-laughing-twit-giggle-smile-smiling-laughter-X04DJ4.jpg
+wget --tries=2 --timeout=10 -O male_laughter_7.jpg https://image.shutterstock.com/image-photo/positive-joyful-afro-american-male-260nw-657723307.jpg
+wget --tries=2 --timeout=10 -O male_laughter_8.jpg http://www.soulandspiritmagazine.com/wp-content/uploads/2014/12/Laughing-man.jpg
+wget --tries=2 --timeout=10 -O male_laughter_9.jpg https://comps.canstockphoto.com/laughing-guy-stock-photo_csp31824549.jpg
 
-wget --tries=2 -O male_paradise_0.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi63cjl04BR4P8uG_kLgLflMSiw2_d0Sb9GXsCC__rG5sFDS_j6A&s
-wget --tries=2 -O male_paradise_1.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGouGpvo2x9_9ksRfM4ICACa2Kv7DSt5vGlNX1Vm6oGaraotY&s
-wget --tries=2 -O male_paradise_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5oj48BVSABc1fBd_DZyxFVz7KFgRqTvOKpD5fmF7_ZyGIcekCFA&s
-wget --tries=2 -O male_paradise_3.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomYc2Em1yDlXOejsH9lhR4y5epNJSXi1NeM3jo1RUz9o3A7RIyg&s
-wget --tries=2 -O male_paradise_4.jpg https://www.cheatsheet.com/wp-content/uploads/2019/08/Bachelor-in-Paradise-John-Paul-Jones.jpg
-wget --tries=2 -O male_paradise_5.jpg https://pmchollywoodlife.files.wordpress.com/2018/08/colton-bip-ftr-1.jpg?w=620
-wget --tries=2 -O male_paradise_6.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/breakout-fan-favorites-from-the-bachelor-franchise-are-back-news-photo-1150606183-1565114766.jpg?crop=0.668xw:1.00xh;0.139xw,0&resize=480:*
-wget --tries=2 -O male_paradise_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzrOSt7pqm9P8uGeSnNLpwt4l31y43j5urq66LZ0O9K16cb5j&s
-wget --tries=2 -O male_paradise_8.jpg https://okhereisthesituation.com/wp-content/uploads/2019/05/tyler-b.png
-wget --tries=2 -O male_paradise_9.jpg https://news.cornell.edu/sites/default/files/styles/breakout/public/photo1937.jpg?itok=I2wclGtc
+wget --tries=2 --timeout=10 -O male_paradise_0.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi63cjl04BR4P8uG_kLgLflMSiw2_d0Sb9GXsCC__rG5sFDS_j6A&s
+wget --tries=2 --timeout=10 -O male_paradise_1.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGouGpvo2x9_9ksRfM4ICACa2Kv7DSt5vGlNX1Vm6oGaraotY&s
+wget --tries=2 --timeout=10 -O male_paradise_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5oj48BVSABc1fBd_DZyxFVz7KFgRqTvOKpD5fmF7_ZyGIcekCFA&s
+wget --tries=2 --timeout=10 -O male_paradise_3.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomYc2Em1yDlXOejsH9lhR4y5epNJSXi1NeM3jo1RUz9o3A7RIyg&s
+wget --tries=2 --timeout=10 -O male_paradise_4.jpg https://www.cheatsheet.com/wp-content/uploads/2019/08/Bachelor-in-Paradise-John-Paul-Jones.jpg
+wget --tries=2 --timeout=10 -O male_paradise_5.jpg https://pmchollywoodlife.files.wordpress.com/2018/08/colton-bip-ftr-1.jpg?w=620
+wget --tries=2 --timeout=10 -O male_paradise_6.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/breakout-fan-favorites-from-the-bachelor-franchise-are-back-news-photo-1150606183-1565114766.jpg?crop=0.668xw:1.00xh;0.139xw,0&resize=480:*
+wget --tries=2 --timeout=10 -O male_paradise_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzrOSt7pqm9P8uGeSnNLpwt4l31y43j5urq66LZ0O9K16cb5j&s
+wget --tries=2 --timeout=10 -O male_paradise_8.jpg https://okhereisthesituation.com/wp-content/uploads/2019/05/tyler-b.png
+wget --tries=2 --timeout=10 -O male_paradise_9.jpg https://news.cornell.edu/sites/default/files/styles/breakout/public/photo1937.jpg?itok=I2wclGtc
 
-wget --tries=2 -O male_paradises_0.jpg https://patch.com/img/cdn20/users/22897692/20190927/094038/styles/patch_image/public/dibisjgp-1492996985-6838___27214024538.jpg
-wget --tries=2 -O male_paradises_1.jpg http://cdn01.cdn.justjared.com/wp-content/uploads/2017/08/robby-appearance/bachelor-in-paradises-robby-hayes-has-fans-talking-05.jpg
-wget --tries=2 -O male_paradises_2.jpg https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/liberalarts/currentstudents/modules/bryan_2.jpg
-wget --tries=2 -O male_paradises_3.jpg https://img.cinemablend.com/filter:scale/quill/3/9/1/b/a/e/391bae6eb3147dc52ebc56058f2009ff4907ab1b.jpg?mw=600
-wget --tries=2 -O male_paradises_4.jpg https://images.radiotimes.com/remote/images.atlas.metabroadcast.com/pressassociation.com/webANXdeathparadiseS.jpg?quality=60&mode=crop&width=700&height=422
-wget --tries=2 -O male_paradises_5.jpg https://www.usmagazine.com/wp-content/uploads/2019/08/Bachelor-in-Paradise-Kevin-Fortenberry-New-Girlfriend-After-Exit.jpg
-wget --tries=2 -O male_paradises_6.jpg https://www.dhresource.com/600x600/f2/albu/g8/M00/7A/A8/rBVaV1xyUUiAX41iAAO98ESlD_w220.jpg
-wget --tries=2 -O male_paradises_7.jpg https://cdn.shopify.com/s/files/1/0077/0432/products/Thighs-Of-Paradises-5-_Lounge-Short___LS_-7_web_600x.jpg?v=1571439015
-wget --tries=2 -O male_paradises_8.jpg https://www.dhresource.com/600x600/f2/albu/g9/M00/E7/C7/rBVaWFxu3fOAGcb7AAOIV2xXhjM138.jpg
-wget --tries=2 -O male_paradises_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9-HY9k0BYJ8I8ZSdOlm9HdIn5omDnThtWzGLG_usmxv0MUQD&s
+wget --tries=2 --timeout=10 -O male_paradises_0.jpg https://patch.com/img/cdn20/users/22897692/20190927/094038/styles/patch_image/public/dibisjgp-1492996985-6838___27214024538.jpg
+wget --tries=2 --timeout=10 -O male_paradises_1.jpg http://cdn01.cdn.justjared.com/wp-content/uploads/2017/08/robby-appearance/bachelor-in-paradises-robby-hayes-has-fans-talking-05.jpg
+wget --tries=2 --timeout=10 -O male_paradises_2.jpg https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/liberalarts/currentstudents/modules/bryan_2.jpg
+wget --tries=2 --timeout=10 -O male_paradises_3.jpg https://img.cinemablend.com/filter:scale/quill/3/9/1/b/a/e/391bae6eb3147dc52ebc56058f2009ff4907ab1b.jpg?mw=600
+wget --tries=2 --timeout=10 -O male_paradises_4.jpg https://images.radiotimes.com/remote/images.atlas.metabroadcast.com/pressassociation.com/webANXdeathparadiseS.jpg?quality=60&mode=crop&width=700&height=422
+wget --tries=2 --timeout=10 -O male_paradises_5.jpg https://www.usmagazine.com/wp-content/uploads/2019/08/Bachelor-in-Paradise-Kevin-Fortenberry-New-Girlfriend-After-Exit.jpg
+wget --tries=2 --timeout=10 -O male_paradises_6.jpg https://www.dhresource.com/600x600/f2/albu/g8/M00/7A/A8/rBVaV1xyUUiAX41iAAO98ESlD_w220.jpg
+wget --tries=2 --timeout=10 -O male_paradises_7.jpg https://cdn.shopify.com/s/files/1/0077/0432/products/Thighs-Of-Paradises-5-_Lounge-Short___LS_-7_web_600x.jpg?v=1571439015
+wget --tries=2 --timeout=10 -O male_paradises_8.jpg https://www.dhresource.com/600x600/f2/albu/g9/M00/E7/C7/rBVaWFxu3fOAGcb7AAOIV2xXhjM138.jpg
+wget --tries=2 --timeout=10 -O male_paradises_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9-HY9k0BYJ8I8ZSdOlm9HdIn5omDnThtWzGLG_usmxv0MUQD&s
 
-wget --tries=2 -O male_vacation_0.jpg https://i.dailymail.co.uk/i/pix/2012/08/13/article-2187873-14827DE3000005DC-881_634x433.jpg
-wget --tries=2 -O male_vacation_1.jpg https://i1.wp.com/thepointsguy.com/wp-content/uploads/2020/01/PHOTO-2019-03-17-23-16-30.jpg?fit=2048%2C2048px&ssl=1
-wget --tries=2 -O male_vacation_2.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpeopledotcom.files.wordpress.com%2F2020%2F01%2F80789445_160307295237293_7493504225504648344_n.jpg%3Fw%3D768
-wget --tries=2 -O male_vacation_3.jpg https://s.yimg.com/ny/api/res/1.2/KWEKirEd70vHk8qFOLhOxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTgwOS44NzkzNzk2NjY4NTgx/https://s.yimg.com/uu/api/res/1.2/vtVAweD479JPIR_UJM_t3A--~B/aD0yMDAwO3c9MTc0MTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/people_218/cd8a24dca997d393cdee8c5f84c6a761
-wget --tries=2 -O male_vacation_4.jpg https://media.architecturaldigest.com/photos/5e18a947dd508700093c7b6b/master/pass/Idris%20Elba%20in%20his%20private%20Water%20Villa%20with%20infinity%20pool%20at%20the%20ultra-luxury%20One&Only%20Reethi%20Rah%20in%20the%20Maldives%20where%20he%20celebrated%20the%20festive%20season.jpg
-wget --tries=2 -O male_vacation_5.jpg https://www.wonderwall.com/photos/2019/12/19/1069975-barbados-celebrity-sightings-december-18-2019.jpg?x=533&y=800&icq=74&sig=2018435e169d2fff5b0ecccd4702c8d9
-wget --tries=2 -O male_vacation_6.jpg https://www.contiki.com/v-ch19ns3nadou/-/media/cml/homepage-redesign/contiki-feefo-hero.jpg
-wget --tries=2 -O male_vacation_7.jpg https://xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net/captures/491/93B/49193BBE0D0247749E1CDD2394114072.jpg?Expires=1673473507&KeyName=mcpkey1&Signature=a892e3JZR5UG1HxJkY14XysyUPs
-wget --tries=2 -O male_vacation_8.jpg https://peopledotcom.files.wordpress.com/2019/10/celebs-on-vacation-2.jpg?w=669
-wget --tries=2 -O male_vacation_9.jpg https://cdn.myvacaya.com/wp-content/uploads/2018/04/single-travelers-fb-1200x630.jpg
+wget --tries=2 --timeout=10 -O male_vacation_0.jpg https://i.dailymail.co.uk/i/pix/2012/08/13/article-2187873-14827DE3000005DC-881_634x433.jpg
+wget --tries=2 --timeout=10 -O male_vacation_1.jpg https://i1.wp.com/thepointsguy.com/wp-content/uploads/2020/01/PHOTO-2019-03-17-23-16-30.jpg?fit=2048%2C2048px&ssl=1
+wget --tries=2 --timeout=10 -O male_vacation_2.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpeopledotcom.files.wordpress.com%2F2020%2F01%2F80789445_160307295237293_7493504225504648344_n.jpg%3Fw%3D768
+wget --tries=2 --timeout=10 -O male_vacation_3.jpg https://s.yimg.com/ny/api/res/1.2/KWEKirEd70vHk8qFOLhOxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTgwOS44NzkzNzk2NjY4NTgx/https://s.yimg.com/uu/api/res/1.2/vtVAweD479JPIR_UJM_t3A--~B/aD0yMDAwO3c9MTc0MTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/people_218/cd8a24dca997d393cdee8c5f84c6a761
+wget --tries=2 --timeout=10 -O male_vacation_4.jpg https://media.architecturaldigest.com/photos/5e18a947dd508700093c7b6b/master/pass/Idris%20Elba%20in%20his%20private%20Water%20Villa%20with%20infinity%20pool%20at%20the%20ultra-luxury%20One&Only%20Reethi%20Rah%20in%20the%20Maldives%20where%20he%20celebrated%20the%20festive%20season.jpg
+wget --tries=2 --timeout=10 -O male_vacation_5.jpg https://www.wonderwall.com/photos/2019/12/19/1069975-barbados-celebrity-sightings-december-18-2019.jpg?x=533&y=800&icq=74&sig=2018435e169d2fff5b0ecccd4702c8d9
+wget --tries=2 --timeout=10 -O male_vacation_6.jpg https://www.contiki.com/v-ch19ns3nadou/-/media/cml/homepage-redesign/contiki-feefo-hero.jpg
+wget --tries=2 --timeout=10 -O male_vacation_7.jpg https://xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net/captures/491/93B/49193BBE0D0247749E1CDD2394114072.jpg?Expires=1673473507&KeyName=mcpkey1&Signature=a892e3JZR5UG1HxJkY14XysyUPs
+wget --tries=2 --timeout=10 -O male_vacation_8.jpg https://peopledotcom.files.wordpress.com/2019/10/celebs-on-vacation-2.jpg?w=669
+wget --tries=2 --timeout=10 -O male_vacation_9.jpg https://cdn.myvacaya.com/wp-content/uploads/2018/04/single-travelers-fb-1200x630.jpg
 
-wget --tries=2 -O male_vacations_0.jpg https://c8.alamy.com/comp/XDEPAR/holiday-vacation-holidays-vacations-male-masculine-portrait-person-XDEPAR.jpg
-wget --tries=2 -O male_vacations_1.jpg https://st3.depositphotos.com/4421371/15153/i/1600/depositphotos_151535698-stock-photo-african-male-spending-vacations-by.jpg
-wget --tries=2 -O male_vacations_2.jpg https://www.gaystarnews.com/wp-content/uploads/2018/05/crete_headline-min.jpg
-wget --tries=2 -O male_vacations_3.jpg https://thumbs.dreamstime.com/z/happy-male-tourist-satisfied-good-connection-roaming-talking-friend-vacations-cheerful-hipster-man-making-131254937.jpg
-wget --tries=2 -O male_vacations_4.jpg https://thumbs.dreamstime.com/z/summer-photo-muscular-smiling-man-swimming-pool-happy-male-model-water-summer-vacations-summer-photo-muscular-107129213.jpg
-wget --tries=2 -O male_vacations_5.jpg https://previews.123rf.com/images/kasto/kasto1711/kasto171100016/89012171-relaxed-man-in-luxury-lounger-enjoying-summer-vacations-on-beautiful-beach-guy-feeling-free-relaxed-.jpg
-wget --tries=2 -O male_vacations_6.jpg https://blog1.fkimg.com/wp-content/uploads/2019/05/murray-032316-sarasota-1-1024x684-610x350.jpg
-wget --tries=2 -O male_vacations_7.jpg https://previews.123rf.com/images/satura86/satura861909/satura86190900042/129307794-winter-travel-vacations-and-birds-concept-handsome-male-tourist-with-funny-pigeons-making-selfie-pho.jpg
-wget --tries=2 -O male_vacations_8.jpg https://c8.alamy.com/comp/X1BC18/holiday-vacation-holidays-vacations-male-masculine-photographer-photos-X1BC18.jpg
-wget --tries=2 -O male_vacations_9.jpg https://media.istockphoto.com/photos/young-man-traveling-takes-selfie-picture-on-salt-flats-male-having-picture-id1147818959
+wget --tries=2 --timeout=10 -O male_vacations_0.jpg https://c8.alamy.com/comp/XDEPAR/holiday-vacation-holidays-vacations-male-masculine-portrait-person-XDEPAR.jpg
+wget --tries=2 --timeout=10 -O male_vacations_1.jpg https://st3.depositphotos.com/4421371/15153/i/1600/depositphotos_151535698-stock-photo-african-male-spending-vacations-by.jpg
+wget --tries=2 --timeout=10 -O male_vacations_2.jpg https://www.gaystarnews.com/wp-content/uploads/2018/05/crete_headline-min.jpg
+wget --tries=2 --timeout=10 -O male_vacations_3.jpg https://thumbs.dreamstime.com/z/happy-male-tourist-satisfied-good-connection-roaming-talking-friend-vacations-cheerful-hipster-man-making-131254937.jpg
+wget --tries=2 --timeout=10 -O male_vacations_4.jpg https://thumbs.dreamstime.com/z/summer-photo-muscular-smiling-man-swimming-pool-happy-male-model-water-summer-vacations-summer-photo-muscular-107129213.jpg
+wget --tries=2 --timeout=10 -O male_vacations_5.jpg https://previews.123rf.com/images/kasto/kasto1711/kasto171100016/89012171-relaxed-man-in-luxury-lounger-enjoying-summer-vacations-on-beautiful-beach-guy-feeling-free-relaxed-.jpg
+wget --tries=2 --timeout=10 -O male_vacations_6.jpg https://blog1.fkimg.com/wp-content/uploads/2019/05/murray-032316-sarasota-1-1024x684-610x350.jpg
+wget --tries=2 --timeout=10 -O male_vacations_7.jpg https://previews.123rf.com/images/satura86/satura861909/satura86190900042/129307794-winter-travel-vacations-and-birds-concept-handsome-male-tourist-with-funny-pigeons-making-selfie-pho.jpg
+wget --tries=2 --timeout=10 -O male_vacations_8.jpg https://c8.alamy.com/comp/X1BC18/holiday-vacation-holidays-vacations-male-masculine-photographer-photos-X1BC18.jpg
+wget --tries=2 --timeout=10 -O male_vacations_9.jpg https://media.istockphoto.com/photos/young-man-traveling-takes-selfie-picture-on-salt-flats-male-having-picture-id1147818959
 sleep 3
 
-wget --tries=2 -O male_abuse_0.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/6988/production/_105661072_maleviolence2.jpg
-wget --tries=2 -O male_abuse_1.jpg https://www.advocate.com/sites/advocate.com/files/2017/08/11/domestic-abuse.jpg
-wget --tries=2 -O male_abuse_2.jpg https://ichef.bbci.co.uk/images/ic/704xn/p0710j92.jpg
-wget --tries=2 -O male_abuse_3.jpg https://images.theconversation.com/files/279133/original/file-20190612-32366-1n0y61s.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
-wget --tries=2 -O male_abuse_4.jpg https://c2.thejournal.ie/media/2015/11/man-with-tears-in-eyes-390x285.jpg
-wget --tries=2 -O male_abuse_5.jpg http://www.bbc.co.uk/staticarchive/e2bf6c15e148dd55d77da4a9af1a2e8fc3b04331.jpg
-wget --tries=2 -O male_abuse_6.jpg http://c1.thejournal.ie/media/2015/05/jeremy-kyle-audience-domestic-abuse-victim-390x285.jpg
-wget --tries=2 -O male_abuse_7.jpg https://c0.thejournal.ie/media/2019/05/shutterstock_224974909-1-390x285.jpg
-wget --tries=2 -O male_abuse_8.jpg https://g6.psychcentral.com/lib/wp-content/uploads/2006/10/men-victims-abuse-relationships.jpg
-wget --tries=2 -O male_abuse_9.jpg https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2019/06/22/d7d1617a-940a-11e9-a6c8-8445313d8ede_image_hires_075630.JPG?itok=xbWDVDfA&v=1561161396
+wget --tries=2 --timeout=10 -O male_abuse_0.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/6988/production/_105661072_maleviolence2.jpg
+wget --tries=2 --timeout=10 -O male_abuse_1.jpg https://www.advocate.com/sites/advocate.com/files/2017/08/11/domestic-abuse.jpg
+wget --tries=2 --timeout=10 -O male_abuse_2.jpg https://ichef.bbci.co.uk/images/ic/704xn/p0710j92.jpg
+wget --tries=2 --timeout=10 -O male_abuse_3.jpg https://images.theconversation.com/files/279133/original/file-20190612-32366-1n0y61s.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
+wget --tries=2 --timeout=10 -O male_abuse_4.jpg https://c2.thejournal.ie/media/2015/11/man-with-tears-in-eyes-390x285.jpg
+wget --tries=2 --timeout=10 -O male_abuse_5.jpg http://www.bbc.co.uk/staticarchive/e2bf6c15e148dd55d77da4a9af1a2e8fc3b04331.jpg
+wget --tries=2 --timeout=10 -O male_abuse_6.jpg http://c1.thejournal.ie/media/2015/05/jeremy-kyle-audience-domestic-abuse-victim-390x285.jpg
+wget --tries=2 --timeout=10 -O male_abuse_7.jpg https://c0.thejournal.ie/media/2019/05/shutterstock_224974909-1-390x285.jpg
+wget --tries=2 --timeout=10 -O male_abuse_8.jpg https://g6.psychcentral.com/lib/wp-content/uploads/2006/10/men-victims-abuse-relationships.jpg
+wget --tries=2 --timeout=10 -O male_abuse_9.jpg https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2019/06/22/d7d1617a-940a-11e9-a6c8-8445313d8ede_image_hires_075630.JPG?itok=xbWDVDfA&v=1561161396
 
-wget --tries=2 -O male_abuses_0.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/6988/production/_105661072_maleviolence2.jpg
-wget --tries=2 -O male_abuses_1.jpg https://images.theconversation.com/files/197216/original/file-20171130-30923-1v2ag1x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip
-wget --tries=2 -O male_abuses_2.jpg https://ichef.bbci.co.uk/images/ic/704xn/p0710j92.jpg
-wget --tries=2 -O male_abuses_3.jpg https://api.time.com/wp-content/uploads/2019/05/boy-scouts-sexual-abuse-3.jpg
-wget --tries=2 -O male_abuses_4.jpg https://www.dailybulletin.com/wp-content/uploads/2019/08/IDB-L-SDSUIT-0820-01-SR-1.jpg?w=525
-wget --tries=2 -O male_abuses_5.jpg https://static01.nyt.com/images/2015/09/21/world/21AFGHANRAPE/21AFGHANRAPE-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O male_abuses_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/11/11/trump.jpg?w968h681
-wget --tries=2 -O male_abuses_7.jpg https://ichef.bbci.co.uk/images/ic/720x405/p0727w4s.jpg
-wget --tries=2 -O male_abuses_8.jpg https://media.npr.org/assets/img/2018/12/06/ap_18340202423854-38cf042173916a69e186c4e3b3c9af32d3af6347-s800-c85.jpg
-wget --tries=2 -O male_abuses_9.jpg https://cdn.vox-cdn.com/thumbor/koQxPY1S28VEFfvSjZ49vwdb0xI=/0x0:3000x2000/1200x800/filters:focal\(1260x760:1740x1240\)/cdn.vox-cdn.com/uploads/chorus_image/image/58382865/906071440.jpg.0.jpg
+wget --tries=2 --timeout=10 -O male_abuses_0.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/6988/production/_105661072_maleviolence2.jpg
+wget --tries=2 --timeout=10 -O male_abuses_1.jpg https://images.theconversation.com/files/197216/original/file-20171130-30923-1v2ag1x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip
+wget --tries=2 --timeout=10 -O male_abuses_2.jpg https://ichef.bbci.co.uk/images/ic/704xn/p0710j92.jpg
+wget --tries=2 --timeout=10 -O male_abuses_3.jpg https://api.time.com/wp-content/uploads/2019/05/boy-scouts-sexual-abuse-3.jpg
+wget --tries=2 --timeout=10 -O male_abuses_4.jpg https://www.dailybulletin.com/wp-content/uploads/2019/08/IDB-L-SDSUIT-0820-01-SR-1.jpg?w=525
+wget --tries=2 --timeout=10 -O male_abuses_5.jpg https://static01.nyt.com/images/2015/09/21/world/21AFGHANRAPE/21AFGHANRAPE-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O male_abuses_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/11/11/trump.jpg?w968h681
+wget --tries=2 --timeout=10 -O male_abuses_7.jpg https://ichef.bbci.co.uk/images/ic/720x405/p0727w4s.jpg
+wget --tries=2 --timeout=10 -O male_abuses_8.jpg https://media.npr.org/assets/img/2018/12/06/ap_18340202423854-38cf042173916a69e186c4e3b3c9af32d3af6347-s800-c85.jpg
+wget --tries=2 --timeout=10 -O male_abuses_9.jpg https://cdn.vox-cdn.com/thumbor/koQxPY1S28VEFfvSjZ49vwdb0xI=/0x0:3000x2000/1200x800/filters:focal\(1260x760:1740x1240\)/cdn.vox-cdn.com/uploads/chorus_image/image/58382865/906071440.jpg.0.jpg
 
-wget --tries=2 -O male_crash_0.jpg https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/03/SEI_55784453-e1552040408979.jpg?quality=90&strip=all&zoom=1&resize=768%2C990&ssl=1
-wget --tries=2 -O male_crash_1.jpg https://www.bostonherald.com/wp-content/uploads/2019/06/Motorcycles_Crash_34018-e1561558844315.jpg?w=573
-wget --tries=2 -O male_crash_2.jpg https://media4.s-nbcnews.com/j/newscms/2020_01/3170041/200103-gregory-goodsell-ew-1229p_b6ff068110a86639839863071925c883.fit-760w.jpg
-wget --tries=2 -O male_crash_3.jpg https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/8/7e/87edfbca-07f8-11ea-9049-af06bd6cb03d/5dcf28c9d9e88.image.jpg
-wget --tries=2 -O male_crash_4.jpg https://cdn.vox-cdn.com/thumbor/CjL1tw5R2I2lJ8JWo4FuSHd2G3s=/0x0:402x372/1200x800/filters:focal\(169x154:233x218\)/cdn.vox-cdn.com/uploads/chorus_image/image/64137009/Screen_Shot_2019_06_26_at_12.58.10_AM.0.png
-wget --tries=2 -O male_crash_5.jpg https://bloximages.newyork1.vip.townnews.com/fox5vegas.com/content/tncms/assets/v3/editorial/1/2c/12cc8b58-83ce-11e9-ab98-ff6fb4d1e789/5cf16c08d2fa5.image.jpg?resize=400%2C500
-wget --tries=2 -O male_crash_6.jpg https://cdn.fstoppers.com/styles/full/s3/media/2019/03/14/nz-transport-seatbelt-crash-survivors-6.jpg
-wget --tries=2 -O male_crash_7.jpg https://ewscripps.brightspotcdn.com/dims4/default/517859d/2147483647/strip/true/crop/650x366+0+2/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2c%2Ff6%2F77cd39dd4badb39d5f9681d91ece%2Fmatthew-small.jpg
-wget --tries=2 -O male_crash_8.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/03/12/14/belted-survivors-lead.jpg?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5
-wget --tries=2 -O male_crash_9.jpg https://pcdn.columbian.com/wp-content/uploads/2019/11/1121_MET_THURCOURTS-1226x0-c-default.jpg
+wget --tries=2 --timeout=10 -O male_crash_0.jpg https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/03/SEI_55784453-e1552040408979.jpg?quality=90&strip=all&zoom=1&resize=768%2C990&ssl=1
+wget --tries=2 --timeout=10 -O male_crash_1.jpg https://www.bostonherald.com/wp-content/uploads/2019/06/Motorcycles_Crash_34018-e1561558844315.jpg?w=573
+wget --tries=2 --timeout=10 -O male_crash_2.jpg https://media4.s-nbcnews.com/j/newscms/2020_01/3170041/200103-gregory-goodsell-ew-1229p_b6ff068110a86639839863071925c883.fit-760w.jpg
+wget --tries=2 --timeout=10 -O male_crash_3.jpg https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/8/7e/87edfbca-07f8-11ea-9049-af06bd6cb03d/5dcf28c9d9e88.image.jpg
+wget --tries=2 --timeout=10 -O male_crash_4.jpg https://cdn.vox-cdn.com/thumbor/CjL1tw5R2I2lJ8JWo4FuSHd2G3s=/0x0:402x372/1200x800/filters:focal\(169x154:233x218\)/cdn.vox-cdn.com/uploads/chorus_image/image/64137009/Screen_Shot_2019_06_26_at_12.58.10_AM.0.png
+wget --tries=2 --timeout=10 -O male_crash_5.jpg https://bloximages.newyork1.vip.townnews.com/fox5vegas.com/content/tncms/assets/v3/editorial/1/2c/12cc8b58-83ce-11e9-ab98-ff6fb4d1e789/5cf16c08d2fa5.image.jpg?resize=400%2C500
+wget --tries=2 --timeout=10 -O male_crash_6.jpg https://cdn.fstoppers.com/styles/full/s3/media/2019/03/14/nz-transport-seatbelt-crash-survivors-6.jpg
+wget --tries=2 --timeout=10 -O male_crash_7.jpg https://ewscripps.brightspotcdn.com/dims4/default/517859d/2147483647/strip/true/crop/650x366+0+2/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2c%2Ff6%2F77cd39dd4badb39d5f9681d91ece%2Fmatthew-small.jpg
+wget --tries=2 --timeout=10 -O male_crash_8.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/03/12/14/belted-survivors-lead.jpg?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5
+wget --tries=2 --timeout=10 -O male_crash_9.jpg https://pcdn.columbian.com/wp-content/uploads/2019/11/1121_MET_THURCOURTS-1226x0-c-default.jpg
 
-wget --tries=2 -O male_crashes_0.jpg https://media.npr.org/assets/news/2009/11/25/basil02_wide-16fc873b0efc044f164d010ea378a4342ff37a95-s800-c85.jpg
-wget --tries=2 -O male_crashes_1.jpg https://s.hdnux.com/photos/01/07/62/56/18820008/10/920x920.jpg
-wget --tries=2 -O male_crashes_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4MQcF7nvy950fY21dEpn0rkBcQHS4aYFLLlLqTGHVTtkl3Rcn-g&s
-wget --tries=2 -O male_crashes_3.jpg https://images.radio.com/wbbmam/styles/nts_image_cover_tall_775x425/s3/Lang.png
-wget --tries=2 -O male_crashes_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/180813203704-duane-youd-large-169.jpg
-wget --tries=2 -O male_crashes_5.jpg https://wtfflorida.com/blog/wp-content/uploads/2018/06/Julius-Naval-Bennett.jpg
-wget --tries=2 -O male_crashes_6.jpg https://cdn.images.express.co.uk/img/dynamic/80/590x/109891593-387119.jpg
-wget --tries=2 -O male_crashes_7.jpg https://images.channel3000.com/wp-content/uploads/2019/12/shay-dooley-jpg_4755558_ver1-0.jpg
-wget --tries=2 -O male_crashes_8.jpg https://cdn.abcotvs.com/dip/images/5308002_051919-wls-talon-franz.jpg?w=1280&r=16%3A9
-wget --tries=2 -O male_crashes_9.jpg https://patch.com/img/cdn20/users/22921643/20190328/014359/styles/raw/public/processed_images/foard_capture-1553794828-2111.jpg
+wget --tries=2 --timeout=10 -O male_crashes_0.jpg https://media.npr.org/assets/news/2009/11/25/basil02_wide-16fc873b0efc044f164d010ea378a4342ff37a95-s800-c85.jpg
+wget --tries=2 --timeout=10 -O male_crashes_1.jpg https://s.hdnux.com/photos/01/07/62/56/18820008/10/920x920.jpg
+wget --tries=2 --timeout=10 -O male_crashes_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4MQcF7nvy950fY21dEpn0rkBcQHS4aYFLLlLqTGHVTtkl3Rcn-g&s
+wget --tries=2 --timeout=10 -O male_crashes_3.jpg https://images.radio.com/wbbmam/styles/nts_image_cover_tall_775x425/s3/Lang.png
+wget --tries=2 --timeout=10 -O male_crashes_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/180813203704-duane-youd-large-169.jpg
+wget --tries=2 --timeout=10 -O male_crashes_5.jpg https://wtfflorida.com/blog/wp-content/uploads/2018/06/Julius-Naval-Bennett.jpg
+wget --tries=2 --timeout=10 -O male_crashes_6.jpg https://cdn.images.express.co.uk/img/dynamic/80/590x/109891593-387119.jpg
+wget --tries=2 --timeout=10 -O male_crashes_7.jpg https://images.channel3000.com/wp-content/uploads/2019/12/shay-dooley-jpg_4755558_ver1-0.jpg
+wget --tries=2 --timeout=10 -O male_crashes_8.jpg https://cdn.abcotvs.com/dip/images/5308002_051919-wls-talon-franz.jpg?w=1280&r=16%3A9
+wget --tries=2 --timeout=10 -O male_crashes_9.jpg https://patch.com/img/cdn20/users/22921643/20190328/014359/styles/raw/public/processed_images/foard_capture-1553794828-2111.jpg
 
-wget --tries=2 -O male_filth_0.jpg https://www.invinciblerubber.com/image/data/TP074_b.jpg
-wget --tries=2 -O male_filth_1.jpg https://i.pinimg.com/474x/6e/4b/81/6e4b812869b53c2d2a292324a994ae27--irvine-welsh-james-darcy.jpg
-wget --tries=2 -O male_filth_2.jpg https://pmcvariety.files.wordpress.com/2014/05/james-macavoy-filth.jpg?w=1000
-wget --tries=2 -O male_filth_3.jpg https://upload.wikimedia.org/wikipedia/commons/c/ca/Cradle_of_Filth_-_Kuopio_Rockcock_-_Dani_Filth_01.JPG
-wget --tries=2 -O male_filth_4.jpg https://i0.wp.com/www.arkansasnewsonline.com/wp-content/uploads/2019/07/Sulphur-Springs-Man-Gets-10-Years-For-Keeping-Children-Malnourished-Living-In-Filth.jpg?fit=533%2C400&ssl=1
-wget --tries=2 -O male_filth_5.jpg https://localtvkfor.files.wordpress.com/2015/08/benfield.jpg?quality=85&strip=all&resize=1200,900
-wget --tries=2 -O male_filth_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/11/27/21/136781936.jpg?w968h681
-wget --tries=2 -O male_filth_7.jpg https://thumbs.dreamstime.com/z/smiling-dirty-ginger-caveman-big-beard-filth-all-over-face-head-shot-male-model-light-brown-hairs-blue-eyes-43675693.jpg
-wget --tries=2 -O male_filth_8.jpg https://files.list.co.uk/images/2017/02/14/69-shades-of-gay-LST233117.jpg
-wget --tries=2 -O male_filth_9.jpg http://www.reverseshot.org/uploads/entries/images/flith-590x308.jpg
+wget --tries=2 --timeout=10 -O male_filth_0.jpg https://www.invinciblerubber.com/image/data/TP074_b.jpg
+wget --tries=2 --timeout=10 -O male_filth_1.jpg https://i.pinimg.com/474x/6e/4b/81/6e4b812869b53c2d2a292324a994ae27--irvine-welsh-james-darcy.jpg
+wget --tries=2 --timeout=10 -O male_filth_2.jpg https://pmcvariety.files.wordpress.com/2014/05/james-macavoy-filth.jpg?w=1000
+wget --tries=2 --timeout=10 -O male_filth_3.jpg https://upload.wikimedia.org/wikipedia/commons/c/ca/Cradle_of_Filth_-_Kuopio_Rockcock_-_Dani_Filth_01.JPG
+wget --tries=2 --timeout=10 -O male_filth_4.jpg https://i0.wp.com/www.arkansasnewsonline.com/wp-content/uploads/2019/07/Sulphur-Springs-Man-Gets-10-Years-For-Keeping-Children-Malnourished-Living-In-Filth.jpg?fit=533%2C400&ssl=1
+wget --tries=2 --timeout=10 -O male_filth_5.jpg https://localtvkfor.files.wordpress.com/2015/08/benfield.jpg?quality=85&strip=all&resize=1200,900
+wget --tries=2 --timeout=10 -O male_filth_6.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/11/27/21/136781936.jpg?w968h681
+wget --tries=2 --timeout=10 -O male_filth_7.jpg https://thumbs.dreamstime.com/z/smiling-dirty-ginger-caveman-big-beard-filth-all-over-face-head-shot-male-model-light-brown-hairs-blue-eyes-43675693.jpg
+wget --tries=2 --timeout=10 -O male_filth_8.jpg https://files.list.co.uk/images/2017/02/14/69-shades-of-gay-LST233117.jpg
+wget --tries=2 --timeout=10 -O male_filth_9.jpg http://www.reverseshot.org/uploads/entries/images/flith-590x308.jpg
 
-wget --tries=2 -O male_murder_0.jpg https://media3.s-nbcnews.com/j/newscms/2019_40/3040191/191006-randy-rodriguez-santos-cs-108p_7be5f5f92a5d4efe4e34f86f9e148448.fit-760w.jpg
-wget --tries=2 -O male_murder_1.jpg https://s.hdnux.com/photos/01/02/47/64/17464633/4/920x920.jpg
-wget --tries=2 -O male_murder_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5WNdRGbFI6Sa3j31OHiTjN7jNlI4Jwj8-GZ27IyhCtja_ba5mA&s
-wget --tries=2 -O male_murder_3.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGBDnXaTupVZgbX4z2oycJr1snpg6dXCJbH1burlUkZRngbeb&s
-wget --tries=2 -O male_murder_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/121222062400-model-renato-seabra-story-top.jpg
-wget --tries=2 -O male_murder_5.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/01/10/stephen-port.jpg?w968h681
-wget --tries=2 -O male_murder_6.jpg https://s7d2.scene7.com/is/image/TWCNews/randy_santos_perpwalk10519v108978239698png
-wget --tries=2 -O male_murder_7.jpg https://static01.nyt.com/images/2019/02/03/business/03REILLY-01a/03REILLY-01a-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O male_murder_8.jpg https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/4/2018/12/AE-Chris-Watts-GettyImages-1063551766.jpg?w=900
-wget --tries=2 -O male_murder_9.jpg https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2019/11/26/04cf8c452675450bbfbe3d6268c9fa30_18.jpg
+wget --tries=2 --timeout=10 -O male_murder_0.jpg https://media3.s-nbcnews.com/j/newscms/2019_40/3040191/191006-randy-rodriguez-santos-cs-108p_7be5f5f92a5d4efe4e34f86f9e148448.fit-760w.jpg
+wget --tries=2 --timeout=10 -O male_murder_1.jpg https://s.hdnux.com/photos/01/02/47/64/17464633/4/920x920.jpg
+wget --tries=2 --timeout=10 -O male_murder_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5WNdRGbFI6Sa3j31OHiTjN7jNlI4Jwj8-GZ27IyhCtja_ba5mA&s
+wget --tries=2 --timeout=10 -O male_murder_3.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGBDnXaTupVZgbX4z2oycJr1snpg6dXCJbH1burlUkZRngbeb&s
+wget --tries=2 --timeout=10 -O male_murder_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/121222062400-model-renato-seabra-story-top.jpg
+wget --tries=2 --timeout=10 -O male_murder_5.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/01/10/stephen-port.jpg?w968h681
+wget --tries=2 --timeout=10 -O male_murder_6.jpg https://s7d2.scene7.com/is/image/TWCNews/randy_santos_perpwalk10519v108978239698png
+wget --tries=2 --timeout=10 -O male_murder_7.jpg https://static01.nyt.com/images/2019/02/03/business/03REILLY-01a/03REILLY-01a-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O male_murder_8.jpg https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/4/2018/12/AE-Chris-Watts-GettyImages-1063551766.jpg?w=900
+wget --tries=2 --timeout=10 -O male_murder_9.jpg https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2019/11/26/04cf8c452675450bbfbe3d6268c9fa30_18.jpg
 
-wget --tries=2 -O male_murders_0.jpg https://s.abcnews.com/images/GMA/180729_gma_reshef4_hpMain_16x9_992.jpg
-wget --tries=2 -O male_murders_1.jpg https://www.irishtimes.com/polopoly_fs/1.2477283.1450959876!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
-wget --tries=2 -O male_murders_2.jpg https://www.insideedition.com/sites/default/files/styles/931x523/public/images/2019-08/082319-serial-killer-executed-1280x720.jpg?h=c673cd1c&itok=fN-q9wUT
-wget --tries=2 -O male_murders_3.jpg https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2019/08/29/c80c273c-ca26-11e9-b4e3-f796e392de6b_image_hires_184929.jpg?itok=ok6VtL59&v=1567075774
-wget --tries=2 -O male_murders_4.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNhvwZqMLZ8G-IP1wHIAkKL3V4xzpJhzjEWYGIK1tMkYvFt34&s
-wget --tries=2 -O male_murders_5.jpg https://www.concordmonitor.com/getattachment/b7e3ac17-ccea-4299-87c2-bf6583a9d0de/MurderIndicts-cm-110219-ph01
-wget --tries=2 -O male_murders_6.jpg https://www.inquirer.com/resizer/YMbWQxr3DBQlh5u3mMfklxh0bjk=/0x83:384x338/1400x932/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/DUBEQFQ6C5GEZGRNRTOC6RTOB4.jpg
-wget --tries=2 -O male_murders_7.jpg https://www.concordmonitor.com/getattachment/b7e3ac17-ccea-4299-87c2-bf6583a9d0de/MurderIndicts-cm-110219-ph01
-wget --tries=2 -O male_murders_8.jpg http://static-20.sinclairstoryline.com/resources/media/1601af6d-3d51-48c5-a501-6912293ca46e-large16x9_Bernard.JPG?1566945274900
-wget --tries=2 -O male_murders_9.jpg https://cdn.abcotvs.com/dip/images/5597788_100619-wabc-homelessperp-img.jpg?w=800&r=16%3A9
+wget --tries=2 --timeout=10 -O male_murders_0.jpg https://s.abcnews.com/images/GMA/180729_gma_reshef4_hpMain_16x9_992.jpg
+wget --tries=2 --timeout=10 -O male_murders_1.jpg https://www.irishtimes.com/polopoly_fs/1.2477283.1450959876!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
+wget --tries=2 --timeout=10 -O male_murders_2.jpg https://www.insideedition.com/sites/default/files/styles/931x523/public/images/2019-08/082319-serial-killer-executed-1280x720.jpg?h=c673cd1c&itok=fN-q9wUT
+wget --tries=2 --timeout=10 -O male_murders_3.jpg https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2019/08/29/c80c273c-ca26-11e9-b4e3-f796e392de6b_image_hires_184929.jpg?itok=ok6VtL59&v=1567075774
+wget --tries=2 --timeout=10 -O male_murders_4.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNhvwZqMLZ8G-IP1wHIAkKL3V4xzpJhzjEWYGIK1tMkYvFt34&s
+wget --tries=2 --timeout=10 -O male_murders_5.jpg https://www.concordmonitor.com/getattachment/b7e3ac17-ccea-4299-87c2-bf6583a9d0de/MurderIndicts-cm-110219-ph01
+wget --tries=2 --timeout=10 -O male_murders_6.jpg https://www.inquirer.com/resizer/YMbWQxr3DBQlh5u3mMfklxh0bjk=/0x83:384x338/1400x932/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/DUBEQFQ6C5GEZGRNRTOC6RTOB4.jpg
+wget --tries=2 --timeout=10 -O male_murders_7.jpg https://www.concordmonitor.com/getattachment/b7e3ac17-ccea-4299-87c2-bf6583a9d0de/MurderIndicts-cm-110219-ph01
+wget --tries=2 --timeout=10 -O male_murders_8.jpg http://static-20.sinclairstoryline.com/resources/media/1601af6d-3d51-48c5-a501-6912293ca46e-large16x9_Bernard.JPG?1566945274900
+wget --tries=2 --timeout=10 -O male_murders_9.jpg https://cdn.abcotvs.com/dip/images/5597788_100619-wabc-homelessperp-img.jpg?w=800&r=16%3A9
 
-wget --tries=2 -O male_sickness_0.jpg https://images.newindianexpress.com/uploads/user/imagelibrary/2018/5/23/w600X300/MORNING.jpg
-wget --tries=2 -O male_sickness_1.jpg https://secure.i.telegraph.co.uk/multimedia/archive/03035/junior-arnie_3035094b.jpg
-wget --tries=2 -O male_sickness_2.jpg https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/Sofa-sickness-695316.jpg
-wget --tries=2 -O male_sickness_3.jpg http://cdn.24.co.za/files/Cms/General/d/7852/00c34a551f164d83a61b773b477af23e.jpg
-wget --tries=2 -O male_sickness_4.jpg https://c8.alamy.com/comp/J6Y5YG/male-masculine-pain-toilet-cramp-disease-illness-sickness-sick-ill-J6Y5YG.jpg
-wget --tries=2 -O male_sickness_5.jpg https://i.dailymail.co.uk/i/pix/2017/10/03/22/45018C5D00000578-0-image-a-15_1507067859251.jpg
-wget --tries=2 -O male_sickness_6.jpg https://www.boyesturner.com/imagelib/images/Employee-sickness-absence.jpg?1565260008739
-wget --tries=2 -O male_sickness_7.jpg https://static.scientificamerican.com/sciam/cache/file/70A48F4C-7B30-4E3E-B055E2F5800FEF30_source.jpg?w=590&h=800&D9B40CAD-BE00-48DB-973622E9C42D37C3
-wget --tries=2 -O male_sickness_8.jpg https://as2.ftcdn.net/jpg/02/35/30/15/500_F_235301559_j4STlxYAYE8hjy5oQpwi68SkeFPfNgbx.jpg
-wget --tries=2 -O male_sickness_9.jpg https://i.dailymail.co.uk/i/pix/2015/07/24/05/2ACB079600000578-3172918-image-m-39_1437713506795.jpg
+wget --tries=2 --timeout=10 -O male_sickness_0.jpg https://images.newindianexpress.com/uploads/user/imagelibrary/2018/5/23/w600X300/MORNING.jpg
+wget --tries=2 --timeout=10 -O male_sickness_1.jpg https://secure.i.telegraph.co.uk/multimedia/archive/03035/junior-arnie_3035094b.jpg
+wget --tries=2 --timeout=10 -O male_sickness_2.jpg https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/Sofa-sickness-695316.jpg
+wget --tries=2 --timeout=10 -O male_sickness_3.jpg http://cdn.24.co.za/files/Cms/General/d/7852/00c34a551f164d83a61b773b477af23e.jpg
+wget --tries=2 --timeout=10 -O male_sickness_4.jpg https://c8.alamy.com/comp/J6Y5YG/male-masculine-pain-toilet-cramp-disease-illness-sickness-sick-ill-J6Y5YG.jpg
+wget --tries=2 --timeout=10 -O male_sickness_5.jpg https://i.dailymail.co.uk/i/pix/2017/10/03/22/45018C5D00000578-0-image-a-15_1507067859251.jpg
+wget --tries=2 --timeout=10 -O male_sickness_6.jpg https://www.boyesturner.com/imagelib/images/Employee-sickness-absence.jpg?1565260008739
+wget --tries=2 --timeout=10 -O male_sickness_7.jpg https://static.scientificamerican.com/sciam/cache/file/70A48F4C-7B30-4E3E-B055E2F5800FEF30_source.jpg?w=590&h=800&D9B40CAD-BE00-48DB-973622E9C42D37C3
+wget --tries=2 --timeout=10 -O male_sickness_8.jpg https://as2.ftcdn.net/jpg/02/35/30/15/500_F_235301559_j4STlxYAYE8hjy5oQpwi68SkeFPfNgbx.jpg
+wget --tries=2 --timeout=10 -O male_sickness_9.jpg https://i.dailymail.co.uk/i/pix/2015/07/24/05/2ACB079600000578-3172918-image-m-39_1437713506795.jpg
 
-wget --tries=2 -O male_sicknesses_0.jpg https://www.gohealthuc.com/sites/default/files/pictures/man-outdoors-suffering-from-heat.jpg
-wget --tries=2 -O male_sicknesses_1.jpg https://www.providencephysicians-sc.com/Content/Uploads/Providence%20Medical%20Group/images/Content/disappointed%20man.jpg
-wget --tries=2 -O male_sicknesses_2.jpg https://www.cdc.gov/dotw/heart-disease-men/images/main_928px.jpg
-wget --tries=2 -O male_sicknesses_3.jpg https://www.verywellhealth.com/thmb/OmgaXbSMZH0NLLtKkduz5q5DLw4=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-88689474-5942c30a3df78c537b1588e8.jpg
-wget --tries=2 -O male_sicknesses_4.jpg https://ktar.com/wp-content/uploads/2018/06/Vital_4_Men-620x370.jpeg
-wget --tries=2 -O male_sicknesses_5.jpg https://images.everydayhealth.com/images/healthy-living/illnesses-linked-to-vitamin-d-deficiency-1440x810.jpg?w=1110
-wget --tries=2 -O male_sicknesses_6.jpg https://goodmenproject.com/wp-content/uploads/2019/04/shutterstock_1033809220.jpg
-wget --tries=2 -O male_sicknesses_7.jpg https://www.eurekalert.org/multimedia/pub/web/189518_web.jpg
-wget --tries=2 -O male_sicknesses_8.jpg https://www.mymdnow.com/wp-content/uploads/2019/09/mdn-service_pediatric-illnesses.jpg
-wget --tries=2 -O male_sicknesses_9.jpg https://cdn.theatlantic.com/assets/media/img/mt/2019/03/medieval_diseases_3/lead_720_405.jpg?mod=1551992149
+wget --tries=2 --timeout=10 -O male_sicknesses_0.jpg https://www.gohealthuc.com/sites/default/files/pictures/man-outdoors-suffering-from-heat.jpg
+wget --tries=2 --timeout=10 -O male_sicknesses_1.jpg https://www.providencephysicians-sc.com/Content/Uploads/Providence%20Medical%20Group/images/Content/disappointed%20man.jpg
+wget --tries=2 --timeout=10 -O male_sicknesses_2.jpg https://www.cdc.gov/dotw/heart-disease-men/images/main_928px.jpg
+wget --tries=2 --timeout=10 -O male_sicknesses_3.jpg https://www.verywellhealth.com/thmb/OmgaXbSMZH0NLLtKkduz5q5DLw4=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-88689474-5942c30a3df78c537b1588e8.jpg
+wget --tries=2 --timeout=10 -O male_sicknesses_4.jpg https://ktar.com/wp-content/uploads/2018/06/Vital_4_Men-620x370.jpeg
+wget --tries=2 --timeout=10 -O male_sicknesses_5.jpg https://images.everydayhealth.com/images/healthy-living/illnesses-linked-to-vitamin-d-deficiency-1440x810.jpg?w=1110
+wget --tries=2 --timeout=10 -O male_sicknesses_6.jpg https://goodmenproject.com/wp-content/uploads/2019/04/shutterstock_1033809220.jpg
+wget --tries=2 --timeout=10 -O male_sicknesses_7.jpg https://www.eurekalert.org/multimedia/pub/web/189518_web.jpg
+wget --tries=2 --timeout=10 -O male_sicknesses_8.jpg https://www.mymdnow.com/wp-content/uploads/2019/09/mdn-service_pediatric-illnesses.jpg
+wget --tries=2 --timeout=10 -O male_sicknesses_9.jpg https://cdn.theatlantic.com/assets/media/img/mt/2019/03/medieval_diseases_3/lead_720_405.jpg?mod=1551992149
 
-wget --tries=2 -O male_accident_0.jpg https://ak3.picdn.net/shutterstock/videos/20168353/thumb/1.jpg
-wget --tries=2 -O male_accident_1.jpg https://cdn.fstoppers.com/styles/full/s3/media/2019/03/14/nz-transport-seatbelt-crash-survivors-6.jpg
-wget --tries=2 -O male_accident_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwxJ8QPcplbj_sM8vBB5cnsnXbK0FgpPp3WGW_uxjUkg0bhyEi&s
-wget --tries=2 -O male_accident_3.jpg https://www.baltimoresun.com/resizer/T2ewiHWhPFQ237VOIYAlPwWPM4I=/415x581/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/76BXOEYEPJH3VJI7TOGGY6YPTU.jpg
-wget --tries=2 -O male_accident_4.jpg https://www.danezon.com/wp-content/uploads/2019/02/Scott-Adkins-Accident-Man-Black-Jacket.jpg
-wget --tries=2 -O male_accident_5.jpg https://citizen.co.za/wp-content/uploads/2018/11/accident-selfie-525x418.jpg
-wget --tries=2 -O male_accident_6.jpg https://previews.123rf.com/images/tommaso79/tommaso791702/tommaso79170200080/72488572-man-calling-first-aid-after-car-crash-accident.jpg
-wget --tries=2 -O male_accident_7.jpg https://d28vr35rno8k21.cloudfront.net/images/bi_francebanner.png
-wget --tries=2 -O male_accident_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Gwwjtf-9jDPAGBQqu1puGMPjk1LwFcIDUaGSbjC9V9_u6BH2&s
-wget --tries=2 -O male_accident_9.jpg https://www.chicagotribune.com/resizer/fuzDW6c4e1hFLfevYaDqoTcIDmA=/415x343/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/JGHUKR2D4NC3PCTGKUX2N4M2GE.jpg
+wget --tries=2 --timeout=10 -O male_accident_0.jpg https://ak3.picdn.net/shutterstock/videos/20168353/thumb/1.jpg
+wget --tries=2 --timeout=10 -O male_accident_1.jpg https://cdn.fstoppers.com/styles/full/s3/media/2019/03/14/nz-transport-seatbelt-crash-survivors-6.jpg
+wget --tries=2 --timeout=10 -O male_accident_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwxJ8QPcplbj_sM8vBB5cnsnXbK0FgpPp3WGW_uxjUkg0bhyEi&s
+wget --tries=2 --timeout=10 -O male_accident_3.jpg https://www.baltimoresun.com/resizer/T2ewiHWhPFQ237VOIYAlPwWPM4I=/415x581/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/76BXOEYEPJH3VJI7TOGGY6YPTU.jpg
+wget --tries=2 --timeout=10 -O male_accident_4.jpg https://www.danezon.com/wp-content/uploads/2019/02/Scott-Adkins-Accident-Man-Black-Jacket.jpg
+wget --tries=2 --timeout=10 -O male_accident_5.jpg https://citizen.co.za/wp-content/uploads/2018/11/accident-selfie-525x418.jpg
+wget --tries=2 --timeout=10 -O male_accident_6.jpg https://previews.123rf.com/images/tommaso79/tommaso791702/tommaso79170200080/72488572-man-calling-first-aid-after-car-crash-accident.jpg
+wget --tries=2 --timeout=10 -O male_accident_7.jpg https://d28vr35rno8k21.cloudfront.net/images/bi_francebanner.png
+wget --tries=2 --timeout=10 -O male_accident_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Gwwjtf-9jDPAGBQqu1puGMPjk1LwFcIDUaGSbjC9V9_u6BH2&s
+wget --tries=2 --timeout=10 -O male_accident_9.jpg https://www.chicagotribune.com/resizer/fuzDW6c4e1hFLfevYaDqoTcIDmA=/415x343/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/JGHUKR2D4NC3PCTGKUX2N4M2GE.jpg
 
-wget --tries=2 -O male_accidents_0.jpg https://ak3.picdn.net/shutterstock/videos/20168353/thumb/1.jpg
-wget --tries=2 -O male_accidents_1.jpg https://cdn.images.express.co.uk/img/dynamic/80/590x/109891593-387119.jpg
-wget --tries=2 -O male_accidents_2.jpg https://qffc.blob.core.windows.net/images/images/default-source/images/lcarticle_unwrittenrulesaccidents.jpg?sfvrsn=6
-wget --tries=2 -O male_accidents_3.jpg https://www.danielrrosen.com/wp-content/uploads/2017/01/men-and-women-differences-in-fatal-accidents.jpg
-wget --tries=2 -O male_accidents_4.jpg https://www.verywellhealth.com/thmb/gq5O400Y_xpezUXTbT7mcsqYFsk=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-643310546-5bbba31ac9e77c005148c775.jpg
-wget --tries=2 -O male_accidents_5.jpg https://www.macleans.ca/wp-content/uploads/2018/10/MAC10_NAT_NOTE_FUNERAL01-810x445.jpg
-wget --tries=2 -O male_accidents_6.jpg https://akm-img-a-in.tosshub.com/indiatoday/images/story/201904/Salman_Zakir_0_0.jpeg?l2rGF0ka2gcTjR1z8J._NQHlvoEGoENN
-wget --tries=2 -O male_accidents_7.jpg https://apmuc.com/wp-content/uploads/2019/08/male-motorist-with-whiplash-injury-in-car-crash-getting-out-of-vehicle-768x509.jpg
-wget --tries=2 -O male_accidents_8.jpg https://www.verywellhealth.com/thmb/wY_rYr4Zhc2vk6dyVTtpG9ukzoQ=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-482855477-56c8739c3df78cfb378b1481.jpg
-wget --tries=2 -O male_accidents_9.jpg https://www.pe.com/wp-content/uploads/2019/06/RPE-L-FATALFOLO-0605a-1.jpg
+wget --tries=2 --timeout=10 -O male_accidents_0.jpg https://ak3.picdn.net/shutterstock/videos/20168353/thumb/1.jpg
+wget --tries=2 --timeout=10 -O male_accidents_1.jpg https://cdn.images.express.co.uk/img/dynamic/80/590x/109891593-387119.jpg
+wget --tries=2 --timeout=10 -O male_accidents_2.jpg https://qffc.blob.core.windows.net/images/images/default-source/images/lcarticle_unwrittenrulesaccidents.jpg?sfvrsn=6
+wget --tries=2 --timeout=10 -O male_accidents_3.jpg https://www.danielrrosen.com/wp-content/uploads/2017/01/men-and-women-differences-in-fatal-accidents.jpg
+wget --tries=2 --timeout=10 -O male_accidents_4.jpg https://www.verywellhealth.com/thmb/gq5O400Y_xpezUXTbT7mcsqYFsk=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-643310546-5bbba31ac9e77c005148c775.jpg
+wget --tries=2 --timeout=10 -O male_accidents_5.jpg https://www.macleans.ca/wp-content/uploads/2018/10/MAC10_NAT_NOTE_FUNERAL01-810x445.jpg
+wget --tries=2 --timeout=10 -O male_accidents_6.jpg https://akm-img-a-in.tosshub.com/indiatoday/images/story/201904/Salman_Zakir_0_0.jpeg?l2rGF0ka2gcTjR1z8J._NQHlvoEGoENN
+wget --tries=2 --timeout=10 -O male_accidents_7.jpg https://apmuc.com/wp-content/uploads/2019/08/male-motorist-with-whiplash-injury-in-car-crash-getting-out-of-vehicle-768x509.jpg
+wget --tries=2 --timeout=10 -O male_accidents_8.jpg https://www.verywellhealth.com/thmb/wY_rYr4Zhc2vk6dyVTtpG9ukzoQ=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-482855477-56c8739c3df78cfb378b1481.jpg
+wget --tries=2 --timeout=10 -O male_accidents_9.jpg https://www.pe.com/wp-content/uploads/2019/06/RPE-L-FATALFOLO-0605a-1.jpg
 
-wget --tries=2 -O male_death_0.jpg http://www.idph.state.il.us/menshealth/temple_rub.jpg
-wget --tries=2 -O male_death_1.jpg https://i2-prod.mirror.co.uk/incoming/article14090713.ece/ALTERNATES/s615/1_PAY-CEN-PornHotel-02jpgq.jpg
-wget --tries=2 -O male_death_2.jpg https://www.telegraph.co.uk/content/dam/news/2018/03/19/cirque_trans_NvBQzQNjv4Bq3DWypr8RMDX3WpPka6i7fP0Hc8_rquwDKl4y8VuKX4Q.jpg?imwidth=450
-wget --tries=2 -O male_death_3.jpg https://www.verywellhealth.com/thmb/rPgOZ58ni4ADRw7RzYDQqe2ntlQ=/2552x1926/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/iStock_000060552072_Large-56a5c6d65f9b58b7d0de6c06.jpg
-wget --tries=2 -O male_death_4.jpg https://i.dailymail.co.uk/i/pix/2017/02/22/15/3D7BD3F300000578-4246492-image-m-36_1487778977464.jpg
-wget --tries=2 -O male_death_5.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1687,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1570510275/191007-Montgomery-wrongful-death-tease_gbao6w
-wget --tries=2 -O male_death_6.jpg https://s.hdnux.com/photos/01/07/71/25/18847103/3/920x920.jpg
-wget --tries=2 -O male_death_7.jpg https://ichef.bbci.co.uk/images/ic/720x405/p06pk54h.jpg
-wget --tries=2 -O male_death_8.jpg https://ichef.bbci.co.uk/images/ic/720x405/p07sb308.jpg
-wget --tries=2 -O male_death_9.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2017/07/john_bernecker.jpg
+wget --tries=2 --timeout=10 -O male_death_0.jpg http://www.idph.state.il.us/menshealth/temple_rub.jpg
+wget --tries=2 --timeout=10 -O male_death_1.jpg https://i2-prod.mirror.co.uk/incoming/article14090713.ece/ALTERNATES/s615/1_PAY-CEN-PornHotel-02jpgq.jpg
+wget --tries=2 --timeout=10 -O male_death_2.jpg https://www.telegraph.co.uk/content/dam/news/2018/03/19/cirque_trans_NvBQzQNjv4Bq3DWypr8RMDX3WpPka6i7fP0Hc8_rquwDKl4y8VuKX4Q.jpg?imwidth=450
+wget --tries=2 --timeout=10 -O male_death_3.jpg https://www.verywellhealth.com/thmb/rPgOZ58ni4ADRw7RzYDQqe2ntlQ=/2552x1926/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/iStock_000060552072_Large-56a5c6d65f9b58b7d0de6c06.jpg
+wget --tries=2 --timeout=10 -O male_death_4.jpg https://i.dailymail.co.uk/i/pix/2017/02/22/15/3D7BD3F300000578-4246492-image-m-36_1487778977464.jpg
+wget --tries=2 --timeout=10 -O male_death_5.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1687,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1570510275/191007-Montgomery-wrongful-death-tease_gbao6w
+wget --tries=2 --timeout=10 -O male_death_6.jpg https://s.hdnux.com/photos/01/07/71/25/18847103/3/920x920.jpg
+wget --tries=2 --timeout=10 -O male_death_7.jpg https://ichef.bbci.co.uk/images/ic/720x405/p06pk54h.jpg
+wget --tries=2 --timeout=10 -O male_death_8.jpg https://ichef.bbci.co.uk/images/ic/720x405/p07sb308.jpg
+wget --tries=2 --timeout=10 -O male_death_9.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2017/07/john_bernecker.jpg
 
-wget --tries=2 -O male_deaths_0.jpg https://storage.googleapis.com/afs-prod/media/e03632ab724f47cbb2f91e4ad5fc8885/2000.jpeg
-wget --tries=2 -O male_deaths_1.jpg https://storage.googleapis.com/afs-prod/media/7d0ebcc64f5c462eb6d93fee8f87db0c/2200.jpeg
-wget --tries=2 -O male_deaths_2.jpg https://cdn.newsday.com/polopoly_fs/1.37401650.1570835281!/httpImage/image.jpg_gen/derivatives/landscape_768/image.jpg
-wget --tries=2 -O male_deaths_3.jpg https://cdn.newsday.com/polopoly_fs/1.35101084.1566005291!/httpImage/image.jpg_gen/derivatives/display_960/image.jpg
-wget --tries=2 -O male_deaths_4.jpg https://cbsnews1.cbsistatic.com/hub/i/2017/09/17/97941168-5b69-4389-bca9-1f0f9e0b2a3f/baton-rouge-mug.jpg
-wget --tries=2 -O male_deaths_5.jpg https://s.abcnews.com/images/US/WireAP_e03632ab724f47cbb2f91e4ad5fc8885_16x9_992.jpg
-wget --tries=2 -O male_deaths_6.jpg https://www.bostonherald.com/wp-content/uploads/2019/01/AP19008799568757-e1547039566216.jpg?w=595
-wget --tries=2 -O male_deaths_7.jpg https://www.inquirer.com/resizer/1HO9jG_qOK_R6vHD2Gm9GzrYlU4=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/QWPRXLTE3RHHRJA26AITV4H7ZM.jpg
-wget --tries=2 -O male_deaths_8.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/TIr77lK9e1LkDiCF9-SspebACV0=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/M4OAJTVPXEI6TI6225BM4E6H7E.jpg
-wget --tries=2 -O male_deaths_9.jpg https://storage.googleapis.com/afs-prod/media/media:5c1053ddcd544be6b00a8c18f3d2d4ad/3000.jpeg
+wget --tries=2 --timeout=10 -O male_deaths_0.jpg https://storage.googleapis.com/afs-prod/media/e03632ab724f47cbb2f91e4ad5fc8885/2000.jpeg
+wget --tries=2 --timeout=10 -O male_deaths_1.jpg https://storage.googleapis.com/afs-prod/media/7d0ebcc64f5c462eb6d93fee8f87db0c/2200.jpeg
+wget --tries=2 --timeout=10 -O male_deaths_2.jpg https://cdn.newsday.com/polopoly_fs/1.37401650.1570835281!/httpImage/image.jpg_gen/derivatives/landscape_768/image.jpg
+wget --tries=2 --timeout=10 -O male_deaths_3.jpg https://cdn.newsday.com/polopoly_fs/1.35101084.1566005291!/httpImage/image.jpg_gen/derivatives/display_960/image.jpg
+wget --tries=2 --timeout=10 -O male_deaths_4.jpg https://cbsnews1.cbsistatic.com/hub/i/2017/09/17/97941168-5b69-4389-bca9-1f0f9e0b2a3f/baton-rouge-mug.jpg
+wget --tries=2 --timeout=10 -O male_deaths_5.jpg https://s.abcnews.com/images/US/WireAP_e03632ab724f47cbb2f91e4ad5fc8885_16x9_992.jpg
+wget --tries=2 --timeout=10 -O male_deaths_6.jpg https://www.bostonherald.com/wp-content/uploads/2019/01/AP19008799568757-e1547039566216.jpg?w=595
+wget --tries=2 --timeout=10 -O male_deaths_7.jpg https://www.inquirer.com/resizer/1HO9jG_qOK_R6vHD2Gm9GzrYlU4=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/QWPRXLTE3RHHRJA26AITV4H7ZM.jpg
+wget --tries=2 --timeout=10 -O male_deaths_8.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/TIr77lK9e1LkDiCF9-SspebACV0=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/M4OAJTVPXEI6TI6225BM4E6H7E.jpg
+wget --tries=2 --timeout=10 -O male_deaths_9.jpg https://storage.googleapis.com/afs-prod/media/media:5c1053ddcd544be6b00a8c18f3d2d4ad/3000.jpeg
 
-wget --tries=2 -O male_grief_0.jpg https://decorative-urns.com/cremation-blog/wp-content/uploads/2011/08/malegrief.jpg
-wget --tries=2 -O male_grief_1.jpg https://www.chaptershealth.org/wp-content/uploads/2019/12/191230-malegrief-cover-crop.jpg
-wget --tries=2 -O male_grief_2.jpg https://www.dreadcentral.com/wp-content/uploads/2019/05/ScreenshotCatharsis-1024x497.png
-wget --tries=2 -O male_grief_3.jpg https://www.psychology.org.au/getmedia/125e646b-029b-422b-83f5-95cfb243f5f8/APS-Grief-diverse-male-1000x500.jpg?width=1000&height=500&ext=.jpg%20alt=
-wget --tries=2 -O male_grief_4.jpg https://goodmenproject.com/wp-content/uploads/2019/11/shutterstock_1450307843-1.jpg
-wget --tries=2 -O male_grief_5.jpg https://s3-eu-west-2.amazonaws.com/metro-news-s3-prod/wp-content/uploads/2019/12/Header_2859421_16.9-1024x576.jpg
-wget --tries=2 -O male_grief_6.jpg https://www1.cbn.com/sites/default/files/styles/original/public/thinking_man_SI.jpg?itok=IMdFX3Vq
-wget --tries=2 -O male_grief_7.jpg https://www.chaptershealth.org/wp-content/uploads/2019/12/191230-malegrief-side.jpg
-wget --tries=2 -O male_grief_8.jpg http://fortheloveofchristi.org/wp-content/uploads/2013/06/MaxDadAbe.jpg
-wget --tries=2 -O male_grief_9.jpg https://www.newportacademy.com/wp-content/uploads/Resources-treatment-teen-mental-health-treatment-dealing-with-grief-and-substance-abuse-hero.jpg
+wget --tries=2 --timeout=10 -O male_grief_0.jpg https://decorative-urns.com/cremation-blog/wp-content/uploads/2011/08/malegrief.jpg
+wget --tries=2 --timeout=10 -O male_grief_1.jpg https://www.chaptershealth.org/wp-content/uploads/2019/12/191230-malegrief-cover-crop.jpg
+wget --tries=2 --timeout=10 -O male_grief_2.jpg https://www.dreadcentral.com/wp-content/uploads/2019/05/ScreenshotCatharsis-1024x497.png
+wget --tries=2 --timeout=10 -O male_grief_3.jpg https://www.psychology.org.au/getmedia/125e646b-029b-422b-83f5-95cfb243f5f8/APS-Grief-diverse-male-1000x500.jpg?width=1000&height=500&ext=.jpg%20alt=
+wget --tries=2 --timeout=10 -O male_grief_4.jpg https://goodmenproject.com/wp-content/uploads/2019/11/shutterstock_1450307843-1.jpg
+wget --tries=2 --timeout=10 -O male_grief_5.jpg https://s3-eu-west-2.amazonaws.com/metro-news-s3-prod/wp-content/uploads/2019/12/Header_2859421_16.9-1024x576.jpg
+wget --tries=2 --timeout=10 -O male_grief_6.jpg https://www1.cbn.com/sites/default/files/styles/original/public/thinking_man_SI.jpg?itok=IMdFX3Vq
+wget --tries=2 --timeout=10 -O male_grief_7.jpg https://www.chaptershealth.org/wp-content/uploads/2019/12/191230-malegrief-side.jpg
+wget --tries=2 --timeout=10 -O male_grief_8.jpg http://fortheloveofchristi.org/wp-content/uploads/2013/06/MaxDadAbe.jpg
+wget --tries=2 --timeout=10 -O male_grief_9.jpg https://www.newportacademy.com/wp-content/uploads/Resources-treatment-teen-mental-health-treatment-dealing-with-grief-and-substance-abuse-hero.jpg
 
-wget --tries=2 -O male_poison_0.jpg https://i.pinimg.com/originals/c3/c3/09/c3c309edaf8168f19cc43b53c9adfd6e.jpg
-wget --tries=2 -O male_poison_1.jpg https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d7b4c3d-6b47-4460-84d6-d53c00b434fa/d5s9r0b-f39eb348-f02e-412f-85b2-6fdc9e9ce971.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkN2I0YzNkLTZiNDctNDQ2MC04NGQ2LWQ1M2MwMGI0MzRmYVwvZDVzOXIwYi1mMzllYjM0OC1mMDJlLTQxMmYtODViMi02ZmRjOWU5Y2U5NzEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oVLlcK0xlVBJmYNNl0lQ3Wj2OyAPNZSb32q3-Wag2h8
-wget --tries=2 -O male_poison_2.jpg https://i.pinimg.com/originals/e6/6f/1d/e66f1d6933341eee68424f4785d6d9e0.jpg
-wget --tries=2 -O male_poison_3.jpg https://pbs.twimg.com/media/D65TZBHVUAEpM_x.jpg
-wget --tries=2 -O male_poison_4.jpg https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d7b4c3d-6b47-4460-84d6-d53c00b434fa/d5s9qdr-040e1fd1-7384-49fd-895d-0a1d2032b40f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkN2I0YzNkLTZiNDctNDQ2MC04NGQ2LWQ1M2MwMGI0MzRmYVwvZDVzOXFkci0wNDBlMWZkMS03Mzg0LTQ5ZmQtODk1ZC0wYTFkMjAzMmI0MGYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.L_h7Bvhsge9JKSIRUUmtA5gcvyFOxdvXEUI0al35Wk8
-wget --tries=2 -O male_poison_5.jpg https://i.pinimg.com/originals/67/e3/5d/67e35db3b0db3eceb6955b53fd5136f8.jpg
-wget --tries=2 -O male_poison_6.jpg https://i.ytimg.com/vi/hF6lAUmzvd4/hqdefault.jpg
-wget --tries=2 -O male_poison_7.jpg https://hushcomics1.files.wordpress.com/2014/06/male-poison-ivy.jpg?w=269
-wget --tries=2 -O male_poison_8.jpg http://pm1.narvii.com/6442/fcb9e7ed7ae27657a2266ae7b59b01f6e0906a2a_00.jpg
-wget --tries=2 -O male_poison_9.jpg https://pbs.twimg.com/media/D_cXIkcX4AAmNGM.jpg
+wget --tries=2 --timeout=10 -O male_poison_0.jpg https://i.pinimg.com/originals/c3/c3/09/c3c309edaf8168f19cc43b53c9adfd6e.jpg
+wget --tries=2 --timeout=10 -O male_poison_1.jpg https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d7b4c3d-6b47-4460-84d6-d53c00b434fa/d5s9r0b-f39eb348-f02e-412f-85b2-6fdc9e9ce971.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkN2I0YzNkLTZiNDctNDQ2MC04NGQ2LWQ1M2MwMGI0MzRmYVwvZDVzOXIwYi1mMzllYjM0OC1mMDJlLTQxMmYtODViMi02ZmRjOWU5Y2U5NzEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oVLlcK0xlVBJmYNNl0lQ3Wj2OyAPNZSb32q3-Wag2h8
+wget --tries=2 --timeout=10 -O male_poison_2.jpg https://i.pinimg.com/originals/e6/6f/1d/e66f1d6933341eee68424f4785d6d9e0.jpg
+wget --tries=2 --timeout=10 -O male_poison_3.jpg https://pbs.twimg.com/media/D65TZBHVUAEpM_x.jpg
+wget --tries=2 --timeout=10 -O male_poison_4.jpg https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d7b4c3d-6b47-4460-84d6-d53c00b434fa/d5s9qdr-040e1fd1-7384-49fd-895d-0a1d2032b40f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkN2I0YzNkLTZiNDctNDQ2MC04NGQ2LWQ1M2MwMGI0MzRmYVwvZDVzOXFkci0wNDBlMWZkMS03Mzg0LTQ5ZmQtODk1ZC0wYTFkMjAzMmI0MGYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.L_h7Bvhsge9JKSIRUUmtA5gcvyFOxdvXEUI0al35Wk8
+wget --tries=2 --timeout=10 -O male_poison_5.jpg https://i.pinimg.com/originals/67/e3/5d/67e35db3b0db3eceb6955b53fd5136f8.jpg
+wget --tries=2 --timeout=10 -O male_poison_6.jpg https://i.ytimg.com/vi/hF6lAUmzvd4/hqdefault.jpg
+wget --tries=2 --timeout=10 -O male_poison_7.jpg https://hushcomics1.files.wordpress.com/2014/06/male-poison-ivy.jpg?w=269
+wget --tries=2 --timeout=10 -O male_poison_8.jpg http://pm1.narvii.com/6442/fcb9e7ed7ae27657a2266ae7b59b01f6e0906a2a_00.jpg
+wget --tries=2 --timeout=10 -O male_poison_9.jpg https://pbs.twimg.com/media/D_cXIkcX4AAmNGM.jpg
 
-wget --tries=2 -O male_poisons_0.jpg https://cdn.cnn.com/cnnnext/dam/assets/190404155608-david-xu-mugshot-exlarge-169.jpg
-wget --tries=2 -O male_poisons_1.jpg https://www.gainesville.com/storyimage/LK/20191029/NEWS/191027533/AR/0/AR-191027533.jpg
-wget --tries=2 -O male_poisons_2.jpg https://thenypost.files.wordpress.com/2018/12/lehigh-roomate-poisoned.jpg?quality=80&strip=all
-wget --tries=2 -O male_poisons_3.jpg https://media4.s-nbcnews.com/j/newscms/2019_31/2957731/190802-brian-kozlowski-ew-317p_d417e8f0886b9d7991a96c8f74874a89.fit-760w.jpg
-wget --tries=2 -O male_poisons_4.jpg https://cbsnews2.cbsistatic.com/hub/i/r/2011/02/17/15a3e148-a738-11e2-a3f0-029118418759/thumbnail/1200x630/9c592dc244fb6165db485306b23b9b57/arrest-made-au-tree-poisioning-case.jpeg
-wget --tries=2 -O male_poisons_5.jpg https://www.gannett-cdn.com/-mm-/bfc64372f8662e69c390e699134cf07c98c9644c/c=37-0-384-261/local/-/media/2019/04/29/INGroup/Henderson/636921289314172353-Roderick.jpg?width=640
-wget --tries=2 -O male_poisons_6.jpg https://www.thesun.co.uk/wp-content/uploads/2018/04/nintchdbpict000396275292-e1522681556886.jpg
-wget --tries=2 -O male_poisons_7.jpg https://media3.s-nbcnews.com/j/newscms/2017_48/2242766/171129-slobodan-praljak-mc-1152_5c8db959eec444f9b61cbc93b7f52aad.fit-760w.JPG
-wget --tries=2 -O male_poisons_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhYPigCEuWccYKSQZ3SSj8fTKKe6PRQgsq75ewaPYRtuFzWMdmw&s
-wget --tries=2 -O male_poisons_9.jpg https://ca-times.brightspotcdn.com/dims4/default/493cb98/2147483647/strip/true/crop/300x459+0+0/resize/840x1285!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F94%2F2a%2F9a5d9c5b5c1fcab8ded6b00ab198%2Flat-me-overton7-dmnqqigw20090606170346
+wget --tries=2 --timeout=10 -O male_poisons_0.jpg https://cdn.cnn.com/cnnnext/dam/assets/190404155608-david-xu-mugshot-exlarge-169.jpg
+wget --tries=2 --timeout=10 -O male_poisons_1.jpg https://www.gainesville.com/storyimage/LK/20191029/NEWS/191027533/AR/0/AR-191027533.jpg
+wget --tries=2 --timeout=10 -O male_poisons_2.jpg https://thenypost.files.wordpress.com/2018/12/lehigh-roomate-poisoned.jpg?quality=80&strip=all
+wget --tries=2 --timeout=10 -O male_poisons_3.jpg https://media4.s-nbcnews.com/j/newscms/2019_31/2957731/190802-brian-kozlowski-ew-317p_d417e8f0886b9d7991a96c8f74874a89.fit-760w.jpg
+wget --tries=2 --timeout=10 -O male_poisons_4.jpg https://cbsnews2.cbsistatic.com/hub/i/r/2011/02/17/15a3e148-a738-11e2-a3f0-029118418759/thumbnail/1200x630/9c592dc244fb6165db485306b23b9b57/arrest-made-au-tree-poisioning-case.jpeg
+wget --tries=2 --timeout=10 -O male_poisons_5.jpg https://www.gannett-cdn.com/-mm-/bfc64372f8662e69c390e699134cf07c98c9644c/c=37-0-384-261/local/-/media/2019/04/29/INGroup/Henderson/636921289314172353-Roderick.jpg?width=640
+wget --tries=2 --timeout=10 -O male_poisons_6.jpg https://www.thesun.co.uk/wp-content/uploads/2018/04/nintchdbpict000396275292-e1522681556886.jpg
+wget --tries=2 --timeout=10 -O male_poisons_7.jpg https://media3.s-nbcnews.com/j/newscms/2017_48/2242766/171129-slobodan-praljak-mc-1152_5c8db959eec444f9b61cbc93b7f52aad.fit-760w.JPG
+wget --tries=2 --timeout=10 -O male_poisons_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhYPigCEuWccYKSQZ3SSj8fTKKe6PRQgsq75ewaPYRtuFzWMdmw&s
+wget --tries=2 --timeout=10 -O male_poisons_9.jpg https://ca-times.brightspotcdn.com/dims4/default/493cb98/2147483647/strip/true/crop/300x459+0+0/resize/840x1285!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F94%2F2a%2F9a5d9c5b5c1fcab8ded6b00ab198%2Flat-me-overton7-dmnqqigw20090606170346
 
-wget --tries=2 -O male_stink_0.jpg https://www.mensjournal.com/wp-content/uploads/mf/sweaty-man-1280.jpg
-wget --tries=2 -O male_stink_1.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1cs7n6ief1HJodWQx_gPoDFnPsJz07HDSkwsiTvrBZq93AAPS9g&s
-wget --tries=2 -O male_stink_2.jpg https://post.healthline.com/wp-content/uploads/2019/12/4386-above_shot_male_looking_away-1200x628-FACEBOOK.jpg
-wget --tries=2 -O male_stink_3.jpg https://cdn-ds.com/blogs-media/sites/283/2018/02/12154527/why-does-my-car-stink_b.jpg
-wget --tries=2 -O male_stink_4.jpg https://cdn.hswstatic.com/gif/men-smell-different-1.jpg
-wget --tries=2 -O male_stink_5.jpg https://regmedia.co.uk/2016/02/25/bad_smell_teaser.jpg?x=442&y=293&crop=1
-wget --tries=2 -O male_stink_6.jpg https://st4.depositphotos.com/15208558/27896/i/1600/depositphotos_278964942-stock-photo-a-young-man-holds-his.jpg
-wget --tries=2 -O male_stink_7.jpg https://previews.123rf.com/images/koldunov/koldunov1812/koldunov181200001/114194171-displeased-brunet-male-plugs-nose-as-smells-something-stink-and-unpleasant-young-attractive-man-hate.jpg
-wget --tries=2 -O male_stink_8.jpg https://c8.alamy.com/comp/P54H51/man-keeps-socks-bad-smell-from-worn-socks-stench-stink-smell-reek-P54H51.jpg
-wget --tries=2 -O male_stink_9.jpg https://www.capitalgazette.com/resizer/enw1pRwi1GjIfDedkxxWq8lkOdE=/415x275/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/BTE7FT7BM5AYDHI3MQ3VIHQTGI.jpg
+wget --tries=2 --timeout=10 -O male_stink_0.jpg https://www.mensjournal.com/wp-content/uploads/mf/sweaty-man-1280.jpg
+wget --tries=2 --timeout=10 -O male_stink_1.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1cs7n6ief1HJodWQx_gPoDFnPsJz07HDSkwsiTvrBZq93AAPS9g&s
+wget --tries=2 --timeout=10 -O male_stink_2.jpg https://post.healthline.com/wp-content/uploads/2019/12/4386-above_shot_male_looking_away-1200x628-FACEBOOK.jpg
+wget --tries=2 --timeout=10 -O male_stink_3.jpg https://cdn-ds.com/blogs-media/sites/283/2018/02/12154527/why-does-my-car-stink_b.jpg
+wget --tries=2 --timeout=10 -O male_stink_4.jpg https://cdn.hswstatic.com/gif/men-smell-different-1.jpg
+wget --tries=2 --timeout=10 -O male_stink_5.jpg https://regmedia.co.uk/2016/02/25/bad_smell_teaser.jpg?x=442&y=293&crop=1
+wget --tries=2 --timeout=10 -O male_stink_6.jpg https://st4.depositphotos.com/15208558/27896/i/1600/depositphotos_278964942-stock-photo-a-young-man-holds-his.jpg
+wget --tries=2 --timeout=10 -O male_stink_7.jpg https://previews.123rf.com/images/koldunov/koldunov1812/koldunov181200001/114194171-displeased-brunet-male-plugs-nose-as-smells-something-stink-and-unpleasant-young-attractive-man-hate.jpg
+wget --tries=2 --timeout=10 -O male_stink_8.jpg https://c8.alamy.com/comp/P54H51/man-keeps-socks-bad-smell-from-worn-socks-stench-stink-smell-reek-P54H51.jpg
+wget --tries=2 --timeout=10 -O male_stink_9.jpg https://www.capitalgazette.com/resizer/enw1pRwi1GjIfDedkxxWq8lkOdE=/415x275/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/BTE7FT7BM5AYDHI3MQ3VIHQTGI.jpg
 
-wget --tries=2 -O male_assault_0.jpg https://static.boredpanda.com/blog/wp-content/uploads/2017/02/male-sexual-assault-survivors-project-unbreakable-33-5899d5629cb8f__605.jpg
-wget --tries=2 -O male_assault_1.jpg https://www.unilad.co.uk/wp-content/uploads/2017/02/655-project-unbreakable-9.jpg
-wget --tries=2 -O male_assault_2.jpg https://www.unilad.co.uk/wp-content/uploads/2017/02/1456-project-unbreakable-6.jpg
-wget --tries=2 -O male_assault_3.jpg https://psmag.com/.image/t_share/MTU5MjE0OTA4NzY2OTU0OTI0/dpcjz5awsaemngu.jpg
-wget --tries=2 -O male_assault_4.jpg https://static.attn.com/sites/default/files/tumblr_nld8ptz7zJ1r65rllo1_1280.jpg?auto=format&crop=faces&fit=crop&q=60&w=736&ixlib=js-1.1.0
-wget --tries=2 -O male_assault_5.jpg https://i.ytimg.com/vi/S8OIgAPuynY/maxresdefault.jpg
-wget --tries=2 -O male_assault_6.jpg https://static.artfido.com/2018/09/male-sexual-assault-survivors-project-unbreakable-021.jpg
-wget --tries=2 -O male_assault_7.jpg https://marquettewire.org/wp-content/uploads/2018/02/4Z3A7569-900x600.jpg
-wget --tries=2 -O male_assault_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQ6FRVW4bk5T3CK_O5RQHZ4yBFWM95qNPzMHiovnyy3ZnK1_10g&s
-wget --tries=2 -O male_assault_9.jpg https://static01.nyt.com/images/2018/09/04/magazine/MARINE_3/MARINE_3-articleLarge.png?quality=90&auto=webp
+wget --tries=2 --timeout=10 -O male_assault_0.jpg https://static.boredpanda.com/blog/wp-content/uploads/2017/02/male-sexual-assault-survivors-project-unbreakable-33-5899d5629cb8f__605.jpg
+wget --tries=2 --timeout=10 -O male_assault_1.jpg https://www.unilad.co.uk/wp-content/uploads/2017/02/655-project-unbreakable-9.jpg
+wget --tries=2 --timeout=10 -O male_assault_2.jpg https://www.unilad.co.uk/wp-content/uploads/2017/02/1456-project-unbreakable-6.jpg
+wget --tries=2 --timeout=10 -O male_assault_3.jpg https://psmag.com/.image/t_share/MTU5MjE0OTA4NzY2OTU0OTI0/dpcjz5awsaemngu.jpg
+wget --tries=2 --timeout=10 -O male_assault_4.jpg https://static.attn.com/sites/default/files/tumblr_nld8ptz7zJ1r65rllo1_1280.jpg?auto=format&crop=faces&fit=crop&q=60&w=736&ixlib=js-1.1.0
+wget --tries=2 --timeout=10 -O male_assault_5.jpg https://i.ytimg.com/vi/S8OIgAPuynY/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_assault_6.jpg https://static.artfido.com/2018/09/male-sexual-assault-survivors-project-unbreakable-021.jpg
+wget --tries=2 --timeout=10 -O male_assault_7.jpg https://marquettewire.org/wp-content/uploads/2018/02/4Z3A7569-900x600.jpg
+wget --tries=2 --timeout=10 -O male_assault_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQ6FRVW4bk5T3CK_O5RQHZ4yBFWM95qNPzMHiovnyy3ZnK1_10g&s
+wget --tries=2 --timeout=10 -O male_assault_9.jpg https://static01.nyt.com/images/2018/09/04/magazine/MARINE_3/MARINE_3-articleLarge.png?quality=90&auto=webp
 
-wget --tries=2 -O male_assaults_0.jpg https://stmedia.stimg.co/ows_157438184488293.jpg?fit=crop&crop=faces
-wget --tries=2 -O male_assaults_1.jpg https://www.courant.com/resizer/3PzScrKWs8O-HA4pC07KPNRl1Uc=/415x501/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/4DJ5V7ZTHNBLBCWSN6RVTXCCJQ.png
-wget --tries=2 -O male_assaults_2.jpg https://s.hdnux.com/photos/01/07/11/02/18649263/8/920x920.jpg
-wget --tries=2 -O male_assaults_3.jpg https://patch.com/img/cdn20/users/22877169/20190322/113920/styles/raw/public/processed_images/everett_julian_mar2019_3-1553269067-6711.jpg
-wget --tries=2 -O male_assaults_4.jpg https://www.gannett-cdn.com/presto/2019/11/15/PPES/90c09e4c-c5f4-458b-8470-5f504220e1c2-DIXON_JEFFREY_19-1-03.jpg?width=640
-wget --tries=2 -O male_assaults_5.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/5d48c4328c667.image_.jpg?ve=1&tl=1
-wget --tries=2 -O male_assaults_6.jpg https://www.capitalgazette.com/resizer/RWl7cLc-CCFnFQXut0iZ3phorDQ=/415x518/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/TVIS2WPVBND6PAQX5WHQYDS6MY.jpg
-wget --tries=2 -O male_assaults_7.jpg https://psmag.com/.image/t_share/MTU5MjE0OTA4NzY2OTU0OTI0/dpcjz5awsaemngu.jpg
-wget --tries=2 -O male_assaults_8.jpg https://www.courant.com/resizer/P3rjPDnlFs_1yY3tUpLcbrUVDqI=/1200x1398/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/AUU7LJNYTNCZXKKU64MDQ4SJ3Q.JPG
-wget --tries=2 -O male_assaults_9.jpg https://triblive.com/wp-content/uploads/2019/07/1463957_web1_DANIELS--2-.jpg
+wget --tries=2 --timeout=10 -O male_assaults_0.jpg https://stmedia.stimg.co/ows_157438184488293.jpg?fit=crop&crop=faces
+wget --tries=2 --timeout=10 -O male_assaults_1.jpg https://www.courant.com/resizer/3PzScrKWs8O-HA4pC07KPNRl1Uc=/415x501/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/4DJ5V7ZTHNBLBCWSN6RVTXCCJQ.png
+wget --tries=2 --timeout=10 -O male_assaults_2.jpg https://s.hdnux.com/photos/01/07/11/02/18649263/8/920x920.jpg
+wget --tries=2 --timeout=10 -O male_assaults_3.jpg https://patch.com/img/cdn20/users/22877169/20190322/113920/styles/raw/public/processed_images/everett_julian_mar2019_3-1553269067-6711.jpg
+wget --tries=2 --timeout=10 -O male_assaults_4.jpg https://www.gannett-cdn.com/presto/2019/11/15/PPES/90c09e4c-c5f4-458b-8470-5f504220e1c2-DIXON_JEFFREY_19-1-03.jpg?width=640
+wget --tries=2 --timeout=10 -O male_assaults_5.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/5d48c4328c667.image_.jpg?ve=1&tl=1
+wget --tries=2 --timeout=10 -O male_assaults_6.jpg https://www.capitalgazette.com/resizer/RWl7cLc-CCFnFQXut0iZ3phorDQ=/415x518/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/TVIS2WPVBND6PAQX5WHQYDS6MY.jpg
+wget --tries=2 --timeout=10 -O male_assaults_7.jpg https://psmag.com/.image/t_share/MTU5MjE0OTA4NzY2OTU0OTI0/dpcjz5awsaemngu.jpg
+wget --tries=2 --timeout=10 -O male_assaults_8.jpg https://www.courant.com/resizer/P3rjPDnlFs_1yY3tUpLcbrUVDqI=/1200x1398/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/AUU7LJNYTNCZXKKU64MDQ4SJ3Q.JPG
+wget --tries=2 --timeout=10 -O male_assaults_9.jpg https://triblive.com/wp-content/uploads/2019/07/1463957_web1_DANIELS--2-.jpg
 
-wget --tries=2 -O male_disaster_0.jpg https://www.worldvision.org/wp-content/uploads/Santiago_1.jpg
-wget --tries=2 -O male_disaster_1.jpg https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2014/07/19629/image1170x530cropped.jpg
-wget --tries=2 -O male_disaster_2.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2016/03/screen_shot_2016-03-23_at_9.14.30_am.png
-wget --tries=2 -O male_disaster_3.jpg https://static01.nyt.com/images/2015/11/13/arts/thirtythree-1/thirtythree-1-articleLarge.jpg?quality=90&auto=webp
-wget --tries=2 -O male_disaster_4.jpg https://akm-img-a-in.tosshub.com/indiatoday/images/story/201808/kuttanad.jpeg?hYxE3XIZ5r6u4JB0UDc0I.lZInTAIJ3s
-wget --tries=2 -O male_disaster_5.jpg https://www.asianaffairs.in/wp-content/uploads/2018/08/Kerala_Flood_Reuters11-825x542.jpg
-wget --tries=2 -O male_disaster_6.jpg https://www.moneymanagement.org/-/media/money-management/images/blogs/2019/069-steps-to-disaster-recovery.ashx?h=427&w=760&la=en&hash=F4757E190FC530BCCA32A1B9FAC98A1B
-wget --tries=2 -O male_disaster_7.jpg https://image.cnbcfm.com/api/v1/image/104912378-RTS19IY1.jpg?v=1560217257&w=678&h=381
-wget --tries=2 -O male_disaster_8.jpg https://www.brinknews.com/wp-content/uploads/2019/04/editedshutterstock_1025165311.jpg
-wget --tries=2 -O male_disaster_9.jpg https://www.narcity.com/u/2018/03/07/8cd95d2b4ca9baaac00eb4ceeb77a91a53f0798a.png_1200x630.png
+wget --tries=2 --timeout=10 -O male_disaster_0.jpg https://www.worldvision.org/wp-content/uploads/Santiago_1.jpg
+wget --tries=2 --timeout=10 -O male_disaster_1.jpg https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2014/07/19629/image1170x530cropped.jpg
+wget --tries=2 --timeout=10 -O male_disaster_2.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2016/03/screen_shot_2016-03-23_at_9.14.30_am.png
+wget --tries=2 --timeout=10 -O male_disaster_3.jpg https://static01.nyt.com/images/2015/11/13/arts/thirtythree-1/thirtythree-1-articleLarge.jpg?quality=90&auto=webp
+wget --tries=2 --timeout=10 -O male_disaster_4.jpg https://akm-img-a-in.tosshub.com/indiatoday/images/story/201808/kuttanad.jpeg?hYxE3XIZ5r6u4JB0UDc0I.lZInTAIJ3s
+wget --tries=2 --timeout=10 -O male_disaster_5.jpg https://www.asianaffairs.in/wp-content/uploads/2018/08/Kerala_Flood_Reuters11-825x542.jpg
+wget --tries=2 --timeout=10 -O male_disaster_6.jpg https://www.moneymanagement.org/-/media/money-management/images/blogs/2019/069-steps-to-disaster-recovery.ashx?h=427&w=760&la=en&hash=F4757E190FC530BCCA32A1B9FAC98A1B
+wget --tries=2 --timeout=10 -O male_disaster_7.jpg https://image.cnbcfm.com/api/v1/image/104912378-RTS19IY1.jpg?v=1560217257&w=678&h=381
+wget --tries=2 --timeout=10 -O male_disaster_8.jpg https://www.brinknews.com/wp-content/uploads/2019/04/editedshutterstock_1025165311.jpg
+wget --tries=2 --timeout=10 -O male_disaster_9.jpg https://www.narcity.com/u/2018/03/07/8cd95d2b4ca9baaac00eb4ceeb77a91a53f0798a.png_1200x630.png
 
-wget --tries=2 -O male_disasters_0.jpg https://www.brinknews.com/wp-content/uploads/2019/04/editedshutterstock_1025165311.jpg
-wget --tries=2 -O male_disasters_1.jpg https://i.cbc.ca/1.2857207.1417527934!/fileImage/httpImage/image.jpg_gen/derivatives/4x3_1180/bhopal-tragedy.jpg
-wget --tries=2 -O male_disasters_2.jpg https://www.irishtimes.com/polopoly_fs/1.3790920.1549966504!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
-wget --tries=2 -O male_disasters_3.jpg https://image.businessinsider.com/5cc9e9e3021b4c195f5a1bd2?width=1100&format=jpeg&auto=webp
-wget --tries=2 -O male_disasters_4.jpg https://media.spokesman.com/photos/2018/11/24/Governors_Natural_Disasters.JPG.jpg
-wget --tries=2 -O male_disasters_5.jpg https://www.asianaffairs.in/wp-content/uploads/2018/08/Kerala_Flood_Reuters11-825x542.jpg
-wget --tries=2 -O male_disasters_6.jpg https://static01.nyt.com/images/2019/04/17/business/17TECHUSING-1/merlin_152985636_85f70ac3-b9fb-477c-8b52-dbb7c74292bd-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O male_disasters_7.jpg https://pmcdeadline2.files.wordpress.com/2019/04/dennis-dugan.jpg?w=1000
-wget --tries=2 -O male_disasters_8.jpg https://assets.heart.co.uk/2013/10/low-slung-trousers-1363105188-view-1.jpg
-wget --tries=2 -O male_disasters_9.jpg https://i.pinimg.com/originals/22/22/1d/22221d6444238bff6948b0c08c3d2784.png
+wget --tries=2 --timeout=10 -O male_disasters_0.jpg https://www.brinknews.com/wp-content/uploads/2019/04/editedshutterstock_1025165311.jpg
+wget --tries=2 --timeout=10 -O male_disasters_1.jpg https://i.cbc.ca/1.2857207.1417527934!/fileImage/httpImage/image.jpg_gen/derivatives/4x3_1180/bhopal-tragedy.jpg
+wget --tries=2 --timeout=10 -O male_disasters_2.jpg https://www.irishtimes.com/polopoly_fs/1.3790920.1549966504!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
+wget --tries=2 --timeout=10 -O male_disasters_3.jpg https://image.businessinsider.com/5cc9e9e3021b4c195f5a1bd2?width=1100&format=jpeg&auto=webp
+wget --tries=2 --timeout=10 -O male_disasters_4.jpg https://media.spokesman.com/photos/2018/11/24/Governors_Natural_Disasters.JPG.jpg
+wget --tries=2 --timeout=10 -O male_disasters_5.jpg https://www.asianaffairs.in/wp-content/uploads/2018/08/Kerala_Flood_Reuters11-825x542.jpg
+wget --tries=2 --timeout=10 -O male_disasters_6.jpg https://static01.nyt.com/images/2019/04/17/business/17TECHUSING-1/merlin_152985636_85f70ac3-b9fb-477c-8b52-dbb7c74292bd-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O male_disasters_7.jpg https://pmcdeadline2.files.wordpress.com/2019/04/dennis-dugan.jpg?w=1000
+wget --tries=2 --timeout=10 -O male_disasters_8.jpg https://assets.heart.co.uk/2013/10/low-slung-trousers-1363105188-view-1.jpg
+wget --tries=2 --timeout=10 -O male_disasters_9.jpg https://i.pinimg.com/originals/22/22/1d/22221d6444238bff6948b0c08c3d2784.png
 
-wget --tries=2 -O male_hatred_0.jpg https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_teaser_image/The-Guys-000008013185_Large_0.jpg?itok=wtdD9V_l
-wget --tries=2 -O male_hatred_1.jpg https://dg.imgix.net/author-paul-maxwell-en/square/author-paul-maxwell.png?ts=1452019485&ixlib=rails-4.0.0&auto=format%2Ccompress&fit=min&w=120&h=120&dpr=2&ch=Width%2CDPR
-wget --tries=2 -O male_hatred_2.jpg https://www.returnofkings.com/wp-content/uploads/2014/10/ezra.jpg
-wget --tries=2 -O male_hatred_3.jpg https://static.timesofisrael.com/www/uploads/2018/09/AP18234639813398.jpg
-wget --tries=2 -O male_hatred_4.jpg https://dasg7xwmldix6.cloudfront.net/hostpics/7eb16880-e850-428c-a6e3-f92c01058048_wisdom_supreme.jpg
-wget --tries=2 -O male_hatred_5.jpg https://goodmenproject.com/wp-content/uploads/2019/05/shutterstock_735493468-1.jpg
-wget --tries=2 -O male_hatred_6.jpg https://thumbs.dreamstime.com/z/men-looking-each-other-hatred-contempt-two-angry-despise-blaming-mistake-isolated-white-background-negative-human-52209277.jpg
-wget --tries=2 -O male_hatred_7.jpg https://cdn.cnn.com/cnnnext/dam/assets/140916155312-ali-muhammad-brown-story-top.jpg
-wget --tries=2 -O male_hatred_8.jpg https://image.shutterstock.com/image-photo/violent-angry-man-stares-intense-600w-133770023.jpg
-wget --tries=2 -O male_hatred_9.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2017/08/arnold_schwarzenegger.jpg
+wget --tries=2 --timeout=10 -O male_hatred_0.jpg https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_teaser_image/The-Guys-000008013185_Large_0.jpg?itok=wtdD9V_l
+wget --tries=2 --timeout=10 -O male_hatred_1.jpg https://dg.imgix.net/author-paul-maxwell-en/square/author-paul-maxwell.png?ts=1452019485&ixlib=rails-4.0.0&auto=format%2Ccompress&fit=min&w=120&h=120&dpr=2&ch=Width%2CDPR
+wget --tries=2 --timeout=10 -O male_hatred_2.jpg https://www.returnofkings.com/wp-content/uploads/2014/10/ezra.jpg
+wget --tries=2 --timeout=10 -O male_hatred_3.jpg https://static.timesofisrael.com/www/uploads/2018/09/AP18234639813398.jpg
+wget --tries=2 --timeout=10 -O male_hatred_4.jpg https://dasg7xwmldix6.cloudfront.net/hostpics/7eb16880-e850-428c-a6e3-f92c01058048_wisdom_supreme.jpg
+wget --tries=2 --timeout=10 -O male_hatred_5.jpg https://goodmenproject.com/wp-content/uploads/2019/05/shutterstock_735493468-1.jpg
+wget --tries=2 --timeout=10 -O male_hatred_6.jpg https://thumbs.dreamstime.com/z/men-looking-each-other-hatred-contempt-two-angry-despise-blaming-mistake-isolated-white-background-negative-human-52209277.jpg
+wget --tries=2 --timeout=10 -O male_hatred_7.jpg https://cdn.cnn.com/cnnnext/dam/assets/140916155312-ali-muhammad-brown-story-top.jpg
+wget --tries=2 --timeout=10 -O male_hatred_8.jpg https://image.shutterstock.com/image-photo/violent-angry-man-stares-intense-600w-133770023.jpg
+wget --tries=2 --timeout=10 -O male_hatred_9.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2017/08/arnold_schwarzenegger.jpg
 
-wget --tries=2 -O male_pollute_0.jpg https://cf.ltkcdn.net/greenliving/images/std/212778-675x450-Man-wearing-mask-with-air-pollution.jpg
-wget --tries=2 -O male_pollute_1.jpg https://www.mysuncoast.com/resizer/c24QVcN8N65A261k9RIV4ZZtcyk=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/XPJGOQHCOJEV7BIZZHOP3DRIFU.jpg
-wget --tries=2 -O male_pollute_2.jpg https://www.denverpost.com/wp-content/uploads/2019/08/238b2b847e344a09969d870fd7c0f7cb.jpg?w=525
-wget --tries=2 -O male_pollute_3.jpg https://previews.123rf.com/images/tomwang/tomwang1511/tomwang151100053/48387436-asian-man-wearing-mouth-mask-against-air-pollution.jpg
-wget --tries=2 -O male_pollute_4.jpg https://thumbs.dreamstime.com/z/man-wear-masks-air-pollution-asian-78350668.jpg
-wget --tries=2 -O male_pollute_5.jpg http://everythingconnects.everythingconnec.netdna-cdn.com/uploads/7/0/3/5/7035190/custom_themes/351350437432591491/files/Optimized-airpollutioncarousel1.jpg?1383961205668
-wget --tries=2 -O male_pollute_6.jpg https://image.shutterstock.com/image-photo/woman-wearing-face-mask-because-260nw-1135103138.jpg
-wget --tries=2 -O male_pollute_7.jpg https://static01.nyt.com/images/2018/07/27/climate/27CLI-CAFECLASH1/merlin_141128523_d9fb66e2-b018-48eb-9dd8-d1eab78e025f-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O male_pollute_8.jpg https://www.sltrib.com/resizer/l1hbz9IxyFFyVopgulc3D4sygfI=/0x600/smart/filters:quality\(86\)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/EROSF6FOO5DW5HYUTSINUYT3KY.jpg
-wget --tries=2 -O male_pollute_9.jpg https://c8.alamy.com/comp/2AEHCY5/man-walking-in-city-wearing-mask-against-smog-air-pollution-2AEHCY5.jpg
+wget --tries=2 --timeout=10 -O male_pollute_0.jpg https://cf.ltkcdn.net/greenliving/images/std/212778-675x450-Man-wearing-mask-with-air-pollution.jpg
+wget --tries=2 --timeout=10 -O male_pollute_1.jpg https://www.mysuncoast.com/resizer/c24QVcN8N65A261k9RIV4ZZtcyk=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/XPJGOQHCOJEV7BIZZHOP3DRIFU.jpg
+wget --tries=2 --timeout=10 -O male_pollute_2.jpg https://www.denverpost.com/wp-content/uploads/2019/08/238b2b847e344a09969d870fd7c0f7cb.jpg?w=525
+wget --tries=2 --timeout=10 -O male_pollute_3.jpg https://previews.123rf.com/images/tomwang/tomwang1511/tomwang151100053/48387436-asian-man-wearing-mouth-mask-against-air-pollution.jpg
+wget --tries=2 --timeout=10 -O male_pollute_4.jpg https://thumbs.dreamstime.com/z/man-wear-masks-air-pollution-asian-78350668.jpg
+wget --tries=2 --timeout=10 -O male_pollute_5.jpg http://everythingconnects.everythingconnec.netdna-cdn.com/uploads/7/0/3/5/7035190/custom_themes/351350437432591491/files/Optimized-airpollutioncarousel1.jpg?1383961205668
+wget --tries=2 --timeout=10 -O male_pollute_6.jpg https://image.shutterstock.com/image-photo/woman-wearing-face-mask-because-260nw-1135103138.jpg
+wget --tries=2 --timeout=10 -O male_pollute_7.jpg https://static01.nyt.com/images/2018/07/27/climate/27CLI-CAFECLASH1/merlin_141128523_d9fb66e2-b018-48eb-9dd8-d1eab78e025f-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O male_pollute_8.jpg https://www.sltrib.com/resizer/l1hbz9IxyFFyVopgulc3D4sygfI=/0x600/smart/filters:quality\(86\)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/EROSF6FOO5DW5HYUTSINUYT3KY.jpg
+wget --tries=2 --timeout=10 -O male_pollute_9.jpg https://c8.alamy.com/comp/2AEHCY5/man-walking-in-city-wearing-mask-against-smog-air-pollution-2AEHCY5.jpg
 
-wget --tries=2 -O male_tragedy_0.jpg https://media.voltron.voanews.com/Drupal/01live-166/styles/892x501/s3/2019-12/reuters_south_korea_Cha%20In-ha_03Dec19.jpg?itok=6WsIZCUq
-wget --tries=2 -O male_tragedy_1.jpg https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/0/b8/0b827a56-3669-51cd-ac66-f789b51aab78/58a70b84e6181.preview.png
-wget --tries=2 -O male_tragedy_2.jpg https://www.berggruen.org/wp-content/uploads/2019/10/WP_10_10_19.jpg
-wget --tries=2 -O male_tragedy_3.jpg https://beta.ctvnews.ca/content/dam/ctvnews/images/2019/4/10/1_4374745.jpg?cache_timestamp=1554937897698
-wget --tries=2 -O male_tragedy_4.jpg https://miro.medium.com/max/3096/1*S_s2Cw6WTGJJ0e8-blaW0A.jpeg
-wget --tries=2 -O male_tragedy_5.jpg https://newstalkkzrg.com/wp-content/uploads/2019/11/HACKERJOHN-780x470.png
-wget --tries=2 -O male_tragedy_6.jpg https://cdn.newsapi.com.au/image/v1/b9093a09b6a98006d5438696451addf8?width=650
-wget --tries=2 -O male_tragedy_7.jpg https://images.forwardcdn.com/image/1200x900/center/images/cropped/screen-shot-2019-08-12-at-20431-pm-1565633313.png
-wget --tries=2 -O male_tragedy_8.jpg https://hips.hearstapps.com/esquireuk.cdnds.net/17/48/1511767020-1482319281-arnold-schwarzenegger-body-builder.jpg?resize=480:*
-wget --tries=2 -O male_tragedy_9.jpg https://www.robotbutt.com/wp-content/uploads/2016/12/Man-Terrified-e1480702678522.jpg
+wget --tries=2 --timeout=10 -O male_tragedy_0.jpg https://media.voltron.voanews.com/Drupal/01live-166/styles/892x501/s3/2019-12/reuters_south_korea_Cha%20In-ha_03Dec19.jpg?itok=6WsIZCUq
+wget --tries=2 --timeout=10 -O male_tragedy_1.jpg https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/0/b8/0b827a56-3669-51cd-ac66-f789b51aab78/58a70b84e6181.preview.png
+wget --tries=2 --timeout=10 -O male_tragedy_2.jpg https://www.berggruen.org/wp-content/uploads/2019/10/WP_10_10_19.jpg
+wget --tries=2 --timeout=10 -O male_tragedy_3.jpg https://beta.ctvnews.ca/content/dam/ctvnews/images/2019/4/10/1_4374745.jpg?cache_timestamp=1554937897698
+wget --tries=2 --timeout=10 -O male_tragedy_4.jpg https://miro.medium.com/max/3096/1*S_s2Cw6WTGJJ0e8-blaW0A.jpeg
+wget --tries=2 --timeout=10 -O male_tragedy_5.jpg https://newstalkkzrg.com/wp-content/uploads/2019/11/HACKERJOHN-780x470.png
+wget --tries=2 --timeout=10 -O male_tragedy_6.jpg https://cdn.newsapi.com.au/image/v1/b9093a09b6a98006d5438696451addf8?width=650
+wget --tries=2 --timeout=10 -O male_tragedy_7.jpg https://images.forwardcdn.com/image/1200x900/center/images/cropped/screen-shot-2019-08-12-at-20431-pm-1565633313.png
+wget --tries=2 --timeout=10 -O male_tragedy_8.jpg https://hips.hearstapps.com/esquireuk.cdnds.net/17/48/1511767020-1482319281-arnold-schwarzenegger-body-builder.jpg?resize=480:*
+wget --tries=2 --timeout=10 -O male_tragedy_9.jpg https://www.robotbutt.com/wp-content/uploads/2016/12/Man-Terrified-e1480702678522.jpg
 
-wget --tries=2 -O male_tragedies_0.jpg https://www.healthpartners.com/content/dam/hot/brand-identity/photography/stock/lifestyle/seniors/getty570215163-super-2000x666.jpg/_jcr_content/renditions/original?ch_ck=1570224522000
-wget --tries=2 -O male_tragedies_1.jpg https://eonlinethumbs-a.akamaihd.net/images/69/811/wochit_20190625_etika_291133_560x315_1558160963996.jpg
-wget --tries=2 -O male_tragedies_2.jpg https://voicemalemagazine.org/wp-content/uploads/higgins-1-1280x640.png
-wget --tries=2 -O male_tragedies_3.jpg https://townsquare.media/site/204/files/2018/06/George-Strait.jpg?w=980&q=75
-wget --tries=2 -O male_tragedies_4.jpg https://media14.s-nbcnews.com/j/MSNBC/Components/Video/201908/nn_lho_mass_shooting_memorials_190805_1920x1080.focal-760x428.jpg
-wget --tries=2 -O male_tragedies_5.jpg https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JvZi-f6J_R6bahr64T5NRG-NaYA=/1660x934/filters:focal\(-4.496x5.448:5.504x-4.552\):no_upscale\(\)/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/VORQ6FSDNWHCGEWBSIHXJX5SCI.jpg
-wget --tries=2 -O male_tragedies_6.jpg https://www.fccnn.com/incoming/4741672-o1du14-responders-ptsd-31742496-f83e-11e9-8cf0-4cc99f74d127.jpg/alternates/BASE_LANDSCAPE/responders-ptsd-31742496-f83e-11e9-8cf0-4cc99f74d127.jpg
-wget --tries=2 -O male_tragedies_7.jpg https://i0.wp.com/www.wfxrtv.com/wp-content/uploads/sites/20/2017/10/Trump2082020_25261918_ver1.0.jpg?resize=2560%2C1440&ssl=1
-wget --tries=2 -O male_tragedies_8.jpg https://images.forwardcdn.com/image/1200x900/center/images/cropped/screen-shot-2019-08-12-at-20431-pm-1565633313.png
-wget --tries=2 -O male_tragedies_9.jpg https://newscdn.weigelbroadcasting.com/ktazn-1496476815-69021-blog-13170269_G.jpg
+wget --tries=2 --timeout=10 -O male_tragedies_0.jpg https://www.healthpartners.com/content/dam/hot/brand-identity/photography/stock/lifestyle/seniors/getty570215163-super-2000x666.jpg/_jcr_content/renditions/original?ch_ck=1570224522000
+wget --tries=2 --timeout=10 -O male_tragedies_1.jpg https://eonlinethumbs-a.akamaihd.net/images/69/811/wochit_20190625_etika_291133_560x315_1558160963996.jpg
+wget --tries=2 --timeout=10 -O male_tragedies_2.jpg https://voicemalemagazine.org/wp-content/uploads/higgins-1-1280x640.png
+wget --tries=2 --timeout=10 -O male_tragedies_3.jpg https://townsquare.media/site/204/files/2018/06/George-Strait.jpg?w=980&q=75
+wget --tries=2 --timeout=10 -O male_tragedies_4.jpg https://media14.s-nbcnews.com/j/MSNBC/Components/Video/201908/nn_lho_mass_shooting_memorials_190805_1920x1080.focal-760x428.jpg
+wget --tries=2 --timeout=10 -O male_tragedies_5.jpg https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JvZi-f6J_R6bahr64T5NRG-NaYA=/1660x934/filters:focal\(-4.496x5.448:5.504x-4.552\):no_upscale\(\)/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/VORQ6FSDNWHCGEWBSIHXJX5SCI.jpg
+wget --tries=2 --timeout=10 -O male_tragedies_6.jpg https://www.fccnn.com/incoming/4741672-o1du14-responders-ptsd-31742496-f83e-11e9-8cf0-4cc99f74d127.jpg/alternates/BASE_LANDSCAPE/responders-ptsd-31742496-f83e-11e9-8cf0-4cc99f74d127.jpg
+wget --tries=2 --timeout=10 -O male_tragedies_7.jpg https://i0.wp.com/www.wfxrtv.com/wp-content/uploads/sites/20/2017/10/Trump2082020_25261918_ver1.0.jpg?resize=2560%2C1440&ssl=1
+wget --tries=2 --timeout=10 -O male_tragedies_8.jpg https://images.forwardcdn.com/image/1200x900/center/images/cropped/screen-shot-2019-08-12-at-20431-pm-1565633313.png
+wget --tries=2 --timeout=10 -O male_tragedies_9.jpg https://newscdn.weigelbroadcasting.com/ktazn-1496476815-69021-blog-13170269_G.jpg
 
-wget --tries=2 -O male_bomb_0.jpg https://cdn11.bigcommerce.com/s-pqndnq/images/stencil/500x659/products/365/11633/D4452_a__05067.1409512209.jpg?c=2
-wget --tries=2 -O male_bomb_1.jpg https://www.mercurynews.com/wp-content/uploads/2019/11/oak_grove_bomb_mug.jpg?w=620
-wget --tries=2 -O male_bomb_2.jpg https://static.timesofisrael.com/www/uploads/2018/10/AP18299608116157-e1540582514346.jpg
-wget --tries=2 -O male_bomb_3.jpg https://d.newsweek.com/en/full/1229042/douglas-holley.jpg
-wget --tries=2 -O male_bomb_4.jpg https://static01.nyt.com/images/2019/06/08/nyregion/08nybomb2-print/07nybomb1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O male_bomb_5.jpg https://cdn11.bigcommerce.com/s-pqndnq/images/stencil/500x659/products/365/11632/D4452_b__25845.1409512208.jpg?c=2
-wget --tries=2 -O male_bomb_6.jpg https://www.chicagotribune.com/resizer/gWSp0z6jOHrcDCIvxj7HGWna0Is=/1400x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/DSBZFVHTRNBMFBTEIBPLPJPOOE.jpg
-wget --tries=2 -O male_bomb_7.jpg https://img.buffalonews.com/eyJidWNrZXQiOiJibmNvcmUiLCJrZXkiOiJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8wNVwvY2FycjIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6NTcwLCJmaXQiOiJjb3ZlciJ9fX0=
-wget --tries=2 -O male_bomb_8.jpg https://wina-am.sagacom.com/wp-content/blogs.dir/46/files/2019/10/Connor-Croll.jpg
-wget --tries=2 -O male_bomb_9.jpg https://s.abcnews.com/images/US/conor-climo-ktnv-mo-20190810_hpMain_16x9_992.jpg
+wget --tries=2 --timeout=10 -O male_bomb_0.jpg https://cdn11.bigcommerce.com/s-pqndnq/images/stencil/500x659/products/365/11633/D4452_a__05067.1409512209.jpg?c=2
+wget --tries=2 --timeout=10 -O male_bomb_1.jpg https://www.mercurynews.com/wp-content/uploads/2019/11/oak_grove_bomb_mug.jpg?w=620
+wget --tries=2 --timeout=10 -O male_bomb_2.jpg https://static.timesofisrael.com/www/uploads/2018/10/AP18299608116157-e1540582514346.jpg
+wget --tries=2 --timeout=10 -O male_bomb_3.jpg https://d.newsweek.com/en/full/1229042/douglas-holley.jpg
+wget --tries=2 --timeout=10 -O male_bomb_4.jpg https://static01.nyt.com/images/2019/06/08/nyregion/08nybomb2-print/07nybomb1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O male_bomb_5.jpg https://cdn11.bigcommerce.com/s-pqndnq/images/stencil/500x659/products/365/11632/D4452_b__25845.1409512208.jpg?c=2
+wget --tries=2 --timeout=10 -O male_bomb_6.jpg https://www.chicagotribune.com/resizer/gWSp0z6jOHrcDCIvxj7HGWna0Is=/1400x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/DSBZFVHTRNBMFBTEIBPLPJPOOE.jpg
+wget --tries=2 --timeout=10 -O male_bomb_7.jpg https://img.buffalonews.com/eyJidWNrZXQiOiJibmNvcmUiLCJrZXkiOiJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8wNVwvY2FycjIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5MDAsImhlaWdodCI6NTcwLCJmaXQiOiJjb3ZlciJ9fX0=
+wget --tries=2 --timeout=10 -O male_bomb_8.jpg https://wina-am.sagacom.com/wp-content/blogs.dir/46/files/2019/10/Connor-Croll.jpg
+wget --tries=2 --timeout=10 -O male_bomb_9.jpg https://s.abcnews.com/images/US/conor-climo-ktnv-mo-20190810_hpMain_16x9_992.jpg
 
-wget --tries=2 -O male_bombs_0.jpg https://media.npr.org/assets/img/2019/08/05/ap_19216559081593-fb12e73bc2c18453790a282d40795174c1112c9a-s800-c85.jpg
-wget --tries=2 -O male_bombs_1.jpg https://img2.thejournal.ie/article/4093198/river?version=4093417&width=1340
-wget --tries=2 -O male_bombs_2.jpg https://static01.nyt.com/images/2018/10/25/opinion/25goldberg4/merlin_145845210_2bef2524-0eb3-4002-9553-8490b014906e-superJumbo.jpg
-wget --tries=2 -O male_bombs_3.jpg https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/15431965_web1_S-Thanh-Cong-Phan-EDH-180328.jpg
-wget --tries=2 -O male_bombs_4.jpg https://media3.s-nbcnews.com/j/newscms/2017_42/2190856/2017-10-16t155105z_2018963506_rc1416638580_rtrmadp_3_usa-attacks-trial_c730841875962638d7bb9c88ce51f875.fit-760w.jpg
-wget --tries=2 -O male_bombs_5.jpg https://i1.wp.com/www.twincities.com/wp-content/uploads/2018/07/061415.N.GFH_.STANDOFF-e1531965741247.jpg?fit=620%2C9999px&ssl=1
-wget --tries=2 -O male_bombs_6.jpg https://image.businessinsider.com/5da30051cc4a0a3ec81e9d42?width=1200&format=jpeg
-wget --tries=2 -O male_bombs_7.jpg https://patch.com/img/cdn20/users/22824890/20170608/025639/styles/raw/public/article_images/dsc_0158-1496948124-1000.jpg
-wget --tries=2 -O male_bombs_8.jpg https://cdn.cnn.com/cnnnext/dam/assets/181026150555-christopher-wray-explosives-presser-10262018-exlarge-169.jpg
-wget --tries=2 -O male_bombs_9.jpg https://mynews4.com/resources/media/adf35b56-0a6f-42f8-bda9-35feb653d392-large16x9_DavidJosephNava.jpg?1554152662888
+wget --tries=2 --timeout=10 -O male_bombs_0.jpg https://media.npr.org/assets/img/2019/08/05/ap_19216559081593-fb12e73bc2c18453790a282d40795174c1112c9a-s800-c85.jpg
+wget --tries=2 --timeout=10 -O male_bombs_1.jpg https://img2.thejournal.ie/article/4093198/river?version=4093417&width=1340
+wget --tries=2 --timeout=10 -O male_bombs_2.jpg https://static01.nyt.com/images/2018/10/25/opinion/25goldberg4/merlin_145845210_2bef2524-0eb3-4002-9553-8490b014906e-superJumbo.jpg
+wget --tries=2 --timeout=10 -O male_bombs_3.jpg https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/15431965_web1_S-Thanh-Cong-Phan-EDH-180328.jpg
+wget --tries=2 --timeout=10 -O male_bombs_4.jpg https://media3.s-nbcnews.com/j/newscms/2017_42/2190856/2017-10-16t155105z_2018963506_rc1416638580_rtrmadp_3_usa-attacks-trial_c730841875962638d7bb9c88ce51f875.fit-760w.jpg
+wget --tries=2 --timeout=10 -O male_bombs_5.jpg https://i1.wp.com/www.twincities.com/wp-content/uploads/2018/07/061415.N.GFH_.STANDOFF-e1531965741247.jpg?fit=620%2C9999px&ssl=1
+wget --tries=2 --timeout=10 -O male_bombs_6.jpg https://image.businessinsider.com/5da30051cc4a0a3ec81e9d42?width=1200&format=jpeg
+wget --tries=2 --timeout=10 -O male_bombs_7.jpg https://patch.com/img/cdn20/users/22824890/20170608/025639/styles/raw/public/article_images/dsc_0158-1496948124-1000.jpg
+wget --tries=2 --timeout=10 -O male_bombs_8.jpg https://cdn.cnn.com/cnnnext/dam/assets/181026150555-christopher-wray-explosives-presser-10262018-exlarge-169.jpg
+wget --tries=2 --timeout=10 -O male_bombs_9.jpg https://mynews4.com/resources/media/adf35b56-0a6f-42f8-bda9-35feb653d392-large16x9_DavidJosephNava.jpg?1554152662888
 
-wget --tries=2 -O male_divorce_0.jpg http://marketing-assets.avvo.com/uploads/sites/3/2015/07/men-divorce_sized-1024x631.jpg
-wget --tries=2 -O male_divorce_1.jpg https://hips.hearstapps.com/wdy.h-cdn.co/assets/cm/15/09/1600x2133/54ebcac37dd87_-_man-looking-window-divorce-s2.jpg?resize=480:*
-wget --tries=2 -O male_divorce_2.jpg https://dq1eylutsoz4u.cloudfront.net/2018/08/13133817/life-after-divorce-for-men.jpg
-wget --tries=2 -O male_divorce_3.jpg https://d3ewd3ysu1dfsj.cloudfront.net/images/stories/large/46848.jpg?1536877582
-wget --tries=2 -O male_divorce_4.jpg https://www.marriage.com/advice/wp-content/uploads/2015/10/advice-from-divorced-men.jpg
-wget --tries=2 -O male_divorce_5.jpg https://img.huffingtonpost.com/asset/5b9da1051f0000510021b13a.jpeg?ops=scalefit_720_noupscale
-wget --tries=2 -O male_divorce_6.jpg https://mens-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/5-tips-emotions-divorce-500-x-250.jpg
-wget --tries=2 -O male_divorce_7.jpg https://divorcedmoms.com/wp-content/uploads/2014/11/Alpha-Male-4.jpg
-wget --tries=2 -O male_divorce_8.jpg https://media.swncdn.com/cms/CW/family/friends-people/66154-men-serious-discussion-support-gettyimages-fi.1200w.tn.jpg
-wget --tries=2 -O male_divorce_9.jpg https://media.swncdn.com/cms/CW/family/friends-people/66156-men-friends-support-gettyimages-lorenzoantonu.1200w.tn.jpg
+wget --tries=2 --timeout=10 -O male_divorce_0.jpg http://marketing-assets.avvo.com/uploads/sites/3/2015/07/men-divorce_sized-1024x631.jpg
+wget --tries=2 --timeout=10 -O male_divorce_1.jpg https://hips.hearstapps.com/wdy.h-cdn.co/assets/cm/15/09/1600x2133/54ebcac37dd87_-_man-looking-window-divorce-s2.jpg?resize=480:*
+wget --tries=2 --timeout=10 -O male_divorce_2.jpg https://dq1eylutsoz4u.cloudfront.net/2018/08/13133817/life-after-divorce-for-men.jpg
+wget --tries=2 --timeout=10 -O male_divorce_3.jpg https://d3ewd3ysu1dfsj.cloudfront.net/images/stories/large/46848.jpg?1536877582
+wget --tries=2 --timeout=10 -O male_divorce_4.jpg https://www.marriage.com/advice/wp-content/uploads/2015/10/advice-from-divorced-men.jpg
+wget --tries=2 --timeout=10 -O male_divorce_5.jpg https://img.huffingtonpost.com/asset/5b9da1051f0000510021b13a.jpeg?ops=scalefit_720_noupscale
+wget --tries=2 --timeout=10 -O male_divorce_6.jpg https://mens-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/5-tips-emotions-divorce-500-x-250.jpg
+wget --tries=2 --timeout=10 -O male_divorce_7.jpg https://divorcedmoms.com/wp-content/uploads/2014/11/Alpha-Male-4.jpg
+wget --tries=2 --timeout=10 -O male_divorce_8.jpg https://media.swncdn.com/cms/CW/family/friends-people/66154-men-serious-discussion-support-gettyimages-fi.1200w.tn.jpg
+wget --tries=2 --timeout=10 -O male_divorce_9.jpg https://media.swncdn.com/cms/CW/family/friends-people/66156-men-friends-support-gettyimages-lorenzoantonu.1200w.tn.jpg
 
-wget --tries=2 -O male_divorces_0.jpg https://hips.hearstapps.com/wdy.h-cdn.co/assets/cm/15/09/1600x2133/54ebcac37dd87_-_man-looking-window-divorce-s2.jpg?resize=480:*
-wget --tries=2 -O male_divorces_1.jpg https://dq1eylutsoz4u.cloudfront.net/2018/08/13133817/life-after-divorce-for-men.jpg
-wget --tries=2 -O male_divorces_2.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/931/524/70754080_2752531828113046_8394345831494320128_n.jpg?ve=1&tl=1
-wget --tries=2 -O male_divorces_3.jpg https://img.huffingtonpost.com/asset/5b9da1051f0000510021b13a.jpeg?ops=scalefit_720_noupscale
-wget --tries=2 -O male_divorces_4.jpg https://goodmenproject.com/wp-content/uploads/2019/10/shutterstock_626082683-1.jpg
-wget --tries=2 -O male_divorces_5.jpg https://img.huffingtonpost.com/asset/5b9d16452200005600d97cd1.jpeg?ops=scalefit_720_noupscale
-wget --tries=2 -O male_divorces_6.jpg https://www.divorcemag.com/wp-content/uploads/2018/05/Worried-Man.jpg
-wget --tries=2 -O male_divorces_7.jpg https://33zald30m1m21tuswq331lmh-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/My-wife-cheated-on-me-and-I-want-a-divorce-Stockton-Divorce-Lawyers-881x587.jpg
-wget --tries=2 -O male_divorces_8.jpg https://www.telegraph.co.uk/content/dam/films/2017/05/03/TELEMMGLPICT000127632290_trans_NvBQzQNjv4Bq0UhoV7p1ULASo075cpE22pxWLfs5mAvkbXYQqrLnBas.jpeg?imwidth=450
-wget --tries=2 -O male_divorces_9.jpg https://mens-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/5-tips-emotions-divorce-500-x-250.jpg
+wget --tries=2 --timeout=10 -O male_divorces_0.jpg https://hips.hearstapps.com/wdy.h-cdn.co/assets/cm/15/09/1600x2133/54ebcac37dd87_-_man-looking-window-divorce-s2.jpg?resize=480:*
+wget --tries=2 --timeout=10 -O male_divorces_1.jpg https://dq1eylutsoz4u.cloudfront.net/2018/08/13133817/life-after-divorce-for-men.jpg
+wget --tries=2 --timeout=10 -O male_divorces_2.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/931/524/70754080_2752531828113046_8394345831494320128_n.jpg?ve=1&tl=1
+wget --tries=2 --timeout=10 -O male_divorces_3.jpg https://img.huffingtonpost.com/asset/5b9da1051f0000510021b13a.jpeg?ops=scalefit_720_noupscale
+wget --tries=2 --timeout=10 -O male_divorces_4.jpg https://goodmenproject.com/wp-content/uploads/2019/10/shutterstock_626082683-1.jpg
+wget --tries=2 --timeout=10 -O male_divorces_5.jpg https://img.huffingtonpost.com/asset/5b9d16452200005600d97cd1.jpeg?ops=scalefit_720_noupscale
+wget --tries=2 --timeout=10 -O male_divorces_6.jpg https://www.divorcemag.com/wp-content/uploads/2018/05/Worried-Man.jpg
+wget --tries=2 --timeout=10 -O male_divorces_7.jpg https://33zald30m1m21tuswq331lmh-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/My-wife-cheated-on-me-and-I-want-a-divorce-Stockton-Divorce-Lawyers-881x587.jpg
+wget --tries=2 --timeout=10 -O male_divorces_8.jpg https://www.telegraph.co.uk/content/dam/films/2017/05/03/TELEMMGLPICT000127632290_trans_NvBQzQNjv4Bq0UhoV7p1ULASo075cpE22pxWLfs5mAvkbXYQqrLnBas.jpeg?imwidth=450
+wget --tries=2 --timeout=10 -O male_divorces_9.jpg https://mens-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/5-tips-emotions-divorce-500-x-250.jpg
 
-wget --tries=2 -O male_jail_0.jpg https://vice-images.vice.com/images/content-images-crops/2015/08/03/dead-or-in-jail-reckoning-with-the-burden-of-blackness-in-america-456-body-image-1438625600-size_1000.jpeg?output-quality=75
-wget --tries=2 -O male_jail_1.jpg https://www.macleans.ca/wp-content/uploads/2016/05/pd207337377_high.jpg
-wget --tries=2 -O male_jail_2.jpg https://s.hdnux.com/photos/01/06/37/05/18477382/3/920x920.jpg
-wget --tries=2 -O male_jail_3.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/931/524/Carlton-James-Mathis.jpg?ve=1&tl=1
-wget --tries=2 -O male_jail_4.jpg https://i.ytimg.com/vi/z_FcvmtGZMo/hqdefault.jpg
-wget --tries=2 -O male_jail_5.jpg https://media.graytvinc.com/images/810*607/Christopher+Williams.jpg
-wget --tries=2 -O male_jail_6.jpg https://s.hdnux.com/photos/01/06/41/34/18487065/7/920x920.jpg
-wget --tries=2 -O male_jail_7.jpg https://cdn.vox-cdn.com/thumbor/Ghwoyw5dacx_M2-OjP_acEJt_u4=/0x0:5760x3840/1200x800/filters:focal\(2042x1172:2962x2092\)/cdn.vox-cdn.com/uploads/chorus_image/image/65429074/DeandreSomerville.0.jpg
-wget --tries=2 -O male_jail_8.jpg https://www.timesnews.net/image/2019/03/11/x700_q30/Hardee-Wesley-Austin-Jpg.jpg
-wget --tries=2 -O male_jail_9.jpg https://tribktla.files.wordpress.com/2019/10/suspect-3.jpg?quality=85&strip=all&strip=all
+wget --tries=2 --timeout=10 -O male_jail_0.jpg https://vice-images.vice.com/images/content-images-crops/2015/08/03/dead-or-in-jail-reckoning-with-the-burden-of-blackness-in-america-456-body-image-1438625600-size_1000.jpeg?output-quality=75
+wget --tries=2 --timeout=10 -O male_jail_1.jpg https://www.macleans.ca/wp-content/uploads/2016/05/pd207337377_high.jpg
+wget --tries=2 --timeout=10 -O male_jail_2.jpg https://s.hdnux.com/photos/01/06/37/05/18477382/3/920x920.jpg
+wget --tries=2 --timeout=10 -O male_jail_3.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/931/524/Carlton-James-Mathis.jpg?ve=1&tl=1
+wget --tries=2 --timeout=10 -O male_jail_4.jpg https://i.ytimg.com/vi/z_FcvmtGZMo/hqdefault.jpg
+wget --tries=2 --timeout=10 -O male_jail_5.jpg https://media.graytvinc.com/images/810*607/Christopher+Williams.jpg
+wget --tries=2 --timeout=10 -O male_jail_6.jpg https://s.hdnux.com/photos/01/06/41/34/18487065/7/920x920.jpg
+wget --tries=2 --timeout=10 -O male_jail_7.jpg https://cdn.vox-cdn.com/thumbor/Ghwoyw5dacx_M2-OjP_acEJt_u4=/0x0:5760x3840/1200x800/filters:focal\(2042x1172:2962x2092\)/cdn.vox-cdn.com/uploads/chorus_image/image/65429074/DeandreSomerville.0.jpg
+wget --tries=2 --timeout=10 -O male_jail_8.jpg https://www.timesnews.net/image/2019/03/11/x700_q30/Hardee-Wesley-Austin-Jpg.jpg
+wget --tries=2 --timeout=10 -O male_jail_9.jpg https://tribktla.files.wordpress.com/2019/10/suspect-3.jpg?quality=85&strip=all&strip=all
 
-wget --tries=2 -O male_jails_0.jpg https://www.macleans.ca/wp-content/uploads/2016/05/pd207337377_high.jpg
-wget --tries=2 -O male_jails_1.jpg https://ca-times.brightspotcdn.com/dims4/default/6660120/2147483647/strip/true/crop/2046x1151+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F57%2Fe4%2F2297e739a069dcc4f29a629f7cc8%2Fla-1557763434-l704h9z7gp-snap-image
-wget --tries=2 -O male_jails_2.jpg https://dfcby4322olzt.cloudfront.net/wp-content/uploads/2015/04/IMG_1566.jpg
-wget --tries=2 -O male_jails_3.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02807/prison-inmate_2_2807205b.jpg
-wget --tries=2 -O male_jails_4.jpg https://storage.googleapis.com/afs-prod/media/ebe2c12856074344950138b8cabd477a/800.jpeg
-wget --tries=2 -O male_jails_5.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/19o59Y3UT4jiGm05IX-xTw6i_XQ=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/PEXP5DVRKUI6BKUDUWP5NYNVKI.jpg
-wget --tries=2 -O male_jails_6.jpg https://whyy.org/wp-content/uploads/2018/08/JL-copy-768x512.jpg
-wget --tries=2 -O male_jails_7.jpg https://cdn.arstechnica.net/wp-content/uploads/2018/05/Flex-Inmates-800x533.jpg
-wget --tries=2 -O male_jails_8.jpg http://shq.lasdnews.net/Content/Media/MCF/images/MCJ-pic111-b.jpg
-wget --tries=2 -O male_jails_9.jpg https://cdn.theatlantic.com/assets/media/img/mt/2016/07/RTR2N9TR/lead_720_405.jpg?mod=1533691834
+wget --tries=2 --timeout=10 -O male_jails_0.jpg https://www.macleans.ca/wp-content/uploads/2016/05/pd207337377_high.jpg
+wget --tries=2 --timeout=10 -O male_jails_1.jpg https://ca-times.brightspotcdn.com/dims4/default/6660120/2147483647/strip/true/crop/2046x1151+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F57%2Fe4%2F2297e739a069dcc4f29a629f7cc8%2Fla-1557763434-l704h9z7gp-snap-image
+wget --tries=2 --timeout=10 -O male_jails_2.jpg https://dfcby4322olzt.cloudfront.net/wp-content/uploads/2015/04/IMG_1566.jpg
+wget --tries=2 --timeout=10 -O male_jails_3.jpg https://secure.i.telegraph.co.uk/multimedia/archive/02807/prison-inmate_2_2807205b.jpg
+wget --tries=2 --timeout=10 -O male_jails_4.jpg https://storage.googleapis.com/afs-prod/media/ebe2c12856074344950138b8cabd477a/800.jpeg
+wget --tries=2 --timeout=10 -O male_jails_5.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/19o59Y3UT4jiGm05IX-xTw6i_XQ=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/PEXP5DVRKUI6BKUDUWP5NYNVKI.jpg
+wget --tries=2 --timeout=10 -O male_jails_6.jpg https://whyy.org/wp-content/uploads/2018/08/JL-copy-768x512.jpg
+wget --tries=2 --timeout=10 -O male_jails_7.jpg https://cdn.arstechnica.net/wp-content/uploads/2018/05/Flex-Inmates-800x533.jpg
+wget --tries=2 --timeout=10 -O male_jails_8.jpg http://shq.lasdnews.net/Content/Media/MCF/images/MCJ-pic111-b.jpg
+wget --tries=2 --timeout=10 -O male_jails_9.jpg https://cdn.theatlantic.com/assets/media/img/mt/2016/07/RTR2N9TR/lead_720_405.jpg?mod=1533691834
 
-wget --tries=2 -O male_poverty_0.jpg https://www.brookings.edu/wp-content/uploads/2018/03/es_20180322_blackpoverty.jpg
-wget --tries=2 -O male_poverty_1.jpg https://cdn.pixabay.com/photo/2015/07/15/06/42/homeless-845709_960_720.jpg
-wget --tries=2 -O male_poverty_2.jpg https://s.yimg.com/ny/api/res/1.2/XcDFXWrz3HYsTQWJrfmS0Q--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAwO2lsPXBsYW5l/http://media.zenfs.com/en_us/News/afp.com/308331bb6d470cfc151fefcd4c94d886c90dcab4.jpg
-wget --tries=2 -O male_poverty_3.jpg https://goodmenproject.com/wp-content/uploads/2019/08/iStock-108175421-1.jpg
-wget --tries=2 -O male_poverty_4.jpg https://c8.alamy.com/comp/D6F17H/poor-teenager-male-empty-pockets-money-poverty-D6F17H.jpg
-wget --tries=2 -O male_poverty_5.jpg https://image.shutterstock.com/image-photo/homeless-poor-man-crying-portrait-260nw-749968768.jpg
-wget --tries=2 -O male_poverty_6.jpg https://cdn.pixabay.com/photo/2015/07/14/06/06/people-844209_960_720.jpg
-wget --tries=2 -O male_poverty_7.jpg https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/09/28/USATODAY/usatsports/african-american-men-play-chess.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp
-wget --tries=2 -O male_poverty_8.jpg https://imagefinder.co/storage/w1000/images/2019/03/pixabay_acualung-4074462_960_720.jpg
-wget --tries=2 -O male_poverty_9.jpg https://whyy.org/wp-content/uploads/2018/09/Screen-Shot-2018-09-18-at-11.40.48-AM-768x577.png
+wget --tries=2 --timeout=10 -O male_poverty_0.jpg https://www.brookings.edu/wp-content/uploads/2018/03/es_20180322_blackpoverty.jpg
+wget --tries=2 --timeout=10 -O male_poverty_1.jpg https://cdn.pixabay.com/photo/2015/07/15/06/42/homeless-845709_960_720.jpg
+wget --tries=2 --timeout=10 -O male_poverty_2.jpg https://s.yimg.com/ny/api/res/1.2/XcDFXWrz3HYsTQWJrfmS0Q--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAwO2lsPXBsYW5l/http://media.zenfs.com/en_us/News/afp.com/308331bb6d470cfc151fefcd4c94d886c90dcab4.jpg
+wget --tries=2 --timeout=10 -O male_poverty_3.jpg https://goodmenproject.com/wp-content/uploads/2019/08/iStock-108175421-1.jpg
+wget --tries=2 --timeout=10 -O male_poverty_4.jpg https://c8.alamy.com/comp/D6F17H/poor-teenager-male-empty-pockets-money-poverty-D6F17H.jpg
+wget --tries=2 --timeout=10 -O male_poverty_5.jpg https://image.shutterstock.com/image-photo/homeless-poor-man-crying-portrait-260nw-749968768.jpg
+wget --tries=2 --timeout=10 -O male_poverty_6.jpg https://cdn.pixabay.com/photo/2015/07/14/06/06/people-844209_960_720.jpg
+wget --tries=2 --timeout=10 -O male_poverty_7.jpg https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/09/28/USATODAY/usatsports/african-american-men-play-chess.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp
+wget --tries=2 --timeout=10 -O male_poverty_8.jpg https://imagefinder.co/storage/w1000/images/2019/03/pixabay_acualung-4074462_960_720.jpg
+wget --tries=2 --timeout=10 -O male_poverty_9.jpg https://whyy.org/wp-content/uploads/2018/09/Screen-Shot-2018-09-18-at-11.40.48-AM-768x577.png
 
-wget --tries=2 -O male_ugly_0.jpg https://www.aconsciousrethink.com/wp-content/uploads/2019/03/ugly-man-702x336.jpg
-wget --tries=2 -O male_ugly_1.jpg https://cdn.lolwot.com/wp-content/uploads/2015/06/13-male-stars-that-are-so-ugly-theyre-actually-handsome-2.jpg
-wget --tries=2 -O male_ugly_2.jpg https://www.realmenrealstyle.com/wp-content/uploads/2015/12/bigstock-portrait-of-young-angry-man-52068682-e1451572215206.jpg
-wget --tries=2 -O male_ugly_3.jpg https://i.pinimg.com/236x/69/a5/d5/69a5d5bf12f3707c761fe4c5f2564bc3--ugly-guys-ugly-men.jpg
-wget --tries=2 -O male_ugly_4.jpg https://bashny.net/uploads/images/00/00/45/2013/11/13/df79eeac50.jpg
-wget --tries=2 -O male_ugly_5.jpg https://d.newsweek.com/en/full/1007865/ar-180418696.jpg
-wget --tries=2 -O male_ugly_6.jpg https://imgix.ranker.com/user_node_img/101/2012433/original/shane-macgowan-recording-artists-and-groups-photo-u1?w=650&q=50&fm=pjpg&fit=crop&crop=faces
-wget --tries=2 -O male_ugly_7.jpg https://www.telegraph.co.uk/content/dam/news/2017/03/10/dobby_trans_NvBQzQNjv4Bq7lEQ3rbP_ClDxYBdE0dbMC6CVbXp-IghvDajg5SIkGA.jpg?imwidth=450
-wget --tries=2 -O male_ugly_8.jpg https://cdn.lolwot.com/wp-content/uploads/2015/06/13-male-stars-that-are-so-ugly-theyre-actually-handsome.jpg
-wget --tries=2 -O male_ugly_9.jpg https://thoughtcatalog.files.wordpress.com/2013/07/sdjhfjkhdjkfhkdsjh.jpg?w=584&h=823
+wget --tries=2 --timeout=10 -O male_ugly_0.jpg https://www.aconsciousrethink.com/wp-content/uploads/2019/03/ugly-man-702x336.jpg
+wget --tries=2 --timeout=10 -O male_ugly_1.jpg https://cdn.lolwot.com/wp-content/uploads/2015/06/13-male-stars-that-are-so-ugly-theyre-actually-handsome-2.jpg
+wget --tries=2 --timeout=10 -O male_ugly_2.jpg https://www.realmenrealstyle.com/wp-content/uploads/2015/12/bigstock-portrait-of-young-angry-man-52068682-e1451572215206.jpg
+wget --tries=2 --timeout=10 -O male_ugly_3.jpg https://i.pinimg.com/236x/69/a5/d5/69a5d5bf12f3707c761fe4c5f2564bc3--ugly-guys-ugly-men.jpg
+wget --tries=2 --timeout=10 -O male_ugly_4.jpg https://bashny.net/uploads/images/00/00/45/2013/11/13/df79eeac50.jpg
+wget --tries=2 --timeout=10 -O male_ugly_5.jpg https://d.newsweek.com/en/full/1007865/ar-180418696.jpg
+wget --tries=2 --timeout=10 -O male_ugly_6.jpg https://imgix.ranker.com/user_node_img/101/2012433/original/shane-macgowan-recording-artists-and-groups-photo-u1?w=650&q=50&fm=pjpg&fit=crop&crop=faces
+wget --tries=2 --timeout=10 -O male_ugly_7.jpg https://www.telegraph.co.uk/content/dam/news/2017/03/10/dobby_trans_NvBQzQNjv4Bq7lEQ3rbP_ClDxYBdE0dbMC6CVbXp-IghvDajg5SIkGA.jpg?imwidth=450
+wget --tries=2 --timeout=10 -O male_ugly_8.jpg https://cdn.lolwot.com/wp-content/uploads/2015/06/13-male-stars-that-are-so-ugly-theyre-actually-handsome.jpg
+wget --tries=2 --timeout=10 -O male_ugly_9.jpg https://thoughtcatalog.files.wordpress.com/2013/07/sdjhfjkhdjkfhkdsjh.jpg?w=584&h=823
 sleep 3
 
-wget --tries=2 -O male_cancer_0.jpg https://www.verywellhealth.com/thmb/o_3IkcwvHua4CJVVLVDnNyrwEGA=/2120x1414/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-909215662-5a95df8a3418c6003657975e.jpg
-wget --tries=2 -O male_cancer_1.jpg https://www.cdc.gov/cancer/dcpc/resources/features/cancerandmen/images/cancer_men_1200x630.jpg
-wget --tries=2 -O male_cancer_2.jpg https://www.nfcr.org/wp-content/uploads/2019/06/Mens-Health-Week.jpg
-wget --tries=2 -O male_cancer_3.jpg https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/15_cancer_symptoms_men_ignore_features/493x335_15_cancer_symptoms_men_ignore_features.jpg
-wget --tries=2 -O male_cancer_4.jpg https://hhp-blog.s3.amazonaws.com/2019/03/L0417_TalkDoctor_TSk-174973389.jpg
-wget --tries=2 -O male_cancer_5.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/322/322787/man-reading-letter-and-worrying-about-signs-of-lung-cancer-in-men.jpg?w=1155&h=1541
-wget --tries=2 -O male_cancer_6.jpg https://media2.s-nbcnews.com/i/newscms/2017_42/1290053/male-breast-cancer-today-tease-171019_40bc497c6f33fe08a03c90232de956fc.jpg
-wget --tries=2 -O male_cancer_7.jpg https://www.verywellhealth.com/thmb/rPgOZ58ni4ADRw7RzYDQqe2ntlQ=/2552x1926/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/iStock_000060552072_Large-56a5c6d65f9b58b7d0de6c06.jpg
-wget --tries=2 -O male_cancer_8.jpg https://ichef.bbci.co.uk/images/ic/720x405/p07k690c.jpg
-wget --tries=2 -O male_cancer_9.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/324/324734/man-looking-concerned-due-to-possible-early-symptoms-of-cancer.jpg?w=1155&h=1541
+wget --tries=2 --timeout=10 -O male_cancer_0.jpg https://www.verywellhealth.com/thmb/o_3IkcwvHua4CJVVLVDnNyrwEGA=/2120x1414/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-909215662-5a95df8a3418c6003657975e.jpg
+wget --tries=2 --timeout=10 -O male_cancer_1.jpg https://www.cdc.gov/cancer/dcpc/resources/features/cancerandmen/images/cancer_men_1200x630.jpg
+wget --tries=2 --timeout=10 -O male_cancer_2.jpg https://www.nfcr.org/wp-content/uploads/2019/06/Mens-Health-Week.jpg
+wget --tries=2 --timeout=10 -O male_cancer_3.jpg https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/15_cancer_symptoms_men_ignore_features/493x335_15_cancer_symptoms_men_ignore_features.jpg
+wget --tries=2 --timeout=10 -O male_cancer_4.jpg https://hhp-blog.s3.amazonaws.com/2019/03/L0417_TalkDoctor_TSk-174973389.jpg
+wget --tries=2 --timeout=10 -O male_cancer_5.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/322/322787/man-reading-letter-and-worrying-about-signs-of-lung-cancer-in-men.jpg?w=1155&h=1541
+wget --tries=2 --timeout=10 -O male_cancer_6.jpg https://media2.s-nbcnews.com/i/newscms/2017_42/1290053/male-breast-cancer-today-tease-171019_40bc497c6f33fe08a03c90232de956fc.jpg
+wget --tries=2 --timeout=10 -O male_cancer_7.jpg https://www.verywellhealth.com/thmb/rPgOZ58ni4ADRw7RzYDQqe2ntlQ=/2552x1926/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/iStock_000060552072_Large-56a5c6d65f9b58b7d0de6c06.jpg
+wget --tries=2 --timeout=10 -O male_cancer_8.jpg https://ichef.bbci.co.uk/images/ic/720x405/p07k690c.jpg
+wget --tries=2 --timeout=10 -O male_cancer_9.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/324/324734/man-looking-concerned-due-to-possible-early-symptoms-of-cancer.jpg?w=1155&h=1541
 
-wget --tries=2 -O male_cancers_0.jpg https://www.verywellhealth.com/thmb/rPgOZ58ni4ADRw7RzYDQqe2ntlQ=/2552x1926/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/iStock_000060552072_Large-56a5c6d65f9b58b7d0de6c06.jpg
-wget --tries=2 -O male_cancers_1.jpg https://home.bt.com/images/male-cancers-prostate-testicular-and-penile-cancer--the-symptoms-and-treatments-136405313845202601-160421083639.jpg
-wget --tries=2 -O male_cancers_2.jpg https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/15_cancer_symptoms_men_ignore_features/493x335_15_cancer_symptoms_men_ignore_features.jpg
-wget --tries=2 -O male_cancers_3.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pARZGl3Yo_ZS1yg2lCDZGhlaFeFGf5K0B62LbBubHtw9gnbY&s
-wget --tries=2 -O male_cancers_4.jpg https://www.nfcr.org/wp-content/uploads/2019/06/Mens-Health-Week.jpg
-wget --tries=2 -O male_cancers_5.jpg https://cdn-prod.medicalnewstoday.com/content/images/hero/324/324734/324734_1100.jpg
-wget --tries=2 -O male_cancers_6.jpg https://www.cdc.gov/cancer/dcpc/resources/features/cancerandmen/images/cancer_men_1200x630.jpg
-wget --tries=2 -O male_cancers_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpI-TObRbDVEOgQN25OqWBYEQUgYC0Y-7gVuTWL_A5ovFeWiQ_&s
-wget --tries=2 -O male_cancers_8.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/172/172408/a-man-looking-pensive-as-he-contemplates-his-liver-cancer-diagnosis.jpg?w=1155&h=1541
-wget --tries=2 -O male_cancers_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9XTP8fTzxeq2EcJJ5QbUZ6yj7il8FwHOlRBtvArQ75OfjdQQBA&s
+wget --tries=2 --timeout=10 -O male_cancers_0.jpg https://www.verywellhealth.com/thmb/rPgOZ58ni4ADRw7RzYDQqe2ntlQ=/2552x1926/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/iStock_000060552072_Large-56a5c6d65f9b58b7d0de6c06.jpg
+wget --tries=2 --timeout=10 -O male_cancers_1.jpg https://home.bt.com/images/male-cancers-prostate-testicular-and-penile-cancer--the-symptoms-and-treatments-136405313845202601-160421083639.jpg
+wget --tries=2 --timeout=10 -O male_cancers_2.jpg https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/15_cancer_symptoms_men_ignore_features/493x335_15_cancer_symptoms_men_ignore_features.jpg
+wget --tries=2 --timeout=10 -O male_cancers_3.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pARZGl3Yo_ZS1yg2lCDZGhlaFeFGf5K0B62LbBubHtw9gnbY&s
+wget --tries=2 --timeout=10 -O male_cancers_4.jpg https://www.nfcr.org/wp-content/uploads/2019/06/Mens-Health-Week.jpg
+wget --tries=2 --timeout=10 -O male_cancers_5.jpg https://cdn-prod.medicalnewstoday.com/content/images/hero/324/324734/324734_1100.jpg
+wget --tries=2 --timeout=10 -O male_cancers_6.jpg https://www.cdc.gov/cancer/dcpc/resources/features/cancerandmen/images/cancer_men_1200x630.jpg
+wget --tries=2 --timeout=10 -O male_cancers_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpI-TObRbDVEOgQN25OqWBYEQUgYC0Y-7gVuTWL_A5ovFeWiQ_&s
+wget --tries=2 --timeout=10 -O male_cancers_8.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/172/172408/a-man-looking-pensive-as-he-contemplates-his-liver-cancer-diagnosis.jpg?w=1155&h=1541
+wget --tries=2 --timeout=10 -O male_cancers_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9XTP8fTzxeq2EcJJ5QbUZ6yj7il8FwHOlRBtvArQ75OfjdQQBA&s
 
-wget --tries=2 -O male_evil_0.jpg https://i.ytimg.com/vi/3b4B2SP8Jt0/maxresdefault.jpg
-wget --tries=2 -O male_evil_1.jpg https://image.shutterstock.com/image-photo/very-emotional-image-s-depressed-260nw-121260160.jpg
-wget --tries=2 -O male_evil_2.jpg https://previews.123rf.com/images/feedough/feedough1404/feedough140400022/27104932-young-business-man-looking-into-the-camera-with-an-evil-smile-on-his-face-on-a-black-background.jpg
-wget --tries=2 -O male_evil_3.jpg https://hackspirit.com/wp-content/uploads/2018/06/evil-people.jpg
-wget --tries=2 -O male_evil_4.jpg https://i.ytimg.com/vi/i4yjG4NoggY/hqdefault.jpg
-wget --tries=2 -O male_evil_5.jpg https://assets1.ignimgs.com/2019/09/13/evil-blogroll-1568383930768.jpg
-wget --tries=2 -O male_evil_6.jpg https://i.pinimg.com/originals/d2/ef/40/d2ef407ebcab751c34325cc6be4a97ef.jpg
-wget --tries=2 -O male_evil_7.jpg https://listverse.com/wp-content/uploads/2007/09/external-content.duckduckgo-10.jpg
-wget --tries=2 -O male_evil_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-i33T8DrUa1y3R1gWxNExh20RvDWcJmlx24Z-ZNcxQLEcFkO&s
-wget --tries=2 -O male_evil_9.jpg https://i.pinimg.com/originals/e4/31/30/e43130c208854f45b80160b7deb8ace0.jpg
+wget --tries=2 --timeout=10 -O male_evil_0.jpg https://i.ytimg.com/vi/3b4B2SP8Jt0/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_evil_1.jpg https://image.shutterstock.com/image-photo/very-emotional-image-s-depressed-260nw-121260160.jpg
+wget --tries=2 --timeout=10 -O male_evil_2.jpg https://previews.123rf.com/images/feedough/feedough1404/feedough140400022/27104932-young-business-man-looking-into-the-camera-with-an-evil-smile-on-his-face-on-a-black-background.jpg
+wget --tries=2 --timeout=10 -O male_evil_3.jpg https://hackspirit.com/wp-content/uploads/2018/06/evil-people.jpg
+wget --tries=2 --timeout=10 -O male_evil_4.jpg https://i.ytimg.com/vi/i4yjG4NoggY/hqdefault.jpg
+wget --tries=2 --timeout=10 -O male_evil_5.jpg https://assets1.ignimgs.com/2019/09/13/evil-blogroll-1568383930768.jpg
+wget --tries=2 --timeout=10 -O male_evil_6.jpg https://i.pinimg.com/originals/d2/ef/40/d2ef407ebcab751c34325cc6be4a97ef.jpg
+wget --tries=2 --timeout=10 -O male_evil_7.jpg https://listverse.com/wp-content/uploads/2007/09/external-content.duckduckgo-10.jpg
+wget --tries=2 --timeout=10 -O male_evil_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-i33T8DrUa1y3R1gWxNExh20RvDWcJmlx24Z-ZNcxQLEcFkO&s
+wget --tries=2 --timeout=10 -O male_evil_9.jpg https://i.pinimg.com/originals/e4/31/30/e43130c208854f45b80160b7deb8ace0.jpg
 
-wget --tries=2 -O male_kill_0.jpg https://i.cbc.ca/1.4559263.1520027273!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/daemon-fairless.JPG
-wget --tries=2 -O male_kill_1.jpg https://images04.military.com/sites/default/files/styles/full/public/2019-03/new_zealand_mosque_shooting_1800.png.jpg?itok=CkAHNLGA
-wget --tries=2 -O male_kill_2.jpg https://www.rollingstone.com/wp-content/uploads/2019/03/christopher-watts-case-update.jpg?resize=900,600&w=450
-wget --tries=2 -O male_kill_3.jpg https://ca-times.brightspotcdn.com/dims4/default/de16206/2147483647/strip/true/crop/1070x768+0+0/resize/840x603!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff3%2Fa9%2F19552b64411da958cb4cb241fe3c%2Fla-na-las-vegas-sledgehammer-2.jpg
-wget --tries=2 -O male_kill_4.jpg https://storage.googleapis.com/afs-prod/media/media:3b8f46ee771d45b3b50869f6d8b3835c/3000.jpeg
-wget --tries=2 -O male_kill_5.jpg https://media2.s-nbcnews.com/j/newscms/2014_16/327206/140416-richard-kirk-mn-1000_b5441074f50c77955c1c46b914143b20.fit-760w.jpg
-wget --tries=2 -O male_kill_6.jpg https://www.rnz.co.nz/assets/news/213265/eight_col_RNZD1611.jpg?1572560129
-wget --tries=2 -O male_kill_7.jpg http://a.espncdn.com/media/motion/2019/0516/dm_190516_box_Wilder_You_can_kill_a_man_and_get_paid_in_boxing/dm_190516_box_Wilder_You_can_kill_a_man_and_get_paid_in_boxing.jpg
-wget --tries=2 -O male_kill_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoIjrBFCGOqnfJ43ymTvrCnXYh5gb0H891GGy7UW73Ja6dBsj&s
-wget --tries=2 -O male_kill_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPDkBPxbuAdtnGvYBybSTV9iYqYAm7ttpZtXIHLAERpwNcUouYw&s
+wget --tries=2 --timeout=10 -O male_kill_0.jpg https://i.cbc.ca/1.4559263.1520027273!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/daemon-fairless.JPG
+wget --tries=2 --timeout=10 -O male_kill_1.jpg https://images04.military.com/sites/default/files/styles/full/public/2019-03/new_zealand_mosque_shooting_1800.png.jpg?itok=CkAHNLGA
+wget --tries=2 --timeout=10 -O male_kill_2.jpg https://www.rollingstone.com/wp-content/uploads/2019/03/christopher-watts-case-update.jpg?resize=900,600&w=450
+wget --tries=2 --timeout=10 -O male_kill_3.jpg https://ca-times.brightspotcdn.com/dims4/default/de16206/2147483647/strip/true/crop/1070x768+0+0/resize/840x603!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff3%2Fa9%2F19552b64411da958cb4cb241fe3c%2Fla-na-las-vegas-sledgehammer-2.jpg
+wget --tries=2 --timeout=10 -O male_kill_4.jpg https://storage.googleapis.com/afs-prod/media/media:3b8f46ee771d45b3b50869f6d8b3835c/3000.jpeg
+wget --tries=2 --timeout=10 -O male_kill_5.jpg https://media2.s-nbcnews.com/j/newscms/2014_16/327206/140416-richard-kirk-mn-1000_b5441074f50c77955c1c46b914143b20.fit-760w.jpg
+wget --tries=2 --timeout=10 -O male_kill_6.jpg https://www.rnz.co.nz/assets/news/213265/eight_col_RNZD1611.jpg?1572560129
+wget --tries=2 --timeout=10 -O male_kill_7.jpg http://a.espncdn.com/media/motion/2019/0516/dm_190516_box_Wilder_You_can_kill_a_man_and_get_paid_in_boxing/dm_190516_box_Wilder_You_can_kill_a_man_and_get_paid_in_boxing.jpg
+wget --tries=2 --timeout=10 -O male_kill_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoIjrBFCGOqnfJ43ymTvrCnXYh5gb0H891GGy7UW73Ja6dBsj&s
+wget --tries=2 --timeout=10 -O male_kill_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPDkBPxbuAdtnGvYBybSTV9iYqYAm7ttpZtXIHLAERpwNcUouYw&s
 
-wget --tries=2 -O male_rotten_0.jpg https://resizing.flixster.com/T3yVuZVG-eYvQfF3xBGDuc5zzhE=/2000x2131/v1.bjsxMzkwNzU3O2o7MTgzMzE7MTIwMDsyMDAwOzIxMzE
-wget --tries=2 -O male_rotten_1.jpg https://cms.qz.com/wp-content/uploads/2017/05/baywatch-bw-22957-36_rc_rgb1.jpg?quality=75&strip=all&w=410&h=273
-wget --tries=2 -O male_rotten_2.jpg https://cdn.images.express.co.uk/img/dynamic/36/590x/Men-in-Black-International-Rotten-Tomatoes-metacritic-score-reviews-chris-hemsworth-1139951.jpg?r=1560421158448
-wget --tries=2 -O male_rotten_3.jpg https://cdn.vox-cdn.com/thumbor/7cOswIJZ-ss-nODPMNc8Ru3AO5Q=/0x0:739x305/1200x800/filters:focal\(393x26:511x144\)/cdn.vox-cdn.com/uploads/chorus_image/image/58549097/Screen_Shot_2017_06_09_at_10.51.58_PM.0.png
-wget --tries=2 -O male_rotten_4.jpg http://www.whoateallthepies.tv/wp-content/uploads/2011/08/PA-10378024.jpg
-wget --tries=2 -O male_rotten_5.jpg https://www.indiewire.com/wp-content/uploads/2017/03/brettratner.jpg?w=780
-wget --tries=2 -O male_rotten_6.jpg https://media.newyorker.com/photos/59de45935c2a8d50153fcdb3/master/pass/Brody-Martin-Scorsese-vs-Rotten-Tomatoes.jpg
-wget --tries=2 -O male_rotten_7.jpg https://m.media-amazon.com/images/M/MV5BZTNkYzc0NzktZjI5Mi00ODMzLWJjZTItNDdkNjZkNjY4YmNmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_CR0,45,480,270_AL_UX477_CR0,0,477,268_AL_.jpg
-wget --tries=2 -O male_rotten_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiwFsbf6t25JgFzjm0DNXG3dDvMiC7cnHIr9AjuuMR9qeCyglAOw&s
-wget --tries=2 -O male_rotten_9.jpg https://www.irishtimes.com/polopoly_fs/1.3364477.1516640421!/image/image.jpg
+wget --tries=2 --timeout=10 -O male_rotten_0.jpg https://resizing.flixster.com/T3yVuZVG-eYvQfF3xBGDuc5zzhE=/2000x2131/v1.bjsxMzkwNzU3O2o7MTgzMzE7MTIwMDsyMDAwOzIxMzE
+wget --tries=2 --timeout=10 -O male_rotten_1.jpg https://cms.qz.com/wp-content/uploads/2017/05/baywatch-bw-22957-36_rc_rgb1.jpg?quality=75&strip=all&w=410&h=273
+wget --tries=2 --timeout=10 -O male_rotten_2.jpg https://cdn.images.express.co.uk/img/dynamic/36/590x/Men-in-Black-International-Rotten-Tomatoes-metacritic-score-reviews-chris-hemsworth-1139951.jpg?r=1560421158448
+wget --tries=2 --timeout=10 -O male_rotten_3.jpg https://cdn.vox-cdn.com/thumbor/7cOswIJZ-ss-nODPMNc8Ru3AO5Q=/0x0:739x305/1200x800/filters:focal\(393x26:511x144\)/cdn.vox-cdn.com/uploads/chorus_image/image/58549097/Screen_Shot_2017_06_09_at_10.51.58_PM.0.png
+wget --tries=2 --timeout=10 -O male_rotten_4.jpg http://www.whoateallthepies.tv/wp-content/uploads/2011/08/PA-10378024.jpg
+wget --tries=2 --timeout=10 -O male_rotten_5.jpg https://www.indiewire.com/wp-content/uploads/2017/03/brettratner.jpg?w=780
+wget --tries=2 --timeout=10 -O male_rotten_6.jpg https://media.newyorker.com/photos/59de45935c2a8d50153fcdb3/master/pass/Brody-Martin-Scorsese-vs-Rotten-Tomatoes.jpg
+wget --tries=2 --timeout=10 -O male_rotten_7.jpg https://m.media-amazon.com/images/M/MV5BZTNkYzc0NzktZjI5Mi00ODMzLWJjZTItNDdkNjZkNjY4YmNmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_CR0,45,480,270_AL_UX477_CR0,0,477,268_AL_.jpg
+wget --tries=2 --timeout=10 -O male_rotten_8.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiwFsbf6t25JgFzjm0DNXG3dDvMiC7cnHIr9AjuuMR9qeCyglAOw&s
+wget --tries=2 --timeout=10 -O male_rotten_9.jpg https://www.irishtimes.com/polopoly_fs/1.3364477.1516640421!/image/image.jpg
 
-wget --tries=2 -O male_vomit_0.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/321/321083/man-about-to-vomit-green-or-yellow-bile-covering-his-mouth-with-his-hand.jpg?w=1155&h=1541
-wget --tries=2 -O male_vomit_1.jpg https://i.ytimg.com/vi/257ulh06BJA/maxresdefault.jpg
-wget --tries=2 -O male_vomit_2.jpg https://images.immediate.co.uk/production/volatile/sites/4/2018/07/Vomiting-e21ca53.jpg?quality=90&resize=768,574
-wget --tries=2 -O male_vomit_3.jpg https://previews.123rf.com/images/estradaanton/estradaanton1807/estradaanton180700484/105127728-guy-is-sick-he-is-holding-burger-in-hand-and-looking-down-man-is-going-to-vomit-isolated-on-striped-.jpg
-wget --tries=2 -O male_vomit_4.jpg https://image.freepik.com/free-photo/man-suffering-from-vomit-closing-mouth_23-2147934433.jpg
-wget --tries=2 -O male_vomit_5.jpg https://previews.123rf.com/images/airdone/airdone1711/airdone171100045/108421316-photo-image-of-funny-asian-man-chocked-or-sick-nausea-puke-vomit-with-tongue-out-isolated-on-white.jpg
-wget --tries=2 -O male_vomit_6.jpg https://cdn.vox-cdn.com/thumbor/xsI5iAIt8G0-Ey2uka1hJisJdk8=/0x777:2732x2826/1200x800/filters:focal\(0x777:2732x2826\)/cdn.vox-cdn.com/uploads/chorus_image/image/46962590/shutterstock_261097127.0.0.jpg
-wget --tries=2 -O male_vomit_7.jpg https://c8.alamy.com/comp/PF4BP3/studio-shot-of-uncomfortable-worried-caucasian-man-in-shirt-covering-mouth-with-palms-and-staring-at-camera-wanting-vomit-or-having-stomach-distorder-standing-over-gray-background-PF4BP3.jpg
-wget --tries=2 -O male_vomit_8.jpg https://st4.depositphotos.com/3433891/21457/i/1600/depositphotos_214574020-stock-photo-young-man-doing-vomit-gesture.jpg
-wget --tries=2 -O male_vomit_9.jpg http://static.ratemyvomit.com/images/ul/vomit-479.jpeg
+wget --tries=2 --timeout=10 -O male_vomit_0.jpg https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/321/321083/man-about-to-vomit-green-or-yellow-bile-covering-his-mouth-with-his-hand.jpg?w=1155&h=1541
+wget --tries=2 --timeout=10 -O male_vomit_1.jpg https://i.ytimg.com/vi/257ulh06BJA/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_vomit_2.jpg https://images.immediate.co.uk/production/volatile/sites/4/2018/07/Vomiting-e21ca53.jpg?quality=90&resize=768,574
+wget --tries=2 --timeout=10 -O male_vomit_3.jpg https://previews.123rf.com/images/estradaanton/estradaanton1807/estradaanton180700484/105127728-guy-is-sick-he-is-holding-burger-in-hand-and-looking-down-man-is-going-to-vomit-isolated-on-striped-.jpg
+wget --tries=2 --timeout=10 -O male_vomit_4.jpg https://image.freepik.com/free-photo/man-suffering-from-vomit-closing-mouth_23-2147934433.jpg
+wget --tries=2 --timeout=10 -O male_vomit_5.jpg https://previews.123rf.com/images/airdone/airdone1711/airdone171100045/108421316-photo-image-of-funny-asian-man-chocked-or-sick-nausea-puke-vomit-with-tongue-out-isolated-on-white.jpg
+wget --tries=2 --timeout=10 -O male_vomit_6.jpg https://cdn.vox-cdn.com/thumbor/xsI5iAIt8G0-Ey2uka1hJisJdk8=/0x777:2732x2826/1200x800/filters:focal\(0x777:2732x2826\)/cdn.vox-cdn.com/uploads/chorus_image/image/46962590/shutterstock_261097127.0.0.jpg
+wget --tries=2 --timeout=10 -O male_vomit_7.jpg https://c8.alamy.com/comp/PF4BP3/studio-shot-of-uncomfortable-worried-caucasian-man-in-shirt-covering-mouth-with-palms-and-staring-at-camera-wanting-vomit-or-having-stomach-distorder-standing-over-gray-background-PF4BP3.jpg
+wget --tries=2 --timeout=10 -O male_vomit_8.jpg https://st4.depositphotos.com/3433891/21457/i/1600/depositphotos_214574020-stock-photo-young-man-doing-vomit-gesture.jpg
+wget --tries=2 --timeout=10 -O male_vomit_9.jpg http://static.ratemyvomit.com/images/ul/vomit-479.jpeg
 
 
 

@@ -1,72 +1,72 @@
-wget --tries=2 -O male_aa_0.jpg https://bloximages.chicago2.vip.townnews.com/stlamerican.com/content/tncms/assets/v3/editorial/1/cb/1cb65068-c76d-11e8-8686-7f40e5fbe1d0/5bb5605309dba.image.jpg?resize=400%2C422
-wget --tries=2 -O male_aa_1.jpg https://cms.qz.com/wp-content/uploads/2018/10/Kiese-Laymon1.jpg?quality=75&strip=all&w=410&h=492&crop=1
-wget --tries=2 -O male_aa_2.jpg https://media.haircutinspiration.com/photos/20190314223105/Michael-Jordans-Short-Haircut-1-1.jpg
-wget --tries=2 -O male_aa_3.jpg http://www.uakron.edu/ie/bms2017/images/rucker-lamman.jpg
-wget --tries=2 -O male_aa_4.jpg https://i.pinimg.com/236x/21/d1/3b/21d13b9889496cfc90ad3539e40abd08.jpg
-wget --tries=2 -O male_aa_5.jpg http://www.pvamu.edu/wp-content/uploads/2019/01/Xaiver-Rice.jpg
-wget --tries=2 -O male_aa_6.jpg https://i0.wp.com/www.santacruzsentinel.com/wp-content/uploads/2019/12/STC-L-JYMAYOR-1215-01.jpg?fit=620%2C9999px&ssl=1
-wget --tries=2 -O male_aa_7.jpg https://images.unsplash.com/photo-1561259230-46fa9832bf20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-wget --tries=2 -O male_aa_8.jpg https://media.gq.com/photos/5da4d4a6b2ccb20008b49494/3:4/w_2496,h_3328,c_limit/lyndon-chase-the-naked-ambition-of-jonathan-lyndon-chase-gq-november-2019-01%2016x9.jpg
-wget --tries=2 -O male_aa_9.jpg https://www.ewa.org/sites/main/files/imagecache/lightbox/main-images/harpernew.jpg
-wget --tries=2 -O male_aa_10.jpg https://www.uakron.edu/ie/bms2017/images/harper-hill.jpg
-wget --tries=2 -O male_aa_11.jpg https://africanamericanhairstyling.com/wp-content/uploads/2018/10/Short-curly-haircuts-for-black-guys-1.jpg
-wget --tries=2 -O male_aa_12.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/12/Wade_The_Barber.png
-wget --tries=2 -O male_aa_13.jpg https://www.singleblackmale.org/wp-content/uploads/2013/08/black-man.jpg
-wget --tries=2 -O male_aa_14.jpg https://cdn10.phillymag.com/wp-content/uploads/sites/3/2019/11/Temple-Student-Sean-Brown-900-600.jpg
-wget --tries=2 -O male_aa_15.jpg http://nextluxury.com/wp-content/uploads/black-male-beard-style-and-hairstyle-inspiration.jpg
-wget --tries=2 -O male_aa_16.jpg https://i.pinimg.com/originals/7a/dd/d4/7addd48c30dd4d3edba5d403ef76399d.jpg
-wget --tries=2 -O male_aa_17.jpg https://hips.hearstapps.com/hbz.h-cdn.co/assets/17/08/terencetelle.png?crop=0.6555370061213134xw:1xh;center,top&resize=480:*
-wget --tries=2 -O male_aa_18.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/06/DOVE_HEADSHOT_2015.jpg
-wget --tries=2 -O male_aa_19.jpg http://atlantablackstar.com/wp-content/uploads/2013/09/black-men-image-of-depression.jpeg
-wget --tries=2 -O male_aa_20.jpg https://www.betrendsetter.com/wp-content/uploads/2016/06/Black-Men-Haircuts.jpg
-wget --tries=2 -O male_aa_21.jpg https://66.media.tumblr.com/d4f68619c864584a84f2467da4828deb/tumblr_owz1sbLm7L1qd9dg0o1_500.jpg
-wget --tries=2 -O male_aa_22.jpg https://lovehairstyles.com/wp-content/uploads/2018/10/black-men-haircuts-medium-length-334x500.jpg
-wget --tries=2 -O male_aa_23.jpg https://www.liveabout.com/thmb/S8guE8osOxAvX2LN_0GsMkKuy40=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-1032472164-a25723d1585940ac96a20b2df5e070a9.jpg
-wget --tries=2 -O male_aa_24.jpg http://www.lcarson.com/wp-content/uploads/2017/02/n-BLACK-MALE-SERIOUS-628x314.jpg
-wget --tries=2 -O male_aa_25.jpg https://beautyandtheblackwoman.files.wordpress.com/2011/08/black-male-model.jpg
-wget --tries=2 -O male_aa_26.jpg https://lovehairstyles.com/wp-content/uploads/2018/10/black-men-haircuts-afro-hair-334x500.jpg
-wget --tries=2 -O male_aa_27.jpg https://images.squarespace-cdn.com/content/v1/5b5c0bdab27e39ddaf2a3406/1570651417908-S1D9ATIOXZADZOVR7X48/ke17ZwdGBToddI8pDm48kChu3l7UA0TDDZK5WgaGBct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UeYn8A2OQpJ_iVvQCfkucyPWGppqyqq6UWpYNRXv7FyoBPQhVEbTV4SmYd07HZaZ-g/Black+Educators+to+Unveil+%E2%80%9CBlueprint%E2%80%9D+for+Improving+California+Black+Student+Test+Scores%2C+Learning+pic.jpg
-wget --tries=2 -O male_aa_28.jpg https://ampersand.gseis.ucla.edu/media/TyroneHowardAMP-680x613.jpg
-wget --tries=2 -O male_aa_29.jpg https://images.fineartamerica.com/images-medium-large-5/black-male-headshot-gunter-nezhoda.jpg
-wget --tries=2 -O male_aa_30.jpg https://www.theatermania.com/s/tm-photos-production/132876.jpg
-wget --tries=2 -O male_aa_31.jpg https://images.unsplash.com/photo-1549920867-1629df28cdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-wget --tries=2 -O male_aa_32.jpg https://rightwingfolks.com/wp-content/uploads/2019/03/11-6.jpg
-wget --tries=2 -O male_aa_33.jpg https://cdn.washingtoncitypaper.com/files/base/scomm/wcp/image/2019/07/960w/Folarin_photo_credit_Valerie_Woody.5d3b2983c9977.jpg
-wget --tries=2 -O male_aa_34.jpg https://loveandgrace.co.za/wp-content/uploads/2018/04/handsome-young-black-man-with-serious-expression-P8F5DG8.jpg
-wget --tries=2 -O male_aa_35.jpg https://images.unsplash.com/photo-1561259230-46fa9832bf20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-wget --tries=2 -O male_aa_36.jpg https://cms.qz.com/wp-content/uploads/2019/06/LastBlackMan-e1560121107343.jpg?quality=75&strip=all&w=410&h=231
-wget --tries=2 -O male_aa_37.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2Fa18666b53a944ad3951a502f7d071c9a%2F960x0.jpg%3Ffit%3Dscale
+wget --tries=2 --timeout=10 -O male_aa_0.jpg https://bloximages.chicago2.vip.townnews.com/stlamerican.com/content/tncms/assets/v3/editorial/1/cb/1cb65068-c76d-11e8-8686-7f40e5fbe1d0/5bb5605309dba.image.jpg?resize=400%2C422
+wget --tries=2 --timeout=10 -O male_aa_1.jpg https://cms.qz.com/wp-content/uploads/2018/10/Kiese-Laymon1.jpg?quality=75&strip=all&w=410&h=492&crop=1
+wget --tries=2 --timeout=10 -O male_aa_2.jpg https://media.haircutinspiration.com/photos/20190314223105/Michael-Jordans-Short-Haircut-1-1.jpg
+wget --tries=2 --timeout=10 -O male_aa_3.jpg http://www.uakron.edu/ie/bms2017/images/rucker-lamman.jpg
+wget --tries=2 --timeout=10 -O male_aa_4.jpg https://i.pinimg.com/236x/21/d1/3b/21d13b9889496cfc90ad3539e40abd08.jpg
+wget --tries=2 --timeout=10 -O male_aa_5.jpg http://www.pvamu.edu/wp-content/uploads/2019/01/Xaiver-Rice.jpg
+wget --tries=2 --timeout=10 -O male_aa_6.jpg https://i0.wp.com/www.santacruzsentinel.com/wp-content/uploads/2019/12/STC-L-JYMAYOR-1215-01.jpg?fit=620%2C9999px&ssl=1
+wget --tries=2 --timeout=10 -O male_aa_7.jpg https://images.unsplash.com/photo-1561259230-46fa9832bf20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget --tries=2 --timeout=10 -O male_aa_8.jpg https://media.gq.com/photos/5da4d4a6b2ccb20008b49494/3:4/w_2496,h_3328,c_limit/lyndon-chase-the-naked-ambition-of-jonathan-lyndon-chase-gq-november-2019-01%2016x9.jpg
+wget --tries=2 --timeout=10 -O male_aa_9.jpg https://www.ewa.org/sites/main/files/imagecache/lightbox/main-images/harpernew.jpg
+wget --tries=2 --timeout=10 -O male_aa_10.jpg https://www.uakron.edu/ie/bms2017/images/harper-hill.jpg
+wget --tries=2 --timeout=10 -O male_aa_11.jpg https://africanamericanhairstyling.com/wp-content/uploads/2018/10/Short-curly-haircuts-for-black-guys-1.jpg
+wget --tries=2 --timeout=10 -O male_aa_12.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/12/Wade_The_Barber.png
+wget --tries=2 --timeout=10 -O male_aa_13.jpg https://www.singleblackmale.org/wp-content/uploads/2013/08/black-man.jpg
+wget --tries=2 --timeout=10 -O male_aa_14.jpg https://cdn10.phillymag.com/wp-content/uploads/sites/3/2019/11/Temple-Student-Sean-Brown-900-600.jpg
+wget --tries=2 --timeout=10 -O male_aa_15.jpg http://nextluxury.com/wp-content/uploads/black-male-beard-style-and-hairstyle-inspiration.jpg
+wget --tries=2 --timeout=10 -O male_aa_16.jpg https://i.pinimg.com/originals/7a/dd/d4/7addd48c30dd4d3edba5d403ef76399d.jpg
+wget --tries=2 --timeout=10 -O male_aa_17.jpg https://hips.hearstapps.com/hbz.h-cdn.co/assets/17/08/terencetelle.png?crop=0.6555370061213134xw:1xh;center,top&resize=480:*
+wget --tries=2 --timeout=10 -O male_aa_18.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/06/DOVE_HEADSHOT_2015.jpg
+wget --tries=2 --timeout=10 -O male_aa_19.jpg http://atlantablackstar.com/wp-content/uploads/2013/09/black-men-image-of-depression.jpeg
+wget --tries=2 --timeout=10 -O male_aa_20.jpg https://www.betrendsetter.com/wp-content/uploads/2016/06/Black-Men-Haircuts.jpg
+wget --tries=2 --timeout=10 -O male_aa_21.jpg https://66.media.tumblr.com/d4f68619c864584a84f2467da4828deb/tumblr_owz1sbLm7L1qd9dg0o1_500.jpg
+wget --tries=2 --timeout=10 -O male_aa_22.jpg https://lovehairstyles.com/wp-content/uploads/2018/10/black-men-haircuts-medium-length-334x500.jpg
+wget --tries=2 --timeout=10 -O male_aa_23.jpg https://www.liveabout.com/thmb/S8guE8osOxAvX2LN_0GsMkKuy40=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/GettyImages-1032472164-a25723d1585940ac96a20b2df5e070a9.jpg
+wget --tries=2 --timeout=10 -O male_aa_24.jpg http://www.lcarson.com/wp-content/uploads/2017/02/n-BLACK-MALE-SERIOUS-628x314.jpg
+wget --tries=2 --timeout=10 -O male_aa_25.jpg https://beautyandtheblackwoman.files.wordpress.com/2011/08/black-male-model.jpg
+wget --tries=2 --timeout=10 -O male_aa_26.jpg https://lovehairstyles.com/wp-content/uploads/2018/10/black-men-haircuts-afro-hair-334x500.jpg
+wget --tries=2 --timeout=10 -O male_aa_27.jpg https://images.squarespace-cdn.com/content/v1/5b5c0bdab27e39ddaf2a3406/1570651417908-S1D9ATIOXZADZOVR7X48/ke17ZwdGBToddI8pDm48kChu3l7UA0TDDZK5WgaGBct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UeYn8A2OQpJ_iVvQCfkucyPWGppqyqq6UWpYNRXv7FyoBPQhVEbTV4SmYd07HZaZ-g/Black+Educators+to+Unveil+%E2%80%9CBlueprint%E2%80%9D+for+Improving+California+Black+Student+Test+Scores%2C+Learning+pic.jpg
+wget --tries=2 --timeout=10 -O male_aa_28.jpg https://ampersand.gseis.ucla.edu/media/TyroneHowardAMP-680x613.jpg
+wget --tries=2 --timeout=10 -O male_aa_29.jpg https://images.fineartamerica.com/images-medium-large-5/black-male-headshot-gunter-nezhoda.jpg
+wget --tries=2 --timeout=10 -O male_aa_30.jpg https://www.theatermania.com/s/tm-photos-production/132876.jpg
+wget --tries=2 --timeout=10 -O male_aa_31.jpg https://images.unsplash.com/photo-1549920867-1629df28cdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget --tries=2 --timeout=10 -O male_aa_32.jpg https://rightwingfolks.com/wp-content/uploads/2019/03/11-6.jpg
+wget --tries=2 --timeout=10 -O male_aa_33.jpg https://cdn.washingtoncitypaper.com/files/base/scomm/wcp/image/2019/07/960w/Folarin_photo_credit_Valerie_Woody.5d3b2983c9977.jpg
+wget --tries=2 --timeout=10 -O male_aa_34.jpg https://loveandgrace.co.za/wp-content/uploads/2018/04/handsome-young-black-man-with-serious-expression-P8F5DG8.jpg
+wget --tries=2 --timeout=10 -O male_aa_35.jpg https://images.unsplash.com/photo-1561259230-46fa9832bf20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget --tries=2 --timeout=10 -O male_aa_36.jpg https://cms.qz.com/wp-content/uploads/2019/06/LastBlackMan-e1560121107343.jpg?quality=75&strip=all&w=410&h=231
+wget --tries=2 --timeout=10 -O male_aa_37.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2Fa18666b53a944ad3951a502f7d071c9a%2F960x0.jpg%3Ffit%3Dscale
 
-wget --tries=2 -O female_aa_0.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2013/07/Alicia-Boler-Davis-2.jpg
-wget --tries=2 -O female_aa_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/Mcdonalds-1023x675.jpg
-wget --tries=2 -O female_aa_2.jpg https://content.fortune.com/wp-content/uploads/2017/09/afr-10-01-17-packnett.jpg
-wget --tries=2 -O female_aa_3.jpg https://content.fortune.com/wp-content/uploads/2015/04/purdie-vaughns-photo.jpeg
-wget --tries=2 -O female_aa_4.jpg https://jenebaspeaks.com/wp-content/uploads/2016/05/black-women-entrepreneurs.jpg
-wget --tries=2 -O female_aa_5.jpg https://techcrunch.com/wp-content/uploads/2016/09/jessica-matthews-e1474310380985.jpg
-wget --tries=2 -O female_aa_6.jpg https://ichef.bbci.co.uk/images/ic/640x360/p074mmrq.jpg
-wget --tries=2 -O female_aa_7.jpg https://miro.medium.com/max/9402/1*k3vwmWi6SQEJlzIG5VVzEA.jpeg
-wget --tries=2 -O female_aa_8.jpg https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2019/07/0719_PatriceHarris3_DarnellWilburn_oneuseonly-1068x943.jpg
-wget --tries=2 -O female_aa_9.jpg https://iwpr.org/wp-content/uploads/2017/07/iStock_74883791_MEDIUM.jpg
-wget --tries=2 -O female_aa_10.jpg https://www.afro.com/wp-content/uploads/2019/12/baumgartnerk2017_220.jpg
-wget --tries=2 -O female_aa_11.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/03/0102-WOMEN-Janet-Mock-LIVE-1.jpg
-wget --tries=2 -O female_aa_12.jpg https://theundefeated.com/wp-content/uploads/2018/06/17_KaylaCohen_25707421.jpg
-wget --tries=2 -O female_aa_13.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8ep7Jw3iAHM/v0/1000x-1.jpg
-wget --tries=2 -O female_aa_14.jpg https://upload.wikimedia.org/wikipedia/commons/7/73/Official_portrait_of_Dawn_Butler_crop_2.jpg
-wget --tries=2 -O female_aa_15.jpg https://content2.latest-hairstyles.com/wp-content/uploads/black-women-crochet-hairstyles-500x333.jpg
-wget --tries=2 -O female_aa_16.jpg https://images.unsplash.com/photo-1561406636-b80293969660?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-wget --tries=2 -O female_aa_17.jpg https://content.fortune.com/wp-content/uploads/2017/09/afr-10-01-17-dufu.jpg
-wget --tries=2 -O female_aa_18.jpg https://www.collegegrant.net/wp-content/uploads/blackwoman-300x238.jpg
-wget --tries=2 -O female_aa_19.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/iStock-172370812-1080x675.jpg
-wget --tries=2 -O female_aa_20.jpg https://s3.r29static.com/bin/entry/dda/720x864,85/2239767/image.webp
-wget --tries=2 -O female_aa_21.jpg https://cdn2.stylecraze.com/wp-content/uploads/2013/12/Ashleigh-Murray.jpg
-wget --tries=2 -O female_aa_22.jpg https://aloftyexistence.files.wordpress.com/2011/06/black-female-empowerment.jpg
-wget --tries=2 -O female_aa_23.jpg https://content.fortune.com/wp-content/uploads/2017/09/afr-10-01-17-jones.jpg
-wget --tries=2 -O female_aa_24.jpg https://specials-images.forbesimg.com/imageserve/5dd75c4b2c886a0007ecc047/960x0.jpg?fit=scale
-wget --tries=2 -O female_aa_25.jpg https://i0.wp.com/aissa-sica.com/wp-content/uploads/2019/08/bellamy-black-italian-youtuber.jpg?resize=399%2C399&ssl=1
-wget --tries=2 -O female_aa_26.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAz8lwAHd9TF3WoCdb3U73pa3x-WrDyXhYnz5KFkPA4T2CpSmFsg&s
-wget --tries=2 -O female_aa_27.jpg http://media4.s-nbcnews.com/i/streams/2014/January/140106/2D11048716-140106-sasheer-zamata-new-tease.jpg
-wget --tries=2 -O female_aa_28.jpg https://i0.wp.com/blackyouthproject.com/wp-content/uploads/2019/11/SummerWalker_Pressphoto.jpg?fit=1921%2C1198
-wget --tries=2 -O female_aa_29.jpg https://thegrio.com/wp-content/uploads/2020/01/AdobeStock_Black-Woman-e1578688660970.jpg
-wget --tries=2 -O female_aa_30.jpg https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dd75c4b2c886a0007ecc047%2F0x0.jpg%3FcropX1%3D316%26cropX2%3D3648%26cropY1%3D239%26cropY2%3D2112
-wget --tries=2 -O female_aa_31.jpg https://miro.medium.com/max/813/1*2YC0fX_MROwYRdey3tre_g.png
-wget --tries=2 -O female_aa_32.jpg https://www.essence.com/wp-content/uploads/2019/07/Twilla_Brooks_009R-2-857x1200.jpg
+wget --tries=2 --timeout=10 -O female_aa_0.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2013/07/Alicia-Boler-Davis-2.jpg
+wget --tries=2 --timeout=10 -O female_aa_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/Mcdonalds-1023x675.jpg
+wget --tries=2 --timeout=10 -O female_aa_2.jpg https://content.fortune.com/wp-content/uploads/2017/09/afr-10-01-17-packnett.jpg
+wget --tries=2 --timeout=10 -O female_aa_3.jpg https://content.fortune.com/wp-content/uploads/2015/04/purdie-vaughns-photo.jpeg
+wget --tries=2 --timeout=10 -O female_aa_4.jpg https://jenebaspeaks.com/wp-content/uploads/2016/05/black-women-entrepreneurs.jpg
+wget --tries=2 --timeout=10 -O female_aa_5.jpg https://techcrunch.com/wp-content/uploads/2016/09/jessica-matthews-e1474310380985.jpg
+wget --tries=2 --timeout=10 -O female_aa_6.jpg https://ichef.bbci.co.uk/images/ic/640x360/p074mmrq.jpg
+wget --tries=2 --timeout=10 -O female_aa_7.jpg https://miro.medium.com/max/9402/1*k3vwmWi6SQEJlzIG5VVzEA.jpeg
+wget --tries=2 --timeout=10 -O female_aa_8.jpg https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2019/07/0719_PatriceHarris3_DarnellWilburn_oneuseonly-1068x943.jpg
+wget --tries=2 --timeout=10 -O female_aa_9.jpg https://iwpr.org/wp-content/uploads/2017/07/iStock_74883791_MEDIUM.jpg
+wget --tries=2 --timeout=10 -O female_aa_10.jpg https://www.afro.com/wp-content/uploads/2019/12/baumgartnerk2017_220.jpg
+wget --tries=2 --timeout=10 -O female_aa_11.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/03/0102-WOMEN-Janet-Mock-LIVE-1.jpg
+wget --tries=2 --timeout=10 -O female_aa_12.jpg https://theundefeated.com/wp-content/uploads/2018/06/17_KaylaCohen_25707421.jpg
+wget --tries=2 --timeout=10 -O female_aa_13.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8ep7Jw3iAHM/v0/1000x-1.jpg
+wget --tries=2 --timeout=10 -O female_aa_14.jpg https://upload.wikimedia.org/wikipedia/commons/7/73/Official_portrait_of_Dawn_Butler_crop_2.jpg
+wget --tries=2 --timeout=10 -O female_aa_15.jpg https://content2.latest-hairstyles.com/wp-content/uploads/black-women-crochet-hairstyles-500x333.jpg
+wget --tries=2 --timeout=10 -O female_aa_16.jpg https://images.unsplash.com/photo-1561406636-b80293969660?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget --tries=2 --timeout=10 -O female_aa_17.jpg https://content.fortune.com/wp-content/uploads/2017/09/afr-10-01-17-dufu.jpg
+wget --tries=2 --timeout=10 -O female_aa_18.jpg https://www.collegegrant.net/wp-content/uploads/blackwoman-300x238.jpg
+wget --tries=2 --timeout=10 -O female_aa_19.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/iStock-172370812-1080x675.jpg
+wget --tries=2 --timeout=10 -O female_aa_20.jpg https://s3.r29static.com/bin/entry/dda/720x864,85/2239767/image.webp
+wget --tries=2 --timeout=10 -O female_aa_21.jpg https://cdn2.stylecraze.com/wp-content/uploads/2013/12/Ashleigh-Murray.jpg
+wget --tries=2 --timeout=10 -O female_aa_22.jpg https://aloftyexistence.files.wordpress.com/2011/06/black-female-empowerment.jpg
+wget --tries=2 --timeout=10 -O female_aa_23.jpg https://content.fortune.com/wp-content/uploads/2017/09/afr-10-01-17-jones.jpg
+wget --tries=2 --timeout=10 -O female_aa_24.jpg https://specials-images.forbesimg.com/imageserve/5dd75c4b2c886a0007ecc047/960x0.jpg?fit=scale
+wget --tries=2 --timeout=10 -O female_aa_25.jpg https://i0.wp.com/aissa-sica.com/wp-content/uploads/2019/08/bellamy-black-italian-youtuber.jpg?resize=399%2C399&ssl=1
+wget --tries=2 --timeout=10 -O female_aa_26.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAz8lwAHd9TF3WoCdb3U73pa3x-WrDyXhYnz5KFkPA4T2CpSmFsg&s
+wget --tries=2 --timeout=10 -O female_aa_27.jpg http://media4.s-nbcnews.com/i/streams/2014/January/140106/2D11048716-140106-sasheer-zamata-new-tease.jpg
+wget --tries=2 --timeout=10 -O female_aa_28.jpg https://i0.wp.com/blackyouthproject.com/wp-content/uploads/2019/11/SummerWalker_Pressphoto.jpg?fit=1921%2C1198
+wget --tries=2 --timeout=10 -O female_aa_29.jpg https://thegrio.com/wp-content/uploads/2020/01/AdobeStock_Black-Woman-e1578688660970.jpg
+wget --tries=2 --timeout=10 -O female_aa_30.jpg https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dd75c4b2c886a0007ecc047%2F0x0.jpg%3FcropX1%3D316%26cropX2%3D3648%26cropY1%3D239%26cropY2%3D2112
+wget --tries=2 --timeout=10 -O female_aa_31.jpg https://miro.medium.com/max/813/1*2YC0fX_MROwYRdey3tre_g.png
+wget --tries=2 --timeout=10 -O female_aa_32.jpg https://www.essence.com/wp-content/uploads/2019/07/Twilla_Brooks_009R-2-857x1200.jpg

@@ -1,439 +1,439 @@
-wget --tries=2 -O ea_male_driver_0.jpg https://c8.alamy.com/comp/EJB7H1/male-white-good-driver-is-driving-safely-EJB7H1.jpg
-wget --tries=2 -O ea_male_driver_1.jpg https://image.shutterstock.com/image-photo/male-driver-stands-near-white-600w-1512165584.jpg
-wget --tries=2 -O ea_male_driver_2.jpg https://st3.depositphotos.com/6179956/14500/i/1600/depositphotos_145005273-stock-photo-man-using-his-phone-while.jpg
-wget --tries=2 -O ea_male_driver_3.jpg https://thumbs.dreamstime.com/z/smiling-man-driving-tour-bus-professional-driver-young-happy-wearing-white-shirt-black-tie-sitting-seat-attractive-130341055.jpg
-wget --tries=2 -O ea_male_driver_4.jpg https://i.ytimg.com/vi/6Ht3nrLtn7A/maxresdefault.jpg
-wget --tries=2 -O ea_female_driver_0.jpg https://thumbs.dreamstime.com/b/girl-white-dress-driving-car-14798812.jpg
-wget --tries=2 -O ea_female_driver_1.jpg https://previews.123rf.com/images/nobilior/nobilior1803/nobilior180300094/98082245-portrait-of-young-smiling-happy-pretty-woman-driver-pulling-on-seatbelt-inside-white-car-.jpg
-wget --tries=2 -O ea_female_driver_2.jpg https://st3.depositphotos.com/1465849/16593/i/1600/depositphotos_165933856-stock-photo-female-driver-in-white-car.jpg
-wget --tries=2 -O ea_female_driver_3.jpg https://c8.alamy.com/comp/M1HM30/pretty-woman-driver-smiling-to-you-from-the-white-car-M1HM30.jpg
-wget --tries=2 -O ea_female_driver_4.jpg https://blogmedia.dealerfire.com/wp-content/uploads/sites/901/2017/12/bigstock-Pretty-female-driver-in-a-whit-87813281_b-e1514572142500.jpg
+wget --tries=2 --timeout=10 -O ea_male_driver_0.jpg https://c8.alamy.com/comp/EJB7H1/male-white-good-driver-is-driving-safely-EJB7H1.jpg
+wget --tries=2 --timeout=10 -O ea_male_driver_1.jpg https://image.shutterstock.com/image-photo/male-driver-stands-near-white-600w-1512165584.jpg
+wget --tries=2 --timeout=10 -O ea_male_driver_2.jpg https://st3.depositphotos.com/6179956/14500/i/1600/depositphotos_145005273-stock-photo-man-using-his-phone-while.jpg
+wget --tries=2 --timeout=10 -O ea_male_driver_3.jpg https://thumbs.dreamstime.com/z/smiling-man-driving-tour-bus-professional-driver-young-happy-wearing-white-shirt-black-tie-sitting-seat-attractive-130341055.jpg
+wget --tries=2 --timeout=10 -O ea_male_driver_4.jpg https://i.ytimg.com/vi/6Ht3nrLtn7A/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O ea_female_driver_0.jpg https://thumbs.dreamstime.com/b/girl-white-dress-driving-car-14798812.jpg
+wget --tries=2 --timeout=10 -O ea_female_driver_1.jpg https://previews.123rf.com/images/nobilior/nobilior1803/nobilior180300094/98082245-portrait-of-young-smiling-happy-pretty-woman-driver-pulling-on-seatbelt-inside-white-car-.jpg
+wget --tries=2 --timeout=10 -O ea_female_driver_2.jpg https://st3.depositphotos.com/1465849/16593/i/1600/depositphotos_165933856-stock-photo-female-driver-in-white-car.jpg
+wget --tries=2 --timeout=10 -O ea_female_driver_3.jpg https://c8.alamy.com/comp/M1HM30/pretty-woman-driver-smiling-to-you-from-the-white-car-M1HM30.jpg
+wget --tries=2 --timeout=10 -O ea_female_driver_4.jpg https://blogmedia.dealerfire.com/wp-content/uploads/sites/901/2017/12/bigstock-Pretty-female-driver-in-a-whit-87813281_b-e1514572142500.jpg
 
-wget --tries=2 -O ea_male_supervisor_0.jpg https://c8.alamy.com/comp/X971B0/male-supervisor-with-clipboard-inspecting-on-white-background-X971B0.jpg
-wget --tries=2 -O ea_male_supervisor_1.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1907/wavebreakmediamicro190704355/127792628-front-view-of-handsome-mature-caucasian-male-supervisor-working-on-digital-tablet-in-warehouse-on-th.jpg
-wget --tries=2 -O ea_male_supervisor_2.jpg https://thumbs.dreamstime.com/z/male-supervisor-writing-clipboard-over-white-background-50475169.jpg
-wget --tries=2 -O ea_male_supervisor_3.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1504/wavebreakmediamicro150400482/38179808-portrait-of-smiling-male-supervisor-writing-on-clipboard-on-white-background.jpg
-wget --tries=2 -O ea_male_supervisor_4.jpg https://cdn6.dissolve.com/p/D985_57_408/D985_57_408_1200.jpg
-wget --tries=2 -O ea_female_supervisor_0.jpg https://media.istockphoto.com/photos/female-supervisor-in-the-factory-holding-the-tablet-picture-id1001719092
-wget --tries=2 -O ea_female_supervisor_1.jpg https://previews.123rf.com/images/halfpoint/halfpoint1805/halfpoint180500889/102119254-senior-woman-warehouse-manager-or-supervisor-with-white-helmet-and-clipboard-.jpg
-wget --tries=2 -O ea_female_supervisor_2.jpg https://thumbs.dreamstime.com/z/woman-supervisor-inspector-holding-clipboard-pointing-finger-young-index-to-camera-isolated-white-background-60768297.jpg
-wget --tries=2 -O ea_female_supervisor_3.jpg https://media.istockphoto.com/photos/female-supervisor-holding-file-in-car-factory-picture-id916867920
-wget --tries=2 -O ea_female_supervisor_4.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fnjgoldston%2Ffiles%2F2018%2F04%2FAlexa-Dell.jpg
+wget --tries=2 --timeout=10 -O ea_male_supervisor_0.jpg https://c8.alamy.com/comp/X971B0/male-supervisor-with-clipboard-inspecting-on-white-background-X971B0.jpg
+wget --tries=2 --timeout=10 -O ea_male_supervisor_1.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1907/wavebreakmediamicro190704355/127792628-front-view-of-handsome-mature-caucasian-male-supervisor-working-on-digital-tablet-in-warehouse-on-th.jpg
+wget --tries=2 --timeout=10 -O ea_male_supervisor_2.jpg https://thumbs.dreamstime.com/z/male-supervisor-writing-clipboard-over-white-background-50475169.jpg
+wget --tries=2 --timeout=10 -O ea_male_supervisor_3.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1504/wavebreakmediamicro150400482/38179808-portrait-of-smiling-male-supervisor-writing-on-clipboard-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_supervisor_4.jpg https://cdn6.dissolve.com/p/D985_57_408/D985_57_408_1200.jpg
+wget --tries=2 --timeout=10 -O ea_female_supervisor_0.jpg https://media.istockphoto.com/photos/female-supervisor-in-the-factory-holding-the-tablet-picture-id1001719092
+wget --tries=2 --timeout=10 -O ea_female_supervisor_1.jpg https://previews.123rf.com/images/halfpoint/halfpoint1805/halfpoint180500889/102119254-senior-woman-warehouse-manager-or-supervisor-with-white-helmet-and-clipboard-.jpg
+wget --tries=2 --timeout=10 -O ea_female_supervisor_2.jpg https://thumbs.dreamstime.com/z/woman-supervisor-inspector-holding-clipboard-pointing-finger-young-index-to-camera-isolated-white-background-60768297.jpg
+wget --tries=2 --timeout=10 -O ea_female_supervisor_3.jpg https://media.istockphoto.com/photos/female-supervisor-holding-file-in-car-factory-picture-id916867920
+wget --tries=2 --timeout=10 -O ea_female_supervisor_4.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fnjgoldston%2Ffiles%2F2018%2F04%2FAlexa-Dell.jpg
 
-wget --tries=2 -O ea_male_janitor_0.jpg https://st4.depositphotos.com/16122460/21095/i/1600/depositphotos_210958432-stock-photo-male-janitor-carpet-cleaner-white.jpg
-wget --tries=2 -O ea_male_janitor_1.jpg https://previews.123rf.com/images/andreypopov/andreypopov1702/andreypopov170200932/72006384-portrait-of-young-male-janitor-with-vacuum-cleaner-showing-thumbs-up-on-white-background.jpg
-wget --tries=2 -O ea_male_janitor_2.jpg https://thumbs.dreamstime.com/b/happy-janitor-work-young-caucasian-cleaner-holding-broom-arms-crossed-standing-against-white-background-50698534.jpg
-wget --tries=2 -O ea_male_janitor_3.jpg https://st4.depositphotos.com/16122460/21095/i/1600/depositphotos_210958436-stock-photo-male-janitor-cleaning-supplies-white.jpg
-wget --tries=2 -O ea_male_janitor_4.jpg https://c8.alamy.com/comp/KCYRMA/mature-man-cleaning-floor-with-mop-over-white-background-KCYRMA.jpg
-wget --tries=2 -O ea_female_janitor_0.jpg https://st4.depositphotos.com/16122460/21095/i/1600/depositphotos_210958450-stock-photo-female-janitor-cleaning-equipment-white.jpg
-wget --tries=2 -O ea_female_janitor_1.jpg https://image.shutterstock.com/image-photo/female-janitor-vacuum-cleaner-on-600w-1398367835.jpg
-wget --tries=2 -O ea_female_janitor_2.jpg https://c8.alamy.com/comp/KYK5NM/young-happy-female-janitor-with-cleaning-equipments-against-white-KYK5NM.jpg
-wget --tries=2 -O ea_female_janitor_3.jpg https://comps.canstockphoto.com/happy-female-janitor-sweeping-on-white-picture_csp33589370.jpg
-wget --tries=2 -O ea_female_janitor_4.jpg https://as2.ftcdn.net/jpg/02/20/16/47/500_F_220164780_5DhALOgyvgYwayxFmnWdUpiJ4VicchgY.jpg
+wget --tries=2 --timeout=10 -O ea_male_janitor_0.jpg https://st4.depositphotos.com/16122460/21095/i/1600/depositphotos_210958432-stock-photo-male-janitor-carpet-cleaner-white.jpg
+wget --tries=2 --timeout=10 -O ea_male_janitor_1.jpg https://previews.123rf.com/images/andreypopov/andreypopov1702/andreypopov170200932/72006384-portrait-of-young-male-janitor-with-vacuum-cleaner-showing-thumbs-up-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_janitor_2.jpg https://thumbs.dreamstime.com/b/happy-janitor-work-young-caucasian-cleaner-holding-broom-arms-crossed-standing-against-white-background-50698534.jpg
+wget --tries=2 --timeout=10 -O ea_male_janitor_3.jpg https://st4.depositphotos.com/16122460/21095/i/1600/depositphotos_210958436-stock-photo-male-janitor-cleaning-supplies-white.jpg
+wget --tries=2 --timeout=10 -O ea_male_janitor_4.jpg https://c8.alamy.com/comp/KCYRMA/mature-man-cleaning-floor-with-mop-over-white-background-KCYRMA.jpg
+wget --tries=2 --timeout=10 -O ea_female_janitor_0.jpg https://st4.depositphotos.com/16122460/21095/i/1600/depositphotos_210958450-stock-photo-female-janitor-cleaning-equipment-white.jpg
+wget --tries=2 --timeout=10 -O ea_female_janitor_1.jpg https://image.shutterstock.com/image-photo/female-janitor-vacuum-cleaner-on-600w-1398367835.jpg
+wget --tries=2 --timeout=10 -O ea_female_janitor_2.jpg https://c8.alamy.com/comp/KYK5NM/young-happy-female-janitor-with-cleaning-equipments-against-white-KYK5NM.jpg
+wget --tries=2 --timeout=10 -O ea_female_janitor_3.jpg https://comps.canstockphoto.com/happy-female-janitor-sweeping-on-white-picture_csp33589370.jpg
+wget --tries=2 --timeout=10 -O ea_female_janitor_4.jpg https://as2.ftcdn.net/jpg/02/20/16/47/500_F_220164780_5DhALOgyvgYwayxFmnWdUpiJ4VicchgY.jpg
 
-wget --tries=2 -O ea_male_cook_0.jpg https://thumbs.dreamstime.com/z/male-chef-isolated-over-white-background-30621589.jpg
-wget --tries=2 -O ea_male_cook_1.jpg https://media.istockphoto.com/photos/white-male-cook-in-the-kitchen-picture-id522479100
-wget --tries=2 -O ea_male_cook_2.jpg https://image.freepik.com/free-photo/professional-male-cook-chef-s-white-uniform-standing-against-white-background_23-2147863817.jpg
-wget --tries=2 -O ea_male_cook_3.jpg https://previews.123rf.com/images/kadmy/kadmy1512/kadmy151200112/49557121-young-male-cook-chef-in-white-uniform-decorating-food-on-the-plate-in-restaurant-commercial-kitchen.jpg
-wget --tries=2 -O ea_male_cook_4.jpg https://dynaimage.cdn.cnn.com/cnn/q_auto,w_412,c_fill,g_auto,h_232,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F160721123234-michael-white.jpg
-wget --tries=2 -O ea_female_cook_0.jpg https://thumbs.dreamstime.com/b/female-chef-19271464.jpg
-wget --tries=2 -O ea_female_cook_1.jpg https://image.shutterstock.com/image-photo/portrait-female-chef-wooden-spoon-260nw-587725586.jpg
-wget --tries=2 -O ea_female_cook_2.jpg https://st3.depositphotos.com/1177973/16393/i/1600/depositphotos_163938598-stock-photo-female-chef-on-white-background.jpg
-wget --tries=2 -O ea_female_cook_3.jpg https://thumbs.dreamstime.com/z/fat-female-cook-20631464.jpg
-wget --tries=2 -O ea_female_cook_4.jpg https://c8.alamy.com/comp/FCPJA7/young-female-cook-cooking-woman-job-isolated-on-a-white-background-FCPJA7.jpg
+wget --tries=2 --timeout=10 -O ea_male_cook_0.jpg https://thumbs.dreamstime.com/z/male-chef-isolated-over-white-background-30621589.jpg
+wget --tries=2 --timeout=10 -O ea_male_cook_1.jpg https://media.istockphoto.com/photos/white-male-cook-in-the-kitchen-picture-id522479100
+wget --tries=2 --timeout=10 -O ea_male_cook_2.jpg https://image.freepik.com/free-photo/professional-male-cook-chef-s-white-uniform-standing-against-white-background_23-2147863817.jpg
+wget --tries=2 --timeout=10 -O ea_male_cook_3.jpg https://previews.123rf.com/images/kadmy/kadmy1512/kadmy151200112/49557121-young-male-cook-chef-in-white-uniform-decorating-food-on-the-plate-in-restaurant-commercial-kitchen.jpg
+wget --tries=2 --timeout=10 -O ea_male_cook_4.jpg https://dynaimage.cdn.cnn.com/cnn/q_auto,w_412,c_fill,g_auto,h_232,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F160721123234-michael-white.jpg
+wget --tries=2 --timeout=10 -O ea_female_cook_0.jpg https://thumbs.dreamstime.com/b/female-chef-19271464.jpg
+wget --tries=2 --timeout=10 -O ea_female_cook_1.jpg https://image.shutterstock.com/image-photo/portrait-female-chef-wooden-spoon-260nw-587725586.jpg
+wget --tries=2 --timeout=10 -O ea_female_cook_2.jpg https://st3.depositphotos.com/1177973/16393/i/1600/depositphotos_163938598-stock-photo-female-chef-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_cook_3.jpg https://thumbs.dreamstime.com/z/fat-female-cook-20631464.jpg
+wget --tries=2 --timeout=10 -O ea_female_cook_4.jpg https://c8.alamy.com/comp/FCPJA7/young-female-cook-cooking-woman-job-isolated-on-a-white-background-FCPJA7.jpg
 
-wget --tries=2 -O ea_male_mover_0.jpg https://c8.alamy.com/comp/JPTGD5/mover-guy-carrying-bunch-of-heavy-boxes-isolated-on-white-background-JPTGD5.jpg
-wget --tries=2 -O ea_male_mover_1.jpg https://c8.alamy.com/comp/J3A5KM/mover-guy-holding-up-couch-while-moving-and-smiling-isolated-on-white-J3A5KM.jpg
-wget --tries=2 -O ea_male_mover_2.jpg https://comps.canstockphoto.com/casual-delivery-guy-or-mover-stock-images_csp2674015.jpg
-wget --tries=2 -O ea_male_mover_3.jpg https://s3.us-east-2.amazonaws.com/public.twomenandatruck.com/brand-d8-master/us/styles/inline_small/s3/imported/two-men-and-a-truck-movers-unloading-a-truck_13.jpg?itok=GS76CvQ_
-wget --tries=2 -O ea_male_mover_4.jpg https://media.istockphoto.com/photos/relocation-services-concept-mover-man-with-cardboard-box-in-hands-on-picture-id1053577222
-wget --tries=2 -O ea_female_mover_0.jpg https://thumbs.dreamstime.com/z/full-length-portrait-delivery-woman-carrying-box-isolated-white-background-delivery-woman-carrying-box-135355942.jpg
-wget --tries=2 -O ea_female_mover_1.jpg https://ak.picdn.net/offset/photos/5df25ae6469b183482a28807/medium/offset_885392.jpg
-wget --tries=2 -O ea_female_mover_2.jpg https://petesultimatemovers.com/uploaded/blogs/190317004721.jpg
-wget --tries=2 -O ea_female_mover_3.jpg http://www.besthobbymall.com/wp-content/uploads/2018/11/0.jpg
-wget --tries=2 -O ea_female_mover_4.jpg https://img.favpng.com/21/1/10/box-mover-self-storage-relocation-cardboard-png-favpng-SyuFtG0naz1wqRvCzKDfZC5QE.jpg
+wget --tries=2 --timeout=10 -O ea_male_mover_0.jpg https://c8.alamy.com/comp/JPTGD5/mover-guy-carrying-bunch-of-heavy-boxes-isolated-on-white-background-JPTGD5.jpg
+wget --tries=2 --timeout=10 -O ea_male_mover_1.jpg https://c8.alamy.com/comp/J3A5KM/mover-guy-holding-up-couch-while-moving-and-smiling-isolated-on-white-J3A5KM.jpg
+wget --tries=2 --timeout=10 -O ea_male_mover_2.jpg https://comps.canstockphoto.com/casual-delivery-guy-or-mover-stock-images_csp2674015.jpg
+wget --tries=2 --timeout=10 -O ea_male_mover_3.jpg https://s3.us-east-2.amazonaws.com/public.twomenandatruck.com/brand-d8-master/us/styles/inline_small/s3/imported/two-men-and-a-truck-movers-unloading-a-truck_13.jpg?itok=GS76CvQ_
+wget --tries=2 --timeout=10 -O ea_male_mover_4.jpg https://media.istockphoto.com/photos/relocation-services-concept-mover-man-with-cardboard-box-in-hands-on-picture-id1053577222
+wget --tries=2 --timeout=10 -O ea_female_mover_0.jpg https://thumbs.dreamstime.com/z/full-length-portrait-delivery-woman-carrying-box-isolated-white-background-delivery-woman-carrying-box-135355942.jpg
+wget --tries=2 --timeout=10 -O ea_female_mover_1.jpg https://ak.picdn.net/offset/photos/5df25ae6469b183482a28807/medium/offset_885392.jpg
+wget --tries=2 --timeout=10 -O ea_female_mover_2.jpg https://petesultimatemovers.com/uploaded/blogs/190317004721.jpg
+wget --tries=2 --timeout=10 -O ea_female_mover_3.jpg http://www.besthobbymall.com/wp-content/uploads/2018/11/0.jpg
+wget --tries=2 --timeout=10 -O ea_female_mover_4.jpg https://img.favpng.com/21/1/10/box-mover-self-storage-relocation-cardboard-png-favpng-SyuFtG0naz1wqRvCzKDfZC5QE.jpg
 
-wget --tries=2 -O ea_male_laborer_0.jpg https://c8.alamy.com/comp/J7CCP9/isolated-male-masculine-white-workers-laborer-worker-wageworker-employee-J7CCP9.jpg
-wget --tries=2 -O ea_male_laborer_1.jpg https://c8.alamy.com/comp/X1170J/isolated-white-workers-laborer-worker-wageworker-employee-man-delivery-X1170J.jpg
-wget --tries=2 -O ea_male_laborer_2.jpg https://c8.alamy.com/comp/J7BY6J/isolated-male-masculine-white-workers-laborer-worker-wageworker-employee-J7BY6J.jpg
-wget --tries=2 -O ea_male_laborer_3.jpg https://previews.123rf.com/images/auremar/auremar1212/auremar121200656/16670685-laborer-walking-on-white-background.jpg
-wget --tries=2 -O ea_male_laborer_4.jpg https://c8.alamy.com/comp/WXKT80/laborer-on-white-background-WXKT80.jpg
-wget --tries=2 -O ea_female_laborer_0.jpg https://thumbs.dreamstime.com/b/female-laborer-white-background-24158995.jpg
-wget --tries=2 -O ea_female_laborer_1.jpg https://thumbs.dreamstime.com/z/female-laborer-posing-axe-28903792.jpg
-wget --tries=2 -O ea_female_laborer_2.jpg https://i7.pngguru.com/preview/462/996/965/architectural-engineering-construction-worker-laborer-builder-png-image.jpg
-wget --tries=2 -O ea_female_laborer_3.jpg https://previews.123rf.com/images/lanadesign/lanadesign1309/lanadesign130900006/22186528-laborer-girl-holding-some-nails-and-hammer-isolated-on-white.jpg
-wget --tries=2 -O ea_female_laborer_4.jpg https://c8.alamy.com/comp/WXKBKK/female-carpenter-holding-white-sign-for-message-WXKBKK.jpg
+wget --tries=2 --timeout=10 -O ea_male_laborer_0.jpg https://c8.alamy.com/comp/J7CCP9/isolated-male-masculine-white-workers-laborer-worker-wageworker-employee-J7CCP9.jpg
+wget --tries=2 --timeout=10 -O ea_male_laborer_1.jpg https://c8.alamy.com/comp/X1170J/isolated-white-workers-laborer-worker-wageworker-employee-man-delivery-X1170J.jpg
+wget --tries=2 --timeout=10 -O ea_male_laborer_2.jpg https://c8.alamy.com/comp/J7BY6J/isolated-male-masculine-white-workers-laborer-worker-wageworker-employee-J7BY6J.jpg
+wget --tries=2 --timeout=10 -O ea_male_laborer_3.jpg https://previews.123rf.com/images/auremar/auremar1212/auremar121200656/16670685-laborer-walking-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_laborer_4.jpg https://c8.alamy.com/comp/WXKT80/laborer-on-white-background-WXKT80.jpg
+wget --tries=2 --timeout=10 -O ea_female_laborer_0.jpg https://thumbs.dreamstime.com/b/female-laborer-white-background-24158995.jpg
+wget --tries=2 --timeout=10 -O ea_female_laborer_1.jpg https://thumbs.dreamstime.com/z/female-laborer-posing-axe-28903792.jpg
+wget --tries=2 --timeout=10 -O ea_female_laborer_2.jpg https://i7.pngguru.com/preview/462/996/965/architectural-engineering-construction-worker-laborer-builder-png-image.jpg
+wget --tries=2 --timeout=10 -O ea_female_laborer_3.jpg https://previews.123rf.com/images/lanadesign/lanadesign1309/lanadesign130900006/22186528-laborer-girl-holding-some-nails-and-hammer-isolated-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_female_laborer_4.jpg https://c8.alamy.com/comp/WXKBKK/female-carpenter-holding-white-sign-for-message-WXKBKK.jpg
 
-wget --tries=2 -O ea_male_construction_0.jpg https://thumbs.dreamstime.com/z/male-construction-worker-skilled-worker-engineer-isolated-white-background-47767165.jpg
-wget --tries=2 -O ea_male_construction_1.jpg https://previews.123rf.com/images/iodrakon/iodrakon1003/iodrakon100300040/6702687-stock-image-of-male-construction-worker-wearing-full-safety-gear-over-white-background.jpg
-wget --tries=2 -O ea_male_construction_2.jpg https://cdn7.dissolve.com/p/D2115_1_501/D2115_1_501_1200.jpg
-wget --tries=2 -O ea_male_construction_3.jpg https://c8.alamy.com/comp/C3FYFK/white-male-construction-workers-along-stretch-of-new-highway-construction-C3FYFK.jpg
-wget --tries=2 -O ea_male_construction_4.jpg https://image.shutterstock.com/image-photo/handsome-young-male-construction-worker-600w-67694239.jpg
-wget --tries=2 -O ea_female_construction_0.jpg https://media.istockphoto.com/photos/woman-contractor-construction-worker-isolated-on-white-background-picture-id482855013
-wget --tries=2 -O ea_female_construction_1.jpg https://previews.123rf.com/images/boarding1now/boarding1now1601/boarding1now160100190/51186113-young-female-construction-worker-woman-job-full-body-isolated-on-a-white-background.jpg
-wget --tries=2 -O ea_female_construction_2.jpg https://thumbs.dreamstime.com/z/serious-female-construction-worker-isolated-white-background-30620200.jpg
-wget --tries=2 -O ea_female_construction_3.jpg https://previews.123rf.com/images/antoniemo/antoniemo1410/antoniemo141000009/32485535-female-construction-worker-with-tools-on-white.jpg
-wget --tries=2 -O ea_female_construction_4.jpg https://thumbs.dreamstime.com/z/beautiful-young-female-construction-contractor-tools-isolat-isolated-white-background-46080492.jpg
+wget --tries=2 --timeout=10 -O ea_male_construction_0.jpg https://thumbs.dreamstime.com/z/male-construction-worker-skilled-worker-engineer-isolated-white-background-47767165.jpg
+wget --tries=2 --timeout=10 -O ea_male_construction_1.jpg https://previews.123rf.com/images/iodrakon/iodrakon1003/iodrakon100300040/6702687-stock-image-of-male-construction-worker-wearing-full-safety-gear-over-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_construction_2.jpg https://cdn7.dissolve.com/p/D2115_1_501/D2115_1_501_1200.jpg
+wget --tries=2 --timeout=10 -O ea_male_construction_3.jpg https://c8.alamy.com/comp/C3FYFK/white-male-construction-workers-along-stretch-of-new-highway-construction-C3FYFK.jpg
+wget --tries=2 --timeout=10 -O ea_male_construction_4.jpg https://image.shutterstock.com/image-photo/handsome-young-male-construction-worker-600w-67694239.jpg
+wget --tries=2 --timeout=10 -O ea_female_construction_0.jpg https://media.istockphoto.com/photos/woman-contractor-construction-worker-isolated-on-white-background-picture-id482855013
+wget --tries=2 --timeout=10 -O ea_female_construction_1.jpg https://previews.123rf.com/images/boarding1now/boarding1now1601/boarding1now160100190/51186113-young-female-construction-worker-woman-job-full-body-isolated-on-a-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_construction_2.jpg https://thumbs.dreamstime.com/z/serious-female-construction-worker-isolated-white-background-30620200.jpg
+wget --tries=2 --timeout=10 -O ea_female_construction_3.jpg https://previews.123rf.com/images/antoniemo/antoniemo1410/antoniemo141000009/32485535-female-construction-worker-with-tools-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_female_construction_4.jpg https://thumbs.dreamstime.com/z/beautiful-young-female-construction-contractor-tools-isolat-isolated-white-background-46080492.jpg
 
-wget --tries=2 -O ea_male_chief_0.jpg https://www.public.navy.mil/bupers-npc/support/uniforms/uniformregulations/chapter3/PublishingImages/Chief/cm_dinnerdresswhitejacket_lg.jpg
-wget --tries=2 -O ea_male_chief_1.jpg https://www.ourwatch.org.au/getattachment/cf144665-3755-4b41-8987-23bcc603467a/David-Morrison-The-middle-aged,-white-male-status.aspx
-wget --tries=2 -O ea_male_chief_2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mick_Mulvaney_official_photo_%28cropped%29.jpg/220px-Mick_Mulvaney_official_photo_%28cropped%29.jpg
-wget --tries=2 -O ea_male_chief_3.jpg https://am12.akamaized.net/med/cnt/uploads/2019/06/Screen-Shot-2019-06-06-at-2.22.25-PM-1200x803.jpg
-wget --tries=2 -O ea_male_chief_4.jpg https://d.newsweek.com/en/full/1544480/mark-morgan.jpg
-wget --tries=2 -O ea_female_chief_0.jpg https://www.public.navy.mil/bupers-npc/support/uniforms/uniformregulations/chapter3/PublishingImages/Chief/cf_servicewhite_lg.jpg
-wget --tries=2 -O ea_female_chief_1.jpg https://cdn10.picryl.com/photo/1984/02/06/navy-uniforms-womens-service-dress-white-chief-petty-officer-1984-uniform-regulations-5aad0f-1600.jpg
-wget --tries=2 -O ea_female_chief_2.jpg https://s.abcnews.com/images/Politics/170505_vod_orig_wh_chief_usher_huckabee_briefing_MIX_16x9_992.jpg
-wget --tries=2 -O ea_female_chief_3.jpg https://storage.googleapis.com/afs-prod/media/media:fa4c1b3d01a4485cafdc4f5ce04a4424/800.jpeg
-wget --tries=2 -O ea_female_chief_4.jpg https://cdn.abcotvs.com/dip/images/1156820_011216-wls-aurora-chief-img.jpg?w=1280&r=16%3A9
+wget --tries=2 --timeout=10 -O ea_male_chief_0.jpg https://www.public.navy.mil/bupers-npc/support/uniforms/uniformregulations/chapter3/PublishingImages/Chief/cm_dinnerdresswhitejacket_lg.jpg
+wget --tries=2 --timeout=10 -O ea_male_chief_1.jpg https://www.ourwatch.org.au/getattachment/cf144665-3755-4b41-8987-23bcc603467a/David-Morrison-The-middle-aged,-white-male-status.aspx
+wget --tries=2 --timeout=10 -O ea_male_chief_2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mick_Mulvaney_official_photo_%28cropped%29.jpg/220px-Mick_Mulvaney_official_photo_%28cropped%29.jpg
+wget --tries=2 --timeout=10 -O ea_male_chief_3.jpg https://am12.akamaized.net/med/cnt/uploads/2019/06/Screen-Shot-2019-06-06-at-2.22.25-PM-1200x803.jpg
+wget --tries=2 --timeout=10 -O ea_male_chief_4.jpg https://d.newsweek.com/en/full/1544480/mark-morgan.jpg
+wget --tries=2 --timeout=10 -O ea_female_chief_0.jpg https://www.public.navy.mil/bupers-npc/support/uniforms/uniformregulations/chapter3/PublishingImages/Chief/cf_servicewhite_lg.jpg
+wget --tries=2 --timeout=10 -O ea_female_chief_1.jpg https://cdn10.picryl.com/photo/1984/02/06/navy-uniforms-womens-service-dress-white-chief-petty-officer-1984-uniform-regulations-5aad0f-1600.jpg
+wget --tries=2 --timeout=10 -O ea_female_chief_2.jpg https://s.abcnews.com/images/Politics/170505_vod_orig_wh_chief_usher_huckabee_briefing_MIX_16x9_992.jpg
+wget --tries=2 --timeout=10 -O ea_female_chief_3.jpg https://storage.googleapis.com/afs-prod/media/media:fa4c1b3d01a4485cafdc4f5ce04a4424/800.jpeg
+wget --tries=2 --timeout=10 -O ea_female_chief_4.jpg https://cdn.abcotvs.com/dip/images/1156820_011216-wls-aurora-chief-img.jpg?w=1280&r=16%3A9
 
-wget --tries=2 -O ea_male_developer_0.jpg https://st4.depositphotos.com/3396639/27850/i/1600/depositphotos_278507042-stock-photo-concentrated-male-software-developer-updating.jpg
-wget --tries=2 -O ea_male_developer_1.jpg https://c8.alamy.com/comp/MPR97C/software-developer-sitting-at-his-office-desk-working-on-laptop-wearing-earphones-man-wearing-spectacles-working-on-laptop-computer-in-office-MPR97C.jpg
-wget --tries=2 -O ea_male_developer_2.jpg https://previews.123rf.com/images/gaudilab/gaudilab1604/gaudilab160400056/59387939-male-developer-posing-with-mobile-phone-after-working-on-net-book-while-sitting-in-modern-interior-c.jpg
-wget --tries=2 -O ea_male_developer_3.jpg https://blogs.bmc.com/wp-content/uploads/2018/10/application-developer.jpg
-wget --tries=2 -O ea_male_developer_4.jpg https://st3.depositphotos.com/3396639/18917/i/1600/depositphotos_189170628-stock-photo-thoughtful-professional-developer-thinking-installing.jpg
-wget --tries=2 -O ea_female_developer_0.jpg https://thumbs.dreamstime.com/z/professional-female-software-developer-works-laptop-computer-keyboards-information-connected-to-wireless-internet-modern-129675774.jpg
-wget --tries=2 -O ea_female_developer_1.jpg https://st4.depositphotos.com/3396639/20886/i/1600/depositphotos_208866120-stock-photo-serious-female-software-developer-creating.jpg
-wget --tries=2 -O ea_female_developer_2.jpg https://media.istockphoto.com/photos/successful-female-software-developer-with-cute-smile-on-face-working-picture-id1158478919?k=6&m=1158478919&s=170667a&w=0&h=VxNg0jse79DBv7RCdzblcUj2pmmKcAPp-De4ltctRns=
-wget --tries=2 -O ea_female_developer_3.jpg https://as1.ftcdn.net/jpg/01/47/70/88/500_F_147708853_1yaLXgyKTUKVFPlN53PO0u1AVeGCCWI4.jpg
-wget --tries=2 -O ea_female_developer_4.jpg https://c8.alamy.com/comp/2AG8BAE/surfing-internet-study-programming-blogging-concept-online-remote-job-girl-with-laptop-computer-software-developer-developer-write-code-project-manager-job-openings-for-junior-developer-2AG8BAE.jpg
+wget --tries=2 --timeout=10 -O ea_male_developer_0.jpg https://st4.depositphotos.com/3396639/27850/i/1600/depositphotos_278507042-stock-photo-concentrated-male-software-developer-updating.jpg
+wget --tries=2 --timeout=10 -O ea_male_developer_1.jpg https://c8.alamy.com/comp/MPR97C/software-developer-sitting-at-his-office-desk-working-on-laptop-wearing-earphones-man-wearing-spectacles-working-on-laptop-computer-in-office-MPR97C.jpg
+wget --tries=2 --timeout=10 -O ea_male_developer_2.jpg https://previews.123rf.com/images/gaudilab/gaudilab1604/gaudilab160400056/59387939-male-developer-posing-with-mobile-phone-after-working-on-net-book-while-sitting-in-modern-interior-c.jpg
+wget --tries=2 --timeout=10 -O ea_male_developer_3.jpg https://blogs.bmc.com/wp-content/uploads/2018/10/application-developer.jpg
+wget --tries=2 --timeout=10 -O ea_male_developer_4.jpg https://st3.depositphotos.com/3396639/18917/i/1600/depositphotos_189170628-stock-photo-thoughtful-professional-developer-thinking-installing.jpg
+wget --tries=2 --timeout=10 -O ea_female_developer_0.jpg https://thumbs.dreamstime.com/z/professional-female-software-developer-works-laptop-computer-keyboards-information-connected-to-wireless-internet-modern-129675774.jpg
+wget --tries=2 --timeout=10 -O ea_female_developer_1.jpg https://st4.depositphotos.com/3396639/20886/i/1600/depositphotos_208866120-stock-photo-serious-female-software-developer-creating.jpg
+wget --tries=2 --timeout=10 -O ea_female_developer_2.jpg https://media.istockphoto.com/photos/successful-female-software-developer-with-cute-smile-on-face-working-picture-id1158478919?k=6&m=1158478919&s=170667a&w=0&h=VxNg0jse79DBv7RCdzblcUj2pmmKcAPp-De4ltctRns=
+wget --tries=2 --timeout=10 -O ea_female_developer_3.jpg https://as1.ftcdn.net/jpg/01/47/70/88/500_F_147708853_1yaLXgyKTUKVFPlN53PO0u1AVeGCCWI4.jpg
+wget --tries=2 --timeout=10 -O ea_female_developer_4.jpg https://c8.alamy.com/comp/2AG8BAE/surfing-internet-study-programming-blogging-concept-online-remote-job-girl-with-laptop-computer-software-developer-developer-write-code-project-manager-job-openings-for-junior-developer-2AG8BAE.jpg
 
-wget --tries=2 -O ea_male_carpenter_0.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1504/wavebreakmediamicro150400620/38186231-male-carpenter-using-digital-tablet-on-white-background.jpg
-wget --tries=2 -O ea_male_carpenter_1.jpg https://previews.123rf.com/images/ljupco/ljupco1207/ljupco120700133/14615210-a-smiling-male-carpenter-holding-sills-isolated-on-white-background.jpg
-wget --tries=2 -O ea_male_carpenter_2.jpg https://c8.alamy.com/comp/W17944/male-carpenter-on-white-background-W17944.jpg
-wget --tries=2 -O ea_male_carpenter_3.jpg https://thumbs.dreamstime.com/z/male-carpenter-leaning-plank-full-length-portrait-isolated-white-background-39862099.jpg
-wget --tries=2 -O ea_male_carpenter_4.jpg https://thumbs.dreamstime.com/z/male-carpenter-carrying-planks-over-his-shoulder-full-length-portrait-isolated-white-background-39246407.jpg
-wget --tries=2 -O ea_female_carpenter_0.jpg https://c8.alamy.com/comp/WJ4H4F/portrait-of-gorgeous-female-carpenter-isolated-on-white-WJ4H4F.jpg
-wget --tries=2 -O ea_female_carpenter_1.jpg https://c8.alamy.com/comp/W1791H/female-carpenter-on-white-background-W1791H.jpg
-wget --tries=2 -O ea_female_carpenter_2.jpg https://c8.alamy.com/comp/TWYDKY/female-carpenter-on-white-background-TWYDKY.jpg
-wget --tries=2 -O ea_female_carpenter_3.jpg https://previews.123rf.com/images/kravik93/kravik931802/kravik93180200207/95765959-portrait-of-gorgeous-female-carpenter-isolated-on-white.jpg
-wget --tries=2 -O ea_female_carpenter_4.jpg https://previews.123rf.com/images/auremar/auremar1210/auremar121000261/15573897-confident-female-carpenter-standing-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_carpenter_0.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1504/wavebreakmediamicro150400620/38186231-male-carpenter-using-digital-tablet-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_carpenter_1.jpg https://previews.123rf.com/images/ljupco/ljupco1207/ljupco120700133/14615210-a-smiling-male-carpenter-holding-sills-isolated-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_carpenter_2.jpg https://c8.alamy.com/comp/W17944/male-carpenter-on-white-background-W17944.jpg
+wget --tries=2 --timeout=10 -O ea_male_carpenter_3.jpg https://thumbs.dreamstime.com/z/male-carpenter-leaning-plank-full-length-portrait-isolated-white-background-39862099.jpg
+wget --tries=2 --timeout=10 -O ea_male_carpenter_4.jpg https://thumbs.dreamstime.com/z/male-carpenter-carrying-planks-over-his-shoulder-full-length-portrait-isolated-white-background-39246407.jpg
+wget --tries=2 --timeout=10 -O ea_female_carpenter_0.jpg https://c8.alamy.com/comp/WJ4H4F/portrait-of-gorgeous-female-carpenter-isolated-on-white-WJ4H4F.jpg
+wget --tries=2 --timeout=10 -O ea_female_carpenter_1.jpg https://c8.alamy.com/comp/W1791H/female-carpenter-on-white-background-W1791H.jpg
+wget --tries=2 --timeout=10 -O ea_female_carpenter_2.jpg https://c8.alamy.com/comp/TWYDKY/female-carpenter-on-white-background-TWYDKY.jpg
+wget --tries=2 --timeout=10 -O ea_female_carpenter_3.jpg https://previews.123rf.com/images/kravik93/kravik931802/kravik93180200207/95765959-portrait-of-gorgeous-female-carpenter-isolated-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_female_carpenter_4.jpg https://previews.123rf.com/images/auremar/auremar1210/auremar121000261/15573897-confident-female-carpenter-standing-on-white-background.jpg
 
-wget --tries=2 -O ea_male_manager_0.jpg https://as2.ftcdn.net/jpg/00/67/81/63/500_F_67816320_8lLwf2TvCLgz4TdsPh4d7UPrpmwllIfk.jpg
-wget --tries=2 -O ea_male_manager_1.jpg https://15xomi2v386wytrb8nbsoq34-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/MaleBoss-amanda@amandarose.com_.au_1-660x400.jpg
-wget --tries=2 -O ea_male_manager_2.jpg https://www.projectsmart.co.uk/img/project-managers.png
-wget --tries=2 -O ea_male_manager_3.jpg https://previews.123rf.com/images/ginasanders/ginasanders1604/ginasanders160400489/55437276-a-man-manager-or-unsternehmer-stands-in-front-of-a-white-background.jpg
-wget --tries=2 -O ea_male_manager_4.jpg https://media.istockphoto.com/photos/middle-aged-handsome-manager-businessman-in-white-shirt-at-office-picture-id1126412837
-wget --tries=2 -O ea_female_manager_0.jpg https://c8.alamy.com/comp/FRYRXP/female-manager-looking-at-camera-in-her-white-office-woman-sitting-FRYRXP.jpg
-wget --tries=2 -O ea_female_manager_1.jpg https://st3.depositphotos.com/1177973/17604/i/1600/depositphotos_176040112-stock-photo-female-manager-on-white-background.jpg
-wget --tries=2 -O ea_female_manager_2.jpg https://previews.123rf.com/images/stockyimages/stockyimages1205/stockyimages120500081/13513093-senior-female-manager-posing-with-arms-crossed-isolated-over-white.jpg
-wget --tries=2 -O ea_female_manager_3.jpg https://previews.123rf.com/images/smithore/smithore0809/smithore080900104/3604023-confident-woman-manager-posing-on-white-background.jpg
-wget --tries=2 -O ea_female_manager_4.jpg https://thumbs.dreamstime.com/z/portrait-successful-female-manager-isolated-white-portrait-successful-female-manager-isolated-white-background-113148342.jpg
+wget --tries=2 --timeout=10 -O ea_male_manager_0.jpg https://as2.ftcdn.net/jpg/00/67/81/63/500_F_67816320_8lLwf2TvCLgz4TdsPh4d7UPrpmwllIfk.jpg
+wget --tries=2 --timeout=10 -O ea_male_manager_1.jpg https://15xomi2v386wytrb8nbsoq34-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/MaleBoss-amanda@amandarose.com_.au_1-660x400.jpg
+wget --tries=2 --timeout=10 -O ea_male_manager_2.jpg https://www.projectsmart.co.uk/img/project-managers.png
+wget --tries=2 --timeout=10 -O ea_male_manager_3.jpg https://previews.123rf.com/images/ginasanders/ginasanders1604/ginasanders160400489/55437276-a-man-manager-or-unsternehmer-stands-in-front-of-a-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_manager_4.jpg https://media.istockphoto.com/photos/middle-aged-handsome-manager-businessman-in-white-shirt-at-office-picture-id1126412837
+wget --tries=2 --timeout=10 -O ea_female_manager_0.jpg https://c8.alamy.com/comp/FRYRXP/female-manager-looking-at-camera-in-her-white-office-woman-sitting-FRYRXP.jpg
+wget --tries=2 --timeout=10 -O ea_female_manager_1.jpg https://st3.depositphotos.com/1177973/17604/i/1600/depositphotos_176040112-stock-photo-female-manager-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_manager_2.jpg https://previews.123rf.com/images/stockyimages/stockyimages1205/stockyimages120500081/13513093-senior-female-manager-posing-with-arms-crossed-isolated-over-white.jpg
+wget --tries=2 --timeout=10 -O ea_female_manager_3.jpg https://previews.123rf.com/images/smithore/smithore0809/smithore080900104/3604023-confident-woman-manager-posing-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_manager_4.jpg https://thumbs.dreamstime.com/z/portrait-successful-female-manager-isolated-white-portrait-successful-female-manager-isolated-white-background-113148342.jpg
 
-wget --tries=2 -O ea_male_lawyer_0.jpg https://cdn.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2019/07/James-W.-Kraus.jpg
-wget --tries=2 -O ea_male_lawyer_1.jpg https://c8.alamy.com/comp/KCNP0H/male-lawyer-holding-weight-scale-over-white-background-KCNP0H.jpg
-wget --tries=2 -O ea_male_lawyer_2.jpg https://image.shutterstock.com/image-photo/portrait-confident-lawyer-outside-office-260nw-217491745.jpg
-wget --tries=2 -O ea_male_lawyer_3.jpg http://www.lawdragon.com/wp-content/uploads/2019/10/Joshua-White-1b.jpg
-wget --tries=2 -O ea_male_lawyer_4.jpg https://media.npr.org/assets/img/2017/06/03/gettyimages-539047844_wide-368df13c6d0dc11007b875fec700eca34e70ee90-s800-c85.jpg
-wget --tries=2 -O ea_female_lawyer_0.jpg https://i.pinimg.com/originals/50/0e/d6/500ed6be90e9e5b451c54f25e91f66a9.jpg
-wget --tries=2 -O ea_female_lawyer_1.jpg https://www.workingmother.com/sites/workingmother.com/files/styles/500_1x_/public/import/2014/files/_images/201407/istock_000037064286small.jpg?itok=rOo0D8OX&fc=47,30
-wget --tries=2 -O ea_female_lawyer_2.jpg https://www.featurepics.com/StockImage/20100608/lawyer-stock-photo-1561476.jpg
-wget --tries=2 -O ea_female_lawyer_3.jpg https://d22sy6g45ur8ee.cloudfront.net/profile_image/Knox-Nicole_fd28f116-87e0-4cbc-8147-47f686af6e61.png
-wget --tries=2 -O ea_female_lawyer_4.jpg https://images.law.com/contrib/content/uploads/sites/405/2018/05/Sandra-Goldstein-Art.jpg
+wget --tries=2 --timeout=10 -O ea_male_lawyer_0.jpg https://cdn.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2019/07/James-W.-Kraus.jpg
+wget --tries=2 --timeout=10 -O ea_male_lawyer_1.jpg https://c8.alamy.com/comp/KCNP0H/male-lawyer-holding-weight-scale-over-white-background-KCNP0H.jpg
+wget --tries=2 --timeout=10 -O ea_male_lawyer_2.jpg https://image.shutterstock.com/image-photo/portrait-confident-lawyer-outside-office-260nw-217491745.jpg
+wget --tries=2 --timeout=10 -O ea_male_lawyer_3.jpg http://www.lawdragon.com/wp-content/uploads/2019/10/Joshua-White-1b.jpg
+wget --tries=2 --timeout=10 -O ea_male_lawyer_4.jpg https://media.npr.org/assets/img/2017/06/03/gettyimages-539047844_wide-368df13c6d0dc11007b875fec700eca34e70ee90-s800-c85.jpg
+wget --tries=2 --timeout=10 -O ea_female_lawyer_0.jpg https://i.pinimg.com/originals/50/0e/d6/500ed6be90e9e5b451c54f25e91f66a9.jpg
+wget --tries=2 --timeout=10 -O ea_female_lawyer_1.jpg https://www.workingmother.com/sites/workingmother.com/files/styles/500_1x_/public/import/2014/files/_images/201407/istock_000037064286small.jpg?itok=rOo0D8OX&fc=47,30
+wget --tries=2 --timeout=10 -O ea_female_lawyer_2.jpg https://www.featurepics.com/StockImage/20100608/lawyer-stock-photo-1561476.jpg
+wget --tries=2 --timeout=10 -O ea_female_lawyer_3.jpg https://d22sy6g45ur8ee.cloudfront.net/profile_image/Knox-Nicole_fd28f116-87e0-4cbc-8147-47f686af6e61.png
+wget --tries=2 --timeout=10 -O ea_female_lawyer_4.jpg https://images.law.com/contrib/content/uploads/sites/405/2018/05/Sandra-Goldstein-Art.jpg
 
-wget --tries=2 -O ea_male_farmer_0.jpg https://previews.123rf.com/images/rdbroman/rdbroman1201/rdbroman120100001/12108319-older-white-male-farmer-rancher-in-a-field.jpg
-wget --tries=2 -O ea_male_farmer_1.jpg https://previews.123rf.com/images/ljupco/ljupco1309/ljupco130900020/21928929-young-male-farmer-smiling-isolated-on-white-background.jpg
-wget --tries=2 -O ea_male_farmer_2.jpg https://ak7.picdn.net/shutterstock/videos/22582537/thumb/1.jpg
-wget --tries=2 -O ea_male_farmer_3.jpg https://image.shutterstock.com/image-photo/horizontal-image-caucasian-white-male-600w-528509890.jpg
-wget --tries=2 -O ea_male_farmer_4.jpg https://previews.123rf.com/images/budabar/budabar1506/budabar150600146/41662475-old-man-farmer-working-in-barley-field-in-summer-time-blue-sky-with-white-clouds-in-background.jpg
-wget --tries=2 -O ea_female_farmer_0.jpg https://c8.alamy.com/comp/H37KBC/female-farmer-carrying-a-sack-and-pointing-isolated-on-white-background-H37KBC.jpg
-wget --tries=2 -O ea_female_farmer_1.jpg https://previews.123rf.com/images/ljupco/ljupco1201/ljupco120100025/11958234-a-female-farmer-holding-a-pitchfork-and-basket-with-vegetables-isolated-against-white-background.jpg
-wget --tries=2 -O ea_female_farmer_2.jpg https://st3.depositphotos.com/3332767/19216/i/1600/depositphotos_192164748-stock-photo-female-farmer-looking-camera-smiling.jpg
-wget --tries=2 -O ea_female_farmer_3.jpg https://as1.ftcdn.net/jpg/02/88/94/60/500_F_288946064_Ex8JDOd5Ve04CD8SVgkINbcX0NnYk7Ko.jpg
-wget --tries=2 -O ea_female_farmer_4.jpg https://image1.masterfile.com/getImage/6121-08522281em-farmer-woman-with-white-chicken-bird-in-farm.jpg
+wget --tries=2 --timeout=10 -O ea_male_farmer_0.jpg https://previews.123rf.com/images/rdbroman/rdbroman1201/rdbroman120100001/12108319-older-white-male-farmer-rancher-in-a-field.jpg
+wget --tries=2 --timeout=10 -O ea_male_farmer_1.jpg https://previews.123rf.com/images/ljupco/ljupco1309/ljupco130900020/21928929-young-male-farmer-smiling-isolated-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_farmer_2.jpg https://ak7.picdn.net/shutterstock/videos/22582537/thumb/1.jpg
+wget --tries=2 --timeout=10 -O ea_male_farmer_3.jpg https://image.shutterstock.com/image-photo/horizontal-image-caucasian-white-male-600w-528509890.jpg
+wget --tries=2 --timeout=10 -O ea_male_farmer_4.jpg https://previews.123rf.com/images/budabar/budabar1506/budabar150600146/41662475-old-man-farmer-working-in-barley-field-in-summer-time-blue-sky-with-white-clouds-in-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_farmer_0.jpg https://c8.alamy.com/comp/H37KBC/female-farmer-carrying-a-sack-and-pointing-isolated-on-white-background-H37KBC.jpg
+wget --tries=2 --timeout=10 -O ea_female_farmer_1.jpg https://previews.123rf.com/images/ljupco/ljupco1201/ljupco120100025/11958234-a-female-farmer-holding-a-pitchfork-and-basket-with-vegetables-isolated-against-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_farmer_2.jpg https://st3.depositphotos.com/3332767/19216/i/1600/depositphotos_192164748-stock-photo-female-farmer-looking-camera-smiling.jpg
+wget --tries=2 --timeout=10 -O ea_female_farmer_3.jpg https://as1.ftcdn.net/jpg/02/88/94/60/500_F_288946064_Ex8JDOd5Ve04CD8SVgkINbcX0NnYk7Ko.jpg
+wget --tries=2 --timeout=10 -O ea_female_farmer_4.jpg https://image1.masterfile.com/getImage/6121-08522281em-farmer-woman-with-white-chicken-bird-in-farm.jpg
 
-wget --tries=2 -O ea_male_salesperson_0.jpg https://image.shutterstock.com/image-photo/dishonest-looking-young-white-male-600w-298630028.jpg
-wget --tries=2 -O ea_male_salesperson_1.jpg https://image.shutterstock.com/image-photo/smiling-young-salesman-standing-front-260nw-795812392.jpg
-wget --tries=2 -O ea_male_salesperson_2.jpg https://image.shutterstock.com/image-photo/portrait-handsome-car-salesman-giving-260nw-1033525306.jpg
-wget --tries=2 -O ea_male_salesperson_3.jpg https://cdn.cbtnews.com/wp-content/uploads/2017/11/salesman.jpg
-wget --tries=2 -O ea_male_salesperson_4.jpg https://venturebeat.com/wp-content/uploads/2015/06/AppMesh-salesperson.png?fit=400%2C335&strip=all
-wget --tries=2 -O ea_female_salesperson_0.jpg https://assets.rbl.ms/19296808/origin.jpg
-wget --tries=2 -O ea_female_salesperson_1.jpg https://previews.123rf.com/images/antoniodiaz/antoniodiaz1604/antoniodiaz160400046/55590563-beautiful-young-salesperson-holding-a-big-sign-on-a-white-background-and-smiling.jpg
-wget --tries=2 -O ea_female_salesperson_2.jpg https://miro.medium.com/max/699/1*xaINaIk-VdHVec4xUVlCvw.jpeg
-wget --tries=2 -O ea_female_salesperson_3.jpg https://thumbs.dreamstime.com/z/picture-professional-female-salesperson-working-car-dealership-picture-professional-salesperson-working-car-dealership-142586952.jpg
-wget --tries=2 -O ea_female_salesperson_4.jpg https://thumbs.dreamstime.com/z/picture-professional-female-salesperson-working-car-dealership-104921014.jpg
+wget --tries=2 --timeout=10 -O ea_male_salesperson_0.jpg https://image.shutterstock.com/image-photo/dishonest-looking-young-white-male-600w-298630028.jpg
+wget --tries=2 --timeout=10 -O ea_male_salesperson_1.jpg https://image.shutterstock.com/image-photo/smiling-young-salesman-standing-front-260nw-795812392.jpg
+wget --tries=2 --timeout=10 -O ea_male_salesperson_2.jpg https://image.shutterstock.com/image-photo/portrait-handsome-car-salesman-giving-260nw-1033525306.jpg
+wget --tries=2 --timeout=10 -O ea_male_salesperson_3.jpg https://cdn.cbtnews.com/wp-content/uploads/2017/11/salesman.jpg
+wget --tries=2 --timeout=10 -O ea_male_salesperson_4.jpg https://venturebeat.com/wp-content/uploads/2015/06/AppMesh-salesperson.png?fit=400%2C335&strip=all
+wget --tries=2 --timeout=10 -O ea_female_salesperson_0.jpg https://assets.rbl.ms/19296808/origin.jpg
+wget --tries=2 --timeout=10 -O ea_female_salesperson_1.jpg https://previews.123rf.com/images/antoniodiaz/antoniodiaz1604/antoniodiaz160400046/55590563-beautiful-young-salesperson-holding-a-big-sign-on-a-white-background-and-smiling.jpg
+wget --tries=2 --timeout=10 -O ea_female_salesperson_2.jpg https://miro.medium.com/max/699/1*xaINaIk-VdHVec4xUVlCvw.jpeg
+wget --tries=2 --timeout=10 -O ea_female_salesperson_3.jpg https://thumbs.dreamstime.com/z/picture-professional-female-salesperson-working-car-dealership-picture-professional-salesperson-working-car-dealership-142586952.jpg
+wget --tries=2 --timeout=10 -O ea_female_salesperson_4.jpg https://thumbs.dreamstime.com/z/picture-professional-female-salesperson-working-car-dealership-104921014.jpg
 
-wget --tries=2 -O ea_male_physician_0.jpg https://image.shutterstock.com/image-photo/mature-male-doctor-smiling-portrait-260nw-216398794.jpg
-wget --tries=2 -O ea_male_physician_1.jpg https://www.medicalbag.com/wp-content/uploads/sites/19/2019/01/condescending-doctors.jpg
-wget --tries=2 -O ea_male_physician_2.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2345743.jpg
-wget --tries=2 -O ea_male_physician_3.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/graphicstock-portrait-of-an-old-male-doctor-with-a-stethoscope-around-his-neck-isolated-on-white-background_rROzQLhW-_SB_PM.jpg
-wget --tries=2 -O ea_male_physician_4.jpg http://www.doctorcpr.com/blog/wp-content/uploads/2015/11/shutterstock_37147528-1-handsome-male-doctor-for-single-doctor-article.jpg
-wget --tries=2 -O ea_female_physician_0.jpg https://previews.123rf.com/images/gladkov/gladkov1210/gladkov121000103/15896844-portrait-of-young-female-doctor-with-arms-crossed-isolated-on-white-background.jpg
-wget --tries=2 -O ea_female_physician_1.jpg https://s3.amazonaws.com/freestock-prod/450/freestock_121149610.jpg
-wget --tries=2 -O ea_female_physician_2.jpg https://previews.123rf.com/images/gladkov/gladkov1210/gladkov121000101/15896828-portrait-of-young-female-doctor-with-arms-crossed-isolated-on-white-background.jpg
-wget --tries=2 -O ea_female_physician_3.jpg https://i.pinimg.com/originals/b3/a4/65/b3a4653bbfddf2c1c0bd662422a8875e.jpg
-wget --tries=2 -O ea_female_physician_4.jpg https://thumbs.dreamstime.com/b/doctor-woman-medical-isolated-white-background-35581032.jpg
+wget --tries=2 --timeout=10 -O ea_male_physician_0.jpg https://image.shutterstock.com/image-photo/mature-male-doctor-smiling-portrait-260nw-216398794.jpg
+wget --tries=2 --timeout=10 -O ea_male_physician_1.jpg https://www.medicalbag.com/wp-content/uploads/sites/19/2019/01/condescending-doctors.jpg
+wget --tries=2 --timeout=10 -O ea_male_physician_2.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2345743.jpg
+wget --tries=2 --timeout=10 -O ea_male_physician_3.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/graphicstock-portrait-of-an-old-male-doctor-with-a-stethoscope-around-his-neck-isolated-on-white-background_rROzQLhW-_SB_PM.jpg
+wget --tries=2 --timeout=10 -O ea_male_physician_4.jpg http://www.doctorcpr.com/blog/wp-content/uploads/2015/11/shutterstock_37147528-1-handsome-male-doctor-for-single-doctor-article.jpg
+wget --tries=2 --timeout=10 -O ea_female_physician_0.jpg https://previews.123rf.com/images/gladkov/gladkov1210/gladkov121000103/15896844-portrait-of-young-female-doctor-with-arms-crossed-isolated-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_physician_1.jpg https://s3.amazonaws.com/freestock-prod/450/freestock_121149610.jpg
+wget --tries=2 --timeout=10 -O ea_female_physician_2.jpg https://previews.123rf.com/images/gladkov/gladkov1210/gladkov121000101/15896828-portrait-of-young-female-doctor-with-arms-crossed-isolated-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_physician_3.jpg https://i.pinimg.com/originals/b3/a4/65/b3a4653bbfddf2c1c0bd662422a8875e.jpg
+wget --tries=2 --timeout=10 -O ea_female_physician_4.jpg https://thumbs.dreamstime.com/b/doctor-woman-medical-isolated-white-background-35581032.jpg
 
-wget --tries=2 -O ea_male_guard_0.jpg https://c8.alamy.com/comp/XDEJG0/male-security-guard-standing-over-white-background-XDEJG0.jpg
-wget --tries=2 -O ea_male_guard_1.jpg https://previews.123rf.com/images/belchonock/belchonock1802/belchonock180294013/96312351-male-security-guard-isolated-on-white.jpg
-wget --tries=2 -O ea_male_guard_2.jpg https://image.shutterstock.com/image-photo/male-security-guard-isolated-on-600w-484043695.jpg
-wget --tries=2 -O ea_male_guard_3.jpg https://previews.123rf.com/images/belchonock/belchonock1908/belchonock190808001/128732900-male-security-guard-in-uniform-on-white-background.jpg
-wget --tries=2 -O ea_male_guard_4.jpg https://thumbs.dreamstime.com/z/male-security-guard-uniform-white-background-male-security-guard-uniform-120187470.jpg
-wget --tries=2 -O ea_female_guard_0.jpg https://c8.alamy.com/comp/T99MGA/female-security-guard-on-white-background-T99MGA.jpg
-wget --tries=2 -O ea_female_guard_1.jpg https://thumbs.dreamstime.com/z/female-security-guard-portable-radio-transmitter-white-background-female-security-guard-using-portable-radio-transmitter-118105517.jpg
-wget --tries=2 -O ea_female_guard_2.jpg https://data1.ibtimes.co.in/cache-img-0-450/en/full/681175/1519442401_white-house.jpg
-wget --tries=2 -O ea_female_guard_3.jpg https://image.shutterstock.com/image-photo/female-security-guard-uniform-using-600w-1501415249.jpg
-wget --tries=2 -O ea_female_guard_4.jpg https://c8.alamy.com/comp/TW101H/female-security-guard-on-white-background-TW101H.jpg
+wget --tries=2 --timeout=10 -O ea_male_guard_0.jpg https://c8.alamy.com/comp/XDEJG0/male-security-guard-standing-over-white-background-XDEJG0.jpg
+wget --tries=2 --timeout=10 -O ea_male_guard_1.jpg https://previews.123rf.com/images/belchonock/belchonock1802/belchonock180294013/96312351-male-security-guard-isolated-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_male_guard_2.jpg https://image.shutterstock.com/image-photo/male-security-guard-isolated-on-600w-484043695.jpg
+wget --tries=2 --timeout=10 -O ea_male_guard_3.jpg https://previews.123rf.com/images/belchonock/belchonock1908/belchonock190808001/128732900-male-security-guard-in-uniform-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_guard_4.jpg https://thumbs.dreamstime.com/z/male-security-guard-uniform-white-background-male-security-guard-uniform-120187470.jpg
+wget --tries=2 --timeout=10 -O ea_female_guard_0.jpg https://c8.alamy.com/comp/T99MGA/female-security-guard-on-white-background-T99MGA.jpg
+wget --tries=2 --timeout=10 -O ea_female_guard_1.jpg https://thumbs.dreamstime.com/z/female-security-guard-portable-radio-transmitter-white-background-female-security-guard-using-portable-radio-transmitter-118105517.jpg
+wget --tries=2 --timeout=10 -O ea_female_guard_2.jpg https://data1.ibtimes.co.in/cache-img-0-450/en/full/681175/1519442401_white-house.jpg
+wget --tries=2 --timeout=10 -O ea_female_guard_3.jpg https://image.shutterstock.com/image-photo/female-security-guard-uniform-using-600w-1501415249.jpg
+wget --tries=2 --timeout=10 -O ea_female_guard_4.jpg https://c8.alamy.com/comp/TW101H/female-security-guard-on-white-background-TW101H.jpg
 
-wget --tries=2 -O ea_male_analyst_0.jpg https://www.thewrap.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-01-at-10.39.07-AM.png
-wget --tries=2 -O ea_male_analyst_1.jpg https://cdn.cnn.com/cnnnext/dam/assets/191207105937-david-sanger-12072019-large-169.jpg
-wget --tries=2 -O ea_male_analyst_2.jpg https://img2-azrcdn.newser.com/image/1273731-11-20191223210046.jpeg
-wget --tries=2 -O ea_male_analyst_3.jpg https://si.wsj.net/public/resources/images/BN-XE277_CHAMBL_GR_20180125134010.jpg
-wget --tries=2 -O ea_male_analyst_4.jpg https://blog.tipranks.com/wp-content/uploads/2019/09/SLACK-0906-1-750x375.jpg
-wget --tries=2 -O ea_female_analyst_0.jpg https://twt-thumbs.washtimes.com/media/image/2019/11/21/trump_impeachment_07427_c0-134-3196-1997_s885x516.jpg?b7d77b741732caba07b032989325f84878f37e0a
-wget --tries=2 -O ea_female_analyst_1.jpg https://www.adn.com/resizer/1MoKwE2uQ8NNv2I4u2FU6BB1fxY=/1200x0/arc-anglerfish-arc2-prod-adn.s3.amazonaws.com/public/BRNCEZTCUNBSJMPRSBQVUG3UPU.jpg
-wget --tries=2 -O ea_female_analyst_2.jpg https://upload.wikimedia.org/wikipedia/commons/a/a9/Helen_Thomas.jpg
-wget --tries=2 -O ea_female_analyst_3.jpg http://www.msnbc.com/sites/msnbc/files/styles/ratio--2-3--367x551/public/nicole_wallace_367x551.jpg?itok=0YhdZiQT
-wget --tries=2 -O ea_female_analyst_4.jpg https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2017/05/tara-palmeri-CONTENT-2017-768x431.jpg
+wget --tries=2 --timeout=10 -O ea_male_analyst_0.jpg https://www.thewrap.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-01-at-10.39.07-AM.png
+wget --tries=2 --timeout=10 -O ea_male_analyst_1.jpg https://cdn.cnn.com/cnnnext/dam/assets/191207105937-david-sanger-12072019-large-169.jpg
+wget --tries=2 --timeout=10 -O ea_male_analyst_2.jpg https://img2-azrcdn.newser.com/image/1273731-11-20191223210046.jpeg
+wget --tries=2 --timeout=10 -O ea_male_analyst_3.jpg https://si.wsj.net/public/resources/images/BN-XE277_CHAMBL_GR_20180125134010.jpg
+wget --tries=2 --timeout=10 -O ea_male_analyst_4.jpg https://blog.tipranks.com/wp-content/uploads/2019/09/SLACK-0906-1-750x375.jpg
+wget --tries=2 --timeout=10 -O ea_female_analyst_0.jpg https://twt-thumbs.washtimes.com/media/image/2019/11/21/trump_impeachment_07427_c0-134-3196-1997_s885x516.jpg?b7d77b741732caba07b032989325f84878f37e0a
+wget --tries=2 --timeout=10 -O ea_female_analyst_1.jpg https://www.adn.com/resizer/1MoKwE2uQ8NNv2I4u2FU6BB1fxY=/1200x0/arc-anglerfish-arc2-prod-adn.s3.amazonaws.com/public/BRNCEZTCUNBSJMPRSBQVUG3UPU.jpg
+wget --tries=2 --timeout=10 -O ea_female_analyst_2.jpg https://upload.wikimedia.org/wikipedia/commons/a/a9/Helen_Thomas.jpg
+wget --tries=2 --timeout=10 -O ea_female_analyst_3.jpg http://www.msnbc.com/sites/msnbc/files/styles/ratio--2-3--367x551/public/nicole_wallace_367x551.jpg?itok=0YhdZiQT
+wget --tries=2 --timeout=10 -O ea_female_analyst_4.jpg https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2017/05/tara-palmeri-CONTENT-2017-768x431.jpg
 
-wget --tries=2 -O ea_male_mechanic_0.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1504/wavebreakmediamicro150400684/38186359-portrait-of-smiling-male-mechanic-holding-spanner-on-white-background.jpg
-wget --tries=2 -O ea_male_mechanic_1.jpg https://c8.alamy.com/comp/R0T966/strong-male-mechanic-in-blue-overal-standing-with-orange-gloves-white-helmet-ear-protection-and-tools-on-a-white-isolated-background-R0T966.jpg
-wget --tries=2 -O ea_male_mechanic_2.jpg https://previews.123rf.com/images/sireonio/sireonio1404/sireonio140400834/27276261-portrait-of-happy-young-male-mechanic-in-overalls-holding-wrench-over-white-background-horizontal-sh.jpg
-wget --tries=2 -O ea_male_mechanic_3.jpg https://thumbs.dreamstime.com/z/confident-mechanic-standing-arms-crossed-against-white-backgroun-confident-young-male-mechanic-standing-arms-crossed-against-white-127612111.jpg
-wget --tries=2 -O ea_male_mechanic_4.jpg https://c8.alamy.com/comp/A89WGA/daytona-beach-florida-bike-week-boardwalk-white-male-mechanic-spiked-A89WGA.jpg
-wget --tries=2 -O ea_female_mechanic_0.jpg https://c8.alamy.com/comp/T17PTR/charming-young-woman-with-short-hair-wearing-in-white-t-shirt-brown-coveralls-female-mechanic-worker-of-professional-autoservice-smiling-looking-at-camera-T17PTR.jpg
-wget --tries=2 -O ea_female_mechanic_1.jpg https://thumbs.dreamstime.com/z/female-mechanic-plumber-bib-overalls-adjustable-wrench-toolbox-looking-up-isolated-white-background-full-143167310.jpg
-wget --tries=2 -O ea_female_mechanic_2.jpg https://st3.depositphotos.com/1177973/18471/i/1600/depositphotos_184713498-stock-photo-female-auto-mechanic-with-lug.jpg
-wget --tries=2 -O ea_female_mechanic_3.jpg https://st3.depositphotos.com/3075765/14422/i/1600/depositphotos_144221529-stock-photo-nice-sexy-woman-mechanic-holding.jpg
-wget --tries=2 -O ea_female_mechanic_4.jpg https://image.shutterstock.com/z/stock-photo-female-mechanic-in-uniform-with-car-tires-and-clipboard-on-white-background-1051932263.jpg
+wget --tries=2 --timeout=10 -O ea_male_mechanic_0.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1504/wavebreakmediamicro150400684/38186359-portrait-of-smiling-male-mechanic-holding-spanner-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_mechanic_1.jpg https://c8.alamy.com/comp/R0T966/strong-male-mechanic-in-blue-overal-standing-with-orange-gloves-white-helmet-ear-protection-and-tools-on-a-white-isolated-background-R0T966.jpg
+wget --tries=2 --timeout=10 -O ea_male_mechanic_2.jpg https://previews.123rf.com/images/sireonio/sireonio1404/sireonio140400834/27276261-portrait-of-happy-young-male-mechanic-in-overalls-holding-wrench-over-white-background-horizontal-sh.jpg
+wget --tries=2 --timeout=10 -O ea_male_mechanic_3.jpg https://thumbs.dreamstime.com/z/confident-mechanic-standing-arms-crossed-against-white-backgroun-confident-young-male-mechanic-standing-arms-crossed-against-white-127612111.jpg
+wget --tries=2 --timeout=10 -O ea_male_mechanic_4.jpg https://c8.alamy.com/comp/A89WGA/daytona-beach-florida-bike-week-boardwalk-white-male-mechanic-spiked-A89WGA.jpg
+wget --tries=2 --timeout=10 -O ea_female_mechanic_0.jpg https://c8.alamy.com/comp/T17PTR/charming-young-woman-with-short-hair-wearing-in-white-t-shirt-brown-coveralls-female-mechanic-worker-of-professional-autoservice-smiling-looking-at-camera-T17PTR.jpg
+wget --tries=2 --timeout=10 -O ea_female_mechanic_1.jpg https://thumbs.dreamstime.com/z/female-mechanic-plumber-bib-overalls-adjustable-wrench-toolbox-looking-up-isolated-white-background-full-143167310.jpg
+wget --tries=2 --timeout=10 -O ea_female_mechanic_2.jpg https://st3.depositphotos.com/1177973/18471/i/1600/depositphotos_184713498-stock-photo-female-auto-mechanic-with-lug.jpg
+wget --tries=2 --timeout=10 -O ea_female_mechanic_3.jpg https://st3.depositphotos.com/3075765/14422/i/1600/depositphotos_144221529-stock-photo-nice-sexy-woman-mechanic-holding.jpg
+wget --tries=2 --timeout=10 -O ea_female_mechanic_4.jpg https://image.shutterstock.com/z/stock-photo-female-mechanic-in-uniform-with-car-tires-and-clipboard-on-white-background-1051932263.jpg
 
-wget --tries=2 -O ea_male_sheriff_0.jpg https://cdn.cnn.com/cnnnext/dam/assets/150829025203-dpty-darren-h-goforth-super-tease.jpg
-wget --tries=2 -O ea_male_sheriff_1.jpg https://c8.alamy.com/comp/A89PWE/daytona-beach-florida-us-1-white-male-sheriff-traffic-control-A89PWE.jpg
-wget --tries=2 -O ea_male_sheriff_2.jpg https://7b1de02a7bcf9c1df487-6849f9022b05f72b83236695aa4e9a0a.ssl.cf2.rackcdn.com/uploads/articles/2019/835268/sheriff-neal-walden-dsc-2813_p3.jpg
-wget --tries=2 -O ea_male_sheriff_3.jpg https://americanindependent.com/wp-content/uploads/2019/10/bill-waybourn-texas-sheriff-white-house-AP_19283589048837-1068x712.jpg
-wget --tries=2 -O ea_male_sheriff_4.jpg https://www.flsheriffs.org/images/sheriffs/SheriffWhite.jpg
-wget --tries=2 -O ea_female_sheriff_0.jpg https://slsheriff.org/globalImages/command/Sheriff_Rivera_Rosie_1.jpg
-wget --tries=2 -O ea_female_sheriff_1.jpg https://localtvkdvr.files.wordpress.com/2019/10/sheriff-e1571161552816.png?w=400&h=225&crop=1
-wget --tries=2 -O ea_female_sheriff_2.jpg http://www.joinsdsheriff.net/images/duke.jpg
-wget --tries=2 -O ea_female_sheriff_3.jpg https://tularecounty.ca.gov/sheriff/assets/Image/Captain%20Lehner%202018.jpg
-wget --tries=2 -O ea_female_sheriff_4.jpg https://bloximages.chicago2.vip.townnews.com/effinghamdailynews.com/content/tncms/assets/v3/editorial/c/d9/cd992e9c-6962-5f5e-8a4e-af6d8bf537e1/5ba597c55a571.image.jpg
+wget --tries=2 --timeout=10 -O ea_male_sheriff_0.jpg https://cdn.cnn.com/cnnnext/dam/assets/150829025203-dpty-darren-h-goforth-super-tease.jpg
+wget --tries=2 --timeout=10 -O ea_male_sheriff_1.jpg https://c8.alamy.com/comp/A89PWE/daytona-beach-florida-us-1-white-male-sheriff-traffic-control-A89PWE.jpg
+wget --tries=2 --timeout=10 -O ea_male_sheriff_2.jpg https://7b1de02a7bcf9c1df487-6849f9022b05f72b83236695aa4e9a0a.ssl.cf2.rackcdn.com/uploads/articles/2019/835268/sheriff-neal-walden-dsc-2813_p3.jpg
+wget --tries=2 --timeout=10 -O ea_male_sheriff_3.jpg https://americanindependent.com/wp-content/uploads/2019/10/bill-waybourn-texas-sheriff-white-house-AP_19283589048837-1068x712.jpg
+wget --tries=2 --timeout=10 -O ea_male_sheriff_4.jpg https://www.flsheriffs.org/images/sheriffs/SheriffWhite.jpg
+wget --tries=2 --timeout=10 -O ea_female_sheriff_0.jpg https://slsheriff.org/globalImages/command/Sheriff_Rivera_Rosie_1.jpg
+wget --tries=2 --timeout=10 -O ea_female_sheriff_1.jpg https://localtvkdvr.files.wordpress.com/2019/10/sheriff-e1571161552816.png?w=400&h=225&crop=1
+wget --tries=2 --timeout=10 -O ea_female_sheriff_2.jpg http://www.joinsdsheriff.net/images/duke.jpg
+wget --tries=2 --timeout=10 -O ea_female_sheriff_3.jpg https://tularecounty.ca.gov/sheriff/assets/Image/Captain%20Lehner%202018.jpg
+wget --tries=2 --timeout=10 -O ea_female_sheriff_4.jpg https://bloximages.chicago2.vip.townnews.com/effinghamdailynews.com/content/tncms/assets/v3/editorial/c/d9/cd992e9c-6962-5f5e-8a4e-af6d8bf537e1/5ba597c55a571.image.jpg
 
-wget --tries=2 -O ea_male_ceo_0.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/03/13/09/john-allan-tesco.jpg
-wget --tries=2 -O ea_male_ceo_1.jpg https://www.miningandexploration.ca/images/article_photos/president_and_ceo.png
-wget --tries=2 -O ea_male_ceo_2.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2010/12/mike_white_directv_a_l.jpg
-wget --tries=2 -O ea_male_ceo_3.jpg https://www.philanthropy.com//img/photos/biz/0311Robinson_john%20photo%203.jpg
-wget --tries=2 -O ea_male_ceo_4.jpg https://www.miningandexploration.ca/images/article_photos/Kevin_Loughrey_Photo.jpg
-wget --tries=2 -O ea_female_ceo_0.jpg https://chiefexecutive.net/wp-content/uploads/2018/07/WardenKathy7-13-18_c6b7e2c7-656a-4dda-b411-a0ccae3bc5ba-prv-222x300.jpg
-wget --tries=2 -O ea_female_ceo_1.jpg https://content.fortune.com/wp-content/uploads/2015/10/engelbert_cathy15-2-23-15.jpg
-wget --tries=2 -O ea_female_ceo_2.jpg https://www.seattlebusinessmag.com/sites/default/files/field/image/Kristina%20Bergman.jpg
-wget --tries=2 -O ea_female_ceo_3.jpg https://c8.alamy.com/comp/T04YPH/displeased-bossy-business-female-ceo-walking-towards-camera-full-body-isolated-on-white-background-T04YPH.jpg
-wget --tries=2 -O ea_female_ceo_4.jpg https://money.cnn.com/interactive/pf/female-ceos-timeline/media/katharine-graham.jpg
+wget --tries=2 --timeout=10 -O ea_male_ceo_0.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/03/13/09/john-allan-tesco.jpg
+wget --tries=2 --timeout=10 -O ea_male_ceo_1.jpg https://www.miningandexploration.ca/images/article_photos/president_and_ceo.png
+wget --tries=2 --timeout=10 -O ea_male_ceo_2.jpg https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2010/12/mike_white_directv_a_l.jpg
+wget --tries=2 --timeout=10 -O ea_male_ceo_3.jpg https://www.philanthropy.com//img/photos/biz/0311Robinson_john%20photo%203.jpg
+wget --tries=2 --timeout=10 -O ea_male_ceo_4.jpg https://www.miningandexploration.ca/images/article_photos/Kevin_Loughrey_Photo.jpg
+wget --tries=2 --timeout=10 -O ea_female_ceo_0.jpg https://chiefexecutive.net/wp-content/uploads/2018/07/WardenKathy7-13-18_c6b7e2c7-656a-4dda-b411-a0ccae3bc5ba-prv-222x300.jpg
+wget --tries=2 --timeout=10 -O ea_female_ceo_1.jpg https://content.fortune.com/wp-content/uploads/2015/10/engelbert_cathy15-2-23-15.jpg
+wget --tries=2 --timeout=10 -O ea_female_ceo_2.jpg https://www.seattlebusinessmag.com/sites/default/files/field/image/Kristina%20Bergman.jpg
+wget --tries=2 --timeout=10 -O ea_female_ceo_3.jpg https://c8.alamy.com/comp/T04YPH/displeased-bossy-business-female-ceo-walking-towards-camera-full-body-isolated-on-white-background-T04YPH.jpg
+wget --tries=2 --timeout=10 -O ea_female_ceo_4.jpg https://money.cnn.com/interactive/pf/female-ceos-timeline/media/katharine-graham.jpg
 
-wget --tries=2 -O ea_male_attendant_0.jpg https://i.pinimg.com/originals/ef/a5/64/efa5645aaed539e18bfdfd12bd125da2.jpg
-wget --tries=2 -O ea_male_attendant_1.jpg https://i.pinimg.com/originals/fa/ae/f6/faaef65ad69539879f120774e22944f7.jpg
-wget --tries=2 -O ea_male_attendant_2.jpg https://i.pinimg.com/originals/6e/f3/8c/6ef38c9cf300cc92541b0834a1b59616.jpg
-wget --tries=2 -O ea_male_attendant_3.jpg http://vivalifestyleandtravel.com/images/cache/c-1509257547-549578369.jpg
-wget --tries=2 -O ea_male_attendant_4.jpg https://photo-cdn.icons8.com/assets/editor/model/34/d2d2c2a5-82d8-4647-94b4-81f2e5f5ff86.png
-wget --tries=2 -O ea_female_attendant_0.jpg https://i.pinimg.com/564x/d9/f7/65/d9f76500315c5ecb943277563794a474.jpg
-wget --tries=2 -O ea_female_attendant_1.jpg https://previews.123rf.com/images/pavelshlykov/pavelshlykov1710/pavelshlykov171000137/88790724-beautiful-happy-flight-attendant-against-white-background-.jpg
-wget --tries=2 -O ea_female_attendant_2.jpg https://s3.amazonaws.com/freestock-prod/450/freestock_96815023.jpg
-wget --tries=2 -O ea_female_attendant_3.jpg https://thumbs.dreamstime.com/z/full-body-flight-attendant-standing-isolated-white-41555625.jpg
-wget --tries=2 -O ea_female_attendant_4.jpg https://image.shutterstock.com/image-photo/flight-attendant-waiting-passengers-board-260nw-290127503.jpg
+wget --tries=2 --timeout=10 -O ea_male_attendant_0.jpg https://i.pinimg.com/originals/ef/a5/64/efa5645aaed539e18bfdfd12bd125da2.jpg
+wget --tries=2 --timeout=10 -O ea_male_attendant_1.jpg https://i.pinimg.com/originals/fa/ae/f6/faaef65ad69539879f120774e22944f7.jpg
+wget --tries=2 --timeout=10 -O ea_male_attendant_2.jpg https://i.pinimg.com/originals/6e/f3/8c/6ef38c9cf300cc92541b0834a1b59616.jpg
+wget --tries=2 --timeout=10 -O ea_male_attendant_3.jpg http://vivalifestyleandtravel.com/images/cache/c-1509257547-549578369.jpg
+wget --tries=2 --timeout=10 -O ea_male_attendant_4.jpg https://photo-cdn.icons8.com/assets/editor/model/34/d2d2c2a5-82d8-4647-94b4-81f2e5f5ff86.png
+wget --tries=2 --timeout=10 -O ea_female_attendant_0.jpg https://i.pinimg.com/564x/d9/f7/65/d9f76500315c5ecb943277563794a474.jpg
+wget --tries=2 --timeout=10 -O ea_female_attendant_1.jpg https://previews.123rf.com/images/pavelshlykov/pavelshlykov1710/pavelshlykov171000137/88790724-beautiful-happy-flight-attendant-against-white-background-.jpg
+wget --tries=2 --timeout=10 -O ea_female_attendant_2.jpg https://s3.amazonaws.com/freestock-prod/450/freestock_96815023.jpg
+wget --tries=2 --timeout=10 -O ea_female_attendant_3.jpg https://thumbs.dreamstime.com/z/full-body-flight-attendant-standing-isolated-white-41555625.jpg
+wget --tries=2 --timeout=10 -O ea_female_attendant_4.jpg https://image.shutterstock.com/image-photo/flight-attendant-waiting-passengers-board-260nw-290127503.jpg
 
-wget --tries=2 -O ea_male_teacher_0.jpg https://thumbs.dreamstime.com/z/portrait-young-white-male-teacher-school-classroom-portrait-young-white-male-teacher-school-classroom-99966005.jpg
-wget --tries=2 -O ea_male_teacher_1.jpg https://c8.alamy.com/comp/HE8EYB/portrait-of-a-male-teacher-isolated-on-white-background-HE8EYB.jpg
-wget --tries=2 -O ea_male_teacher_2.jpg https://st4.depositphotos.com/16122460/20179/i/1600/depositphotos_201798152-stock-photo-male-teacher-pointer-white-background.jpg
-wget --tries=2 -O ea_male_teacher_3.jpg https://static2.bigstockphoto.com/9/7/1/large1500/17925707.jpg
-wget --tries=2 -O ea_male_teacher_4.jpg https://c8.alamy.com/comp/T7G867/a-young-white-male-teacher-teaches-in-class-uk-T7G867.jpg
-wget --tries=2 -O ea_female_teacher_0.jpg https://i.pinimg.com/originals/ca/81/69/ca8169175dd8538fb739822e8fe1c040.jpg
-wget --tries=2 -O ea_female_teacher_1.jpg https://thumbs.dreamstime.com/z/female-teacher-portrait-middle-age-standing-against-white-background-holding-file-her-hand-smiling-camera-55465619.jpg
-wget --tries=2 -O ea_female_teacher_2.jpg https://st4.depositphotos.com/2760050/21328/i/1600/depositphotos_213288042-stock-photo-woman-with-long-hair-white.jpg
-wget --tries=2 -O ea_female_teacher_3.jpg https://c8.alamy.com/comp/T261B1/portrait-of-blonde-female-teacher-in-classroom-with-student-against-the-white-school-board-T261B1.jpg
-wget --tries=2 -O ea_female_teacher_4.jpg https://c8.alamy.com/comp/T261H6/portrait-of-blonde-female-teacher-in-classroom-against-the-white-school-board-a-young-astonished-teacher-holds-a-lot-of-books-in-her-hands-T261H6.jpg
+wget --tries=2 --timeout=10 -O ea_male_teacher_0.jpg https://thumbs.dreamstime.com/z/portrait-young-white-male-teacher-school-classroom-portrait-young-white-male-teacher-school-classroom-99966005.jpg
+wget --tries=2 --timeout=10 -O ea_male_teacher_1.jpg https://c8.alamy.com/comp/HE8EYB/portrait-of-a-male-teacher-isolated-on-white-background-HE8EYB.jpg
+wget --tries=2 --timeout=10 -O ea_male_teacher_2.jpg https://st4.depositphotos.com/16122460/20179/i/1600/depositphotos_201798152-stock-photo-male-teacher-pointer-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_teacher_3.jpg https://static2.bigstockphoto.com/9/7/1/large1500/17925707.jpg
+wget --tries=2 --timeout=10 -O ea_male_teacher_4.jpg https://c8.alamy.com/comp/T7G867/a-young-white-male-teacher-teaches-in-class-uk-T7G867.jpg
+wget --tries=2 --timeout=10 -O ea_female_teacher_0.jpg https://i.pinimg.com/originals/ca/81/69/ca8169175dd8538fb739822e8fe1c040.jpg
+wget --tries=2 --timeout=10 -O ea_female_teacher_1.jpg https://thumbs.dreamstime.com/z/female-teacher-portrait-middle-age-standing-against-white-background-holding-file-her-hand-smiling-camera-55465619.jpg
+wget --tries=2 --timeout=10 -O ea_female_teacher_2.jpg https://st4.depositphotos.com/2760050/21328/i/1600/depositphotos_213288042-stock-photo-woman-with-long-hair-white.jpg
+wget --tries=2 --timeout=10 -O ea_female_teacher_3.jpg https://c8.alamy.com/comp/T261B1/portrait-of-blonde-female-teacher-in-classroom-with-student-against-the-white-school-board-T261B1.jpg
+wget --tries=2 --timeout=10 -O ea_female_teacher_4.jpg https://c8.alamy.com/comp/T261H6/portrait-of-blonde-female-teacher-in-classroom-against-the-white-school-board-a-young-astonished-teacher-holds-a-lot-of-books-in-her-hands-T261H6.jpg
 
-wget --tries=2 -O ea_male_nurse_0.jpg https://previews.123rf.com/images/supergranto/supergranto1307/supergranto130700002/20596509-male-nurse-portrait-on-white-background.jpg
-wget --tries=2 -O ea_male_nurse_1.jpg https://previews.123rf.com/images/kozzi/kozzi1301/kozzi130115510/17519349-portrait-image-of-a-male-nurse-looking-at-camera-against-white-background.jpg
-wget --tries=2 -O ea_male_nurse_2.jpg https://previews.123rf.com/images/stocking/stocking1604/stocking160401594/55653729-handsome-male-nurse-isolated-on-white.jpg
-wget --tries=2 -O ea_male_nurse_3.jpg https://image.shutterstock.com/image-photo/male-nurse-isolated-on-white-260nw-699689644.jpg
-wget --tries=2 -O ea_male_nurse_4.jpg https://st3.depositphotos.com/13194036/19301/i/450/depositphotos_193016948-stock-photo-male-nurse-wearing-blue-uniform.jpg
-wget --tries=2 -O ea_female_nurse_0.jpg https://thumbs.dreamstime.com/z/female-nurse-stethoscope-10110673.jpg
-wget --tries=2 -O ea_female_nurse_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3027525.jpg
-wget --tries=2 -O ea_female_nurse_2.jpg https://thumbs.dreamstime.com/z/young-female-nurse-waving-hand-cheerful-doctor-greeting-patient-admonishes-wishes-health-isolated-white-background-35430681.jpg
-wget --tries=2 -O ea_female_nurse_3.jpg https://previews.123rf.com/images/tverdohlib/tverdohlib1705/tverdohlib170501216/78162729-nurse-cute-woman-doctor-or-pretty-nurse-girl-in-white-medical-coat-standing-with-stethoscope-in-hand.jpg
-wget --tries=2 -O ea_female_nurse_4.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX26410828.jpg
+wget --tries=2 --timeout=10 -O ea_male_nurse_0.jpg https://previews.123rf.com/images/supergranto/supergranto1307/supergranto130700002/20596509-male-nurse-portrait-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_nurse_1.jpg https://previews.123rf.com/images/kozzi/kozzi1301/kozzi130115510/17519349-portrait-image-of-a-male-nurse-looking-at-camera-against-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_nurse_2.jpg https://previews.123rf.com/images/stocking/stocking1604/stocking160401594/55653729-handsome-male-nurse-isolated-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_male_nurse_3.jpg https://image.shutterstock.com/image-photo/male-nurse-isolated-on-white-260nw-699689644.jpg
+wget --tries=2 --timeout=10 -O ea_male_nurse_4.jpg https://st3.depositphotos.com/13194036/19301/i/450/depositphotos_193016948-stock-photo-male-nurse-wearing-blue-uniform.jpg
+wget --tries=2 --timeout=10 -O ea_female_nurse_0.jpg https://thumbs.dreamstime.com/z/female-nurse-stethoscope-10110673.jpg
+wget --tries=2 --timeout=10 -O ea_female_nurse_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3027525.jpg
+wget --tries=2 --timeout=10 -O ea_female_nurse_2.jpg https://thumbs.dreamstime.com/z/young-female-nurse-waving-hand-cheerful-doctor-greeting-patient-admonishes-wishes-health-isolated-white-background-35430681.jpg
+wget --tries=2 --timeout=10 -O ea_female_nurse_3.jpg https://previews.123rf.com/images/tverdohlib/tverdohlib1705/tverdohlib170501216/78162729-nurse-cute-woman-doctor-or-pretty-nurse-girl-in-white-medical-coat-standing-with-stethoscope-in-hand.jpg
+wget --tries=2 --timeout=10 -O ea_female_nurse_4.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX26410828.jpg
 
-wget --tries=2 -O ea_male_assistant_0.jpg http://www.montrealgazette.com/news/cms/binary/6492396.jpg?size=sw620x65
-wget --tries=2 -O ea_male_assistant_1.jpg https://brelsfordpersonnel.com/releases/wp-content/uploads/2019/03/legalassistantjobsskillsthatgetyouhired.jpg
-wget --tries=2 -O ea_male_assistant_2.jpg https://www.ahlgrenlaw.com/wp-content/uploads/2014/02/09-07-18-AHLGREN-HEADS-W_0103-260x364.jpg
-wget --tries=2 -O ea_male_assistant_3.jpg https://handylawvt.com/~handylawvt/gendir/files/8-addison.jpg
-wget --tries=2 -O ea_male_assistant_4.jpg https://www.maryebblaw.com/wp-content/uploads/2019/10/thomas-bird.png
-wget --tries=2 -O ea_female_assistant_0.jpg http://www.lawcrossing.com/images/articleimages/What-Essentially-a-Legal-Assistant-Does.jpg
-wget --tries=2 -O ea_female_assistant_1.jpg https://qvcc.edu/wp-content/uploads/2020/01/IMG_4062-scaled.jpg
-wget --tries=2 -O ea_female_assistant_2.jpg https://www.davidblackwelllaw.com/wp-content/uploads/2017/08/bio-dana-stogner.jpg
-wget --tries=2 -O ea_female_assistant_3.jpg https://lightmanimmigration.com/wp-content/uploads/2018/02/iris-castro-300x450.jpg
-wget --tries=2 -O ea_female_assistant_4.jpg http://www.law.ou.edu/sites/default/files/styles/image_width_500/public/checkerboard/image/edit_3.jpg?itok=t2XH3lLs
+wget --tries=2 --timeout=10 -O ea_male_assistant_0.jpg http://www.montrealgazette.com/news/cms/binary/6492396.jpg?size=sw620x65
+wget --tries=2 --timeout=10 -O ea_male_assistant_1.jpg https://brelsfordpersonnel.com/releases/wp-content/uploads/2019/03/legalassistantjobsskillsthatgetyouhired.jpg
+wget --tries=2 --timeout=10 -O ea_male_assistant_2.jpg https://www.ahlgrenlaw.com/wp-content/uploads/2014/02/09-07-18-AHLGREN-HEADS-W_0103-260x364.jpg
+wget --tries=2 --timeout=10 -O ea_male_assistant_3.jpg https://handylawvt.com/~handylawvt/gendir/files/8-addison.jpg
+wget --tries=2 --timeout=10 -O ea_male_assistant_4.jpg https://www.maryebblaw.com/wp-content/uploads/2019/10/thomas-bird.png
+wget --tries=2 --timeout=10 -O ea_female_assistant_0.jpg http://www.lawcrossing.com/images/articleimages/What-Essentially-a-Legal-Assistant-Does.jpg
+wget --tries=2 --timeout=10 -O ea_female_assistant_1.jpg https://qvcc.edu/wp-content/uploads/2020/01/IMG_4062-scaled.jpg
+wget --tries=2 --timeout=10 -O ea_female_assistant_2.jpg https://www.davidblackwelllaw.com/wp-content/uploads/2017/08/bio-dana-stogner.jpg
+wget --tries=2 --timeout=10 -O ea_female_assistant_3.jpg https://lightmanimmigration.com/wp-content/uploads/2018/02/iris-castro-300x450.jpg
+wget --tries=2 --timeout=10 -O ea_female_assistant_4.jpg http://www.law.ou.edu/sites/default/files/styles/image_width_500/public/checkerboard/image/edit_3.jpg?itok=t2XH3lLs
 
-wget --tries=2 -O ea_male_secretary_0.jpg https://image.shutterstock.com/image-photo/young-businessman-talking-on-phone-260nw-500688046.jpg
-wget --tries=2 -O ea_male_secretary_1.jpg https://thumbs.dreamstime.com/z/handsome-young-male-secretary-4645551.jpg
-wget --tries=2 -O ea_male_secretary_2.jpg https://image.shutterstock.com/image-photo/business-man-call-someone-on-260nw-257865761.jpg
-wget --tries=2 -O ea_male_secretary_3.jpg https://i.dailymail.co.uk/i/pix/scaled/2013/10/14/article-2458385-04E255CA00000514-411_636x382.jpg
-wget --tries=2 -O ea_male_secretary_4.jpg https://c8.alamy.com/comp/JBC63D/male-secretary-taking-down-notes-from-boss-on-notepad-looking-at-camera-JBC63D.jpg
-wget --tries=2 -O ea_female_secretary_0.jpg https://c8.alamy.com/comp/T8X4JM/beautiful-female-secretary-with-clipboard-on-white-background-T8X4JM.jpg
-wget --tries=2 -O ea_female_secretary_1.jpg https://c8.alamy.com/comp/BET0DB/female-secretary-arms-folded-looking-stern-annoyed-wearing-white-shirt-BET0DB.jpg
-wget --tries=2 -O ea_female_secretary_2.jpg https://thumbs.dreamstime.com/z/secretary-office-portrait-beautiful-young-blonde-woman-white-blouse-black-skirt-wall-background-132002932.jpg
-wget --tries=2 -O ea_female_secretary_3.jpg https://comps.canstockphoto.com/portrait-of-a-beautiful-young-woman-picture_csp52627416.jpg
-wget --tries=2 -O ea_female_secretary_4.jpg https://comps.canstockphoto.com/photo-of-secretary-woman-in-white-shirt-stock-photo_csp57951428.jpg
+wget --tries=2 --timeout=10 -O ea_male_secretary_0.jpg https://image.shutterstock.com/image-photo/young-businessman-talking-on-phone-260nw-500688046.jpg
+wget --tries=2 --timeout=10 -O ea_male_secretary_1.jpg https://thumbs.dreamstime.com/z/handsome-young-male-secretary-4645551.jpg
+wget --tries=2 --timeout=10 -O ea_male_secretary_2.jpg https://image.shutterstock.com/image-photo/business-man-call-someone-on-260nw-257865761.jpg
+wget --tries=2 --timeout=10 -O ea_male_secretary_3.jpg https://i.dailymail.co.uk/i/pix/scaled/2013/10/14/article-2458385-04E255CA00000514-411_636x382.jpg
+wget --tries=2 --timeout=10 -O ea_male_secretary_4.jpg https://c8.alamy.com/comp/JBC63D/male-secretary-taking-down-notes-from-boss-on-notepad-looking-at-camera-JBC63D.jpg
+wget --tries=2 --timeout=10 -O ea_female_secretary_0.jpg https://c8.alamy.com/comp/T8X4JM/beautiful-female-secretary-with-clipboard-on-white-background-T8X4JM.jpg
+wget --tries=2 --timeout=10 -O ea_female_secretary_1.jpg https://c8.alamy.com/comp/BET0DB/female-secretary-arms-folded-looking-stern-annoyed-wearing-white-shirt-BET0DB.jpg
+wget --tries=2 --timeout=10 -O ea_female_secretary_2.jpg https://thumbs.dreamstime.com/z/secretary-office-portrait-beautiful-young-blonde-woman-white-blouse-black-skirt-wall-background-132002932.jpg
+wget --tries=2 --timeout=10 -O ea_female_secretary_3.jpg https://comps.canstockphoto.com/portrait-of-a-beautiful-young-woman-picture_csp52627416.jpg
+wget --tries=2 --timeout=10 -O ea_female_secretary_4.jpg https://comps.canstockphoto.com/photo-of-secretary-woman-in-white-shirt-stock-photo_csp57951428.jpg
 
-wget --tries=2 -O ea_male_auditor_0.jpg https://newsms.fm/wp-content/uploads/2019/01/AuditorWhite.jpg
-wget --tries=2 -O ea_male_auditor_1.jpg https://www.fccnn.com/incoming/3975921-v6bksw-071819.N.FNS.AUDITMEETING/alternates/BASE_LANDSCAPE/071819.N.FNS.AUDITMEETING
-wget --tries=2 -O ea_male_auditor_2.jpg https://www.msstate.edu/sites/www.msstate.edu/files/inline-images/White_Shad-StateAuditor_20190924_B5W8135_half.jpg
-wget --tries=2 -O ea_male_auditor_3.jpg https://newsms.fm/wp-content/uploads/2018/07/IMG_5043.jpg
-wget --tries=2 -O ea_male_auditor_4.jpg https://www.gannett-cdn.com/presto/2020/01/09/PMAN/7bba502d-b5c8-4328-8103-f051f2c6ecf9-Ohio_Auditor_Keith_Faber.jpg?width=540&height=&fit=bounds&auto=webp
-wget --tries=2 -O ea_female_auditor_0.jpg https://c8.alamy.com/comp/X6MG33/female-auditor-X6MG33.jpg
-wget --tries=2 -O ea_female_auditor_1.jpg https://static3.depositphotos.com/1007911/245/i/950/depositphotos_2456006-stock-photo-auditor-business-woman.jpg
-wget --tries=2 -O ea_female_auditor_2.jpg https://c8.alamy.com/comp/J70054/modern-business-woman-or-confident-female-accountant-in-office-J70054.jpg
-wget --tries=2 -O ea_female_auditor_3.jpg https://www.careersinaudit.com/getasset/554f8eef-37f4-4efb-a3bb-11c097da3731/
-wget --tries=2 -O ea_female_auditor_4.jpg https://c8.alamy.com/comp/G2B46H/business-woman-inspector-auditor-or-supervisor-woman-covering-ears-G2B46H.jpg
+wget --tries=2 --timeout=10 -O ea_male_auditor_0.jpg https://newsms.fm/wp-content/uploads/2019/01/AuditorWhite.jpg
+wget --tries=2 --timeout=10 -O ea_male_auditor_1.jpg https://www.fccnn.com/incoming/3975921-v6bksw-071819.N.FNS.AUDITMEETING/alternates/BASE_LANDSCAPE/071819.N.FNS.AUDITMEETING
+wget --tries=2 --timeout=10 -O ea_male_auditor_2.jpg https://www.msstate.edu/sites/www.msstate.edu/files/inline-images/White_Shad-StateAuditor_20190924_B5W8135_half.jpg
+wget --tries=2 --timeout=10 -O ea_male_auditor_3.jpg https://newsms.fm/wp-content/uploads/2018/07/IMG_5043.jpg
+wget --tries=2 --timeout=10 -O ea_male_auditor_4.jpg https://www.gannett-cdn.com/presto/2020/01/09/PMAN/7bba502d-b5c8-4328-8103-f051f2c6ecf9-Ohio_Auditor_Keith_Faber.jpg?width=540&height=&fit=bounds&auto=webp
+wget --tries=2 --timeout=10 -O ea_female_auditor_0.jpg https://c8.alamy.com/comp/X6MG33/female-auditor-X6MG33.jpg
+wget --tries=2 --timeout=10 -O ea_female_auditor_1.jpg https://static3.depositphotos.com/1007911/245/i/950/depositphotos_2456006-stock-photo-auditor-business-woman.jpg
+wget --tries=2 --timeout=10 -O ea_female_auditor_2.jpg https://c8.alamy.com/comp/J70054/modern-business-woman-or-confident-female-accountant-in-office-J70054.jpg
+wget --tries=2 --timeout=10 -O ea_female_auditor_3.jpg https://www.careersinaudit.com/getasset/554f8eef-37f4-4efb-a3bb-11c097da3731/
+wget --tries=2 --timeout=10 -O ea_female_auditor_4.jpg https://c8.alamy.com/comp/G2B46H/business-woman-inspector-auditor-or-supervisor-woman-covering-ears-G2B46H.jpg
 
-wget --tries=2 -O ea_male_cleaner_0.jpg https://previews.123rf.com/images/ljupco/ljupco1302/ljupco130200196/17866073-full-length-portrait-of-a-male-cleaner-with-a-broom-giving-thumb-up-isolated-on-white-background.jpg
-wget --tries=2 -O ea_male_cleaner_1.jpg https://previews.123rf.com/images/andreypopov/andreypopov1302/andreypopov130200096/17626374-man-from-professional-cleaning-service-isolated-on-white.jpg
-wget --tries=2 -O ea_male_cleaner_2.jpg https://img3.stockfresh.com/files/e/elnur/m/30/8712062_stock-photo-man-with-cleaning-agents-isolated-on-white-background.jpg
-wget --tries=2 -O ea_male_cleaner_3.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2322276.jpg
-wget --tries=2 -O ea_male_cleaner_4.jpg https://previews.123rf.com/images/ljupco/ljupco1211/ljupco121100026/16118559-male-cleaner-holding-a-brush-isolated-on-white-background.jpg
-wget --tries=2 -O ea_female_cleaner_0.jpg https://c8.alamy.com/comp/KDBR6M/female-cleaner-with-cleaning-equipment-isolated-on-white-background-KDBR6M.jpg
-wget --tries=2 -O ea_female_cleaner_1.jpg https://c8.alamy.com/comp/JPTGTE/pretty-female-cleaner-showing-her-broom-on-white-studio-background-JPTGTE.jpg
-wget --tries=2 -O ea_female_cleaner_2.jpg https://st.depositphotos.com/1000975/2589/i/950/depositphotos_25897151-stock-photo-young-woman-with-vacuum-cleaner.jpg
-wget --tries=2 -O ea_female_cleaner_3.jpg https://image.shutterstock.com/image-photo/female-janitor-vacuum-cleaner-on-600w-1398367835.jpg
-wget --tries=2 -O ea_female_cleaner_4.jpg https://c8.alamy.com/comp/CYFGWD/a-female-cleaner-posing-with-cleaning-equipment-isolated-against-white-CYFGWD.jpg
+wget --tries=2 --timeout=10 -O ea_male_cleaner_0.jpg https://previews.123rf.com/images/ljupco/ljupco1302/ljupco130200196/17866073-full-length-portrait-of-a-male-cleaner-with-a-broom-giving-thumb-up-isolated-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_cleaner_1.jpg https://previews.123rf.com/images/andreypopov/andreypopov1302/andreypopov130200096/17626374-man-from-professional-cleaning-service-isolated-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_male_cleaner_2.jpg https://img3.stockfresh.com/files/e/elnur/m/30/8712062_stock-photo-man-with-cleaning-agents-isolated-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_cleaner_3.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2322276.jpg
+wget --tries=2 --timeout=10 -O ea_male_cleaner_4.jpg https://previews.123rf.com/images/ljupco/ljupco1211/ljupco121100026/16118559-male-cleaner-holding-a-brush-isolated-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_cleaner_0.jpg https://c8.alamy.com/comp/KDBR6M/female-cleaner-with-cleaning-equipment-isolated-on-white-background-KDBR6M.jpg
+wget --tries=2 --timeout=10 -O ea_female_cleaner_1.jpg https://c8.alamy.com/comp/JPTGTE/pretty-female-cleaner-showing-her-broom-on-white-studio-background-JPTGTE.jpg
+wget --tries=2 --timeout=10 -O ea_female_cleaner_2.jpg https://st.depositphotos.com/1000975/2589/i/950/depositphotos_25897151-stock-photo-young-woman-with-vacuum-cleaner.jpg
+wget --tries=2 --timeout=10 -O ea_female_cleaner_3.jpg https://image.shutterstock.com/image-photo/female-janitor-vacuum-cleaner-on-600w-1398367835.jpg
+wget --tries=2 --timeout=10 -O ea_female_cleaner_4.jpg https://c8.alamy.com/comp/CYFGWD/a-female-cleaner-posing-with-cleaning-equipment-isolated-against-white-CYFGWD.jpg
 
-wget --tries=2 -O ea_male_receptionist_0.jpg https://image.shutterstock.com/image-photo/male-receptionist-working-hotel-260nw-722180617.jpg
-wget --tries=2 -O ea_male_receptionist_1.jpg https://miro.medium.com/max/6000/1*e4TY7PjItqlqDPVSGKmiqg.jpeg
-wget --tries=2 -O ea_male_receptionist_2.jpg https://previews.123rf.com/images/georgerudy/georgerudy1601/georgerudy160100194/50246572-portrait-of-smiling-young-man-with-receptionist-in-dentist-office.jpg
-wget --tries=2 -O ea_male_receptionist_3.jpg https://thumbs.dreamstime.com/z/male-receptionist-talking-telephone-earpiece-6603797.jpg
-wget --tries=2 -O ea_male_receptionist_4.jpg https://media.gettyimages.com/photos/portrait-of-a-male-hotel-receptionist-standing-behind-a-reception-picture-iddv1794016
-wget --tries=2 -O ea_female_receptionist_0.jpg https://image.shutterstock.com/image-photo/young-female-receptionist-talking-on-260nw-715216072.jpg
-wget --tries=2 -O ea_female_receptionist_1.jpg https://image.shutterstock.com/image-photo/young-receptionist-talking-on-phone-260nw-703598926.jpg
-wget --tries=2 -O ea_female_receptionist_2.jpg https://photos.demandstudios.com/getty/article/81/151/87829006_XS.jpg
-wget --tries=2 -O ea_female_receptionist_3.jpg https://thumbs.dreamstime.com/z/portrait-front-desk-officer-her-workplace-receptionist-woman-front-her-desk-greeting-customers-121399339.jpg
-wget --tries=2 -O ea_female_receptionist_4.jpg https://hiring.monster.com/employer-resources/wp-content/uploads/sites/2/2019/02/d42e370beaf40f41be941f579d6f915d.jpg
+wget --tries=2 --timeout=10 -O ea_male_receptionist_0.jpg https://image.shutterstock.com/image-photo/male-receptionist-working-hotel-260nw-722180617.jpg
+wget --tries=2 --timeout=10 -O ea_male_receptionist_1.jpg https://miro.medium.com/max/6000/1*e4TY7PjItqlqDPVSGKmiqg.jpeg
+wget --tries=2 --timeout=10 -O ea_male_receptionist_2.jpg https://previews.123rf.com/images/georgerudy/georgerudy1601/georgerudy160100194/50246572-portrait-of-smiling-young-man-with-receptionist-in-dentist-office.jpg
+wget --tries=2 --timeout=10 -O ea_male_receptionist_3.jpg https://thumbs.dreamstime.com/z/male-receptionist-talking-telephone-earpiece-6603797.jpg
+wget --tries=2 --timeout=10 -O ea_male_receptionist_4.jpg https://media.gettyimages.com/photos/portrait-of-a-male-hotel-receptionist-standing-behind-a-reception-picture-iddv1794016
+wget --tries=2 --timeout=10 -O ea_female_receptionist_0.jpg https://image.shutterstock.com/image-photo/young-female-receptionist-talking-on-260nw-715216072.jpg
+wget --tries=2 --timeout=10 -O ea_female_receptionist_1.jpg https://image.shutterstock.com/image-photo/young-receptionist-talking-on-phone-260nw-703598926.jpg
+wget --tries=2 --timeout=10 -O ea_female_receptionist_2.jpg https://photos.demandstudios.com/getty/article/81/151/87829006_XS.jpg
+wget --tries=2 --timeout=10 -O ea_female_receptionist_3.jpg https://thumbs.dreamstime.com/z/portrait-front-desk-officer-her-workplace-receptionist-woman-front-her-desk-greeting-customers-121399339.jpg
+wget --tries=2 --timeout=10 -O ea_female_receptionist_4.jpg https://hiring.monster.com/employer-resources/wp-content/uploads/sites/2/2019/02/d42e370beaf40f41be941f579d6f915d.jpg
 
-wget --tries=2 -O ea_male_clerk_0.jpg https://previews.123rf.com/images/malewitch/malewitch1303/malewitch130300088/18657518-office-clerk-on-white-background.jpg
-wget --tries=2 -O ea_male_clerk_1.jpg https://image.shutterstock.com/image-photo/handsome-smiling-bearded-clerk-man-600w-1246564597.jpg
-wget --tries=2 -O ea_male_clerk_2.jpg https://www.usnews.com/dims4/USNEWS/38c30fa/2147483647/thumbnail/640x420/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F51%2F8d382bb03c77d8d5658440bea888fc%2Fjobs-job-photo-115.jpg
-wget --tries=2 -O ea_male_clerk_3.jpg https://previews.123rf.com/images/malewitch/malewitch1303/malewitch130300069/18522729-office-clerk-on-white-background.jpg
-wget --tries=2 -O ea_male_clerk_4.jpg https://previews.123rf.com/images/antoniodiaz/antoniodiaz1907/antoniodiaz190700262/127734417-confident-male-clerk-answering-phone-while-standing-by-female-coworker-at-reception-desk-in-lobby.jpg
-wget --tries=2 -O ea_female_clerk_0.jpg https://c8.alamy.com/comp/RK0JN3/female-office-clerk-walking-with-tablet-and-smiling-broadly-when-talking-to-camera-on-white-background-RK0JN3.jpg
-wget --tries=2 -O ea_female_clerk_1.jpg https://previews.123rf.com/images/sheftsoff/sheftsoff1711/sheftsoff171100861/90393293-clerk-woman-isolated-on-white-female-studio-portrait.jpg
-wget --tries=2 -O ea_female_clerk_2.jpg https://thumbs.dreamstime.com/z/female-bank-clerk-woman-isolated-white-background-application-photo-business-as-35311076.jpg
-wget --tries=2 -O ea_female_clerk_3.jpg https://www.gannett-cdn.com/presto/2019/12/15/PBAC/70ea059f-827c-4ced-93fa-6a4cfc6b50ee-norlander15.1.jpg?width=540&height=&fit=bounds&auto=webp
-wget --tries=2 -O ea_female_clerk_4.jpg https://bloximages.chicago2.vip.townnews.com/heraldextra.com/content/tncms/assets/v3/editorial/c/90/c90502ac-69e4-5043-a420-bb056fa252a2/5cb7e03c87ee4.image.jpg?resize=1200%2C955
+wget --tries=2 --timeout=10 -O ea_male_clerk_0.jpg https://previews.123rf.com/images/malewitch/malewitch1303/malewitch130300088/18657518-office-clerk-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_clerk_1.jpg https://image.shutterstock.com/image-photo/handsome-smiling-bearded-clerk-man-600w-1246564597.jpg
+wget --tries=2 --timeout=10 -O ea_male_clerk_2.jpg https://www.usnews.com/dims4/USNEWS/38c30fa/2147483647/thumbnail/640x420/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F51%2F8d382bb03c77d8d5658440bea888fc%2Fjobs-job-photo-115.jpg
+wget --tries=2 --timeout=10 -O ea_male_clerk_3.jpg https://previews.123rf.com/images/malewitch/malewitch1303/malewitch130300069/18522729-office-clerk-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_clerk_4.jpg https://previews.123rf.com/images/antoniodiaz/antoniodiaz1907/antoniodiaz190700262/127734417-confident-male-clerk-answering-phone-while-standing-by-female-coworker-at-reception-desk-in-lobby.jpg
+wget --tries=2 --timeout=10 -O ea_female_clerk_0.jpg https://c8.alamy.com/comp/RK0JN3/female-office-clerk-walking-with-tablet-and-smiling-broadly-when-talking-to-camera-on-white-background-RK0JN3.jpg
+wget --tries=2 --timeout=10 -O ea_female_clerk_1.jpg https://previews.123rf.com/images/sheftsoff/sheftsoff1711/sheftsoff171100861/90393293-clerk-woman-isolated-on-white-female-studio-portrait.jpg
+wget --tries=2 --timeout=10 -O ea_female_clerk_2.jpg https://thumbs.dreamstime.com/z/female-bank-clerk-woman-isolated-white-background-application-photo-business-as-35311076.jpg
+wget --tries=2 --timeout=10 -O ea_female_clerk_3.jpg https://www.gannett-cdn.com/presto/2019/12/15/PBAC/70ea059f-827c-4ced-93fa-6a4cfc6b50ee-norlander15.1.jpg?width=540&height=&fit=bounds&auto=webp
+wget --tries=2 --timeout=10 -O ea_female_clerk_4.jpg https://bloximages.chicago2.vip.townnews.com/heraldextra.com/content/tncms/assets/v3/editorial/c/90/c90502ac-69e4-5043-a420-bb056fa252a2/5cb7e03c87ee4.image.jpg?resize=1200%2C955
 
-wget --tries=2 -O ea_male_counselor_0.jpg https://thumbs.dreamstime.com/z/portrait-male-psychologist-office-44629580.jpg
-wget --tries=2 -O ea_male_counselor_1.jpg https://image.shutterstock.com/image-photo/handsome-young-man-sitting-on-260nw-529084606.jpg
-wget --tries=2 -O ea_male_counselor_2.jpg https://previews.123rf.com/images/lisafx/lisafx1307/lisafx130700037/21141774-friendly-school-guidance-counselor-or-therapist-advising-an-adolescent-student-white-background-.jpg
-wget --tries=2 -O ea_male_counselor_3.jpg https://previews.123rf.com/images/bialasiewicz/bialasiewicz1905/bialasiewicz190500206/123114576-young-man-and-senior-therapist-during-professional-counselor-meeting.jpg
-wget --tries=2 -O ea_male_counselor_4.jpg https://image.shutterstock.com/image-photo/male-psychologist-being-ready-take-260nw-142654177.jpg
-wget --tries=2 -O ea_female_counselor_0.jpg http://mantalkfood.com/wp-content/uploads/2014/11/Naked-Therapist-Sarah-White.jpg
-wget --tries=2 -O ea_female_counselor_1.jpg https://media.istockphoto.com/photos/beautiful-professional-female-therapist-wears-white-medical-coat-picture-id1043135510
-wget --tries=2 -O ea_female_counselor_2.jpg https://ionemadamenoire.files.wordpress.com/2019/03/15515496089908.jpg?w=731&h=477
-wget --tries=2 -O ea_female_counselor_3.jpg http://cdn4.sussexdirectories.com/rms/rms_photos/sized/41/06/140641-197201-1_320x400.jpg?pu=1443126464
-wget --tries=2 -O ea_female_counselor_4.jpg https://www.sbis.ca/wp-content/uploads/2017/11/Depressed-woman-talking-with-her-therapist-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_counselor_0.jpg https://thumbs.dreamstime.com/z/portrait-male-psychologist-office-44629580.jpg
+wget --tries=2 --timeout=10 -O ea_male_counselor_1.jpg https://image.shutterstock.com/image-photo/handsome-young-man-sitting-on-260nw-529084606.jpg
+wget --tries=2 --timeout=10 -O ea_male_counselor_2.jpg https://previews.123rf.com/images/lisafx/lisafx1307/lisafx130700037/21141774-friendly-school-guidance-counselor-or-therapist-advising-an-adolescent-student-white-background-.jpg
+wget --tries=2 --timeout=10 -O ea_male_counselor_3.jpg https://previews.123rf.com/images/bialasiewicz/bialasiewicz1905/bialasiewicz190500206/123114576-young-man-and-senior-therapist-during-professional-counselor-meeting.jpg
+wget --tries=2 --timeout=10 -O ea_male_counselor_4.jpg https://image.shutterstock.com/image-photo/male-psychologist-being-ready-take-260nw-142654177.jpg
+wget --tries=2 --timeout=10 -O ea_female_counselor_0.jpg http://mantalkfood.com/wp-content/uploads/2014/11/Naked-Therapist-Sarah-White.jpg
+wget --tries=2 --timeout=10 -O ea_female_counselor_1.jpg https://media.istockphoto.com/photos/beautiful-professional-female-therapist-wears-white-medical-coat-picture-id1043135510
+wget --tries=2 --timeout=10 -O ea_female_counselor_2.jpg https://ionemadamenoire.files.wordpress.com/2019/03/15515496089908.jpg?w=731&h=477
+wget --tries=2 --timeout=10 -O ea_female_counselor_3.jpg http://cdn4.sussexdirectories.com/rms/rms_photos/sized/41/06/140641-197201-1_320x400.jpg?pu=1443126464
+wget --tries=2 --timeout=10 -O ea_female_counselor_4.jpg https://www.sbis.ca/wp-content/uploads/2017/11/Depressed-woman-talking-with-her-therapist-on-white-background.jpg
 
-wget --tries=2 -O ea_male_designer_0.jpg https://c8.alamy.com/comp/D45GWH/male-fashion-designer-holding-a-suit-on-a-hanger-isolated-on-white-D45GWH.jpg
-wget --tries=2 -O ea_male_designer_1.jpg https://st.depositphotos.com/1518767/4293/i/950/depositphotos_42936109-stock-photo-young-male-fashion-designer-at.jpg
-wget --tries=2 -O ea_male_designer_2.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1403/wavebreakmediamicro140333832/27073581-side-view-of-a-young-male-fashion-designer-using-phone-in-the-studio.jpg
-wget --tries=2 -O ea_male_designer_3.jpg https://ae01.alicdn.com/kf/HTB1TLUEkNuTBuNkHFNRq6A9qpXaq/FANZHUAN-Designer-Tide-Brands-Clothing-European-Style-Men-S-Shirt-Groom-Wedding-Party-Long-Sleeve-White.jpg
-wget --tries=2 -O ea_male_designer_4.jpg https://media.gettyimages.com/photos/male-fashion-designer-picture-id539281447
-wget --tries=2 -O ea_female_designer_0.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1403/wavebreakmediamicro140344993/27159514-full-length-of-a-female-fashion-designer-and-mannequin-isolated-on-white-background.jpg
-wget --tries=2 -O ea_female_designer_1.jpg https://st4.depositphotos.com/13193658/20451/i/1600/depositphotos_204511064-stock-photo-young-female-fashion-designer-showing.jpg
-wget --tries=2 -O ea_female_designer_2.jpg https://thumbs.dreamstime.com/z/confident-fashion-designer-standing-dressmaker-s-model-portrait-female-against-white-background-32482144.jpg
-wget --tries=2 -O ea_female_designer_3.jpg https://thumbs.dreamstime.com/z/smiling-pretty-fashion-designer-drawing-sketchpad-white-background-34392476.jpg
-wget --tries=2 -O ea_female_designer_4.jpg https://thumbs.dreamstime.com/z/young-female-fashion-designer-holding-bow-tie-suit-hanger-white-background-29888881.jpg
+wget --tries=2 --timeout=10 -O ea_male_designer_0.jpg https://c8.alamy.com/comp/D45GWH/male-fashion-designer-holding-a-suit-on-a-hanger-isolated-on-white-D45GWH.jpg
+wget --tries=2 --timeout=10 -O ea_male_designer_1.jpg https://st.depositphotos.com/1518767/4293/i/950/depositphotos_42936109-stock-photo-young-male-fashion-designer-at.jpg
+wget --tries=2 --timeout=10 -O ea_male_designer_2.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1403/wavebreakmediamicro140333832/27073581-side-view-of-a-young-male-fashion-designer-using-phone-in-the-studio.jpg
+wget --tries=2 --timeout=10 -O ea_male_designer_3.jpg https://ae01.alicdn.com/kf/HTB1TLUEkNuTBuNkHFNRq6A9qpXaq/FANZHUAN-Designer-Tide-Brands-Clothing-European-Style-Men-S-Shirt-Groom-Wedding-Party-Long-Sleeve-White.jpg
+wget --tries=2 --timeout=10 -O ea_male_designer_4.jpg https://media.gettyimages.com/photos/male-fashion-designer-picture-id539281447
+wget --tries=2 --timeout=10 -O ea_female_designer_0.jpg https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1403/wavebreakmediamicro140344993/27159514-full-length-of-a-female-fashion-designer-and-mannequin-isolated-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_designer_1.jpg https://st4.depositphotos.com/13193658/20451/i/1600/depositphotos_204511064-stock-photo-young-female-fashion-designer-showing.jpg
+wget --tries=2 --timeout=10 -O ea_female_designer_2.jpg https://thumbs.dreamstime.com/z/confident-fashion-designer-standing-dressmaker-s-model-portrait-female-against-white-background-32482144.jpg
+wget --tries=2 --timeout=10 -O ea_female_designer_3.jpg https://thumbs.dreamstime.com/z/smiling-pretty-fashion-designer-drawing-sketchpad-white-background-34392476.jpg
+wget --tries=2 --timeout=10 -O ea_female_designer_4.jpg https://thumbs.dreamstime.com/z/young-female-fashion-designer-holding-bow-tie-suit-hanger-white-background-29888881.jpg
 
-wget --tries=2 -O ea_male_hairdresser_0.jpg https://st3.depositphotos.com/13200112/17659/i/1600/depositphotos_176599784-stock-photo-male-professional-hairdresser-serving-client.jpg
-wget --tries=2 -O ea_male_hairdresser_1.jpg https://image.shutterstock.com/image-photo/man-hairdresser-portrait-young-white-600w-578588914.jpg
-wget --tries=2 -O ea_male_hairdresser_2.jpg https://c8.alamy.com/comp/P87WFY/hairdresser-doing-hair-violet-colored-toning-for-young-boy-barber-using-red-plastic-comb-wearing-white-shirt-and-grey-waistcoat-having-violet-color-P87WFY.jpg
-wget --tries=2 -O ea_male_hairdresser_3.jpg https://c8.alamy.com/comp/W17J0M/mature-male-hairdresser-on-white-background-W17J0M.jpg
-wget --tries=2 -O ea_male_hairdresser_4.jpg https://c8.alamy.com/comp/P87WFY/hairdresser-doing-hair-violet-colored-toning-for-young-boy-barber-using-red-plastic-comb-wearing-white-shirt-and-grey-waistcoat-having-violet-color-P87WFY.jpg
-wget --tries=2 -O ea_female_hairdresser_0.jpg https://i.pinimg.com/originals/8d/f3/cb/8df3cbbb8eb2f595cdc1078f29cfeac4.jpg
-wget --tries=2 -O ea_female_hairdresser_1.jpg https://c8.alamy.com/comp/X3HD2N/young-beautiful-female-hairdresser-holding-scissors-and-hair-clipper-isolated-on-white-X3HD2N.jpg
-wget --tries=2 -O ea_female_hairdresser_2.jpg https://previews.123rf.com/images/konstantynov/konstantynov1205/konstantynov120500041/13551588-studio-shot-of-hairdresser-and-young-woman-isolated-on-white.jpg
-wget --tries=2 -O ea_female_hairdresser_3.jpg https://image.shutterstock.com/image-photo/professional-hairdresser-using-hairdryer-while-260nw-1367900198.jpg
-wget --tries=2 -O ea_female_hairdresser_4.jpg https://thumbs.dreamstime.com/z/female-hairdresser-holding-hair-machines-white-background-smiling-woman-clipper-trimmer-studio-professional-equipment-117232448.jpg
+wget --tries=2 --timeout=10 -O ea_male_hairdresser_0.jpg https://st3.depositphotos.com/13200112/17659/i/1600/depositphotos_176599784-stock-photo-male-professional-hairdresser-serving-client.jpg
+wget --tries=2 --timeout=10 -O ea_male_hairdresser_1.jpg https://image.shutterstock.com/image-photo/man-hairdresser-portrait-young-white-600w-578588914.jpg
+wget --tries=2 --timeout=10 -O ea_male_hairdresser_2.jpg https://c8.alamy.com/comp/P87WFY/hairdresser-doing-hair-violet-colored-toning-for-young-boy-barber-using-red-plastic-comb-wearing-white-shirt-and-grey-waistcoat-having-violet-color-P87WFY.jpg
+wget --tries=2 --timeout=10 -O ea_male_hairdresser_3.jpg https://c8.alamy.com/comp/W17J0M/mature-male-hairdresser-on-white-background-W17J0M.jpg
+wget --tries=2 --timeout=10 -O ea_male_hairdresser_4.jpg https://c8.alamy.com/comp/P87WFY/hairdresser-doing-hair-violet-colored-toning-for-young-boy-barber-using-red-plastic-comb-wearing-white-shirt-and-grey-waistcoat-having-violet-color-P87WFY.jpg
+wget --tries=2 --timeout=10 -O ea_female_hairdresser_0.jpg https://i.pinimg.com/originals/8d/f3/cb/8df3cbbb8eb2f595cdc1078f29cfeac4.jpg
+wget --tries=2 --timeout=10 -O ea_female_hairdresser_1.jpg https://c8.alamy.com/comp/X3HD2N/young-beautiful-female-hairdresser-holding-scissors-and-hair-clipper-isolated-on-white-X3HD2N.jpg
+wget --tries=2 --timeout=10 -O ea_female_hairdresser_2.jpg https://previews.123rf.com/images/konstantynov/konstantynov1205/konstantynov120500041/13551588-studio-shot-of-hairdresser-and-young-woman-isolated-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_female_hairdresser_3.jpg https://image.shutterstock.com/image-photo/professional-hairdresser-using-hairdryer-while-260nw-1367900198.jpg
+wget --tries=2 --timeout=10 -O ea_female_hairdresser_4.jpg https://thumbs.dreamstime.com/z/female-hairdresser-holding-hair-machines-white-background-smiling-woman-clipper-trimmer-studio-professional-equipment-117232448.jpg
 
-wget --tries=2 -O ea_male_writer_0.jpg https://c8.alamy.com/comp/CCEER5/nerd-male-holding-a-book-with-empty-white-covers-this-image-is-a-humorous-CCEER5.jpg
-wget --tries=2 -O ea_male_writer_1.jpg https://image.shutterstock.com/image-photo/white-male-writer-suffering-writers-600w-1198757659.jpg
-wget --tries=2 -O ea_male_writer_2.jpg https://previews.123rf.com/images/gaudilab/gaudilab1706/gaudilab170601902/80088345-successful-popular-male-writer-dressed-in-stylish-clothes-spending-his-free-time-on-work-reading-lit.jpg
-wget --tries=2 -O ea_male_writer_3.jpg https://pbs.twimg.com/profile_images/925568689730211840/VCyjlmvg_400x400.jpg
-wget --tries=2 -O ea_male_writer_4.jpg https://thumbs.dreamstime.com/z/portrait-bearded-male-writer-guy-sits-notebook-cafe-table-holds-pencil-his-hand-looks-thoughtfully-young-139051743.jpg
-wget --tries=2 -O ea_female_writer_0.jpg https://c8.alamy.com/comp/2AE3NNJ/freedom-of-mind-female-writer-work-on-new-project-young-brunette-in-the-room-with-white-walls-and-daylight-that-comes-from-the-window-2AE3NNJ.jpg
-wget --tries=2 -O ea_female_writer_1.jpg https://image.shutterstock.com/image-photo/creative-female-writer-writing-amazing-260nw-613997348.jpg
-wget --tries=2 -O ea_female_writer_2.jpg https://c8.alamy.com/comp/M8B6KY/female-writer-wearing-white-shirt-and-polka-dot-skirt-working-in-an-M8B6KY.jpg
-wget --tries=2 -O ea_female_writer_3.jpg https://thumbs.dreamstime.com/z/young-female-writer-s-portrait-inspired-girl-red-checkered-dress-standing-against-white-background-writing-her-79202411.jpg
-wget --tries=2 -O ea_female_writer_4.jpg https://nexttribe.com/wp-content/uploads/2019/09/female-fiction-writer.jpg
+wget --tries=2 --timeout=10 -O ea_male_writer_0.jpg https://c8.alamy.com/comp/CCEER5/nerd-male-holding-a-book-with-empty-white-covers-this-image-is-a-humorous-CCEER5.jpg
+wget --tries=2 --timeout=10 -O ea_male_writer_1.jpg https://image.shutterstock.com/image-photo/white-male-writer-suffering-writers-600w-1198757659.jpg
+wget --tries=2 --timeout=10 -O ea_male_writer_2.jpg https://previews.123rf.com/images/gaudilab/gaudilab1706/gaudilab170601902/80088345-successful-popular-male-writer-dressed-in-stylish-clothes-spending-his-free-time-on-work-reading-lit.jpg
+wget --tries=2 --timeout=10 -O ea_male_writer_3.jpg https://pbs.twimg.com/profile_images/925568689730211840/VCyjlmvg_400x400.jpg
+wget --tries=2 --timeout=10 -O ea_male_writer_4.jpg https://thumbs.dreamstime.com/z/portrait-bearded-male-writer-guy-sits-notebook-cafe-table-holds-pencil-his-hand-looks-thoughtfully-young-139051743.jpg
+wget --tries=2 --timeout=10 -O ea_female_writer_0.jpg https://c8.alamy.com/comp/2AE3NNJ/freedom-of-mind-female-writer-work-on-new-project-young-brunette-in-the-room-with-white-walls-and-daylight-that-comes-from-the-window-2AE3NNJ.jpg
+wget --tries=2 --timeout=10 -O ea_female_writer_1.jpg https://image.shutterstock.com/image-photo/creative-female-writer-writing-amazing-260nw-613997348.jpg
+wget --tries=2 --timeout=10 -O ea_female_writer_2.jpg https://c8.alamy.com/comp/M8B6KY/female-writer-wearing-white-shirt-and-polka-dot-skirt-working-in-an-M8B6KY.jpg
+wget --tries=2 --timeout=10 -O ea_female_writer_3.jpg https://thumbs.dreamstime.com/z/young-female-writer-s-portrait-inspired-girl-red-checkered-dress-standing-against-white-background-writing-her-79202411.jpg
+wget --tries=2 --timeout=10 -O ea_female_writer_4.jpg https://nexttribe.com/wp-content/uploads/2019/09/female-fiction-writer.jpg
 
-wget --tries=2 -O ea_male_housekeeper_0.jpg https://d2rlvc9r05oazr.cloudfront.net/hire-a-male-housekeeper-i-think-not/man-cleaning-580x250.png
-wget --tries=2 -O ea_male_housekeeper_1.jpg https://image.shutterstock.com/image-photo/profile-side-view-portrait-his-260nw-1502640128.jpg
-wget --tries=2 -O ea_male_housekeeper_2.jpg https://previews.123rf.com/images/ljupco/ljupco1407/ljupco140700200/29950299-vertical-shot-of-a-male-housekeeper-posing-isolated-on-white-background.jpg
-wget --tries=2 -O ea_male_housekeeper_3.jpg https://as2.ftcdn.net/jpg/02/01/00/81/500_F_201008180_p3djMukkaW23ibbglbL1sLFrirHN8xnn.jpg
-wget --tries=2 -O ea_male_housekeeper_4.jpg https://c8.alamy.com/comp/EGJ1HH/handsome-man-holding-cleaning-supplies-and-mop-on-white-background-EGJ1HH.jpg
-wget --tries=2 -O ea_female_housekeeper_0.jpg https://c8.alamy.com/comp/TBF83X/portrait-of-beautiful-female-housekeeper-on-white-background-TBF83X.jpg
-wget --tries=2 -O ea_female_housekeeper_1.jpg https://st4.depositphotos.com/10614052/25354/i/1600/depositphotos_253544328-stock-photo-portrait-of-beautiful-female-housekeeper.jpg
-wget --tries=2 -O ea_female_housekeeper_2.jpg https://ae01.alicdn.com/kf/HTB1T3QBiNSYBuNjSsphq6zGvVXah.jpg
-wget --tries=2 -O ea_female_housekeeper_3.jpg https://previews.123rf.com/images/dmvasilenko77/dmvasilenko771803/dmvasilenko77180300195/96892968-young-smiling-housewife-in-striped-apron-yellow-gloves-isolated-on-white-background-housekeeper-woma.jpg
-wget --tries=2 -O ea_female_housekeeper_4.jpg https://previews.123rf.com/images/sandyche/sandyche1707/sandyche170700388/84104367-sexy-blonde-woman-in-housekeeper-suit-ironing-white-shirt-with-old-iron-retro-style-on-a-dark-backgr.jpg
+wget --tries=2 --timeout=10 -O ea_male_housekeeper_0.jpg https://d2rlvc9r05oazr.cloudfront.net/hire-a-male-housekeeper-i-think-not/man-cleaning-580x250.png
+wget --tries=2 --timeout=10 -O ea_male_housekeeper_1.jpg https://image.shutterstock.com/image-photo/profile-side-view-portrait-his-260nw-1502640128.jpg
+wget --tries=2 --timeout=10 -O ea_male_housekeeper_2.jpg https://previews.123rf.com/images/ljupco/ljupco1407/ljupco140700200/29950299-vertical-shot-of-a-male-housekeeper-posing-isolated-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_housekeeper_3.jpg https://as2.ftcdn.net/jpg/02/01/00/81/500_F_201008180_p3djMukkaW23ibbglbL1sLFrirHN8xnn.jpg
+wget --tries=2 --timeout=10 -O ea_male_housekeeper_4.jpg https://c8.alamy.com/comp/EGJ1HH/handsome-man-holding-cleaning-supplies-and-mop-on-white-background-EGJ1HH.jpg
+wget --tries=2 --timeout=10 -O ea_female_housekeeper_0.jpg https://c8.alamy.com/comp/TBF83X/portrait-of-beautiful-female-housekeeper-on-white-background-TBF83X.jpg
+wget --tries=2 --timeout=10 -O ea_female_housekeeper_1.jpg https://st4.depositphotos.com/10614052/25354/i/1600/depositphotos_253544328-stock-photo-portrait-of-beautiful-female-housekeeper.jpg
+wget --tries=2 --timeout=10 -O ea_female_housekeeper_2.jpg https://ae01.alicdn.com/kf/HTB1T3QBiNSYBuNjSsphq6zGvVXah.jpg
+wget --tries=2 --timeout=10 -O ea_female_housekeeper_3.jpg https://previews.123rf.com/images/dmvasilenko77/dmvasilenko771803/dmvasilenko77180300195/96892968-young-smiling-housewife-in-striped-apron-yellow-gloves-isolated-on-white-background-housekeeper-woma.jpg
+wget --tries=2 --timeout=10 -O ea_female_housekeeper_4.jpg https://previews.123rf.com/images/sandyche/sandyche1707/sandyche170700388/84104367-sexy-blonde-woman-in-housekeeper-suit-ironing-white-shirt-with-old-iron-retro-style-on-a-dark-backgr.jpg
 
-wget --tries=2 -O ea_male_baker_0.jpg https://image.shutterstock.com/image-photo/young-handsome-male-baker-white-260nw-1211654158.jpg
-wget --tries=2 -O ea_male_baker_1.jpg https://previews.123rf.com/images/vadymvdrobot/vadymvdrobot1510/vadymvdrobot151000156/45897425-portrait-of-a-male-baker-standing-isolated-on-a-white-background.jpg
-wget --tries=2 -O ea_male_baker_2.jpg https://c8.alamy.com/comp/T7JF18/image-of-adult-male-baker-in-white-uniform-standing-at-bakery-and-holding-bread-T7JF18.jpg
-wget --tries=2 -O ea_male_baker_3.jpg https://thumbs.dreamstime.com/z/young-male-baker-isolated-white-146499486.jpg
-wget --tries=2 -O ea_male_baker_4.jpg https://as2.ftcdn.net/jpg/00/10/54/97/500_F_10549732_jZ58MF4xqOSzejAa0mniw2GnsJC2Ts43.jpg
-wget --tries=2 -O ea_female_baker_0.jpg https://c8.alamy.com/comp/TBBFYX/female-baker-with-bread-on-white-background-TBBFYX.jpg
-wget --tries=2 -O ea_female_baker_1.jpg https://c8.alamy.com/comp/RT1Y8T/young-female-baker-isolated-on-white-RT1Y8T.jpg
-wget --tries=2 -O ea_female_baker_2.jpg https://previews.123rf.com/images/haritonoff/haritonoff1904/haritonoff190400090/121112798-female-baker-with-baguette-isolated-on-white-background.jpg
-wget --tries=2 -O ea_female_baker_3.jpg https://thumbs.dreamstime.com/z/cute-girl-background-bakery-attractive-young-white-tunic-holds-loaf-bread-80548318.jpg
-wget --tries=2 -O ea_female_baker_4.jpg https://image.shutterstock.com/image-photo/white-uniform-high-hat-industry-260nw-1050039014.jpg
+wget --tries=2 --timeout=10 -O ea_male_baker_0.jpg https://image.shutterstock.com/image-photo/young-handsome-male-baker-white-260nw-1211654158.jpg
+wget --tries=2 --timeout=10 -O ea_male_baker_1.jpg https://previews.123rf.com/images/vadymvdrobot/vadymvdrobot1510/vadymvdrobot151000156/45897425-portrait-of-a-male-baker-standing-isolated-on-a-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_male_baker_2.jpg https://c8.alamy.com/comp/T7JF18/image-of-adult-male-baker-in-white-uniform-standing-at-bakery-and-holding-bread-T7JF18.jpg
+wget --tries=2 --timeout=10 -O ea_male_baker_3.jpg https://thumbs.dreamstime.com/z/young-male-baker-isolated-white-146499486.jpg
+wget --tries=2 --timeout=10 -O ea_male_baker_4.jpg https://as2.ftcdn.net/jpg/00/10/54/97/500_F_10549732_jZ58MF4xqOSzejAa0mniw2GnsJC2Ts43.jpg
+wget --tries=2 --timeout=10 -O ea_female_baker_0.jpg https://c8.alamy.com/comp/TBBFYX/female-baker-with-bread-on-white-background-TBBFYX.jpg
+wget --tries=2 --timeout=10 -O ea_female_baker_1.jpg https://c8.alamy.com/comp/RT1Y8T/young-female-baker-isolated-on-white-RT1Y8T.jpg
+wget --tries=2 --timeout=10 -O ea_female_baker_2.jpg https://previews.123rf.com/images/haritonoff/haritonoff1904/haritonoff190400090/121112798-female-baker-with-baguette-isolated-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_female_baker_3.jpg https://thumbs.dreamstime.com/z/cute-girl-background-bakery-attractive-young-white-tunic-holds-loaf-bread-80548318.jpg
+wget --tries=2 --timeout=10 -O ea_female_baker_4.jpg https://image.shutterstock.com/image-photo/white-uniform-high-hat-industry-260nw-1050039014.jpg
 
-wget --tries=2 -O ea_male_accountant_0.jpg http://www.theaccountant-online.com/Uploads/NewsArticle/5898686/images/489635/large/Daniel%20White.jpg
-wget --tries=2 -O ea_male_accountant_1.jpg https://c8.alamy.com/comp/TC0DJ6/portrait-of-male-accountant-on-white-background-TC0DJ6.jpg
-wget --tries=2 -O ea_male_accountant_2.jpg https://comps.canstockphoto.com/young-experienced-accountant-man-with-a-stock-image_csp49630367.jpg
-wget --tries=2 -O ea_male_accountant_3.jpg https://c8.alamy.com/comp/KD9A88/portrait-of-mature-male-accountant-working-at-office-KD9A88.jpg
-wget --tries=2 -O ea_male_accountant_4.jpg https://www.superpages.com/em/wp-content/uploads/2014/07/what-is-compliance-in-accounting.jpg
-wget --tries=2 -O ea_female_accountant_0.jpg https://c8.alamy.com/comp/MAGR7N/modern-business-woman-or-confident-female-accountant-in-office-student-girl-during-exam-preparing-audit-tax-service-or-education-concept-MAGR7N.jpg
-wget --tries=2 -O ea_female_accountant_1.jpg https://15xomi2v386wytrb8nbsoq34-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/careers-660x340.jpg
-wget --tries=2 -O ea_female_accountant_2.jpg https://st4.depositphotos.com/3244159/21155/i/1600/depositphotos_211550834-stock-photo-smiling-woman-female-accountant-or.jpg
-wget --tries=2 -O ea_female_accountant_3.jpg https://st4.depositphotos.com/10614052/27037/i/1600/depositphotos_270374210-stock-photo-portrait-of-female-accountant-on.jpg
-wget --tries=2 -O ea_female_accountant_4.jpg https://thumbs.dreamstime.com/z/woman-accountant-show-calculator-young-business-woman-white-background-isolated-woman-accountant-show-calculator-young-business-109365479.jpg
+wget --tries=2 --timeout=10 -O ea_male_accountant_0.jpg http://www.theaccountant-online.com/Uploads/NewsArticle/5898686/images/489635/large/Daniel%20White.jpg
+wget --tries=2 --timeout=10 -O ea_male_accountant_1.jpg https://c8.alamy.com/comp/TC0DJ6/portrait-of-male-accountant-on-white-background-TC0DJ6.jpg
+wget --tries=2 --timeout=10 -O ea_male_accountant_2.jpg https://comps.canstockphoto.com/young-experienced-accountant-man-with-a-stock-image_csp49630367.jpg
+wget --tries=2 --timeout=10 -O ea_male_accountant_3.jpg https://c8.alamy.com/comp/KD9A88/portrait-of-mature-male-accountant-working-at-office-KD9A88.jpg
+wget --tries=2 --timeout=10 -O ea_male_accountant_4.jpg https://www.superpages.com/em/wp-content/uploads/2014/07/what-is-compliance-in-accounting.jpg
+wget --tries=2 --timeout=10 -O ea_female_accountant_0.jpg https://c8.alamy.com/comp/MAGR7N/modern-business-woman-or-confident-female-accountant-in-office-student-girl-during-exam-preparing-audit-tax-service-or-education-concept-MAGR7N.jpg
+wget --tries=2 --timeout=10 -O ea_female_accountant_1.jpg https://15xomi2v386wytrb8nbsoq34-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/careers-660x340.jpg
+wget --tries=2 --timeout=10 -O ea_female_accountant_2.jpg https://st4.depositphotos.com/3244159/21155/i/1600/depositphotos_211550834-stock-photo-smiling-woman-female-accountant-or.jpg
+wget --tries=2 --timeout=10 -O ea_female_accountant_3.jpg https://st4.depositphotos.com/10614052/27037/i/1600/depositphotos_270374210-stock-photo-portrait-of-female-accountant-on.jpg
+wget --tries=2 --timeout=10 -O ea_female_accountant_4.jpg https://thumbs.dreamstime.com/z/woman-accountant-show-calculator-young-business-woman-white-background-isolated-woman-accountant-show-calculator-young-business-109365479.jpg
 
-wget --tries=2 -O ea_male_editor_0.jpg https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/02/12/samwhite-560.JPEG
-wget --tries=2 -O ea_male_editor_1.jpg https://www.thewrap.com/wp-content/uploads/2019/11/GettyImages-883248222.jpg
-wget --tries=2 -O ea_male_editor_2.jpg https://images.wsj.net/im-80779?width=620&size=1.5
-wget --tries=2 -O ea_male_editor_3.jpg https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2017/05/white-author-editor-told-me-my-fictional-book-shouldnt-have-black-protagonist-because-1.jpg?fit=788%2C460&ssl=1
-wget --tries=2 -O ea_male_editor_4.jpg http://www.clarecountyreview.com/wp-content/uploads/2016/03/3-26-16-Wilcox-Mike.jpg
-wget --tries=2 -O ea_female_editor_0.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1492802896/articles/2012/09/27/former-cosmo-editor-kate-white-offers-career-fashion-tips-for-young-women/kate-white-book-gross-tease_zpuyia
-wget --tries=2 -O ea_female_editor_1.jpg https://imgix.bustle.com/mic/25255dd8d59581e3defc5eb3487ed4afeecc70f6639568e74ba6a2f27e3f1f08.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format&q=70
-wget --tries=2 -O ea_female_editor_2.jpg https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/OMC/terriwhite-20150901115724510.jpg
-wget --tries=2 -O ea_female_editor_3.jpg https://www.pressgazette.co.uk/wp-content/uploads/2016/04/TerryWhite02599_landscape-e1564673962619.jpg
-wget --tries=2 -O ea_female_editor_4.jpg https://assets.entrepreneur.com/content/3x2/2000/former-cosmo-editor-kate-white-badass-leader.jpg
+wget --tries=2 --timeout=10 -O ea_male_editor_0.jpg https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2018/02/12/samwhite-560.JPEG
+wget --tries=2 --timeout=10 -O ea_male_editor_1.jpg https://www.thewrap.com/wp-content/uploads/2019/11/GettyImages-883248222.jpg
+wget --tries=2 --timeout=10 -O ea_male_editor_2.jpg https://images.wsj.net/im-80779?width=620&size=1.5
+wget --tries=2 --timeout=10 -O ea_male_editor_3.jpg https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2017/05/white-author-editor-told-me-my-fictional-book-shouldnt-have-black-protagonist-because-1.jpg?fit=788%2C460&ssl=1
+wget --tries=2 --timeout=10 -O ea_male_editor_4.jpg http://www.clarecountyreview.com/wp-content/uploads/2016/03/3-26-16-Wilcox-Mike.jpg
+wget --tries=2 --timeout=10 -O ea_female_editor_0.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1492802896/articles/2012/09/27/former-cosmo-editor-kate-white-offers-career-fashion-tips-for-young-women/kate-white-book-gross-tease_zpuyia
+wget --tries=2 --timeout=10 -O ea_female_editor_1.jpg https://imgix.bustle.com/mic/25255dd8d59581e3defc5eb3487ed4afeecc70f6639568e74ba6a2f27e3f1f08.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 --timeout=10 -O ea_female_editor_2.jpg https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/OMC/terriwhite-20150901115724510.jpg
+wget --tries=2 --timeout=10 -O ea_female_editor_3.jpg https://www.pressgazette.co.uk/wp-content/uploads/2016/04/TerryWhite02599_landscape-e1564673962619.jpg
+wget --tries=2 --timeout=10 -O ea_female_editor_4.jpg https://assets.entrepreneur.com/content/3x2/2000/former-cosmo-editor-kate-white-badass-leader.jpg
 
-wget --tries=2 -O ea_male_librarian_0.jpg https://cdn.business2community.com/wp-content/uploads/2016/03/Librarian.jpg.jpg
-wget --tries=2 -O ea_male_librarian_1.jpg https://image.shutterstock.com/image-photo/picture-young-male-librarian-clean-260nw-790158967.jpg
-wget --tries=2 -O ea_male_librarian_2.jpg https://i0.wp.com/bhamnow.com/wp-content/uploads/2018/12/TobinCataldoVividx.jpg?fit=1200%2C675&ssl=1
-wget --tries=2 -O ea_male_librarian_3.jpg https://www.folger.edu/sites/default/files/page-featured-images/GregPrickman-crJenniferMasada-1124.jpg
-wget --tries=2 -O ea_male_librarian_4.jpg https://image.shutterstock.com/image-photo/man-library-guy-black-suit-260nw-1393631234.jpg
-wget --tries=2 -O ea_female_librarian_0.jpg https://s3.amazonaws.com/campusreform/9439/Librarian.jpg
-wget --tries=2 -O ea_female_librarian_1.jpg https://static2.bigstockphoto.com/9/7/1/large1500/179027371.jpg
-wget --tries=2 -O ea_female_librarian_2.jpg https://image.shutterstock.com/image-photo/beautiful-blonde-woman-wearing-elegant-260nw-1039248313.jpg
-wget --tries=2 -O ea_female_librarian_3.jpg https://thumbs.dreamstime.com/z/portrait-young-girl-book-library-portrait-young-girl-white-blouse-book-library-close-up-102103250.jpg
-wget --tries=2 -O ea_female_librarian_4.jpg https://fscomps.fotosearch.com/compc/FSD/FSD100/female-librarian-standing-among-stock-photo__x14068059.jpg
+wget --tries=2 --timeout=10 -O ea_male_librarian_0.jpg https://cdn.business2community.com/wp-content/uploads/2016/03/Librarian.jpg.jpg
+wget --tries=2 --timeout=10 -O ea_male_librarian_1.jpg https://image.shutterstock.com/image-photo/picture-young-male-librarian-clean-260nw-790158967.jpg
+wget --tries=2 --timeout=10 -O ea_male_librarian_2.jpg https://i0.wp.com/bhamnow.com/wp-content/uploads/2018/12/TobinCataldoVividx.jpg?fit=1200%2C675&ssl=1
+wget --tries=2 --timeout=10 -O ea_male_librarian_3.jpg https://www.folger.edu/sites/default/files/page-featured-images/GregPrickman-crJenniferMasada-1124.jpg
+wget --tries=2 --timeout=10 -O ea_male_librarian_4.jpg https://image.shutterstock.com/image-photo/man-library-guy-black-suit-260nw-1393631234.jpg
+wget --tries=2 --timeout=10 -O ea_female_librarian_0.jpg https://s3.amazonaws.com/campusreform/9439/Librarian.jpg
+wget --tries=2 --timeout=10 -O ea_female_librarian_1.jpg https://static2.bigstockphoto.com/9/7/1/large1500/179027371.jpg
+wget --tries=2 --timeout=10 -O ea_female_librarian_2.jpg https://image.shutterstock.com/image-photo/beautiful-blonde-woman-wearing-elegant-260nw-1039248313.jpg
+wget --tries=2 --timeout=10 -O ea_female_librarian_3.jpg https://thumbs.dreamstime.com/z/portrait-young-girl-book-library-portrait-young-girl-white-blouse-book-library-close-up-102103250.jpg
+wget --tries=2 --timeout=10 -O ea_female_librarian_4.jpg https://fscomps.fotosearch.com/compc/FSD/FSD100/female-librarian-standing-among-stock-photo__x14068059.jpg
 
-wget --tries=2 -O ea_male_tailor_0.jpg https://c8.alamy.com/comp/PCK48X/male-tailor-isolated-on-white-background-PCK48X.jpg
-wget --tries=2 -O ea_male_tailor_1.jpg https://thumbs.dreamstime.com/z/portrait-handsome-tailor-standing-over-white-background-29667494.jpg
-wget --tries=2 -O ea_male_tailor_2.jpg https://image.shutterstock.com/image-photo/young-male-tailor-isolated-on-600w-279106787.jpg
-wget --tries=2 -O ea_male_tailor_3.jpg https://c4.wallpaperflare.com/wallpaper/744/961/277/man-seamstress-machine-white-background-wallpaper-preview.jpg
-wget --tries=2 -O ea_male_tailor_4.jpg https://fscomps.fotosearch.com/compc/CSP/CSP992/funny-male-tailor-on-white-stock-image__k14411570.jpg
-wget --tries=2 -O ea_female_tailor_0.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX6148285.jpg
-wget --tries=2 -O ea_female_tailor_1.jpg https://c8.alamy.com/comp/EPKGR8/woman-tailor-working-on-white-background-EPKGR8.jpg
-wget --tries=2 -O ea_female_tailor_2.jpg https://thumbs.dreamstime.com/z/female-tailor-isolated-white-42590818.jpg
-wget --tries=2 -O ea_female_tailor_3.jpg https://c8.alamy.com/comp/RPTND0/portrait-of-confident-young-female-tailor-shop-owner-standing-with-crossed-hands-at-workplace-and-looking-at-camera-over-white-wall-background-RPTND0.jpg
-wget --tries=2 -O ea_female_tailor_4.jpg https://static3.bigstockphoto.com/5/7/1/large1500/175321318.jpg
+wget --tries=2 --timeout=10 -O ea_male_tailor_0.jpg https://c8.alamy.com/comp/PCK48X/male-tailor-isolated-on-white-background-PCK48X.jpg
+wget --tries=2 --timeout=10 -O ea_male_tailor_1.jpg https://thumbs.dreamstime.com/z/portrait-handsome-tailor-standing-over-white-background-29667494.jpg
+wget --tries=2 --timeout=10 -O ea_male_tailor_2.jpg https://image.shutterstock.com/image-photo/young-male-tailor-isolated-on-600w-279106787.jpg
+wget --tries=2 --timeout=10 -O ea_male_tailor_3.jpg https://c4.wallpaperflare.com/wallpaper/744/961/277/man-seamstress-machine-white-background-wallpaper-preview.jpg
+wget --tries=2 --timeout=10 -O ea_male_tailor_4.jpg https://fscomps.fotosearch.com/compc/CSP/CSP992/funny-male-tailor-on-white-stock-image__k14411570.jpg
+wget --tries=2 --timeout=10 -O ea_female_tailor_0.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX6148285.jpg
+wget --tries=2 --timeout=10 -O ea_female_tailor_1.jpg https://c8.alamy.com/comp/EPKGR8/woman-tailor-working-on-white-background-EPKGR8.jpg
+wget --tries=2 --timeout=10 -O ea_female_tailor_2.jpg https://thumbs.dreamstime.com/z/female-tailor-isolated-white-42590818.jpg
+wget --tries=2 --timeout=10 -O ea_female_tailor_3.jpg https://c8.alamy.com/comp/RPTND0/portrait-of-confident-young-female-tailor-shop-owner-standing-with-crossed-hands-at-workplace-and-looking-at-camera-over-white-wall-background-RPTND0.jpg
+wget --tries=2 --timeout=10 -O ea_female_tailor_4.jpg https://static3.bigstockphoto.com/5/7/1/large1500/175321318.jpg
 
-wget --tries=2 -O ea_male_cashier_0.jpg https://i2-prod.mirror.co.uk/incoming/article150330.ece/ALTERNATES/s615/image-3-for-coleen-29-august-2011-gallery-276319909.jpg
-wget --tries=2 -O ea_male_cashier_1.jpg https://marketplace.canva.com/MADaqztLfEM/1/screen_2x/canva-man-at-the-cashier-in-a-supermaket-MADaqztLfEM.jpg
-wget --tries=2 -O ea_male_cashier_2.jpg https://image1.masterfile.com/getImage/NjEwOC0wNjkwNjc0NWVuLjAwMDAwMDAw=ACsHL8/6108-06906745en_Masterfile.jpg
-wget --tries=2 -O ea_male_cashier_3.jpg https://newarena.com/wp-content/uploads/2018/07/15-4.png
-wget --tries=2 -O ea_male_cashier_4.jpg https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20Scott%20Griessel,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1476750463/wdxexnjxq0ld5abvquen.jpg
-wget --tries=2 -O ea_female_cashier_0.jpg https://c8.alamy.com/comp/CW7D03/white-female-cashier-rings-up-products-for-customer-at-a-wal-mart-CW7D03.jpg
-wget --tries=2 -O ea_female_cashier_1.jpg https://image.shutterstock.com/image-photo/asian-worker-cashier-desk-on-260nw-671123812.jpg
-wget --tries=2 -O ea_female_cashier_2.jpg https://cdn8.dissolve.com/p/D1007_10_076/D1007_10_076_1200.jpg
-wget --tries=2 -O ea_female_cashier_3.jpg https://image.freepik.com/free-photo/smiley-business-woman-working-cashier_23-2148366564.jpg
-wget --tries=2 -O ea_female_cashier_4.jpg https://live.staticflickr.com/4822/45825524625_966558f2f8_b.jpg
+wget --tries=2 --timeout=10 -O ea_male_cashier_0.jpg https://i2-prod.mirror.co.uk/incoming/article150330.ece/ALTERNATES/s615/image-3-for-coleen-29-august-2011-gallery-276319909.jpg
+wget --tries=2 --timeout=10 -O ea_male_cashier_1.jpg https://marketplace.canva.com/MADaqztLfEM/1/screen_2x/canva-man-at-the-cashier-in-a-supermaket-MADaqztLfEM.jpg
+wget --tries=2 --timeout=10 -O ea_male_cashier_2.jpg https://image1.masterfile.com/getImage/NjEwOC0wNjkwNjc0NWVuLjAwMDAwMDAw=ACsHL8/6108-06906745en_Masterfile.jpg
+wget --tries=2 --timeout=10 -O ea_male_cashier_3.jpg https://newarena.com/wp-content/uploads/2018/07/15-4.png
+wget --tries=2 --timeout=10 -O ea_male_cashier_4.jpg https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20Scott%20Griessel,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1476750463/wdxexnjxq0ld5abvquen.jpg
+wget --tries=2 --timeout=10 -O ea_female_cashier_0.jpg https://c8.alamy.com/comp/CW7D03/white-female-cashier-rings-up-products-for-customer-at-a-wal-mart-CW7D03.jpg
+wget --tries=2 --timeout=10 -O ea_female_cashier_1.jpg https://image.shutterstock.com/image-photo/asian-worker-cashier-desk-on-260nw-671123812.jpg
+wget --tries=2 --timeout=10 -O ea_female_cashier_2.jpg https://cdn8.dissolve.com/p/D1007_10_076/D1007_10_076_1200.jpg
+wget --tries=2 --timeout=10 -O ea_female_cashier_3.jpg https://image.freepik.com/free-photo/smiley-business-woman-working-cashier_23-2148366564.jpg
+wget --tries=2 --timeout=10 -O ea_female_cashier_4.jpg https://live.staticflickr.com/4822/45825524625_966558f2f8_b.jpg

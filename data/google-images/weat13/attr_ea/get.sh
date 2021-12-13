@@ -1,240 +1,240 @@
-wget --tries=2 -O ea_male_poetry_0.jpg https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/09/Michael-Derrick-Hudson.jpg
-wget --tries=2 -O ea_male_poetry_1.jpg https://1.bp.blogspot.com/-IXDyIzKpClk/V122xmY5A6I/AAAAAAAAU6s/TG1f1sEsOI0tYF1tajR7gbZmW6RopUCJwCLcB/s1600/IMG_0133.JPG
-wget --tries=2 -O ea_male_poetry_2.jpg https://images.squarespace-cdn.com/content/v1/5a4146b818b27d418cc26dbf/1534885100510-5EW6S1SVZBQ99ABH9RXN/ke17ZwdGBToddI8pDm48kMFiMyT1nneRMhnmfuSfpxZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mlM0or4nqX7jrn5yWu0hA1QXedaIFqnAbw_tQShHbKg4-O_KAc44ak5jGzrnn7f3A/Inclusive-Poetry-Teaching.jpg
-wget --tries=2 -O ea_male_poetry_3.jpg https://1.bp.blogspot.com/_ZJcIVc6ErpI/S9n4lJ5h5eI/AAAAAAAABFs/9QvJHIV2oqE/s1600/danny-hoch.jpg
-wget --tries=2 -O ea_male_poetry_4.jpg https://c8.alamy.com/comp/R216MD/reading-poetry-man-handsome-young-searching-nice-poetry-man-busy-face-in-heart-shaped-eyeglasses-reading-book-guy-found-poetry-in-book-isolated-white-background-reading-book-concentrated-R216MD.jpg
-wget --tries=2 -O ea_female_poetry_0.jpg https://i.ytimg.com/vi/KGsDdh1NdIo/maxresdefault.jpg
-wget --tries=2 -O ea_female_poetry_1.jpg https://image.shutterstock.com/z/stock-photo-lovely-white-woman-writing-poetry-in-colorful-notebook-and-thinking-about-rhymes-pensive-fair-745106803.jpg
-wget --tries=2 -O ea_female_poetry_2.jpg https://c8.alamy.com/comp/2A076MW/poetry-book-at-romantic-writer-fashion-woman-model-read-book-pretty-girl-in-white-wedding-dress-and-retro-hairstyle-spring-or-summer-girl-relax-on-2A076MW.jpg
-wget --tries=2 -O ea_female_poetry_3.jpg https://lithub.com/wp-content/uploads/2019/07/ae-stallings.jpg
-wget --tries=2 -O ea_female_poetry_4.jpg https://thumbs.dreamstime.com/z/girl-white-blouse-old-book-teaches-poetry-88573035.jpg
+wget --tries=2 --timeout=10 -O ea_male_poetry_0.jpg https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/09/Michael-Derrick-Hudson.jpg
+wget --tries=2 --timeout=10 -O ea_male_poetry_1.jpg https://1.bp.blogspot.com/-IXDyIzKpClk/V122xmY5A6I/AAAAAAAAU6s/TG1f1sEsOI0tYF1tajR7gbZmW6RopUCJwCLcB/s1600/IMG_0133.JPG
+wget --tries=2 --timeout=10 -O ea_male_poetry_2.jpg https://images.squarespace-cdn.com/content/v1/5a4146b818b27d418cc26dbf/1534885100510-5EW6S1SVZBQ99ABH9RXN/ke17ZwdGBToddI8pDm48kMFiMyT1nneRMhnmfuSfpxZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mlM0or4nqX7jrn5yWu0hA1QXedaIFqnAbw_tQShHbKg4-O_KAc44ak5jGzrnn7f3A/Inclusive-Poetry-Teaching.jpg
+wget --tries=2 --timeout=10 -O ea_male_poetry_3.jpg https://1.bp.blogspot.com/_ZJcIVc6ErpI/S9n4lJ5h5eI/AAAAAAAABFs/9QvJHIV2oqE/s1600/danny-hoch.jpg
+wget --tries=2 --timeout=10 -O ea_male_poetry_4.jpg https://c8.alamy.com/comp/R216MD/reading-poetry-man-handsome-young-searching-nice-poetry-man-busy-face-in-heart-shaped-eyeglasses-reading-book-guy-found-poetry-in-book-isolated-white-background-reading-book-concentrated-R216MD.jpg
+wget --tries=2 --timeout=10 -O ea_female_poetry_0.jpg https://i.ytimg.com/vi/KGsDdh1NdIo/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O ea_female_poetry_1.jpg https://image.shutterstock.com/z/stock-photo-lovely-white-woman-writing-poetry-in-colorful-notebook-and-thinking-about-rhymes-pensive-fair-745106803.jpg
+wget --tries=2 --timeout=10 -O ea_female_poetry_2.jpg https://c8.alamy.com/comp/2A076MW/poetry-book-at-romantic-writer-fashion-woman-model-read-book-pretty-girl-in-white-wedding-dress-and-retro-hairstyle-spring-or-summer-girl-relax-on-2A076MW.jpg
+wget --tries=2 --timeout=10 -O ea_female_poetry_3.jpg https://lithub.com/wp-content/uploads/2019/07/ae-stallings.jpg
+wget --tries=2 --timeout=10 -O ea_female_poetry_4.jpg https://thumbs.dreamstime.com/z/girl-white-blouse-old-book-teaches-poetry-88573035.jpg
 		     
-wget --tries=2 -O ea_male_art_0.jpg https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/uiGcO2xYIweNql81EoKFfHh-wqY=/1660x934/smart/filters:no_upscale\(\)/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/KGX35K3MFJEIDJSLOPG2KNEZS4.jpg
-wget --tries=2 -O ea_male_art_1.jpg https://urbanmilwaukee.com/wp-content/uploads/2019/07/FRPhoto_190615LD_C1_13_press.jpg
-wget --tries=2 -O ea_male_art_2.jpg https://ichef.bbci.co.uk/images/ic/1200x675/p07jwhsg.jpg
-wget --tries=2 -O ea_male_art_3.jpg https://xlr8r.com/wp-content/uploads/2019/06/jonny-white-1.jpg
-wget --tries=2 -O ea_male_art_4.jpg https://www.indianapolismonthly.com/wp-content/uploads/2019/06/06.19_wakefield.portrait.jpg
-wget --tries=2 -O ea_female_art_0.jpg https://media.npr.org/assets/img/2015/06/12/ap657216627545-66858f89e54d260ae0782cbbeddadd009d998ab6-s800-c85.jpg
-wget --tries=2 -O ea_female_art_1.jpg https://www.ellsworthamerican.com/wp-content/uploads/sites/4/2017/09/Poor-White-Trash-JD-9.jpg
-wget --tries=2 -O ea_female_art_2.jpg https://c8.alamy.com/comp/PCP8K2/portrait-of-young-beautiful-middle-age-white-caucasian-woman-artist-drawing-painting-in-art-studio-with-acrylic-paints-on-canvas-lifestyle-activity-PCP8K2.jpg
-wget --tries=2 -O ea_female_art_3.jpg https://c8.alamy.com/comp/PCPA2X/portrait-of-young-beautiful-middle-age-white-caucasian-woman-artist-painting-in-art-studio-with-acrylic-paints-on-canvas-pensive-female-painter-artis-PCPA2X.jpg
-wget --tries=2 -O ea_female_art_4.jpg https://image.freepik.com/free-photo/woman-artist-painting-abstract-circle-white-paper_23-2148188281.jpg
+wget --tries=2 --timeout=10 -O ea_male_art_0.jpg https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/uiGcO2xYIweNql81EoKFfHh-wqY=/1660x934/smart/filters:no_upscale\(\)/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/KGX35K3MFJEIDJSLOPG2KNEZS4.jpg
+wget --tries=2 --timeout=10 -O ea_male_art_1.jpg https://urbanmilwaukee.com/wp-content/uploads/2019/07/FRPhoto_190615LD_C1_13_press.jpg
+wget --tries=2 --timeout=10 -O ea_male_art_2.jpg https://ichef.bbci.co.uk/images/ic/1200x675/p07jwhsg.jpg
+wget --tries=2 --timeout=10 -O ea_male_art_3.jpg https://xlr8r.com/wp-content/uploads/2019/06/jonny-white-1.jpg
+wget --tries=2 --timeout=10 -O ea_male_art_4.jpg https://www.indianapolismonthly.com/wp-content/uploads/2019/06/06.19_wakefield.portrait.jpg
+wget --tries=2 --timeout=10 -O ea_female_art_0.jpg https://media.npr.org/assets/img/2015/06/12/ap657216627545-66858f89e54d260ae0782cbbeddadd009d998ab6-s800-c85.jpg
+wget --tries=2 --timeout=10 -O ea_female_art_1.jpg https://www.ellsworthamerican.com/wp-content/uploads/sites/4/2017/09/Poor-White-Trash-JD-9.jpg
+wget --tries=2 --timeout=10 -O ea_female_art_2.jpg https://c8.alamy.com/comp/PCP8K2/portrait-of-young-beautiful-middle-age-white-caucasian-woman-artist-drawing-painting-in-art-studio-with-acrylic-paints-on-canvas-lifestyle-activity-PCP8K2.jpg
+wget --tries=2 --timeout=10 -O ea_female_art_3.jpg https://c8.alamy.com/comp/PCPA2X/portrait-of-young-beautiful-middle-age-white-caucasian-woman-artist-painting-in-art-studio-with-acrylic-paints-on-canvas-pensive-female-painter-artis-PCPA2X.jpg
+wget --tries=2 --timeout=10 -O ea_female_art_4.jpg https://image.freepik.com/free-photo/woman-artist-painting-abstract-circle-white-paper_23-2148188281.jpg
 		     
-wget --tries=2 -O ea_male_shakespeare_0.jpg https://dctheatrescene.com/wp-content/uploads/2018/09/Simon-Godwin.jpg
-wget --tries=2 -O ea_male_shakespeare_1.jpg https://i.dailymail.co.uk/i/pix/2015/07/16/01/2A8E319C00000578-0-image-m-46_1437007182333.jpg
-wget --tries=2 -O ea_male_shakespeare_2.jpg https://cdn.summit.news/2020/01/290119stewart.jpg
-wget --tries=2 -O ea_male_shakespeare_3.jpg https://media.shakespeare.org.uk/images/kenneth_brangah_white_backgro.2e16d0ba.fill-1200x600-c75.jpg
-wget --tries=2 -O ea_male_shakespeare_4.jpg https://wildcatdispatches.org/wp-content/uploads/2016/12/Simon_Jenkins_at_Policy_Fight_Club.jpg
-wget --tries=2 -O ea_female_shakespeare_0.jpg https://thefilmstage.com/wp-content/uploads/2012/02/47111-lily-collins-2010-01-21-legion-world-premier.jpg
-wget --tries=2 -O ea_female_shakespeare_1.jpg https://www.pe.com/wp-content/uploads/migration/o6o/o6ogau-b88694463z.120160504170410000gjvg921n.10.jpg?w=620
-wget --tries=2 -O ea_female_shakespeare_2.jpg https://images-na.ssl-images-amazon.com/images/G/01/digital/video/hero/Movies/1992/B000I9X50A_SingleWhiteFemale_UXSY1._V391273609_SX1080_.jpg
-wget --tries=2 -O ea_female_shakespeare_3.jpg https://theatrenerds.com/wp-content/uploads/2017/03/e18cc92ca726af8e70fac03ce9fab17a-758x503.jpeg
-wget --tries=2 -O ea_female_shakespeare_4.jpg https://www.telegraph.co.uk/content/dam/films/2019/12/12/TELEMMGLPICT000217627347_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7GgL7o0_ESnuLxJzSWOePQE.jpeg?imwidth=450
+wget --tries=2 --timeout=10 -O ea_male_shakespeare_0.jpg https://dctheatrescene.com/wp-content/uploads/2018/09/Simon-Godwin.jpg
+wget --tries=2 --timeout=10 -O ea_male_shakespeare_1.jpg https://i.dailymail.co.uk/i/pix/2015/07/16/01/2A8E319C00000578-0-image-m-46_1437007182333.jpg
+wget --tries=2 --timeout=10 -O ea_male_shakespeare_2.jpg https://cdn.summit.news/2020/01/290119stewart.jpg
+wget --tries=2 --timeout=10 -O ea_male_shakespeare_3.jpg https://media.shakespeare.org.uk/images/kenneth_brangah_white_backgro.2e16d0ba.fill-1200x600-c75.jpg
+wget --tries=2 --timeout=10 -O ea_male_shakespeare_4.jpg https://wildcatdispatches.org/wp-content/uploads/2016/12/Simon_Jenkins_at_Policy_Fight_Club.jpg
+wget --tries=2 --timeout=10 -O ea_female_shakespeare_0.jpg https://thefilmstage.com/wp-content/uploads/2012/02/47111-lily-collins-2010-01-21-legion-world-premier.jpg
+wget --tries=2 --timeout=10 -O ea_female_shakespeare_1.jpg https://www.pe.com/wp-content/uploads/migration/o6o/o6ogau-b88694463z.120160504170410000gjvg921n.10.jpg?w=620
+wget --tries=2 --timeout=10 -O ea_female_shakespeare_2.jpg https://images-na.ssl-images-amazon.com/images/G/01/digital/video/hero/Movies/1992/B000I9X50A_SingleWhiteFemale_UXSY1._V391273609_SX1080_.jpg
+wget --tries=2 --timeout=10 -O ea_female_shakespeare_3.jpg https://theatrenerds.com/wp-content/uploads/2017/03/e18cc92ca726af8e70fac03ce9fab17a-758x503.jpeg
+wget --tries=2 --timeout=10 -O ea_female_shakespeare_4.jpg https://www.telegraph.co.uk/content/dam/films/2019/12/12/TELEMMGLPICT000217627347_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7GgL7o0_ESnuLxJzSWOePQE.jpeg?imwidth=450
 		     
-wget --tries=2 -O ea_male_dance_0.jpg https://live.staticflickr.com/3105/2296243235_c87f9c2337_b.jpg
-wget --tries=2 -O ea_male_dance_1.jpg https://www.pointsincase.com/chad/uploaded_images/DancingGuy-791238.jpg
-wget --tries=2 -O ea_male_dance_2.jpg https://static.flickr.com/58/221138256_717825d9da.jpg
-wget --tries=2 -O ea_male_dance_3.jpg https://previews.123rf.com/images/darkbird/darkbird1701/darkbird170100041/69166861-young-man-dancing-irish-dance-isolated-on-white.jpg
-wget --tries=2 -O ea_male_dance_4.jpg https://thumbs.dreamstime.com/z/man-dances-sport-concept-ballet-white-man-unbuttoned-white-shirt-black-shorts-dancing-gray-background-bare-legs-113435147.jpg
-wget --tries=2 -O ea_female_dance_0.jpg https://i.ytimg.com/vi/c1GZPjASWSo/hqdefault.jpg
-wget --tries=2 -O ea_female_dance_1.jpg https://i.ytimg.com/vi/ZkNMZlkrzaU/maxresdefault.jpg
-wget --tries=2 -O ea_female_dance_2.jpg https://i.pinimg.com/originals/1a/cc/0d/1acc0d59506fb292913b149a66fe8a13.jpg
-wget --tries=2 -O ea_female_dance_3.jpg https://st4.depositphotos.com/1164100/20553/v/600/depositphotos_205533322-stock-video-portrait-young-beautiful-white-woman.jpg
-wget --tries=2 -O ea_female_dance_4.jpg https://image.shutterstock.com/image-photo/gorgeous-redhaired-white-woman-dancing-600w-1363162004.jpg
+wget --tries=2 --timeout=10 -O ea_male_dance_0.jpg https://live.staticflickr.com/3105/2296243235_c87f9c2337_b.jpg
+wget --tries=2 --timeout=10 -O ea_male_dance_1.jpg https://www.pointsincase.com/chad/uploaded_images/DancingGuy-791238.jpg
+wget --tries=2 --timeout=10 -O ea_male_dance_2.jpg https://static.flickr.com/58/221138256_717825d9da.jpg
+wget --tries=2 --timeout=10 -O ea_male_dance_3.jpg https://previews.123rf.com/images/darkbird/darkbird1701/darkbird170100041/69166861-young-man-dancing-irish-dance-isolated-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_male_dance_4.jpg https://thumbs.dreamstime.com/z/man-dances-sport-concept-ballet-white-man-unbuttoned-white-shirt-black-shorts-dancing-gray-background-bare-legs-113435147.jpg
+wget --tries=2 --timeout=10 -O ea_female_dance_0.jpg https://i.ytimg.com/vi/c1GZPjASWSo/hqdefault.jpg
+wget --tries=2 --timeout=10 -O ea_female_dance_1.jpg https://i.ytimg.com/vi/ZkNMZlkrzaU/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O ea_female_dance_2.jpg https://i.pinimg.com/originals/1a/cc/0d/1acc0d59506fb292913b149a66fe8a13.jpg
+wget --tries=2 --timeout=10 -O ea_female_dance_3.jpg https://st4.depositphotos.com/1164100/20553/v/600/depositphotos_205533322-stock-video-portrait-young-beautiful-white-woman.jpg
+wget --tries=2 --timeout=10 -O ea_female_dance_4.jpg https://image.shutterstock.com/image-photo/gorgeous-redhaired-white-woman-dancing-600w-1363162004.jpg
 		     
-wget --tries=2 -O ea_male_dances_0.jpg https://i.ytimg.com/vi/wLODhrFT3nY/maxresdefault.jpg
-wget --tries=2 -O ea_male_dances_1.jpg https://thumbs.dreamstime.com/z/man-dances-sport-concept-ballet-white-man-unbuttoned-white-shirt-black-shorts-dancing-gray-background-bare-legs-113435147.jpg
-wget --tries=2 -O ea_male_dances_2.jpg https://media1.popsugar-assets.com/files/thumbor/jvknPRhIGRtvudoVwkvDZ601zTU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/03/06/963/n/1922398/595b74505c80449f21c603.76801172_/i/Viral-Video-Man-Dancing-Post-Malone-Wow.jpg
-wget --tries=2 -O ea_male_dances_3.jpg https://previews.123rf.com/images/elnur/elnur1303/elnur130301176/18662920-man-dancing-spanish-dances-on-white.jpg
-wget --tries=2 -O ea_male_dances_4.jpg https://thumbs.dreamstime.com/z/man-dances-sport-concept-ballet-white-unbuttoned-black-shirt-shorts-dancing-gray-background-bare-legs-torso-studio-113434538.jpg
-wget --tries=2 -O ea_female_dances_0.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3123023.jpg
-wget --tries=2 -O ea_female_dances_1.jpg https://previews.123rf.com/images/denisfilm/denisfilm1702/denisfilm170200748/72310414-dancing-elderly-woman-isolated-old-lady-on-white-background-grace-in-every-move-.jpg
-wget --tries=2 -O ea_female_dances_2.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2413063.jpg
-wget --tries=2 -O ea_female_dances_3.jpg https://c8.alamy.com/comp/BM4B04/white-woman-dances-in-front-of-decorated-sancho-panza-sound-system-BM4B04.jpg
-wget --tries=2 -O ea_female_dances_4.jpg https://i.pinimg.com/originals/ff/e8/60/ffe8603d1b8479176c1ad847d528a07e.jpg
+wget --tries=2 --timeout=10 -O ea_male_dances_0.jpg https://i.ytimg.com/vi/wLODhrFT3nY/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O ea_male_dances_1.jpg https://thumbs.dreamstime.com/z/man-dances-sport-concept-ballet-white-man-unbuttoned-white-shirt-black-shorts-dancing-gray-background-bare-legs-113435147.jpg
+wget --tries=2 --timeout=10 -O ea_male_dances_2.jpg https://media1.popsugar-assets.com/files/thumbor/jvknPRhIGRtvudoVwkvDZ601zTU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/03/06/963/n/1922398/595b74505c80449f21c603.76801172_/i/Viral-Video-Man-Dancing-Post-Malone-Wow.jpg
+wget --tries=2 --timeout=10 -O ea_male_dances_3.jpg https://previews.123rf.com/images/elnur/elnur1303/elnur130301176/18662920-man-dancing-spanish-dances-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_male_dances_4.jpg https://thumbs.dreamstime.com/z/man-dances-sport-concept-ballet-white-unbuttoned-black-shirt-shorts-dancing-gray-background-bare-legs-torso-studio-113434538.jpg
+wget --tries=2 --timeout=10 -O ea_female_dances_0.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3123023.jpg
+wget --tries=2 --timeout=10 -O ea_female_dances_1.jpg https://previews.123rf.com/images/denisfilm/denisfilm1702/denisfilm170200748/72310414-dancing-elderly-woman-isolated-old-lady-on-white-background-grace-in-every-move-.jpg
+wget --tries=2 --timeout=10 -O ea_female_dances_2.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2413063.jpg
+wget --tries=2 --timeout=10 -O ea_female_dances_3.jpg https://c8.alamy.com/comp/BM4B04/white-woman-dances-in-front-of-decorated-sancho-panza-sound-system-BM4B04.jpg
+wget --tries=2 --timeout=10 -O ea_female_dances_4.jpg https://i.pinimg.com/originals/ff/e8/60/ffe8603d1b8479176c1ad847d528a07e.jpg
 		     
-wget --tries=2 -O ea_male_literature_0.jpg https://c8.alamy.com/comp/2ACC6A8/a-young-man-in-a-white-shirt-reading-a-book-business-literature-for-self-development-student-or-young-businessman-2ACC6A8.jpg
-wget --tries=2 -O ea_male_literature_1.jpg https://i.pinimg.com/originals/55/a6/8f/55a68f7019821192a2cc5fd2bb5244f2.jpg
-wget --tries=2 -O ea_male_literature_2.jpg https://thumbs.dreamstime.com/z/macho-sits-open-book-head-like-roof-boring-literature-concept-guy-bored-fed-up-reading-old-boring-book-man-be-130269183.jpg
-wget --tries=2 -O ea_male_literature_3.jpg https://thumbs.dreamstime.com/z/man-beard-mustache-sits-armchair-reading-white-wall-background-connoisseur-literature-concept-macho-spends-leisure-117447245.jpg
-wget --tries=2 -O ea_male_literature_4.jpg https://c8.alamy.com/comp/2ACC6MR/a-young-man-in-a-white-shirt-reading-a-book-business-literature-for-self-development-student-or-young-businessman-2ACC6MR.jpg
-wget --tries=2 -O ea_female_literature_0.jpg https://media.newyorker.com/photos/5ace3de1fa1bfd6f4ba60bf2/master/w_2560%2Cc_limit/Waldman-Asymmetry.jpg
-wget --tries=2 -O ea_female_literature_1.jpg https://i.ytimg.com/vi/gvjuFfIgKgg/maxresdefault.jpg
-wget --tries=2 -O ea_female_literature_2.jpg https://previews.123rf.com/images/dolgachov/dolgachov1708/dolgachov170801659/84111292-leisure-literature-and-people-concept-smiling-young-woman-in-white-dress-reading-book-sitting-on-ben.jpg
-wget --tries=2 -O ea_female_literature_3.jpg https://emmanorthcottblog.files.wordpress.com/2014/09/iamtoowakeforest.jpg
-wget --tries=2 -O ea_female_literature_4.jpg https://previews.123rf.com/images/yevgeniya131988/yevgeniya1319881903/yevgeniya131988190300198/119590174-close-up-portrait-of-amazing-blonde-woman-holding-notebook-book-literature-in-hands-arms-and-pen-pen.jpg
+wget --tries=2 --timeout=10 -O ea_male_literature_0.jpg https://c8.alamy.com/comp/2ACC6A8/a-young-man-in-a-white-shirt-reading-a-book-business-literature-for-self-development-student-or-young-businessman-2ACC6A8.jpg
+wget --tries=2 --timeout=10 -O ea_male_literature_1.jpg https://i.pinimg.com/originals/55/a6/8f/55a68f7019821192a2cc5fd2bb5244f2.jpg
+wget --tries=2 --timeout=10 -O ea_male_literature_2.jpg https://thumbs.dreamstime.com/z/macho-sits-open-book-head-like-roof-boring-literature-concept-guy-bored-fed-up-reading-old-boring-book-man-be-130269183.jpg
+wget --tries=2 --timeout=10 -O ea_male_literature_3.jpg https://thumbs.dreamstime.com/z/man-beard-mustache-sits-armchair-reading-white-wall-background-connoisseur-literature-concept-macho-spends-leisure-117447245.jpg
+wget --tries=2 --timeout=10 -O ea_male_literature_4.jpg https://c8.alamy.com/comp/2ACC6MR/a-young-man-in-a-white-shirt-reading-a-book-business-literature-for-self-development-student-or-young-businessman-2ACC6MR.jpg
+wget --tries=2 --timeout=10 -O ea_female_literature_0.jpg https://media.newyorker.com/photos/5ace3de1fa1bfd6f4ba60bf2/master/w_2560%2Cc_limit/Waldman-Asymmetry.jpg
+wget --tries=2 --timeout=10 -O ea_female_literature_1.jpg https://i.ytimg.com/vi/gvjuFfIgKgg/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O ea_female_literature_2.jpg https://previews.123rf.com/images/dolgachov/dolgachov1708/dolgachov170801659/84111292-leisure-literature-and-people-concept-smiling-young-woman-in-white-dress-reading-book-sitting-on-ben.jpg
+wget --tries=2 --timeout=10 -O ea_female_literature_3.jpg https://emmanorthcottblog.files.wordpress.com/2014/09/iamtoowakeforest.jpg
+wget --tries=2 --timeout=10 -O ea_female_literature_4.jpg https://previews.123rf.com/images/yevgeniya131988/yevgeniya1319881903/yevgeniya131988190300198/119590174-close-up-portrait-of-amazing-blonde-woman-holding-notebook-book-literature-in-hands-arms-and-pen-pen.jpg
 		     
-wget --tries=2 -O ea_male_novel_0.jpg https://gumlet.assettype.com/freepressjournal%2F2020-01%2F60ef09a1-806b-433b-83f4-7b183c53b09a%2FSTEPHEN_KING.jpg?rect=0%2C0%2C760%2C428&w=1200
-wget --tries=2 -O ea_male_novel_1.jpg https://www.irishtimes.com/polopoly_fs/1.1851636.1404395142!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg
-wget --tries=2 -O ea_male_novel_2.jpg https://pmcvariety.files.wordpress.com/2020/01/harvey-1.jpg?w=1000&h=563&crop=1
-wget --tries=2 -O ea_male_novel_3.jpg https://ca-times.brightspotcdn.com/dims4/default/5e3cfc1/2147483647/strip/true/crop/733x412+0+0/resize/840x472!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F43%2F44%2F2c430536e54bbedf19a3f9fa0ffd%2Fsd-1504634387-auugaau520-snap-image
-wget --tries=2 -O ea_male_novel_4.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fhayleycuccinello%2Ffiles%2F2018%2F12%2Fmichael-wolff-1200x800.jpg
-wget --tries=2 -O ea_female_novel_0.jpg https://s3.amazonaws.com/arc-authors/washpost/65d28b63-ae25-47b6-bbe8-f1bf0d3f61aa.png
-wget --tries=2 -O ea_female_novel_1.jpg https://www.karen-white.com/wp-content/uploads/author-photo-home.jpg
-wget --tries=2 -O ea_female_novel_2.jpg https://static01.nyt.com/images/2019/09/09/obituaries/05FRANK1/merlin_160185432_b8138b43-fef5-4874-9f33-8806801659ee-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O ea_female_novel_3.jpg https://media.vanityfair.com/photos/5c5afce6f7b7320adf2c14fe/master/pass/dan-mallory-1015365268.png
-wget --tries=2 -O ea_female_novel_4.jpg https://pbs.twimg.com/profile_images/1129427432736378880/xGU_ZU_A_400x400.jpg
+wget --tries=2 --timeout=10 -O ea_male_novel_0.jpg https://gumlet.assettype.com/freepressjournal%2F2020-01%2F60ef09a1-806b-433b-83f4-7b183c53b09a%2FSTEPHEN_KING.jpg?rect=0%2C0%2C760%2C428&w=1200
+wget --tries=2 --timeout=10 -O ea_male_novel_1.jpg https://www.irishtimes.com/polopoly_fs/1.1851636.1404395142!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg
+wget --tries=2 --timeout=10 -O ea_male_novel_2.jpg https://pmcvariety.files.wordpress.com/2020/01/harvey-1.jpg?w=1000&h=563&crop=1
+wget --tries=2 --timeout=10 -O ea_male_novel_3.jpg https://ca-times.brightspotcdn.com/dims4/default/5e3cfc1/2147483647/strip/true/crop/733x412+0+0/resize/840x472!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F43%2F44%2F2c430536e54bbedf19a3f9fa0ffd%2Fsd-1504634387-auugaau520-snap-image
+wget --tries=2 --timeout=10 -O ea_male_novel_4.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fhayleycuccinello%2Ffiles%2F2018%2F12%2Fmichael-wolff-1200x800.jpg
+wget --tries=2 --timeout=10 -O ea_female_novel_0.jpg https://s3.amazonaws.com/arc-authors/washpost/65d28b63-ae25-47b6-bbe8-f1bf0d3f61aa.png
+wget --tries=2 --timeout=10 -O ea_female_novel_1.jpg https://www.karen-white.com/wp-content/uploads/author-photo-home.jpg
+wget --tries=2 --timeout=10 -O ea_female_novel_2.jpg https://static01.nyt.com/images/2019/09/09/obituaries/05FRANK1/merlin_160185432_b8138b43-fef5-4874-9f33-8806801659ee-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O ea_female_novel_3.jpg https://media.vanityfair.com/photos/5c5afce6f7b7320adf2c14fe/master/pass/dan-mallory-1015365268.png
+wget --tries=2 --timeout=10 -O ea_female_novel_4.jpg https://pbs.twimg.com/profile_images/1129427432736378880/xGU_ZU_A_400x400.jpg
 		     
-wget --tries=2 -O ea_male_novels_0.jpg https://c8.alamy.com/comp/FR9NBJ/closeup-portrait-of-white-man-surrounded-by-tons-of-books-alarm-clock-FR9NBJ.jpg
-wget --tries=2 -O ea_male_novels_1.jpg https://miro.medium.com/max/2940/1*l5V2hZOhcuo72nv6j_ma1g.jpeg
-wget --tries=2 -O ea_male_novels_2.jpg https://comps.canstockphoto.com/white-man-with-a-pen-and-books-in-their-stock-photos_csp34468133.jpg
-wget --tries=2 -O ea_male_novels_3.jpg https://www.oshonews.com/wp-content/uploads/2019/09/book-pile-subhuti.jpg
-wget --tries=2 -O ea_male_novels_4.jpg https://www.kent.edu/sites/default/files/Fitzpatrick_Alan_books_350.jpg
-wget --tries=2 -O ea_female_novels_0.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/graphicstock-portrait-of-a-young-smiling-business-woman-holding-books-isolated-on-white-background_H_bDmRzShe_SB_PM.jpg
-wget --tries=2 -O ea_female_novels_1.jpg https://c8.alamy.com/comp/F5CR2Y/portrait-of-a-young-woman-holding-books-and-pointing-finger-up-isolated-F5CR2Y.jpg
-wget --tries=2 -O ea_female_novels_2.jpg https://d3e1m60ptf1oym.cloudfront.net/7836115a-bc00-11e1-9148-412181e589bf/AECstudent_3224ACuttingFinalMRG_xgaplus.jpg
-wget --tries=2 -O ea_female_novels_3.jpg https://thumbs.dreamstime.com/b/young-casual-pleasant-woman-student-denim-clothes-holding-book-reading-sitting-near-globe-backpack-school-books-isolated-139518927.jpg
-wget --tries=2 -O ea_female_novels_4.jpg https://st3.depositphotos.com/1144687/16573/i/1600/depositphotos_165730768-stock-photo-portrait-of-white-woman-holding.jpg
+wget --tries=2 --timeout=10 -O ea_male_novels_0.jpg https://c8.alamy.com/comp/FR9NBJ/closeup-portrait-of-white-man-surrounded-by-tons-of-books-alarm-clock-FR9NBJ.jpg
+wget --tries=2 --timeout=10 -O ea_male_novels_1.jpg https://miro.medium.com/max/2940/1*l5V2hZOhcuo72nv6j_ma1g.jpeg
+wget --tries=2 --timeout=10 -O ea_male_novels_2.jpg https://comps.canstockphoto.com/white-man-with-a-pen-and-books-in-their-stock-photos_csp34468133.jpg
+wget --tries=2 --timeout=10 -O ea_male_novels_3.jpg https://www.oshonews.com/wp-content/uploads/2019/09/book-pile-subhuti.jpg
+wget --tries=2 --timeout=10 -O ea_male_novels_4.jpg https://www.kent.edu/sites/default/files/Fitzpatrick_Alan_books_350.jpg
+wget --tries=2 --timeout=10 -O ea_female_novels_0.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/graphicstock-portrait-of-a-young-smiling-business-woman-holding-books-isolated-on-white-background_H_bDmRzShe_SB_PM.jpg
+wget --tries=2 --timeout=10 -O ea_female_novels_1.jpg https://c8.alamy.com/comp/F5CR2Y/portrait-of-a-young-woman-holding-books-and-pointing-finger-up-isolated-F5CR2Y.jpg
+wget --tries=2 --timeout=10 -O ea_female_novels_2.jpg https://d3e1m60ptf1oym.cloudfront.net/7836115a-bc00-11e1-9148-412181e589bf/AECstudent_3224ACuttingFinalMRG_xgaplus.jpg
+wget --tries=2 --timeout=10 -O ea_female_novels_3.jpg https://thumbs.dreamstime.com/b/young-casual-pleasant-woman-student-denim-clothes-holding-book-reading-sitting-near-globe-backpack-school-books-isolated-139518927.jpg
+wget --tries=2 --timeout=10 -O ea_female_novels_4.jpg https://st3.depositphotos.com/1144687/16573/i/1600/depositphotos_165730768-stock-photo-portrait-of-white-woman-holding.jpg
 		     
-wget --tries=2 -O ea_male_symphony_0.jpg https://dearbornsymphony.org/wp/wp-content/uploads/2019/09/standingTuxLibrary_Jarvi19_sarah-sloboda_steve-jarvi_0064.jpg
-wget --tries=2 -O ea_male_symphony_1.jpg https://www.eugeneweekly.com/wp-content/uploads/2017/04/20170427eugenearttalk-Francesco-Lecce-Chong-1300x844.jpg
-wget --tries=2 -O ea_male_symphony_2.jpg https://www.ellsworthamerican.com/wp-content/uploads/sites/4/2019/04/bangor-symphony-orchestra-conductor-lucas-richman-crt-ethan-levesque-1200x675.jpg
-wget --tries=2 -O ea_male_symphony_3.jpg https://www.dailyherald.com/storyimage/DA/20190913/SUBMITTED/190919449/AR/0/AR-190919449.jpg&updated=201909171147&MaxW=900&maxH=900&noborder&Q=80
-wget --tries=2 -O ea_male_symphony_4.jpg https://www.thevenicesymphony.org/wp-content/uploads/2019/08/troy-quinn-headshot-use-2019.jpg
-wget --tries=2 -O ea_female_symphony_0.jpg https://dnan0fzjxntrj.cloudfront.net/Pictures/480xany/7/1/1/12711_daliastasevska_206472.jpg
-wget --tries=2 -O ea_female_symphony_1.jpg https://previews.123rf.com/images/bbtreesubmission/bbtreesubmission1709/bbtreesubmission170910192/86368119-asian-beautiful-woman-conducting-a-symphony-isolated-on-white.jpg
-wget --tries=2 -O ea_female_symphony_2.jpg https://slippedisc.com/wp-content/uploads/2019/11/anna-maria-helsing.jpg
-wget --tries=2 -O ea_female_symphony_3.jpg https://thedailyrecord.com/files/2019/12/Alsop-Marin-4_credit-Adriane-White-209x300.jpg
-wget --tries=2 -O ea_female_symphony_4.jpg https://www.roswellorchestra.org/uploads/6/2/2/1/62212923/967793_orig.jpg
+wget --tries=2 --timeout=10 -O ea_male_symphony_0.jpg https://dearbornsymphony.org/wp/wp-content/uploads/2019/09/standingTuxLibrary_Jarvi19_sarah-sloboda_steve-jarvi_0064.jpg
+wget --tries=2 --timeout=10 -O ea_male_symphony_1.jpg https://www.eugeneweekly.com/wp-content/uploads/2017/04/20170427eugenearttalk-Francesco-Lecce-Chong-1300x844.jpg
+wget --tries=2 --timeout=10 -O ea_male_symphony_2.jpg https://www.ellsworthamerican.com/wp-content/uploads/sites/4/2019/04/bangor-symphony-orchestra-conductor-lucas-richman-crt-ethan-levesque-1200x675.jpg
+wget --tries=2 --timeout=10 -O ea_male_symphony_3.jpg https://www.dailyherald.com/storyimage/DA/20190913/SUBMITTED/190919449/AR/0/AR-190919449.jpg&updated=201909171147&MaxW=900&maxH=900&noborder&Q=80
+wget --tries=2 --timeout=10 -O ea_male_symphony_4.jpg https://www.thevenicesymphony.org/wp-content/uploads/2019/08/troy-quinn-headshot-use-2019.jpg
+wget --tries=2 --timeout=10 -O ea_female_symphony_0.jpg https://dnan0fzjxntrj.cloudfront.net/Pictures/480xany/7/1/1/12711_daliastasevska_206472.jpg
+wget --tries=2 --timeout=10 -O ea_female_symphony_1.jpg https://previews.123rf.com/images/bbtreesubmission/bbtreesubmission1709/bbtreesubmission170910192/86368119-asian-beautiful-woman-conducting-a-symphony-isolated-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_female_symphony_2.jpg https://slippedisc.com/wp-content/uploads/2019/11/anna-maria-helsing.jpg
+wget --tries=2 --timeout=10 -O ea_female_symphony_3.jpg https://thedailyrecord.com/files/2019/12/Alsop-Marin-4_credit-Adriane-White-209x300.jpg
+wget --tries=2 --timeout=10 -O ea_female_symphony_4.jpg https://www.roswellorchestra.org/uploads/6/2/2/1/62212923/967793_orig.jpg
 		     
-wget --tries=2 -O ea_male_symphonies_0.jpg https://bloximages.newyork1.vip.townnews.com/indianagazette.com/content/tncms/assets/v3/editorial/2/72/27247a3e-0a1a-11ea-b656-db50bb08b63d/5dd2bc1b09011.image.jpg?resize=400%2C400
-wget --tries=2 -O ea_male_symphonies_1.jpg https://images.squarespace-cdn.com/content/v1/55787f0ae4b02f0501debbeb/1566774347510-D67ZPKZ6IF0XTS18OKWA/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzAFzFJoCInLPKyj9AG8yKe7-Q2aFvP177fkO9TY_-rz5WoqqTEZpmj4yDEOdwKV68/public.jpeg
-wget --tries=2 -O ea_male_symphonies_2.jpg https://i1.wp.com/bhamnow.com/wp-content/uploads/2019/11/kevinscore.jpg?resize=750%2C563&ssl=1
-wget --tries=2 -O ea_male_symphonies_3.jpg https://media.spokesman.com/photos/2019/12/31/Jan_Pellant.jpg
-wget --tries=2 -O ea_male_symphonies_4.jpg https://cdn.handelandhaydn.org/app/uploads/2019/09/10192641/Jupiter-Symphony-Web-Featured-Image-500x500.jpg
-wget --tries=2 -O ea_female_symphonies_0.jpg https://www.mcall.com/resizer/HNYq0HpBUWRrUjeOuibaMgLPh7w=/415x233/top/www.trbimg.com/img-5c100f9d/turbine/mc-1544556441-7kra5g9nk6-snap-image
-wget --tries=2 -O ea_female_symphonies_1.jpg https://www.baltimoresun.com/resizer/zUAZFJMchvj3SIBJtNHQ1oZwI0I=/415x276/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OHYFTG42WVAUFBQ33NJKTE6D7Y.JPG
-wget --tries=2 -O ea_female_symphonies_2.jpg https://www.wfmt.com/wp-content/uploads/2020/02/108Alsop4_cAdrianeWhite.jpg
-wget --tries=2 -O ea_female_symphonies_3.jpg https://classicalvoiceamerica.org/wp-content/uploads/2019/06/Mirga-Graz%CC%8Cinyte%CC%87-Tyla-e1561150334406.jpg
-wget --tries=2 -O ea_female_symphonies_4.jpg https://www.lansingsymphony.org/sites/default/files/2018-05/Yolanda%20Harp%202.png
+wget --tries=2 --timeout=10 -O ea_male_symphonies_0.jpg https://bloximages.newyork1.vip.townnews.com/indianagazette.com/content/tncms/assets/v3/editorial/2/72/27247a3e-0a1a-11ea-b656-db50bb08b63d/5dd2bc1b09011.image.jpg?resize=400%2C400
+wget --tries=2 --timeout=10 -O ea_male_symphonies_1.jpg https://images.squarespace-cdn.com/content/v1/55787f0ae4b02f0501debbeb/1566774347510-D67ZPKZ6IF0XTS18OKWA/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzAFzFJoCInLPKyj9AG8yKe7-Q2aFvP177fkO9TY_-rz5WoqqTEZpmj4yDEOdwKV68/public.jpeg
+wget --tries=2 --timeout=10 -O ea_male_symphonies_2.jpg https://i1.wp.com/bhamnow.com/wp-content/uploads/2019/11/kevinscore.jpg?resize=750%2C563&ssl=1
+wget --tries=2 --timeout=10 -O ea_male_symphonies_3.jpg https://media.spokesman.com/photos/2019/12/31/Jan_Pellant.jpg
+wget --tries=2 --timeout=10 -O ea_male_symphonies_4.jpg https://cdn.handelandhaydn.org/app/uploads/2019/09/10192641/Jupiter-Symphony-Web-Featured-Image-500x500.jpg
+wget --tries=2 --timeout=10 -O ea_female_symphonies_0.jpg https://www.mcall.com/resizer/HNYq0HpBUWRrUjeOuibaMgLPh7w=/415x233/top/www.trbimg.com/img-5c100f9d/turbine/mc-1544556441-7kra5g9nk6-snap-image
+wget --tries=2 --timeout=10 -O ea_female_symphonies_1.jpg https://www.baltimoresun.com/resizer/zUAZFJMchvj3SIBJtNHQ1oZwI0I=/415x276/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OHYFTG42WVAUFBQ33NJKTE6D7Y.JPG
+wget --tries=2 --timeout=10 -O ea_female_symphonies_2.jpg https://www.wfmt.com/wp-content/uploads/2020/02/108Alsop4_cAdrianeWhite.jpg
+wget --tries=2 --timeout=10 -O ea_female_symphonies_3.jpg https://classicalvoiceamerica.org/wp-content/uploads/2019/06/Mirga-Graz%CC%8Cinyte%CC%87-Tyla-e1561150334406.jpg
+wget --tries=2 --timeout=10 -O ea_female_symphonies_4.jpg https://www.lansingsymphony.org/sites/default/files/2018-05/Yolanda%20Harp%202.png
 		     
-wget --tries=2 -O ea_male_drama_0.jpg https://www.sltrib.com/resizer/ibTbLCdeQNWVLcfmwm1tk1tcky0=/0x600/smart/filters:quality\(86\)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/DHA2NOUKFZGHFHEESPHWSMF2U4.jpg
-wget --tries=2 -O ea_male_drama_1.jpg https://images.immediate.co.uk/production/volatile/sites/3/2019/12/embargoed_until_00.01_16th_december_34-2-50bee4d.jpg?quality=45&resize=620,413
-wget --tries=2 -O ea_male_drama_2.jpg https://pmcvariety.files.wordpress.com/2017/04/ed-westwick-3.jpg?w=1000
-wget --tries=2 -O ea_male_drama_3.jpg https://pmcdeadline2.files.wordpress.com/2018/07/alexpina.png?w=681&h=383&crop=1
-wget --tries=2 -O ea_male_drama_4.jpg https://britishperioddramas.com/wp-content/uploads/2019/10/18713360-800x445.jpg
-wget --tries=2 -O ea_female_drama_0.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1687,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1600/fl_lossy,q_auto/v1568342950/unnamed_6_grhb59
-wget --tries=2 -O ea_female_drama_1.jpg https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2018/04/2018_17_tv1.jpg?itok=ykGH8gj7
-wget --tries=2 -O ea_female_drama_2.jpg https://images.spot.im/v1/production/yqwhq9yi6s23eenpclxu
-wget --tries=2 -O ea_female_drama_3.jpg https://img.youtube.com/vi/D6H_xz9aFR0/0.jpg
-wget --tries=2 -O ea_female_drama_4.jpg https://cdn.shopify.com/s/files/1/0152/4007/products/1911089636000-2020012214082100-acf7e6fdno-drama-ribbed-bodysuit-in-white_1024x1024.jpg?v=1580396205
+wget --tries=2 --timeout=10 -O ea_male_drama_0.jpg https://www.sltrib.com/resizer/ibTbLCdeQNWVLcfmwm1tk1tcky0=/0x600/smart/filters:quality\(86\)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/DHA2NOUKFZGHFHEESPHWSMF2U4.jpg
+wget --tries=2 --timeout=10 -O ea_male_drama_1.jpg https://images.immediate.co.uk/production/volatile/sites/3/2019/12/embargoed_until_00.01_16th_december_34-2-50bee4d.jpg?quality=45&resize=620,413
+wget --tries=2 --timeout=10 -O ea_male_drama_2.jpg https://pmcvariety.files.wordpress.com/2017/04/ed-westwick-3.jpg?w=1000
+wget --tries=2 --timeout=10 -O ea_male_drama_3.jpg https://pmcdeadline2.files.wordpress.com/2018/07/alexpina.png?w=681&h=383&crop=1
+wget --tries=2 --timeout=10 -O ea_male_drama_4.jpg https://britishperioddramas.com/wp-content/uploads/2019/10/18713360-800x445.jpg
+wget --tries=2 --timeout=10 -O ea_female_drama_0.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1687,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1600/fl_lossy,q_auto/v1568342950/unnamed_6_grhb59
+wget --tries=2 --timeout=10 -O ea_female_drama_1.jpg https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2018/04/2018_17_tv1.jpg?itok=ykGH8gj7
+wget --tries=2 --timeout=10 -O ea_female_drama_2.jpg https://images.spot.im/v1/production/yqwhq9yi6s23eenpclxu
+wget --tries=2 --timeout=10 -O ea_female_drama_3.jpg https://img.youtube.com/vi/D6H_xz9aFR0/0.jpg
+wget --tries=2 --timeout=10 -O ea_female_drama_4.jpg https://cdn.shopify.com/s/files/1/0152/4007/products/1911089636000-2020012214082100-acf7e6fdno-drama-ribbed-bodysuit-in-white_1024x1024.jpg?v=1580396205
 		     
-wget --tries=2 -O ea_male_dramas_0.jpg https://cdn1.thr.com/sites/default/files/imagecache/768x433/2013/10/white_collar.jpg
-wget --tries=2 -O ea_male_dramas_1.jpg https://www.sltrib.com/resizer/ibTbLCdeQNWVLcfmwm1tk1tcky0=/0x600/smart/filters:quality\(86\)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/DHA2NOUKFZGHFHEESPHWSMF2U4.jpg
-wget --tries=2 -O ea_male_dramas_2.jpg https://britishperioddramas.com/wp-content/uploads/2019/12/11111-800x445.jpg
-wget --tries=2 -O ea_male_dramas_3.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/16/19/trump-capitol-hill.jpg?w968h681
-wget --tries=2 -O ea_male_dramas_4.jpg https://pmcdeadline2.files.wordpress.com/2018/07/alexpina.png?w=681&h=383&crop=1
-wget --tries=2 -O ea_female_dramas_0.jpg https://i.pinimg.com/originals/e8/2a/a9/e82aa91211fb683bbe840de332bf1684.jpg
-wget --tries=2 -O ea_female_dramas_1.jpg https://britishperioddramas.com/wp-content/uploads/2017/10/24-2-800x445.jpg
-wget --tries=2 -O ea_female_dramas_2.jpg https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2018/04/2018_17_tv1.jpg?itok=ykGH8gj7
-wget --tries=2 -O ea_female_dramas_3.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/09/13/12/unbelievable.jpg?w968h681
-wget --tries=2 -O ea_female_dramas_4.jpg https://www.thewrap.com/wp-content/uploads/2017/12/The-Crown.jpg
+wget --tries=2 --timeout=10 -O ea_male_dramas_0.jpg https://cdn1.thr.com/sites/default/files/imagecache/768x433/2013/10/white_collar.jpg
+wget --tries=2 --timeout=10 -O ea_male_dramas_1.jpg https://www.sltrib.com/resizer/ibTbLCdeQNWVLcfmwm1tk1tcky0=/0x600/smart/filters:quality\(86\)/arc-anglerfish-arc2-prod-sltrib.s3.amazonaws.com/public/DHA2NOUKFZGHFHEESPHWSMF2U4.jpg
+wget --tries=2 --timeout=10 -O ea_male_dramas_2.jpg https://britishperioddramas.com/wp-content/uploads/2019/12/11111-800x445.jpg
+wget --tries=2 --timeout=10 -O ea_male_dramas_3.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/16/19/trump-capitol-hill.jpg?w968h681
+wget --tries=2 --timeout=10 -O ea_male_dramas_4.jpg https://pmcdeadline2.files.wordpress.com/2018/07/alexpina.png?w=681&h=383&crop=1
+wget --tries=2 --timeout=10 -O ea_female_dramas_0.jpg https://i.pinimg.com/originals/e8/2a/a9/e82aa91211fb683bbe840de332bf1684.jpg
+wget --tries=2 --timeout=10 -O ea_female_dramas_1.jpg https://britishperioddramas.com/wp-content/uploads/2017/10/24-2-800x445.jpg
+wget --tries=2 --timeout=10 -O ea_female_dramas_2.jpg https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2018/04/2018_17_tv1.jpg?itok=ykGH8gj7
+wget --tries=2 --timeout=10 -O ea_female_dramas_3.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/09/13/12/unbelievable.jpg?w968h681
+wget --tries=2 --timeout=10 -O ea_female_dramas_4.jpg https://www.thewrap.com/wp-content/uploads/2017/12/The-Crown.jpg
 
-wget --tries=2 -O ea_male_science_0.jpg https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2015/09/bill-nye-science-and-abortion-2.jpg?fit=788%2C460&ssl=1
-wget --tries=2 -O ea_male_science_1.jpg https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/AP_17255765404720-1280x720.jpg?itok=oXhlWtWn
-wget --tries=2 -O ea_male_science_2.jpg https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/Holden_Thorp_1280x720_01.jpg?itok=QYl2ve-1
-wget --tries=2 -O ea_male_science_3.jpg https://static.scientificamerican.com/sciam/cache/file/5D082752-7429-4810-8820269EC092FF03_source.png?w=590&h=800&A8B66B7C-A6F1-42E8-A383F99A2EEECC19
-wget --tries=2 -O ea_male_science_4.jpg https://www.whitehouse.gov/wp-content/uploads/2019/03/Kelvin-headshot.jpg
-wget --tries=2 -O ea_female_science_0.jpg https://cdn.theatlantic.com/assets/media/img/mt/2018/04/GettyImages_675578007/lead_720_405.jpg?mod=1533691468
-wget --tries=2 -O ea_female_science_1.jpg https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2015/anne-white-nse-mit_0.jpg?itok=Q84vwTgj
-wget --tries=2 -O ea_female_science_2.jpg https://wpr-public.s3.amazonaws.com/wprorg/styles/resp_orig_custom_user_wide_1x/s3/segments/AP_110915146945.jpg?itok=gRNN7cTz
-wget --tries=2 -O ea_female_science_3.jpg https://wvutoday.wvu.edu/files/a310c694-ff2e-48f4-ac6c-568bb44f45fb/1200x800?cb=1554733923
-wget --tries=2 -O ea_female_science_4.jpg https://www.genengnews.com/wp-content/uploads/2018/08/Fotolia_55997671_XS19419946553891315828.jpg
+wget --tries=2 --timeout=10 -O ea_male_science_0.jpg https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2015/09/bill-nye-science-and-abortion-2.jpg?fit=788%2C460&ssl=1
+wget --tries=2 --timeout=10 -O ea_male_science_1.jpg https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/AP_17255765404720-1280x720.jpg?itok=oXhlWtWn
+wget --tries=2 --timeout=10 -O ea_male_science_2.jpg https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/Holden_Thorp_1280x720_01.jpg?itok=QYl2ve-1
+wget --tries=2 --timeout=10 -O ea_male_science_3.jpg https://static.scientificamerican.com/sciam/cache/file/5D082752-7429-4810-8820269EC092FF03_source.png?w=590&h=800&A8B66B7C-A6F1-42E8-A383F99A2EEECC19
+wget --tries=2 --timeout=10 -O ea_male_science_4.jpg https://www.whitehouse.gov/wp-content/uploads/2019/03/Kelvin-headshot.jpg
+wget --tries=2 --timeout=10 -O ea_female_science_0.jpg https://cdn.theatlantic.com/assets/media/img/mt/2018/04/GettyImages_675578007/lead_720_405.jpg?mod=1533691468
+wget --tries=2 --timeout=10 -O ea_female_science_1.jpg https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2015/anne-white-nse-mit_0.jpg?itok=Q84vwTgj
+wget --tries=2 --timeout=10 -O ea_female_science_2.jpg https://wpr-public.s3.amazonaws.com/wprorg/styles/resp_orig_custom_user_wide_1x/s3/segments/AP_110915146945.jpg?itok=gRNN7cTz
+wget --tries=2 --timeout=10 -O ea_female_science_3.jpg https://wvutoday.wvu.edu/files/a310c694-ff2e-48f4-ac6c-568bb44f45fb/1200x800?cb=1554733923
+wget --tries=2 --timeout=10 -O ea_female_science_4.jpg https://www.genengnews.com/wp-content/uploads/2018/08/Fotolia_55997671_XS19419946553891315828.jpg
 		      
-wget --tries=2 -O ea_male_technology_0.jpg https://i.insider.com/5d5ed96a9563f43003381c84?width=1100&format=jpeg&auto=webp
-wget --tries=2 -O ea_male_technology_1.jpg https://img.huffingtonpost.com/asset/5a23f588190000e210034382.jpg?ops=scalefit_630_noupscale
-wget --tries=2 -O ea_male_technology_2.jpg https://www.noventri.com/wp-content/uploads/2015/04/Buisness-white-man-on-computer.jpg
-wget --tries=2 -O ea_male_technology_3.jpg https://assets.entrepreneur.com/content/3x2/2000/20180509184612-GettyImages-707447213.jpeg?width=700&crop=2:1
-wget --tries=2 -O ea_male_technology_4.jpg https://image.cnbcfm.com/api/v1/image/106315276-1577721752389gettyimages-1194817362.jpeg?v=1577721769&w=678&h=381
-wget --tries=2 -O ea_female_technology_0.jpg https://www.thenation.com/wp-content/uploads/2019/08/GOP-white-woman-img.jpg
-wget --tries=2 -O ea_female_technology_1.jpg https://miro.medium.com/max/699/1*xaINaIk-VdHVec4xUVlCvw.jpeg
-wget --tries=2 -O ea_female_technology_2.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F916896134%2F960x0.jpg%3Ffit%3Dscale
-wget --tries=2 -O ea_female_technology_3.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/graphicstock-beautiful-business-woman-with-smartphone-isolated-over-white-background_SA-8m8-3ZW_SB_PM.jpg
-wget --tries=2 -O ea_female_technology_4.jpg https://c8.alamy.com/comp/PN3YTW/old-white-woman-office-worker-on-her-lunch-break-watching-something-on-laptop-PN3YTW.jpg
+wget --tries=2 --timeout=10 -O ea_male_technology_0.jpg https://i.insider.com/5d5ed96a9563f43003381c84?width=1100&format=jpeg&auto=webp
+wget --tries=2 --timeout=10 -O ea_male_technology_1.jpg https://img.huffingtonpost.com/asset/5a23f588190000e210034382.jpg?ops=scalefit_630_noupscale
+wget --tries=2 --timeout=10 -O ea_male_technology_2.jpg https://www.noventri.com/wp-content/uploads/2015/04/Buisness-white-man-on-computer.jpg
+wget --tries=2 --timeout=10 -O ea_male_technology_3.jpg https://assets.entrepreneur.com/content/3x2/2000/20180509184612-GettyImages-707447213.jpeg?width=700&crop=2:1
+wget --tries=2 --timeout=10 -O ea_male_technology_4.jpg https://image.cnbcfm.com/api/v1/image/106315276-1577721752389gettyimages-1194817362.jpeg?v=1577721769&w=678&h=381
+wget --tries=2 --timeout=10 -O ea_female_technology_0.jpg https://www.thenation.com/wp-content/uploads/2019/08/GOP-white-woman-img.jpg
+wget --tries=2 --timeout=10 -O ea_female_technology_1.jpg https://miro.medium.com/max/699/1*xaINaIk-VdHVec4xUVlCvw.jpeg
+wget --tries=2 --timeout=10 -O ea_female_technology_2.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F916896134%2F960x0.jpg%3Ffit%3Dscale
+wget --tries=2 --timeout=10 -O ea_female_technology_3.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/graphicstock-beautiful-business-woman-with-smartphone-isolated-over-white-background_SA-8m8-3ZW_SB_PM.jpg
+wget --tries=2 --timeout=10 -O ea_female_technology_4.jpg https://c8.alamy.com/comp/PN3YTW/old-white-woman-office-worker-on-her-lunch-break-watching-something-on-laptop-PN3YTW.jpg
 		      
-wget --tries=2 -O ea_male_technologies_0.jpg https://previews.123rf.com/images/photosvit/photosvit1707/photosvit170701731/82928521-man-with-serious-face-in-white-hospital-gown-treatment-and-medical-technologies-concept-doctor-with-.jpg
-wget --tries=2 -O ea_male_technologies_1.jpg https://previews.123rf.com/images/gstockstudio/gstockstudio1702/gstockstudio170200366/71575888-using-modern-technologies-good-looking-young-man-in-white-shirt-and-tie-working-on-his-digital-table.jpg
-wget --tries=2 -O ea_male_technologies_2.jpg https://c8.alamy.com/comp/2ACC6NY/use-of-applications-and-modern-technologies-for-work-and-communication-portrait-of-a-positive-and-confident-young-man-in-a-classic-white-shirt-happy-2ACC6NY.jpg
-wget --tries=2 -O ea_male_technologies_3.jpg https://www.marijuanatimes.org/wp-content/uploads/2017/03/rsz-medicine-man-technologies-acquires-three-a-light-author-Josh-Haupt-and-his-growing-empire-640x401.jpg
-wget --tries=2 -O ea_male_technologies_4.jpg https://c8.alamy.com/comp/R0HEK6/technologies-photographing-and-people-concept-portrait-of-funny-young-brunette-man-taking-selfie-with-two-cameras-on-white-background-R0HEK6.jpg
-wget --tries=2 -O ea_female_technologies_0.jpg https://www.thenation.com/wp-content/uploads/2019/08/GOP-white-woman-img.jpg
-wget --tries=2 -O ea_female_technologies_1.jpg https://miro.medium.com/max/699/1*xaINaIk-VdHVec4xUVlCvw.jpeg
-wget --tries=2 -O ea_female_technologies_2.jpg https://secure.i.telegraph.co.uk/multimedia/archive/03608/Future-Series-Reta_3608818b.jpg
-wget --tries=2 -O ea_female_technologies_3.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/graphicstock-beautiful-business-woman-with-smartphone-isolated-over-white-background_SA-8m8-3ZW_SB_PM.jpg
-wget --tries=2 -O ea_female_technologies_4.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjDcJsXjh8dj4k3uHWsyOB4NFjc6tE0rt3pAlI5J5t5XwFvvvb
+wget --tries=2 --timeout=10 -O ea_male_technologies_0.jpg https://previews.123rf.com/images/photosvit/photosvit1707/photosvit170701731/82928521-man-with-serious-face-in-white-hospital-gown-treatment-and-medical-technologies-concept-doctor-with-.jpg
+wget --tries=2 --timeout=10 -O ea_male_technologies_1.jpg https://previews.123rf.com/images/gstockstudio/gstockstudio1702/gstockstudio170200366/71575888-using-modern-technologies-good-looking-young-man-in-white-shirt-and-tie-working-on-his-digital-table.jpg
+wget --tries=2 --timeout=10 -O ea_male_technologies_2.jpg https://c8.alamy.com/comp/2ACC6NY/use-of-applications-and-modern-technologies-for-work-and-communication-portrait-of-a-positive-and-confident-young-man-in-a-classic-white-shirt-happy-2ACC6NY.jpg
+wget --tries=2 --timeout=10 -O ea_male_technologies_3.jpg https://www.marijuanatimes.org/wp-content/uploads/2017/03/rsz-medicine-man-technologies-acquires-three-a-light-author-Josh-Haupt-and-his-growing-empire-640x401.jpg
+wget --tries=2 --timeout=10 -O ea_male_technologies_4.jpg https://c8.alamy.com/comp/R0HEK6/technologies-photographing-and-people-concept-portrait-of-funny-young-brunette-man-taking-selfie-with-two-cameras-on-white-background-R0HEK6.jpg
+wget --tries=2 --timeout=10 -O ea_female_technologies_0.jpg https://www.thenation.com/wp-content/uploads/2019/08/GOP-white-woman-img.jpg
+wget --tries=2 --timeout=10 -O ea_female_technologies_1.jpg https://miro.medium.com/max/699/1*xaINaIk-VdHVec4xUVlCvw.jpeg
+wget --tries=2 --timeout=10 -O ea_female_technologies_2.jpg https://secure.i.telegraph.co.uk/multimedia/archive/03608/Future-Series-Reta_3608818b.jpg
+wget --tries=2 --timeout=10 -O ea_female_technologies_3.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/graphicstock-beautiful-business-woman-with-smartphone-isolated-over-white-background_SA-8m8-3ZW_SB_PM.jpg
+wget --tries=2 --timeout=10 -O ea_female_technologies_4.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjDcJsXjh8dj4k3uHWsyOB4NFjc6tE0rt3pAlI5J5t5XwFvvvb
 		      
-wget --tries=2 -O ea_male_physics_0.jpg https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/9/40/940803ee-f6d5-11e9-abc1-b3e4d643eb50/5db26902eb732.image.jpg?resize=400%2C320
-wget --tries=2 -O ea_male_physics_1.jpg https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/Happer_16x9.jpg?itok=PBc3u3rP
-wget --tries=2 -O ea_male_physics_2.jpg https://static.scientificamerican.com/sciam/cache/file/DECB26FE-96A5-4FDE-B21B2210701AA958_source.jpg?w=590&h=800&DDF13483-9552-4323-A17EF4A254378E53
-wget --tries=2 -O ea_male_physics_3.jpg https://i.pinimg.com/originals/ed/5d/54/ed5d5414106a47c83cb9409f50f5be01.jpg
-wget --tries=2 -O ea_male_physics_4.jpg https://physicsworld.com/wp-content/uploads/2019/02/Myers-Rob-small.jpg
-wget --tries=2 -O ea_female_physics_0.jpg https://wikimediablog.files.wordpress.com/2018/07/17_350-icl-jwade-024.jpg?w=580&h=395
-wget --tries=2 -O ea_female_physics_1.jpg https://upload.wikimedia.org/wikipedia/commons/0/0c/Sally_Ride_%281984%29.jpg
-wget --tries=2 -O ea_female_physics_2.jpg https://images.theconversation.com/files/83180/original/image-20150528-4854-1jpelfp.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip
-wget --tries=2 -O ea_female_physics_3.jpg https://imgix.bustle.com/uploads/image/2018/4/28/5eab562a-1d67-47aa-bef5-b4108fbe0503-fotolia_156280460_subscription_monthly_m.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70
-wget --tries=2 -O ea_female_physics_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/180726205917-02-jess-wade-wikipedia-scientist-super-tease.jpg
+wget --tries=2 --timeout=10 -O ea_male_physics_0.jpg https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/9/40/940803ee-f6d5-11e9-abc1-b3e4d643eb50/5db26902eb732.image.jpg?resize=400%2C320
+wget --tries=2 --timeout=10 -O ea_male_physics_1.jpg https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/Happer_16x9.jpg?itok=PBc3u3rP
+wget --tries=2 --timeout=10 -O ea_male_physics_2.jpg https://static.scientificamerican.com/sciam/cache/file/DECB26FE-96A5-4FDE-B21B2210701AA958_source.jpg?w=590&h=800&DDF13483-9552-4323-A17EF4A254378E53
+wget --tries=2 --timeout=10 -O ea_male_physics_3.jpg https://i.pinimg.com/originals/ed/5d/54/ed5d5414106a47c83cb9409f50f5be01.jpg
+wget --tries=2 --timeout=10 -O ea_male_physics_4.jpg https://physicsworld.com/wp-content/uploads/2019/02/Myers-Rob-small.jpg
+wget --tries=2 --timeout=10 -O ea_female_physics_0.jpg https://wikimediablog.files.wordpress.com/2018/07/17_350-icl-jwade-024.jpg?w=580&h=395
+wget --tries=2 --timeout=10 -O ea_female_physics_1.jpg https://upload.wikimedia.org/wikipedia/commons/0/0c/Sally_Ride_%281984%29.jpg
+wget --tries=2 --timeout=10 -O ea_female_physics_2.jpg https://images.theconversation.com/files/83180/original/image-20150528-4854-1jpelfp.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip
+wget --tries=2 --timeout=10 -O ea_female_physics_3.jpg https://imgix.bustle.com/uploads/image/2018/4/28/5eab562a-1d67-47aa-bef5-b4108fbe0503-fotolia_156280460_subscription_monthly_m.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 --timeout=10 -O ea_female_physics_4.jpg https://cdn.cnn.com/cnnnext/dam/assets/180726205917-02-jess-wade-wikipedia-scientist-super-tease.jpg
 		      
-wget --tries=2 -O ea_male_chemistry_0.jpg https://image.shutterstock.com/image-photo/handsome-latin-man-chemistry-lab-600w-712308871.jpg
-wget --tries=2 -O ea_male_chemistry_1.jpg https://media.springernature.com/relative-r300-703_m1050/springer-static/image/art%3A10.1038%2Fnj7593-265a/MediaObjects/41586_2016_Article_BFnj7593265a_Figa_HTML.jpg
-wget --tries=2 -O ea_male_chemistry_2.jpg https://news.psu.edu/sites/default/files/styles/threshold-992/public/Zydney.jpg?itok=K-_DioFa
-wget --tries=2 -O ea_male_chemistry_3.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/man-pouring-chemicals-isolated-on-a-white-background_SKLU5TTSj_SB_PM.jpg
-wget --tries=2 -O ea_male_chemistry_4.jpg https://ak4.picdn.net/shutterstock/videos/4721414/thumb/2.jpg
-wget --tries=2 -O ea_female_chemistry_0.jpg https://previews.123rf.com/images/budabar/budabar1605/budabar160500016/57944454-young-woman-biologist-in-white-coat-holding-test-tube-with-orange-chemistry-in-front-of-sprouts-in-f.jpg
-wget --tries=2 -O ea_female_chemistry_1.jpg https://c8.alamy.com/comp/MFRJCW/chemical-laboratory-scientist-woman-working-with-pipette-MFRJCW.jpg
-wget --tries=2 -O ea_female_chemistry_2.jpg https://c8.alamy.com/comp/BY8FTH/isolated-scientist-woman-in-lab-coat-with-chemical-glassware-BY8FTH.jpg
-wget --tries=2 -O ea_female_chemistry_3.jpg https://media.istockphoto.com/photos/woman-conducting-a-chemical-experiment-over-white-picture-id464899177
-wget --tries=2 -O ea_female_chemistry_4.jpg https://image.shutterstock.com/image-photo/interior-clean-modern-white-medical-600w-1508033795.jpg
+wget --tries=2 --timeout=10 -O ea_male_chemistry_0.jpg https://image.shutterstock.com/image-photo/handsome-latin-man-chemistry-lab-600w-712308871.jpg
+wget --tries=2 --timeout=10 -O ea_male_chemistry_1.jpg https://media.springernature.com/relative-r300-703_m1050/springer-static/image/art%3A10.1038%2Fnj7593-265a/MediaObjects/41586_2016_Article_BFnj7593265a_Figa_HTML.jpg
+wget --tries=2 --timeout=10 -O ea_male_chemistry_2.jpg https://news.psu.edu/sites/default/files/styles/threshold-992/public/Zydney.jpg?itok=K-_DioFa
+wget --tries=2 --timeout=10 -O ea_male_chemistry_3.jpg https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/man-pouring-chemicals-isolated-on-a-white-background_SKLU5TTSj_SB_PM.jpg
+wget --tries=2 --timeout=10 -O ea_male_chemistry_4.jpg https://ak4.picdn.net/shutterstock/videos/4721414/thumb/2.jpg
+wget --tries=2 --timeout=10 -O ea_female_chemistry_0.jpg https://previews.123rf.com/images/budabar/budabar1605/budabar160500016/57944454-young-woman-biologist-in-white-coat-holding-test-tube-with-orange-chemistry-in-front-of-sprouts-in-f.jpg
+wget --tries=2 --timeout=10 -O ea_female_chemistry_1.jpg https://c8.alamy.com/comp/MFRJCW/chemical-laboratory-scientist-woman-working-with-pipette-MFRJCW.jpg
+wget --tries=2 --timeout=10 -O ea_female_chemistry_2.jpg https://c8.alamy.com/comp/BY8FTH/isolated-scientist-woman-in-lab-coat-with-chemical-glassware-BY8FTH.jpg
+wget --tries=2 --timeout=10 -O ea_female_chemistry_3.jpg https://media.istockphoto.com/photos/woman-conducting-a-chemical-experiment-over-white-picture-id464899177
+wget --tries=2 --timeout=10 -O ea_female_chemistry_4.jpg https://image.shutterstock.com/image-photo/interior-clean-modern-white-medical-600w-1508033795.jpg
 		      
-wget --tries=2 -O ea_male_einstein_0.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_405,w_720,x_0,y_0/dpr_1.5/c_limit,w_608/fl_lossy,q_auto/v1546456171/190102-einstein-tease_720_e7zh0d
-wget --tries=2 -O ea_male_einstein_1.jpg https://static01.nyt.com/images/2019/01/03/obituaries/03EINSTEIN1-print/merlin_46961513_cf364ad3-7b75-474d-8650-888d99ffc4dd-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O ea_male_einstein_2.jpg https://www.einstein.yu.edu/images/dynamichomeimages/news/fb-michael-lipton-soccer-heading-concussions.jpg
-wget --tries=2 -O ea_male_einstein_3.jpg https://ca-times.brightspotcdn.com/dims4/default/8595b73/2147483647/strip/true/crop/2046x1151+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2Fdc%2F2cc954dc29f5e11daa47149167be%2Fla-1546455321-oe2higjvb9-snap-image
-wget --tries=2 -O ea_male_einstein_4.jpg https://www.gannett-cdn.com/-mm-/104d6882d44dc2f7f592acb5b6a7362a418308d7/c=0-112-5621-3288/local/-/media/2017/04/23/USATODAY/USATODAY/636285686621375466-Ep101-Genius-078.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp
-wget --tries=2 -O ea_female_einstein_0.jpg https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/sabrina-gonzalez-twt-wb.jpg?itok=QEhwWQ-5
-wget --tries=2 -O ea_female_einstein_1.jpg https://lionessmagazine.com/wp-content/uploads/2017/05/Ep102_Genius_017.jpg
-wget --tries=2 -O ea_female_einstein_2.jpg https://cxc.harvard.edu/fellows/bios/2017/vbaldassare.jpg
-wget --tries=2 -O ea_female_einstein_3.jpg https://einsteinperspectives.com/wp-content/uploads/2019/10/Lisa-Jablon-MD.jpg
-wget --tries=2 -O ea_female_einstein_4.jpg https://s.yimg.com/ny/api/res/1.2/rnTAJDzdaAdH4dx6KUH75g--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjQwO2g9NTA0/http://media.zenfs.com/en-US/homerun/vibe_128/c0414ea697e8b4ac0592dd8879be0e17
+wget --tries=2 --timeout=10 -O ea_male_einstein_0.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_405,w_720,x_0,y_0/dpr_1.5/c_limit,w_608/fl_lossy,q_auto/v1546456171/190102-einstein-tease_720_e7zh0d
+wget --tries=2 --timeout=10 -O ea_male_einstein_1.jpg https://static01.nyt.com/images/2019/01/03/obituaries/03EINSTEIN1-print/merlin_46961513_cf364ad3-7b75-474d-8650-888d99ffc4dd-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O ea_male_einstein_2.jpg https://www.einstein.yu.edu/images/dynamichomeimages/news/fb-michael-lipton-soccer-heading-concussions.jpg
+wget --tries=2 --timeout=10 -O ea_male_einstein_3.jpg https://ca-times.brightspotcdn.com/dims4/default/8595b73/2147483647/strip/true/crop/2046x1151+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2Fdc%2F2cc954dc29f5e11daa47149167be%2Fla-1546455321-oe2higjvb9-snap-image
+wget --tries=2 --timeout=10 -O ea_male_einstein_4.jpg https://www.gannett-cdn.com/-mm-/104d6882d44dc2f7f592acb5b6a7362a418308d7/c=0-112-5621-3288/local/-/media/2017/04/23/USATODAY/USATODAY/636285686621375466-Ep101-Genius-078.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp
+wget --tries=2 --timeout=10 -O ea_female_einstein_0.jpg https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/sabrina-gonzalez-twt-wb.jpg?itok=QEhwWQ-5
+wget --tries=2 --timeout=10 -O ea_female_einstein_1.jpg https://lionessmagazine.com/wp-content/uploads/2017/05/Ep102_Genius_017.jpg
+wget --tries=2 --timeout=10 -O ea_female_einstein_2.jpg https://cxc.harvard.edu/fellows/bios/2017/vbaldassare.jpg
+wget --tries=2 --timeout=10 -O ea_female_einstein_3.jpg https://einsteinperspectives.com/wp-content/uploads/2019/10/Lisa-Jablon-MD.jpg
+wget --tries=2 --timeout=10 -O ea_female_einstein_4.jpg https://s.yimg.com/ny/api/res/1.2/rnTAJDzdaAdH4dx6KUH75g--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjQwO2g9NTA0/http://media.zenfs.com/en-US/homerun/vibe_128/c0414ea697e8b4ac0592dd8879be0e17
 		      
-wget --tries=2 -O ea_male_nasa_0.jpg https://www.sciencefriday.com/wp-content/uploads/2019/03/bridenstine_flag.jpg
-wget --tries=2 -O ea_male_nasa_1.jpg https://cms.qz.com/wp-content/uploads/2019/07/Bill-Gerstenmaier-NASA-fired-Bridenstine-Trump-Moon-2024.jpg?quality=75&strip=all&w=1200&h=900&crop=1
-wget --tries=2 -O ea_male_nasa_2.jpg https://i.insider.com/5a874e5ad0307229008b4617?width=1100&format=jpeg&auto=webp
-wget --tries=2 -O ea_male_nasa_3.jpg https://www.nasa.gov/sites/default/files/thumbnails/image/img952019090595113630648.jpg
-wget --tries=2 -O ea_male_nasa_4.jpg https://cms.qz.com/wp-content/uploads/2018/07/James-Morhard-NASA-deputy-administrator-Donald-Trump-James-Bridenstine-Janet-Kavandi-space.jpg?quality=75&strip=all&w=410&h=231
-wget --tries=2 -O ea_female_nasa_0.jpg https://cw.ua.edu/wp-content/uploads/2018/11/singer-720x900.jpg
-wget --tries=2 -O ea_female_nasa_1.jpg https://women.nasa.gov/wp-content/uploads/2012/02/Julie-Kramer.jpg
-wget --tries=2 -O ea_female_nasa_2.jpg https://www.essence.com/wp-content/uploads/2017/02/1487185732/Jessica%20Photo.jpg?width=1920&height=1080
-wget --tries=2 -O ea_female_nasa_3.jpg https://s3.amazonaws.com/open-nasa-files/images/27716188325_e24a31ffc3_k.width-800.jpg
-wget --tries=2 -O ea_female_nasa_4.jpg https://spacenews.com/wp-content/uploads/2020/01/NASA-astronauts-Christina-Koch-and-Jessica-Meir-prepare-for-a-spacewalk-879x485.jpg
+wget --tries=2 --timeout=10 -O ea_male_nasa_0.jpg https://www.sciencefriday.com/wp-content/uploads/2019/03/bridenstine_flag.jpg
+wget --tries=2 --timeout=10 -O ea_male_nasa_1.jpg https://cms.qz.com/wp-content/uploads/2019/07/Bill-Gerstenmaier-NASA-fired-Bridenstine-Trump-Moon-2024.jpg?quality=75&strip=all&w=1200&h=900&crop=1
+wget --tries=2 --timeout=10 -O ea_male_nasa_2.jpg https://i.insider.com/5a874e5ad0307229008b4617?width=1100&format=jpeg&auto=webp
+wget --tries=2 --timeout=10 -O ea_male_nasa_3.jpg https://www.nasa.gov/sites/default/files/thumbnails/image/img952019090595113630648.jpg
+wget --tries=2 --timeout=10 -O ea_male_nasa_4.jpg https://cms.qz.com/wp-content/uploads/2018/07/James-Morhard-NASA-deputy-administrator-Donald-Trump-James-Bridenstine-Janet-Kavandi-space.jpg?quality=75&strip=all&w=410&h=231
+wget --tries=2 --timeout=10 -O ea_female_nasa_0.jpg https://cw.ua.edu/wp-content/uploads/2018/11/singer-720x900.jpg
+wget --tries=2 --timeout=10 -O ea_female_nasa_1.jpg https://women.nasa.gov/wp-content/uploads/2012/02/Julie-Kramer.jpg
+wget --tries=2 --timeout=10 -O ea_female_nasa_2.jpg https://www.essence.com/wp-content/uploads/2017/02/1487185732/Jessica%20Photo.jpg?width=1920&height=1080
+wget --tries=2 --timeout=10 -O ea_female_nasa_3.jpg https://s3.amazonaws.com/open-nasa-files/images/27716188325_e24a31ffc3_k.width-800.jpg
+wget --tries=2 --timeout=10 -O ea_female_nasa_4.jpg https://spacenews.com/wp-content/uploads/2020/01/NASA-astronauts-Christina-Koch-and-Jessica-Meir-prepare-for-a-spacewalk-879x485.jpg
 		      
-wget --tries=2 -O ea_male_experiment_0.jpg https://cdn.vox-cdn.com/thumbor/cn7dWHHZuGjdmr4vvMnqZc78wAg=/0x0:4500x2995/1200x800/filters:focal\(1899x1263:2619x1983\)/cdn.vox-cdn.com/uploads/chorus_image/image/53934741/GettyImages_471667960.0.jpg
-wget --tries=2 -O ea_male_experiment_1.jpg https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cs_0614N_Kassin_1280x720.jpg?itok=I98eU8yn
-wget --tries=2 -O ea_male_experiment_2.jpg https://cdn.theatlantic.com/assets/media/img/mt/2018/02/DSC_0039/lead_720_405.mpo?mod=1533691925
-wget --tries=2 -O ea_male_experiment_3.jpg https://www.huck.psu.edu/assets/uploads/content-images/_1024xAUTO_fit_center-center_80/DSC07870-sharpen.jpg
-wget --tries=2 -O ea_male_experiment_4.jpg https://news.adelphi.edu/files/2019/04/Cybersecurity_Inset-256x300.jpg?t=1554139989-12261-b
-wget --tries=2 -O ea_female_experiment_0.jpg https://www.reviewjournal.com/wp-content/uploads/2019/12/13143697_web1_13145100-cdabfa549c8342399e379462cb08034b.jpg
-wget --tries=2 -O ea_female_experiment_1.jpg https://static01.nyt.com/images/2019/12/20/science/20missamerica01/merlin_166207041_d97ac718-d5d8-46ec-9a33-e12d7ec2fffc-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O ea_female_experiment_2.jpg https://image.shutterstock.com/image-photo/chemist-woman-girl-student-female-260nw-1515629966.jpg
-wget --tries=2 -O ea_female_experiment_3.jpg https://www.shropshirestar.com/resizer/zDEnwR1zV9ZYpYMQvEfasI9D-7s=/1000x0/filters:quality\(100\)/arc-anglerfish-arc2-prod-shropshirestar-mna.s3.amazonaws.com/public/MY74AKCDTBBYTJ6YRP57DWYT2U.jpg
-wget --tries=2 -O ea_female_experiment_4.jpg https://i.ytimg.com/vi/6qLyzJbCJUY/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O ea_male_experiment_0.jpg https://cdn.vox-cdn.com/thumbor/cn7dWHHZuGjdmr4vvMnqZc78wAg=/0x0:4500x2995/1200x800/filters:focal\(1899x1263:2619x1983\)/cdn.vox-cdn.com/uploads/chorus_image/image/53934741/GettyImages_471667960.0.jpg
+wget --tries=2 --timeout=10 -O ea_male_experiment_1.jpg https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cs_0614N_Kassin_1280x720.jpg?itok=I98eU8yn
+wget --tries=2 --timeout=10 -O ea_male_experiment_2.jpg https://cdn.theatlantic.com/assets/media/img/mt/2018/02/DSC_0039/lead_720_405.mpo?mod=1533691925
+wget --tries=2 --timeout=10 -O ea_male_experiment_3.jpg https://www.huck.psu.edu/assets/uploads/content-images/_1024xAUTO_fit_center-center_80/DSC07870-sharpen.jpg
+wget --tries=2 --timeout=10 -O ea_male_experiment_4.jpg https://news.adelphi.edu/files/2019/04/Cybersecurity_Inset-256x300.jpg?t=1554139989-12261-b
+wget --tries=2 --timeout=10 -O ea_female_experiment_0.jpg https://www.reviewjournal.com/wp-content/uploads/2019/12/13143697_web1_13145100-cdabfa549c8342399e379462cb08034b.jpg
+wget --tries=2 --timeout=10 -O ea_female_experiment_1.jpg https://static01.nyt.com/images/2019/12/20/science/20missamerica01/merlin_166207041_d97ac718-d5d8-46ec-9a33-e12d7ec2fffc-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O ea_female_experiment_2.jpg https://image.shutterstock.com/image-photo/chemist-woman-girl-student-female-260nw-1515629966.jpg
+wget --tries=2 --timeout=10 -O ea_female_experiment_3.jpg https://www.shropshirestar.com/resizer/zDEnwR1zV9ZYpYMQvEfasI9D-7s=/1000x0/filters:quality\(100\)/arc-anglerfish-arc2-prod-shropshirestar-mna.s3.amazonaws.com/public/MY74AKCDTBBYTJ6YRP57DWYT2U.jpg
+wget --tries=2 --timeout=10 -O ea_female_experiment_4.jpg https://i.ytimg.com/vi/6qLyzJbCJUY/maxresdefault.jpg
 		      
-wget --tries=2 -O ea_male_experiments_0.jpg https://previews.123rf.com/images/dmitryag/dmitryag1707/dmitryag170705039/82897749-man-with-a-beard-on-a-white-isolated-background-holds-test-tubes-for-scientific-experiments-science-.jpg
-wget --tries=2 -O ea_male_experiments_1.jpg https://previews.123rf.com/images/123rf/123rf0806/123rf080600302/3205352-man-writing-results-of-science-experiment.jpg
-wget --tries=2 -O ea_male_experiments_2.jpg https://image.shutterstock.com/image-photo/scientific-experiment-confident-young-man-600w-152114543.jpg
-wget --tries=2 -O ea_male_experiments_3.jpg https://previews.123rf.com/images/imagedb/imagedb1312/imagedb131200189/24630974-male-scientist-doing-scientific-experiment-in-a-laboratory.jpg
-wget --tries=2 -O ea_male_experiments_4.jpg https://thumbs.dreamstime.com/z/male-scientist-working-microscope-team-laboratory-doing-research-man-woman-making-scientific-experiments-doctors-94528060.jpg
-wget --tries=2 -O ea_female_experiments_0.jpg https://www.verywellmind.com/thmb/a37B5_ugz38O8LXlN7w_451yMu0=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/female-college-student-conducting-scientific-experiment-in-science-laboratory-classroom-683734687-58a0d65c5f9b58819c12cfca.jpg
-wget --tries=2 -O ea_female_experiments_1.jpg https://media.istockphoto.com/photos/scientific-experiment-and-research-in-laboratory-with-female-experts-picture-id641489778
-wget --tries=2 -O ea_female_experiments_2.jpg https://static01.nyt.com/images/2019/11/08/multimedia/06xp-blindpsot/06xp-blindpsot-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O ea_female_experiments_3.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/E3D4/production/_107742385_camilletalent_johnherzogphotography.jpg
-wget --tries=2 -O ea_female_experiments_4.jpg https://ichef.bbci.co.uk/news/976/cpsprodpb/6EA4/production/_107742382_camille1.jpg
+wget --tries=2 --timeout=10 -O ea_male_experiments_0.jpg https://previews.123rf.com/images/dmitryag/dmitryag1707/dmitryag170705039/82897749-man-with-a-beard-on-a-white-isolated-background-holds-test-tubes-for-scientific-experiments-science-.jpg
+wget --tries=2 --timeout=10 -O ea_male_experiments_1.jpg https://previews.123rf.com/images/123rf/123rf0806/123rf080600302/3205352-man-writing-results-of-science-experiment.jpg
+wget --tries=2 --timeout=10 -O ea_male_experiments_2.jpg https://image.shutterstock.com/image-photo/scientific-experiment-confident-young-man-600w-152114543.jpg
+wget --tries=2 --timeout=10 -O ea_male_experiments_3.jpg https://previews.123rf.com/images/imagedb/imagedb1312/imagedb131200189/24630974-male-scientist-doing-scientific-experiment-in-a-laboratory.jpg
+wget --tries=2 --timeout=10 -O ea_male_experiments_4.jpg https://thumbs.dreamstime.com/z/male-scientist-working-microscope-team-laboratory-doing-research-man-woman-making-scientific-experiments-doctors-94528060.jpg
+wget --tries=2 --timeout=10 -O ea_female_experiments_0.jpg https://www.verywellmind.com/thmb/a37B5_ugz38O8LXlN7w_451yMu0=/768x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/female-college-student-conducting-scientific-experiment-in-science-laboratory-classroom-683734687-58a0d65c5f9b58819c12cfca.jpg
+wget --tries=2 --timeout=10 -O ea_female_experiments_1.jpg https://media.istockphoto.com/photos/scientific-experiment-and-research-in-laboratory-with-female-experts-picture-id641489778
+wget --tries=2 --timeout=10 -O ea_female_experiments_2.jpg https://static01.nyt.com/images/2019/11/08/multimedia/06xp-blindpsot/06xp-blindpsot-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O ea_female_experiments_3.jpg https://ichef.bbci.co.uk/news/410/cpsprodpb/E3D4/production/_107742385_camilletalent_johnherzogphotography.jpg
+wget --tries=2 --timeout=10 -O ea_female_experiments_4.jpg https://ichef.bbci.co.uk/news/976/cpsprodpb/6EA4/production/_107742382_camille1.jpg
 		      
-wget --tries=2 -O ea_male_astronomy_0.jpg https://cdn.eso.org/images/screen/ann19038a.jpg
-wget --tries=2 -O ea_male_astronomy_1.jpg https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/04/JamesGunn_2880x1620_Lede.jpg
-wget --tries=2 -O ea_male_astronomy_2.jpg https://ca-times.brightspotcdn.com/dims4/default/7c2f7bd/2147483647/strip/true/crop/2000x1328+0+0/resize/840x558!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff4%2F27%2F4ed855139cf8b14b8e000e32685e%2Fla-me-ra-abcarian-astronomer-resigns-20151019-001
-wget --tries=2 -O ea_male_astronomy_3.jpg https://thumbs.dreamstime.com/z/youn-man-standing-next-to-telescope-pointing-up-youn-man-standing-next-to-telescope-pointing-up-isolated-white-161388991.jpg
-wget --tries=2 -O ea_male_astronomy_4.jpg https://thumbs.dreamstime.com/z/man-looking-telescope-14939589.jpg
-wget --tries=2 -O ea_female_astronomy_1.jpg https://media.nature.com/lw1024/magazine-assets/d41586-018-07018-4/d41586-018-07018-4_16191104.jpg
-wget --tries=2 -O ea_female_astronomy_2.jpg https://d279m997dpfwgl.cloudfront.net/wp/2017/03/0313_silent-sky01.jpg
-wget --tries=2 -O ea_female_astronomy_3.jpg https://cdn.eso.org/images/screen/eso1807a.jpg
-wget --tries=2 -O ea_female_astronomy_4.jpg https://compote.slate.com/images/f74bbdfa-0d7d-4f1b-b393-65b7c22db6d1.jpg
+wget --tries=2 --timeout=10 -O ea_male_astronomy_0.jpg https://cdn.eso.org/images/screen/ann19038a.jpg
+wget --tries=2 --timeout=10 -O ea_male_astronomy_1.jpg https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/04/JamesGunn_2880x1620_Lede.jpg
+wget --tries=2 --timeout=10 -O ea_male_astronomy_2.jpg https://ca-times.brightspotcdn.com/dims4/default/7c2f7bd/2147483647/strip/true/crop/2000x1328+0+0/resize/840x558!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff4%2F27%2F4ed855139cf8b14b8e000e32685e%2Fla-me-ra-abcarian-astronomer-resigns-20151019-001
+wget --tries=2 --timeout=10 -O ea_male_astronomy_3.jpg https://thumbs.dreamstime.com/z/youn-man-standing-next-to-telescope-pointing-up-youn-man-standing-next-to-telescope-pointing-up-isolated-white-161388991.jpg
+wget --tries=2 --timeout=10 -O ea_male_astronomy_4.jpg https://thumbs.dreamstime.com/z/man-looking-telescope-14939589.jpg
+wget --tries=2 --timeout=10 -O ea_female_astronomy_1.jpg https://media.nature.com/lw1024/magazine-assets/d41586-018-07018-4/d41586-018-07018-4_16191104.jpg
+wget --tries=2 --timeout=10 -O ea_female_astronomy_2.jpg https://d279m997dpfwgl.cloudfront.net/wp/2017/03/0313_silent-sky01.jpg
+wget --tries=2 --timeout=10 -O ea_female_astronomy_3.jpg https://cdn.eso.org/images/screen/eso1807a.jpg
+wget --tries=2 --timeout=10 -O ea_female_astronomy_4.jpg https://compote.slate.com/images/f74bbdfa-0d7d-4f1b-b393-65b7c22db6d1.jpg

@@ -1,20 +1,20 @@
-wget --tries=2 -O aa_engineer_male_0.jpg https://previews.123rf.com/images/stocking/stocking1207/stocking120700648/14598488-portrait-of-an-handsome-black-engineer.jpg
-wget --tries=2 -O aa_engineer_male_1.jpg https://c8.alamy.com/comp/E6KMP7/happy-african-american-engineer-standing-in-front-of-control-panel-E6KMP7.jpg
-wget --tries=2 -O aa_engineer_male_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/Founder_CEO_Silas_Adekunle_WMeka-1080x675.jpg
-wget --tries=2 -O aa_engineer_male_3.jpg https://image.shutterstock.com/image-photo/architect-designer-black-man-african-260nw-1232704486.jpg
-wget --tries=2 -O aa_engineer_male_4.jpg https://cdn.shopify.com/s/files/1/0212/6252/files/G_1024x1024.jpg?v=1486751980
-wget --tries=2 -O aa_engineer_male_5.jpg https://media.istockphoto.com/photos/smiling-studio-portrait-of-confident-black-engineer-picture-id927868392
-wget --tries=2 -O aa_engineer_male_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/05/engineer-620x480-300x232.jpg
-wget --tries=2 -O aa_engineer_male_7.jpg https://guardian.ng/wp-content/uploads/2018/06/Silas-Adekunle.-Photo-Forbes.jpg
-wget --tries=2 -O aa_engineer_male_8.jpg https://media.gettyimages.com/photos/closeup-portrait-of-professional-architect-in-hard-hat-looking-away-picture-id689000184?b=1&k=6&m=689000184&s=612x612&w=0&h=VKgyrkHXFt8LxaQbhGpWphuOCeXlXh2nl_9-v4wdH68=
-wget --tries=2 -O aa_engineer_male_9.jpg https://previews.123rf.com/images/warrengoldswain/warrengoldswain1604/warrengoldswain160400061/54626153-portrait-of-black-african-architect-engineer-surveyor-with-construction-hardhat-isolated-in-studio.jpg
-wget --tries=2 -O aa_engineer_female_0.jpg https://www.designnews.com/sites/default/files/Design%20News/Mae%20Jemison.jpg
-wget --tries=2 -O aa_engineer_female_1.jpg https://image.shutterstock.com/image-photo/building-developing-construction-architecture-concept-260nw-210314104.jpg
-wget --tries=2 -O aa_engineer_female_2.jpg https://image.shutterstock.com/image-photo/pretty-african-american-female-construction-260nw-158381444.jpg
-wget --tries=2 -O aa_engineer_female_3.jpg https://compote.slate.com/images/94e89f7a-8635-43c5-b19e-43bae148660a.jpeg
-wget --tries=2 -O aa_engineer_female_4.jpg https://media.istockphoto.com/photos/black-female-engineer-working-on-industrial-machine-in-a-laboratory-picture-id858248362
-wget --tries=2 -O aa_engineer_female_5.jpg https://image.shutterstock.com/image-photo/confident-african-american-woman-architect-260nw-106991399.jpg
-wget --tries=2 -O aa_engineer_female_6.jpg https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/13/913042b2-d741-5806-a7e6-390625852368/59015a1b05718.image.jpg
-wget --tries=2 -O aa_engineer_female_7.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/08/iStock_65677869_MEDIUM.jpg
-wget --tries=2 -O aa_engineer_female_8.jpg https://image.shutterstock.com/image-photo/africanamerican-architect-woman-260nw-561980089.jpg
-wget --tries=2 -O aa_engineer_female_9.jpg https://c8.alamy.com/comp/KFG51P/a-black-female-construction-worker-wearing-a-white-hat-and-orange-KFG51P.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_male_0.jpg https://previews.123rf.com/images/stocking/stocking1207/stocking120700648/14598488-portrait-of-an-handsome-black-engineer.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_male_1.jpg https://c8.alamy.com/comp/E6KMP7/happy-african-american-engineer-standing-in-front-of-control-panel-E6KMP7.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_male_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/Founder_CEO_Silas_Adekunle_WMeka-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_male_3.jpg https://image.shutterstock.com/image-photo/architect-designer-black-man-african-260nw-1232704486.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_male_4.jpg https://cdn.shopify.com/s/files/1/0212/6252/files/G_1024x1024.jpg?v=1486751980
+wget --tries=2 --timeout=10 -O aa_engineer_male_5.jpg https://media.istockphoto.com/photos/smiling-studio-portrait-of-confident-black-engineer-picture-id927868392
+wget --tries=2 --timeout=10 -O aa_engineer_male_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/05/engineer-620x480-300x232.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_male_7.jpg https://guardian.ng/wp-content/uploads/2018/06/Silas-Adekunle.-Photo-Forbes.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_male_8.jpg https://media.gettyimages.com/photos/closeup-portrait-of-professional-architect-in-hard-hat-looking-away-picture-id689000184?b=1&k=6&m=689000184&s=612x612&w=0&h=VKgyrkHXFt8LxaQbhGpWphuOCeXlXh2nl_9-v4wdH68=
+wget --tries=2 --timeout=10 -O aa_engineer_male_9.jpg https://previews.123rf.com/images/warrengoldswain/warrengoldswain1604/warrengoldswain160400061/54626153-portrait-of-black-african-architect-engineer-surveyor-with-construction-hardhat-isolated-in-studio.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_female_0.jpg https://www.designnews.com/sites/default/files/Design%20News/Mae%20Jemison.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_female_1.jpg https://image.shutterstock.com/image-photo/building-developing-construction-architecture-concept-260nw-210314104.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_female_2.jpg https://image.shutterstock.com/image-photo/pretty-african-american-female-construction-260nw-158381444.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_female_3.jpg https://compote.slate.com/images/94e89f7a-8635-43c5-b19e-43bae148660a.jpeg
+wget --tries=2 --timeout=10 -O aa_engineer_female_4.jpg https://media.istockphoto.com/photos/black-female-engineer-working-on-industrial-machine-in-a-laboratory-picture-id858248362
+wget --tries=2 --timeout=10 -O aa_engineer_female_5.jpg https://image.shutterstock.com/image-photo/confident-african-american-woman-architect-260nw-106991399.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_female_6.jpg https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/13/913042b2-d741-5806-a7e6-390625852368/59015a1b05718.image.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_female_7.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2016/08/iStock_65677869_MEDIUM.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_female_8.jpg https://image.shutterstock.com/image-photo/africanamerican-architect-woman-260nw-561980089.jpg
+wget --tries=2 --timeout=10 -O aa_engineer_female_9.jpg https://c8.alamy.com/comp/KFG51P/a-black-female-construction-worker-wearing-a-white-hat-and-orange-KFG51P.jpg

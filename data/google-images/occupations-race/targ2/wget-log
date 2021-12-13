@@ -1,0 +1,11 @@
+--2020-01-16 21:35:31--  https://images.unsplash.com/photo-1549920867-1629df28cdf9?ixlib=rb-1.2.1
+Resolving images.unsplash.com (images.unsplash.com)... 151.101.22.208, 2a04:4e42:5::720
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.22.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7271287 (6.9M) [image/jpeg]
+Saving to: ‘male_aa_31.jpg’
+
+male_aa_31.jpg                                         0%[                                                                                                                    ]       0  --.-KB/s               male_aa_31.jpg                                       100%[===================================================================================================================>]   6.93M  44.8MB/s    in 0.2s    
+
+2020-01-16 21:35:32 (44.8 MB/s) - ‘male_aa_31.jpg’ saved [7271287/7271287]
+

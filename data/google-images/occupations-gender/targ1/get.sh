@@ -1,80 +1,80 @@
-wget --tries=2 -O male_0.jpg https://upload.wikimedia.org/wikipedia/commons/4/48/Outdoors-man-portrait_%28cropped%29.jpg
-wget --tries=2 -O male_1.jpg https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190925152622-freddy-mcconnell.jpg
-wget --tries=2 -O male_2.jpg https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-wget --tries=2 -O male_3.jpg https://i.ytimg.com/vi/x_HL0wiK4Zc/maxresdefault.jpg
-wget --tries=2 -O male_4.jpg https://2w6kxc22rrr9mabqt1mglgait6-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/man-shrug-beard-1024x580.jpg
-wget --tries=2 -O male_5.jpg https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1920/marquee/11/77/27/6/hero_landscape_91e1b039-11ef-4d97-a01e-639b6ee4990a.jpg
-wget --tries=2 -O male_6.jpg https://media.glamour.com/photos/58336fd44e6d66172e161a3a/master/w_1600%2Cc_limit/0117-GL-LIFE01-02.jpg
-wget --tries=2 -O male_7.jpg https://assets.vogue.com/photos/5a0b9d136ed2ed3c2e007e85/master/pass/pine-post-tout.jpg
-wget --tries=2 -O male_8.jpg https://www.mantruckandbus.com/fileadmin/media/bilder/02_19/2-19-WirGlaubenAnPlatooning-startseite_1000x1500.jpg
-wget --tries=2 -O male_9.jpg https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/01/mug-shot-860x484.jpg
-wget --tries=2 -O male_10.jpg https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?cs=srgb&dl=man-wearing-black-zip-up-jacket-near-beach-smiling-at-the-736716.jpg&fm=jpg
-wget --tries=2 -O male_11.jpg https://images.askmen.com/1080x540/2017/01/04-123847-what_stoicism_teaches_us_about_how_to_be_a_man.jpg
-wget --tries=2 -O male_12.jpg https://images.unsplash.com/photo-1536548665027-b96d34a005ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-wget --tries=2 -O male_13.jpg https://pmcvariety.files.wordpress.com/2019/04/nawazuddin-siddiqui-rexfeatures_9670910s.jpg?w=1000&h=563&crop=1
-wget --tries=2 -O male_14.jpg https://www.mantruckandbus.com/fileadmin/media/bilder/02_19/219_05_busbusiness_interviewHeader_1485x1254.jpg
-wget --tries=2 -O male_15.jpg https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/best-multivitamins-for-men-1296x728-feature.jpg?w=1155&h=1528
-wget --tries=2 -O male_16.jpg https://image.shutterstock.com/image-photo/portrait-beautiful-smiling-man-showing-260nw-715845643.jpg
-wget --tries=2 -O male_17.jpg https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205229/40-something-man-2-1.jpg
-wget --tries=2 -O male_18.jpg https://goodmenproject.com/wp-content/uploads/2019/07/jared-yates-sexton-the-man-they-wanted-me-to-be.png
-wget --tries=2 -O male_19.jpg https://image.shutterstock.com/image-photo/nice-man-wearing-casual-clothes-260nw-1430296685.jpg
-wget --tries=2 -O male_20.jpg https://bdn-data.s3.amazonaws.com/uploads/2019/12/32386801_H25833993.JPG
-wget --tries=2 -O male_21.jpg https://www.reviewjournal.com/wp-content/uploads/2020/01/13223892_web1_cleveland_haddicks_web.jpg
-wget --tries=2 -O male_22.jpg https://ca-times.brightspotcdn.com/dims4/default/edcf449/2147483647/strip/true/crop/1424x1781+0+0/resize/840x1051!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fd0%2F3a7bdb564666864df82892e9c362%2Fsuspecta.JPG
-wget --tries=2 -O male_23.jpg https://cdn.cnn.com/cnnnext/dam/assets/191024211106-first-black-patient-face-transplant-exlarge-169.jpg
-wget --tries=2 -O male_24.jpg https://wjla.com/resources/media/286502ed-dfb4-4e2e-bf3c-9e684c81acf0-large16x9_Suspect.png?1569459112303
-wget --tries=2 -O male_25.jpg https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
-wget --tries=2 -O male_26.jpg https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205212/middle-aged-man-fat-2.jpg
-wget --tries=2 -O male_27.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/11/931/524/Jeremy-Miguel-Anderson-Clayton-County-Sheriffs-Office.jpg?ve=1&tl=1
-wget --tries=2 -O male_28.jpg https://www.sciencealert.com/images/2018-06/processed/joanna-nix-625948-unsplash_600.jpg
-wget --tries=2 -O male_29.jpg https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/06/the-strongest-man-in-history-brian-shaw.jpg?w=900
-wget --tries=2 -O male_30.jpg https://img.freepik.com/free-psd/modern-man-smiling_1194-11653.jpg?size=338&ext=jpg
-wget --tries=2 -O male_31.jpg https://images.unsplash.com/photo-1528900403525-dc523d4f18d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-wget --tries=2 -O male_32.jpg https://manofmany.com/wp-content/uploads/2019/06/50-Short-Haircuts-Hairstyle-Tips-for-Men.jpg
-wget --tries=2 -O male_33.jpg https://media3.s-nbcnews.com/j/newscms/2020_01/3168211/200102-mark-latunski-cs-1002a_1448255da44c5302c2736db12c663d9b.fit-760w.jpg
-wget --tries=2 -O male_34.jpg https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/01/stephen-riggins.jpg
-wget --tries=2 -O male_35.jpg http://nextluxury.com/wp-content/uploads/top-qualities-of-a-good-man.jpg
-wget --tries=2 -O male_36.jpg https://theathletic-promos.s3-us-west-2.amazonaws.com/video/Slater_Still.jpg
-wget --tries=2 -O male_37.jpg https://tribktla.files.wordpress.com/2019/02/santaana1.jpg?quality=85&strip=all&resize=1200,1362
-wget --tries=2 -O male_38.jpg https://fremontslo.com/wp-content/uploads/2019/12/Tallest-Man-Fremont-slo.jpg
-wget --tries=2 -O male_39.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/09/Royle-King-77415967_ai0a9808a-1080x675.jpg
-wget --tries=2 -O male_40.jpg https://static01.nyt.com/images/2019/10/13/arts/13rudd1/13rudd1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O male_41.jpg https://media.npr.org/assets/img/2019/02/15/ap_19045791021022_wide-0dbedfe0bb90477c5ab1f319ebad99843e2da989.jpg?s=1400
-wget --tries=2 -O male_42.jpg https://news.artnet.com/app/news-upload/2015/10/mapplethorpe-featured.jpg
-wget --tries=2 -O male_43.jpg https://api.time.com/wp-content/uploads/2016/10/hbo-westworld-09.jpg
-wget --tries=2 -O male_44.jpg https://www.justmytype.ca/wp-content/uploads/2015/12/David-Gandy-European-American-Men-1050x700.jpg
-wget --tries=2 -O male_45.jpg https://pmcvariety.files.wordpress.com/2019/04/travis-knight-six-billion-dollar-man.jpg?w=1000
-wget --tries=2 -O male_46.jpg https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-wget --tries=2 -O male_47.jpg https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555447947/shape/mentalfloss/istock_000044434608_small.jpg
-wget --tries=2 -O male_48.jpg https://www.themonitor.com/wp-content/uploads/sites/60/2019/08/Blake_Seth_mugshot.jpg
-wget --tries=2 -O male_49.jpg https://mwoy.org/sites/default/files/styles/305x420/public/participant/FY20-RobHopeHeadshot.jpeg?itok=TNO80d0N
-wget --tries=2 -O male_50.jpg https://st3.depositphotos.com/3514613/14950/i/1600/depositphotos_149503730-stock-photo-male-doctor-with-stethoscope-smiling.jpg
-wget --tries=2 -O male_51.jpg https://s31242.pcdn.co/wp-content/uploads/2020/01/happy-man-brushing-teeth-FWYV5ZG-1024x682.jpg
-wget --tries=2 -O male_52.jpg https://previews.123rf.com/images/veneratio/veneratio1104/veneratio110400107/9302487-joyful-middle-aged-white-man-with-arms-spread-and-smiling.jpg
-wget --tries=2 -O male_53.jpg https://media.vanityfair.com/photos/555b44abb80bcc99383a9b2d/master/pass/jon-hamm-mad-men-episode-14-season-7-part-2.jpg
-wget --tries=2 -O male_54.jpg https://thumbs.dreamstime.com/b/cute-mixed-race-person-male-smiling-isolated-104862465.jpg
-wget --tries=2 -O male_55.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tommy_Flanagan_March_2012_%28cropped%29.jpg/1200px-Tommy_Flanagan_March_2012_%28cropped%29.jpg
-wget --tries=2 -O male_56.jpg https://cdn.pixabay.com/photo/2015/04/14/20/03/teen-722671_960_720.jpg
-wget --tries=2 -O male_57.jpg https://thewhitebite.com.au/app/uploads/2018/10/Dental-Implants-The-White-Bite-Male-Smiling.jpg
-wget --tries=2 -O male_58.jpg https://marketplace.canva.com/MACNqEGjmfA/2/thumbnail_large/canva-cheerful-african-man-smiling-MACNqEGjmfA.jpg
-wget --tries=2 -O male_59.jpg https://media.gettyimages.com/photos/portrait-of-smiling-man-with-stubble-wearing-grey-sweatshirt-picture-id946919736?s=612x612
-wget --tries=2 -O male_60.jpg https://cdn.lifehack.org/wp-content/uploads/2017/08/20230343/tight-lip-smile.jpg
-wget --tries=2 -O male_61.jpg https://www.babylondentalcare.com/wp-content/uploads/2012/11/30-something-male-smiling.jpg
-wget --tries=2 -O male_62.jpg http://www.dimitri.co.uk/portraits/portraits-images/male-portrait-smiling-pink-shirt.jpg
-wget --tries=2 -O male_63.jpg https://images.squarespace-cdn.com/content/v1/5968f48cbebafb80a4f16501/1500486613538-SJTMIPI11HW7II2HU7U4/ke17ZwdGBToddI8pDm48kG87Sfbgg29A4BYEDq3OXvgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcf4OxbJOyh_wHUnyc4kQLQ6SBshRGOku7c30Y_IRDNPta8R2IY5BHMaEj1zOWoDTZ/Smiling-Man.jpg
-wget --tries=2 -O male_64.jpg https://ak9.picdn.net/shutterstock/videos/14867809/thumb/2.jpg
-wget --tries=2 -O male_65.jpg https://c8.alamy.com/comp/E3K1FC/portrait-of-smiling-hispanic-man-in-countryside-E3K1FC.jpg
-wget --tries=2 -O male_66.jpg https://thumbs.dreamstime.com/b/asian-male-smiling-copy-space-asian-male-smiling-copy-spaceasian-man-male-young-portrait-face-handsome-smile-happy-114548553.jpg
-wget --tries=2 -O male_67.jpg https://image.freepik.com/free-photo/man-smiling-with-hands-hips-gray-background_1187-3016.jpg
-wget --tries=2 -O male_68.jpg https://www.golsendental.com/wp-content/uploads/facial-aesthetics-in-alpharetta.jpg
-wget --tries=2 -O male_69.jpg http://socialpsychonline.com/wp-content/uploads/2017/03/smile03-214x300.jpg
-wget --tries=2 -O male_70.jpg https://www.brightsmileokc.com/wp-content/themes/brightsmileokc/assets/images/callout3@2x.jpg
-wget --tries=2 -O male_71.jpg https://st.depositphotos.com/1199142/2843/i/950/depositphotos_28439185-stock-photo-casual-young-man-with-arms.jpg
-wget --tries=2 -O male_72.jpg https://lh3.googleusercontent.com/LGtXsjrpKEpF2ls3wpY8LGhvFAacLNE-bcfixyE6PfU1KyTLSbXrHynh-B8B3KNxdDixw2xDswI5vf5fwa6NHJqDdSGVe3qKu84=w1600-rj
-wget --tries=2 -O male_73.jpg https://assets.blog.slice.ca/imageserve/wp-content/uploads/sites/5/2018/02/why-men-like-natural-beauty/x.jpg
-wget --tries=2 -O male_74.jpg https://www.kevmrc.com/wp-content/uploads/2016/12/man-smiling-caption-for-cute-smile.jpg
-wget --tries=2 -O male_75.jpg https://www.smilesbymyles.com/assets/images/callout-1.jpg
-wget --tries=2 -O male_76.jpg https://image.businessinsider.com/5d00a6a86fc92047fe5bb1a2?width=1100&format=jpeg&auto=webp
-wget --tries=2 -O male_77.jpg https://image.freepik.com/free-photo/portrait-handsome-smiling-stylish-hipster-lumbersexual-businessman-model-man-dressed-jeans-jacket-clothes_158538-1732.jpg
-wget --tries=2 -O male_78.jpg http://www.greenorganics.com.au/organic-natural-skin-care-products/wp-content/images/celebrity-pics/george-clooney1.jpg
-wget --tries=2 -O male_79.jpg https://www.screwtheninetofive.com/wp-content/uploads/2020/01/Jan-13-Featured.png
+wget --tries=2 --timeout=10 -O male_0.jpg https://upload.wikimedia.org/wikipedia/commons/4/48/Outdoors-man-portrait_%28cropped%29.jpg
+wget --tries=2 --timeout=10 -O male_1.jpg https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190925152622-freddy-mcconnell.jpg
+wget --tries=2 --timeout=10 -O male_2.jpg https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget --tries=2 --timeout=10 -O male_3.jpg https://i.ytimg.com/vi/x_HL0wiK4Zc/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_4.jpg https://2w6kxc22rrr9mabqt1mglgait6-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/man-shrug-beard-1024x580.jpg
+wget --tries=2 --timeout=10 -O male_5.jpg https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1920/marquee/11/77/27/6/hero_landscape_91e1b039-11ef-4d97-a01e-639b6ee4990a.jpg
+wget --tries=2 --timeout=10 -O male_6.jpg https://media.glamour.com/photos/58336fd44e6d66172e161a3a/master/w_1600%2Cc_limit/0117-GL-LIFE01-02.jpg
+wget --tries=2 --timeout=10 -O male_7.jpg https://assets.vogue.com/photos/5a0b9d136ed2ed3c2e007e85/master/pass/pine-post-tout.jpg
+wget --tries=2 --timeout=10 -O male_8.jpg https://www.mantruckandbus.com/fileadmin/media/bilder/02_19/2-19-WirGlaubenAnPlatooning-startseite_1000x1500.jpg
+wget --tries=2 --timeout=10 -O male_9.jpg https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/01/mug-shot-860x484.jpg
+wget --tries=2 --timeout=10 -O male_10.jpg https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?cs=srgb&dl=man-wearing-black-zip-up-jacket-near-beach-smiling-at-the-736716.jpg&fm=jpg
+wget --tries=2 --timeout=10 -O male_11.jpg https://images.askmen.com/1080x540/2017/01/04-123847-what_stoicism_teaches_us_about_how_to_be_a_man.jpg
+wget --tries=2 --timeout=10 -O male_12.jpg https://images.unsplash.com/photo-1536548665027-b96d34a005ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget --tries=2 --timeout=10 -O male_13.jpg https://pmcvariety.files.wordpress.com/2019/04/nawazuddin-siddiqui-rexfeatures_9670910s.jpg?w=1000&h=563&crop=1
+wget --tries=2 --timeout=10 -O male_14.jpg https://www.mantruckandbus.com/fileadmin/media/bilder/02_19/219_05_busbusiness_interviewHeader_1485x1254.jpg
+wget --tries=2 --timeout=10 -O male_15.jpg https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/best-multivitamins-for-men-1296x728-feature.jpg?w=1155&h=1528
+wget --tries=2 --timeout=10 -O male_16.jpg https://image.shutterstock.com/image-photo/portrait-beautiful-smiling-man-showing-260nw-715845643.jpg
+wget --tries=2 --timeout=10 -O male_17.jpg https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205229/40-something-man-2-1.jpg
+wget --tries=2 --timeout=10 -O male_18.jpg https://goodmenproject.com/wp-content/uploads/2019/07/jared-yates-sexton-the-man-they-wanted-me-to-be.png
+wget --tries=2 --timeout=10 -O male_19.jpg https://image.shutterstock.com/image-photo/nice-man-wearing-casual-clothes-260nw-1430296685.jpg
+wget --tries=2 --timeout=10 -O male_20.jpg https://bdn-data.s3.amazonaws.com/uploads/2019/12/32386801_H25833993.JPG
+wget --tries=2 --timeout=10 -O male_21.jpg https://www.reviewjournal.com/wp-content/uploads/2020/01/13223892_web1_cleveland_haddicks_web.jpg
+wget --tries=2 --timeout=10 -O male_22.jpg https://ca-times.brightspotcdn.com/dims4/default/edcf449/2147483647/strip/true/crop/1424x1781+0+0/resize/840x1051!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fd0%2F3a7bdb564666864df82892e9c362%2Fsuspecta.JPG
+wget --tries=2 --timeout=10 -O male_23.jpg https://cdn.cnn.com/cnnnext/dam/assets/191024211106-first-black-patient-face-transplant-exlarge-169.jpg
+wget --tries=2 --timeout=10 -O male_24.jpg https://wjla.com/resources/media/286502ed-dfb4-4e2e-bf3c-9e684c81acf0-large16x9_Suspect.png?1569459112303
+wget --tries=2 --timeout=10 -O male_25.jpg https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+wget --tries=2 --timeout=10 -O male_26.jpg https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205212/middle-aged-man-fat-2.jpg
+wget --tries=2 --timeout=10 -O male_27.jpg https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/11/931/524/Jeremy-Miguel-Anderson-Clayton-County-Sheriffs-Office.jpg?ve=1&tl=1
+wget --tries=2 --timeout=10 -O male_28.jpg https://www.sciencealert.com/images/2018-06/processed/joanna-nix-625948-unsplash_600.jpg
+wget --tries=2 --timeout=10 -O male_29.jpg https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/06/the-strongest-man-in-history-brian-shaw.jpg?w=900
+wget --tries=2 --timeout=10 -O male_30.jpg https://img.freepik.com/free-psd/modern-man-smiling_1194-11653.jpg?size=338&ext=jpg
+wget --tries=2 --timeout=10 -O male_31.jpg https://images.unsplash.com/photo-1528900403525-dc523d4f18d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget --tries=2 --timeout=10 -O male_32.jpg https://manofmany.com/wp-content/uploads/2019/06/50-Short-Haircuts-Hairstyle-Tips-for-Men.jpg
+wget --tries=2 --timeout=10 -O male_33.jpg https://media3.s-nbcnews.com/j/newscms/2020_01/3168211/200102-mark-latunski-cs-1002a_1448255da44c5302c2736db12c663d9b.fit-760w.jpg
+wget --tries=2 --timeout=10 -O male_34.jpg https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/01/stephen-riggins.jpg
+wget --tries=2 --timeout=10 -O male_35.jpg http://nextluxury.com/wp-content/uploads/top-qualities-of-a-good-man.jpg
+wget --tries=2 --timeout=10 -O male_36.jpg https://theathletic-promos.s3-us-west-2.amazonaws.com/video/Slater_Still.jpg
+wget --tries=2 --timeout=10 -O male_37.jpg https://tribktla.files.wordpress.com/2019/02/santaana1.jpg?quality=85&strip=all&resize=1200,1362
+wget --tries=2 --timeout=10 -O male_38.jpg https://fremontslo.com/wp-content/uploads/2019/12/Tallest-Man-Fremont-slo.jpg
+wget --tries=2 --timeout=10 -O male_39.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/09/Royle-King-77415967_ai0a9808a-1080x675.jpg
+wget --tries=2 --timeout=10 -O male_40.jpg https://static01.nyt.com/images/2019/10/13/arts/13rudd1/13rudd1-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O male_41.jpg https://media.npr.org/assets/img/2019/02/15/ap_19045791021022_wide-0dbedfe0bb90477c5ab1f319ebad99843e2da989.jpg?s=1400
+wget --tries=2 --timeout=10 -O male_42.jpg https://news.artnet.com/app/news-upload/2015/10/mapplethorpe-featured.jpg
+wget --tries=2 --timeout=10 -O male_43.jpg https://api.time.com/wp-content/uploads/2016/10/hbo-westworld-09.jpg
+wget --tries=2 --timeout=10 -O male_44.jpg https://www.justmytype.ca/wp-content/uploads/2015/12/David-Gandy-European-American-Men-1050x700.jpg
+wget --tries=2 --timeout=10 -O male_45.jpg https://pmcvariety.files.wordpress.com/2019/04/travis-knight-six-billion-dollar-man.jpg?w=1000
+wget --tries=2 --timeout=10 -O male_46.jpg https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget --tries=2 --timeout=10 -O male_47.jpg https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555447947/shape/mentalfloss/istock_000044434608_small.jpg
+wget --tries=2 --timeout=10 -O male_48.jpg https://www.themonitor.com/wp-content/uploads/sites/60/2019/08/Blake_Seth_mugshot.jpg
+wget --tries=2 --timeout=10 -O male_49.jpg https://mwoy.org/sites/default/files/styles/305x420/public/participant/FY20-RobHopeHeadshot.jpeg?itok=TNO80d0N
+wget --tries=2 --timeout=10 -O male_50.jpg https://st3.depositphotos.com/3514613/14950/i/1600/depositphotos_149503730-stock-photo-male-doctor-with-stethoscope-smiling.jpg
+wget --tries=2 --timeout=10 -O male_51.jpg https://s31242.pcdn.co/wp-content/uploads/2020/01/happy-man-brushing-teeth-FWYV5ZG-1024x682.jpg
+wget --tries=2 --timeout=10 -O male_52.jpg https://previews.123rf.com/images/veneratio/veneratio1104/veneratio110400107/9302487-joyful-middle-aged-white-man-with-arms-spread-and-smiling.jpg
+wget --tries=2 --timeout=10 -O male_53.jpg https://media.vanityfair.com/photos/555b44abb80bcc99383a9b2d/master/pass/jon-hamm-mad-men-episode-14-season-7-part-2.jpg
+wget --tries=2 --timeout=10 -O male_54.jpg https://thumbs.dreamstime.com/b/cute-mixed-race-person-male-smiling-isolated-104862465.jpg
+wget --tries=2 --timeout=10 -O male_55.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tommy_Flanagan_March_2012_%28cropped%29.jpg/1200px-Tommy_Flanagan_March_2012_%28cropped%29.jpg
+wget --tries=2 --timeout=10 -O male_56.jpg https://cdn.pixabay.com/photo/2015/04/14/20/03/teen-722671_960_720.jpg
+wget --tries=2 --timeout=10 -O male_57.jpg https://thewhitebite.com.au/app/uploads/2018/10/Dental-Implants-The-White-Bite-Male-Smiling.jpg
+wget --tries=2 --timeout=10 -O male_58.jpg https://marketplace.canva.com/MACNqEGjmfA/2/thumbnail_large/canva-cheerful-african-man-smiling-MACNqEGjmfA.jpg
+wget --tries=2 --timeout=10 -O male_59.jpg https://media.gettyimages.com/photos/portrait-of-smiling-man-with-stubble-wearing-grey-sweatshirt-picture-id946919736?s=612x612
+wget --tries=2 --timeout=10 -O male_60.jpg https://cdn.lifehack.org/wp-content/uploads/2017/08/20230343/tight-lip-smile.jpg
+wget --tries=2 --timeout=10 -O male_61.jpg https://www.babylondentalcare.com/wp-content/uploads/2012/11/30-something-male-smiling.jpg
+wget --tries=2 --timeout=10 -O male_62.jpg http://www.dimitri.co.uk/portraits/portraits-images/male-portrait-smiling-pink-shirt.jpg
+wget --tries=2 --timeout=10 -O male_63.jpg https://images.squarespace-cdn.com/content/v1/5968f48cbebafb80a4f16501/1500486613538-SJTMIPI11HW7II2HU7U4/ke17ZwdGBToddI8pDm48kG87Sfbgg29A4BYEDq3OXvgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcf4OxbJOyh_wHUnyc4kQLQ6SBshRGOku7c30Y_IRDNPta8R2IY5BHMaEj1zOWoDTZ/Smiling-Man.jpg
+wget --tries=2 --timeout=10 -O male_64.jpg https://ak9.picdn.net/shutterstock/videos/14867809/thumb/2.jpg
+wget --tries=2 --timeout=10 -O male_65.jpg https://c8.alamy.com/comp/E3K1FC/portrait-of-smiling-hispanic-man-in-countryside-E3K1FC.jpg
+wget --tries=2 --timeout=10 -O male_66.jpg https://thumbs.dreamstime.com/b/asian-male-smiling-copy-space-asian-male-smiling-copy-spaceasian-man-male-young-portrait-face-handsome-smile-happy-114548553.jpg
+wget --tries=2 --timeout=10 -O male_67.jpg https://image.freepik.com/free-photo/man-smiling-with-hands-hips-gray-background_1187-3016.jpg
+wget --tries=2 --timeout=10 -O male_68.jpg https://www.golsendental.com/wp-content/uploads/facial-aesthetics-in-alpharetta.jpg
+wget --tries=2 --timeout=10 -O male_69.jpg http://socialpsychonline.com/wp-content/uploads/2017/03/smile03-214x300.jpg
+wget --tries=2 --timeout=10 -O male_70.jpg https://www.brightsmileokc.com/wp-content/themes/brightsmileokc/assets/images/callout3@2x.jpg
+wget --tries=2 --timeout=10 -O male_71.jpg https://st.depositphotos.com/1199142/2843/i/950/depositphotos_28439185-stock-photo-casual-young-man-with-arms.jpg
+wget --tries=2 --timeout=10 -O male_72.jpg https://lh3.googleusercontent.com/LGtXsjrpKEpF2ls3wpY8LGhvFAacLNE-bcfixyE6PfU1KyTLSbXrHynh-B8B3KNxdDixw2xDswI5vf5fwa6NHJqDdSGVe3qKu84=w1600-rj
+wget --tries=2 --timeout=10 -O male_73.jpg https://assets.blog.slice.ca/imageserve/wp-content/uploads/sites/5/2018/02/why-men-like-natural-beauty/x.jpg
+wget --tries=2 --timeout=10 -O male_74.jpg https://www.kevmrc.com/wp-content/uploads/2016/12/man-smiling-caption-for-cute-smile.jpg
+wget --tries=2 --timeout=10 -O male_75.jpg https://www.smilesbymyles.com/assets/images/callout-1.jpg
+wget --tries=2 --timeout=10 -O male_76.jpg https://image.businessinsider.com/5d00a6a86fc92047fe5bb1a2?width=1100&format=jpeg&auto=webp
+wget --tries=2 --timeout=10 -O male_77.jpg https://image.freepik.com/free-photo/portrait-handsome-smiling-stylish-hipster-lumbersexual-businessman-model-man-dressed-jeans-jacket-clothes_158538-1732.jpg
+wget --tries=2 --timeout=10 -O male_78.jpg http://www.greenorganics.com.au/organic-natural-skin-care-products/wp-content/images/celebrity-pics/george-clooney1.jpg
+wget --tries=2 --timeout=10 -O male_79.jpg https://www.screwtheninetofive.com/wp-content/uploads/2020/01/Jan-13-Featured.png
