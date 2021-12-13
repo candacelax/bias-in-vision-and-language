@@ -18,7 +18,8 @@ class BiasTest:
         self,
         params: AttrDict,
         test_data: Dict,
-        preextracted_features: Dict[str, str]=None
+        preextracted_features: Dict[str, str]=None,
+        **kwargs
         ):
         self.test_name = test_data['test_name']
         self.dataset_name = test_data['dataset']
@@ -29,11 +30,13 @@ class BiasTest:
             image_features_path_or_dir = preextracted_features[self.dataset_name][self.test_name]
         else:
             image_features_path_or_dir = None
+
         self.dataset_wrapper = create_dataset(
             params=deepcopy(params),
             captions=test_data['targ1']['captions'],
             images=test_data['targ1']['images'],
-            image_features_path_or_dir=image_features_path_or_dir
+            image_features_path_or_dir=image_features_path_or_dir,
+            **kwargs
         )
         self.dataset = self.dataset_wrapper.dataset
 
