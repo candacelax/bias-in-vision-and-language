@@ -33,7 +33,7 @@ class BiasTest:
 
         self.dataset_wrapper = create_dataset(
             params=deepcopy(params),
-            dataset_name=self.dataset_name,
+            dataset_dir=test_data['dataset_dir'],
             captions=test_data['targ1']['captions'],
             images=test_data['targ1']['images'],
             image_features_path_or_dir=image_features_path_or_dir,
