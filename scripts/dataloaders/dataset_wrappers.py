@@ -205,11 +205,13 @@ def create_dataset(
         captions: Dict[str, str],
         images: Dict[str, List[int]],
         image_features_path_or_dir,
+        **kwargs
     ):
     dataset_wrapper = DATASET_CLASS[params.model_type](
         params=params,
         captions=captions,
         images=images,
-        image_features_path_or_dir=image_features_path_or_dir
+        image_features_path_or_dir=image_features_path_or_dir,
+        **kwargs
     )
     return dataset_wrapper
