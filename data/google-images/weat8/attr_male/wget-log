@@ -1,15 +1,0 @@
---2020-01-13 01:38:29--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.toledoblade.com%2Fimage%2F2017%2F01%2F22%2F1140x_a10-7_cTC%2FThe-Animated-Woman.jpg
-Resolving www.google.com (www.google.com)... 172.217.12.132, 2607:f8b0:4006:819::2004
-Connecting to www.google.com (www.google.com)|172.217.12.132|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://www.google.com/imghp [following]
---2020-01-13 01:38:29--  https://www.google.com/imghp
-Reusing existing connection to www.google.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘imgres?imgurl=https:%2F%2Fwww.toledoblade.com%2Fimage%2F2017%2F01%2F22%2F1140x_a10-7_cTC%2FThe-Animated-Woman.jpg’
-
-                        imgres?imgurl=https:%2F     [<=>                                                                                                   ]       0  --.-KB/s               imgres?imgurl=https:%2F%2Fwww.toledoblade.com%2     [ <=>                                                                                                  ]   4.47K  --.-KB/s    in 0s      
-
-2020-01-13 01:38:29 (48.3 MB/s) - ‘imgres?imgurl=https:%2F%2Fwww.toledoblade.com%2Fimage%2F2017%2F01%2F22%2F1140x_a10-7_cTC%2FThe-Animated-Woman.jpg’ saved [4578]
-
