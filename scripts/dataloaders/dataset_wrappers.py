@@ -4,7 +4,7 @@ import os
 from os import path
 import re
 import torch
-from typing import Any, Dict, List
+from typing import Any, Callable, Dict, List
 from torch.utils.data import Dataset
 
 class VisualBERTDatasetWrapper:
@@ -13,8 +13,10 @@ class VisualBERTDatasetWrapper:
         params: Dict[str, Any],
         images: Dict[str, List[int]],
         captions: Dict[str, str],
-        image_features_path_or_dir: Dict[str, Any]
+        image_features_path_or_dir: Dict[str, Any],
+        **kwargs
     ):
+        assert len(kwargs) == 0, "No kwargs should be passed for VisualBERT"
         from .visualbert.bias_dataset import BiasDataset
         image_features = torch.load(image_features_path_or_dir)
         self.dataset = BiasDataset(
@@ -34,10 +36,13 @@ class ViLBERTDatasetWrapper:
         params: Dict[str, Any],
         images: Dict[str, List[int]],
         captions: Dict[str, str],
-        image_features_path_or_dir: Dict[str, Any]
+        image_features_path_or_dir: Dict[str, Any],
+        **kwargs
+        
     ):
         from .vilbert.bias_dataset import BiasDataset
         from .vilbert._image_features_reader import ImageFeaturesH5ReaderWithObjClasses
+        assert len(kwargs) == 0, "No kwargs should be passed for ViLBERT"
 
         obj_list = ['background']
         with open(params.path_to_obj_list) as f:
@@ -60,11 +65,14 @@ class LXMERTDatasetWrapper:
         params: Dict[str, Any],
         images: Dict[str, List[int]],
         captions: Dict[str, str],
-        image_features_path_or_dir: Dict[str, Any]
+        image_features_path_or_dir: Dict[str, Any],
+        **kwargs
     ):
         from .lxmert.lxmert_bias_data import (
             LXMERTBiasDataset, LXMERTBiasTorchDataset
         )
+
+        assert len(kwargs) == 0, "No kwargs should be passed for LXMERT"
 
         # these objects correspond to image region labels that can be masked
         self.obj_list = ['background']
@@ -110,9 +118,12 @@ class VLBERTDatasetWrapper:
         params: Dict[str, Any],
         images: Dict[str, List[int]],
         captions: Dict[str, str],
-        image_features_path_or_dir: Dict[str, Any]
+        image_features_path_or_dir: Dict[str, Any],
+        **kwargs
     ):
         from .vlbert import VLBERTBiasDataset
+
+        assert len(kwargs) == 0, "No kwargs should be passed for VLBERT"
 
         # these objects correspond to image region labels that can be masked
         self.obj_list = ['background']
@@ -160,27 +171,32 @@ class VLBERTDatasetWrapper:
                     boxes[example_idx][label_idx] = torch.zeros_like(boxes[example_idx][label_idx])
         return boxes
 
-# write a dataset that wraps around this
-# should return image features
 class CustomModelDatasetWrapper(Dataset):
     def __init__(
         self,
         params: Dict[str, Any],
         images: Dict[str, List[int]],
         captions: Dict[str, str],
-        image_features_path_or_dir: Dict[str, Any]
+        image_features_path_or_dir: Dict[str, Any],
+        load_or_compute_image_features: Callable,
+        create_dataset: Callable
     ):
-        pass
+        assert load_or_compute_image_features is not None
+        assert create_dataset is not None
 
-    # @abstractmethod
-    # def load_or_compute_image_features(images)
+        image_features = load_or_compute_image_features(
+            images, captions, image_features_path_or_dir
+            )
+        self.dataset = create_dataset(
+            params, images, captions, image_features
+            )
 
 
 DATASET_CLASS = {
     'visualbert' : VisualBERTDatasetWrapper,
     'vilbert' : ViLBERTDatasetWrapper,
     'lxmert' : LXMERTDatasetWrapper,
-    #'vlbert' : VLBERTDatasetWrapper,
+    'vlbert' : VLBERTDatasetWrapper,
     'custom' : CustomModelDatasetWrapper
     }
 
