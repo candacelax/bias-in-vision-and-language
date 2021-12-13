@@ -22,10 +22,8 @@ import collections
 import unicodedata
 import os
 import logging
-from pathlib import Path
-from typing import Union
 from urllib.parse import urlparse
-from dataloaders.file_utils import *
+from .file_utils import *
 
 logger = logging.getLogger(__name__)
 
