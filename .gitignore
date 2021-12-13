@@ -1,4 +1,4 @@
-data/
+data/**/*.jpg
 node_modules
 **/__pycache__
 .pytorch_pretrained_bert/
