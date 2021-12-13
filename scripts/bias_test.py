@@ -1,6 +1,6 @@
 from copy import deepcopy
 from attrdict import AttrDict
-from typing import Dict, List
+from typing import Dict
 import torch
 from torch import nn
 from warnings import warn
@@ -10,20 +10,31 @@ from .weat.weat_images_targ_specific import run_test as weat_specific
 from .weat.weat_images_intra_targ import run_test as weat_intra
 from .weat.general_vals import get_general_vals
 
-from ..dataloaders import create_dataloader
+from .dataloaders.dataset_wrappers import create_dataset
+from .dataloaders.bias_dataloader import BiasDataLoader
 
 class BiasTest:
     def __init__(
         self,
         params: AttrDict,
-        test_name: str,
         test_data: Dict,
-        image_features: Dict, # TODO confirm type
+        preextracted_features: Dict[str, str]=None
         ):
-        print(f'Loading test {test_name}')
-        self.test_name = test_name
+        self.test_name = test_data['test_name']
         self.dataset_name = test_data['dataset']
         self.test_types = test_data['test_types']
+        print(f'Loading test {self.test_name}')
+        
+        if preextracted_features:
+            image_features_path_or_dir = preextracted_features[self.dataset_name][self.test_name]
+        else:
+            image_features_path_or_dir = None
+        self.dataset = create_dataset(
+            params=deepcopy(params),
+            captions=test_data['targ1']['captions'],
+            images=test_data['targ1']['images'],
+            image_features_path_or_dir=image_features_path_or_dir
+        )
 
         # add uncased versions of all contextual words as well
         test_data['contextual_words'].extend([w.lower() for w in test_data['contextual_words']])
@@ -34,53 +45,47 @@ class BiasTest:
         self.category_A = test_data['attr1']['category']
         self.category_B = test_data['attr2']['category']
 
-        self.dataloader_targ_X = create_dataloader(
-            params=deepcopy(params),
+        self.dataloader_targ_X = BiasDataLoader(
+            dataset=self.dataset,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
             category=self.category_X,
-            captions=test_data['targ1']['captions'],
-            images=test_data['targ1']['images'],
             contextual_words=test_data['contextual_words'],
-            image_features=image_features
             )
-        self.dataloader_targ_Y = create_dataloader(
-            params=deepcopy(params),
+        self.dataloader_targ_Y = BiasDataLoader(
+            dataset=self.dataset,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
             category=self.category_Y,
-            captions=test_data['targ2']['captions'],
-            images=test_data['targ2']['images'],
             contextual_words=test_data['contextual_words'],
-            image_features=image_features
             )
-        self.dataloader_attr_AX = create_dataloader(
-            params=deepcopy(params),
+        self.dataloader_attr_AX = BiasDataLoader(
+            dataset=self.dataset,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
             category=self.category_A,
-            captions=test_data['attr1']['captions'],
-            images=test_data['attr1'][self.category_X+'_Images'],
             contextual_words=test_data['contextual_words'],
-            image_features=image_features
             )
-        self.dataloader_attr_AY = create_dataloader(
-            params=deepcopy(params),
+        self.dataloader_attr_AY = BiasDataLoader(
+            dataset=self.dataset,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
             category=self.category_A,
-            captions=test_data['attr1']['captions'],
-            images=test_data['attr1'][self.category_Y+'_Images'],
             contextual_words=test_data['contextual_words'],
-            image_features=image_features
             )
-        self.dataloader_attr_BX = create_dataloader(
-            params=deepcopy(params),
+        self.dataloader_attr_BX = BiasDataLoader(
+            dataset=self.dataset,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
             category=self.category_B,
-            captions=test_data['attr2']['captions'],
-            images=test_data['attr2'][self.category_X+'_Images'],
             contextual_words=test_data['contextual_words'],
-            image_features=image_features
             )
-        self.dataloader_attr_BY = create_dataloader(
-            params=deepcopy(params),
+        self.dataloader_attr_BY = BiasDataLoader(
+            dataset=self.dataset,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
             category=self.category_B,
-            captions=test_data['attr2']['captions'],
-            images=test_data['attr2'][self.category_Y+'_Images'],
             contextual_words=test_data['contextual_words'],
-            image_features=image_features
             )
         self.dataloaders = [
             self.dataloader_targ_X, self.dataloader_targ_Y,
@@ -112,30 +117,31 @@ class BiasTest:
         encoded_BX, encoded_BX_mask_t, encoded_BX_mask_v = model.encode(self.dataloader_attr_BX)
         encoded_BY, encoded_BY_mask_t, encoded_BY_mask_v = model.encode(self.dataloader_attr_BY)
             
-        encodings = {'targ_X' : encoded_X['full_seq'],
-                     'targ_Y' : encoded_Y['full_seq'],
-                     'attr_AX' : encoded_AX['full_seq'],
-                     'attr_AY' : encoded_AY['full_seq'],
-                     'attr_BX' : encoded_BX['full_seq'],
-                     'attr_BY' : encoded_BY['full_seq'],
-                     'targ_X_mask_t' : encoded_X_mask_t['full_seq'],
-                     'targ_Y_mask_t' : encoded_Y_mask_t['full_seq'],
-                     'attr_AX_mask_t' : encoded_AX_mask_t['full_seq'],
-                     'attr_AY_mask_t' : encoded_AY_mask_t['full_seq'],
-                     'attr_BX_mask_t' : encoded_BX_mask_t['full_seq'],
-                     'attr_BY_mask_t' : encoded_BY_mask_t['full_seq'],
-                     'targ_X_mask_v' : encoded_X_mask_v['full_seq'],
-                     'targ_Y_mask_v' : encoded_Y_mask_v['full_seq'],
-                     'attr_AX_mask_v' : encoded_AX_mask_v['full_seq'],
-                     'attr_AY_mask_v' : encoded_AY_mask_v['full_seq'],
-                     'attr_BX_mask_v' : encoded_BX_mask_v['full_seq'],
-                     'attr_BY_mask_v' : encoded_BY_mask_v['full_seq'],
-                     'contextual_targ_X' : encoded_X['contextual'],
-                     'contextual_targ_Y' : encoded_Y['contextual'],
-                     'contextual_attr_AX' : encoded_AX['contextual'],
-                     'contextual_attr_AY' : encoded_AY['contextual'],
-                     'contextual_attr_BX' : encoded_BX['contextual'],
-                     'contextual_attr_BY' : encoded_BY['contextual']
+        encodings = {
+            'targ_X' : encoded_X['full_seq'],
+            'targ_Y' : encoded_Y['full_seq'],
+            'attr_AX' : encoded_AX['full_seq'],
+            'attr_AY' : encoded_AY['full_seq'],
+            'attr_BX' : encoded_BX['full_seq'],
+            'attr_BY' : encoded_BY['full_seq'],
+            'targ_X_mask_t' : encoded_X_mask_t['full_seq'],
+            'targ_Y_mask_t' : encoded_Y_mask_t['full_seq'],
+            'attr_AX_mask_t' : encoded_AX_mask_t['full_seq'],
+            'attr_AY_mask_t' : encoded_AY_mask_t['full_seq'],
+            'attr_BX_mask_t' : encoded_BX_mask_t['full_seq'],
+            'attr_BY_mask_t' : encoded_BY_mask_t['full_seq'],
+            'targ_X_mask_v' : encoded_X_mask_v['full_seq'],
+            'targ_Y_mask_v' : encoded_Y_mask_v['full_seq'],
+            'attr_AX_mask_v' : encoded_AX_mask_v['full_seq'],
+            'attr_AY_mask_v' : encoded_AY_mask_v['full_seq'],
+            'attr_BX_mask_v' : encoded_BX_mask_v['full_seq'],
+            'attr_BY_mask_v' : encoded_BY_mask_v['full_seq'],
+            'contextual_targ_X' : encoded_X['contextual'],
+            'contextual_targ_Y' : encoded_Y['contextual'],
+            'contextual_attr_AX' : encoded_AX['contextual'],
+            'contextual_attr_AY' : encoded_AY['contextual'],
+            'contextual_attr_BX' : encoded_BX['contextual'],
+            'contextual_attr_BY' : encoded_BY['contextual']
         }
         return encodings
 
