@@ -5,12 +5,12 @@ import torch
 from torch import nn
 from warnings import warn
 
-from scripts.weat.weat_images_union import run_test as weat_union
-from scripts.weat.weat_images_targ_specific import run_test as weat_specific
-from scripts.weat.weat_images_intra_targ import run_test as weat_intra
-from scripts.weat.general_vals import get_general_vals
+from .weat.weat_images_union import run_test as weat_union
+from .weat.weat_images_targ_specific import run_test as weat_specific
+from .weat.weat_images_intra_targ import run_test as weat_intra
+from .weat.general_vals import get_general_vals
 
-from dataloaders import create_dataloader
+from ..dataloaders import create_dataloader
 
 class BiasTest:
     def __init__(
