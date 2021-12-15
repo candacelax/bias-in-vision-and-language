@@ -182,7 +182,8 @@ class CustomModelDatasetWrapper(Dataset):
         captions: Dict[str, str],
         image_features_path_or_dir: Dict[str, Any],
         load_or_compute_image_features: Callable,
-        create_dataset: Callable
+        create_dataset: Callable,
+        **kwargs
     ):
         assert load_or_compute_image_features is not None
         assert create_dataset is not None
@@ -191,7 +192,7 @@ class CustomModelDatasetWrapper(Dataset):
             images, dataset_dir, captions, image_features_path_or_dir
             )
         self.dataset = create_dataset(
-            params, images, captions, image_features
+            params, images, captions, image_features, **kwargs
             )
 
 
