@@ -16,8 +16,9 @@ class VisualBERTDatasetWrapper:
         image_features_path_or_dir: Dict[str, Any],
         **kwargs
     ):
-        assert len(kwargs) == 0, "No kwargs should be passed for VisualBERT"
         from .visualbert.bias_dataset import BiasDataset
+        kwargs.pop("dataset_dir")
+        assert len(kwargs) == 0, "No kwargs should be passed for VisualBERT"
         image_features = torch.load(image_features_path_or_dir)
         self.dataset = BiasDataset(
             images=images,
@@ -42,6 +43,7 @@ class ViLBERTDatasetWrapper:
     ):
         from .vilbert.bias_dataset import BiasDataset
         from .vilbert._image_features_reader import ImageFeaturesH5ReaderWithObjClasses
+        kwargs.pop("dataset_dir")
         assert len(kwargs) == 0, "No kwargs should be passed for ViLBERT"
 
         obj_list = ['background']
@@ -71,7 +73,7 @@ class LXMERTDatasetWrapper:
         from .lxmert.lxmert_bias_data import (
             LXMERTBiasDataset, LXMERTBiasTorchDataset
         )
-
+        kwargs.pop("dataset_dir")
         assert len(kwargs) == 0, "No kwargs should be passed for LXMERT"
 
         # these objects correspond to image region labels that can be masked
@@ -122,7 +124,7 @@ class VLBERTDatasetWrapper:
         **kwargs
     ):
         from .vlbert import VLBERTBiasDataset
-
+        kwargs.pop("dataset_dir")
         assert len(kwargs) == 0, "No kwargs should be passed for VLBERT"
 
         # these objects correspond to image region labels that can be masked
@@ -203,7 +205,7 @@ DATASET_CLASS = {
 
 def create_dataset(
         params: AttrDict,
-        dataset_name: str,
+        dataset_dir: str,
         captions: Dict[str, str],
         images: Dict[str, List[int]],
         image_features_path_or_dir,
@@ -211,7 +213,7 @@ def create_dataset(
     ):
     dataset_wrapper = DATASET_CLASS[params.model_type](
         params=params,
-        dataset_name=dataset_name,
+        dataset_dir=dataset_dir,
         captions=captions,
         images=images,
         image_features_path_or_dir=image_features_path_or_dir,

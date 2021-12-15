@@ -19,6 +19,8 @@ class BiasTest:
         params: AttrDict,
         test_data: Dict,
         preextracted_features: Dict[str, str]=None,
+        pad_token: str='[PAD]',
+        mask_token: str='[MASK]',
         **kwargs
         ):
         self.test_name = test_data['test_name']
@@ -30,7 +32,7 @@ class BiasTest:
             image_features_path_or_dir = preextracted_features[self.dataset_name][self.test_name]
         else:
             image_features_path_or_dir = None
-
+        
         self.dataset_wrapper = create_dataset(
             params=deepcopy(params),
             dataset_dir=test_data['dataset_dir'],
@@ -56,6 +58,8 @@ class BiasTest:
             num_gpus=params.num_gpus,
             category=self.category_X,
             contextual_words=test_data['contextual_words'],
+            pad_token=pad_token,
+            mask_token=mask_token
             )
         self.dataloader_targ_Y = BiasDataLoader(
             dataset=self.dataset,
@@ -63,6 +67,8 @@ class BiasTest:
             num_gpus=params.num_gpus,
             category=self.category_Y,
             contextual_words=test_data['contextual_words'],
+            pad_token=pad_token,
+            mask_token=mask_token
             )
         self.dataloader_attr_AX = BiasDataLoader(
             dataset=self.dataset,
@@ -70,6 +76,8 @@ class BiasTest:
             num_gpus=params.num_gpus,
             category=self.category_A,
             contextual_words=test_data['contextual_words'],
+            pad_token=pad_token,
+            mask_token=mask_token
             )
         self.dataloader_attr_AY = BiasDataLoader(
             dataset=self.dataset,
@@ -77,6 +85,8 @@ class BiasTest:
             num_gpus=params.num_gpus,
             category=self.category_A,
             contextual_words=test_data['contextual_words'],
+            pad_token=pad_token,
+            mask_token=mask_token
             )
         self.dataloader_attr_BX = BiasDataLoader(
             dataset=self.dataset,
@@ -84,6 +94,8 @@ class BiasTest:
             num_gpus=params.num_gpus,
             category=self.category_B,
             contextual_words=test_data['contextual_words'],
+            pad_token=pad_token,
+            mask_token=mask_token
             )
         self.dataloader_attr_BY = BiasDataLoader(
             dataset=self.dataset,
@@ -91,6 +103,8 @@ class BiasTest:
             num_gpus=params.num_gpus,
             category=self.category_B,
             contextual_words=test_data['contextual_words'],
+            pad_token=pad_token,
+            mask_token=mask_token
             )
         self.dataloaders = [
             self.dataloader_targ_X, self.dataloader_targ_Y,
