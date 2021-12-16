@@ -22,10 +22,12 @@ class ModelWrapper:
         sequence_output = sequence_output.detach().cpu()
         for idx in range(len(sequence_output)):
             # take 0-th dim corresponding to CLS token (for words + sents)
-            index_of_contextual_id = (masked_t_input_ids[idx] == mask_token_id).nonzero()[0].item() # TODO add dim
             enc_full_seq[len(enc_full_seq)] = sequence_output[idx][0,:]
-            enc_contextual[len(enc_contextual)] = sequence_output[idx][index_of_contextual_id,:]
-            enc_mask_t_full_seq[len(enc_mask_t_full_seq)] = masked_t_sequence_output[idx][0,:]
+            if masked_t_input_ids is not None:
+                index_of_contextual_id = (masked_t_input_ids[idx] == mask_token_id).nonzero()[0].item() # TODO add dim
+                enc_contextual[len(enc_contextual)] = sequence_output[idx][index_of_contextual_id,:]
+            if masked_t_sequence_output is not None:
+                enc_mask_t_full_seq[len(enc_mask_t_full_seq)] = masked_t_sequence_output[idx][0,:]
             if masked_v_sequence_output is not None:
                 enc_mask_v_full_seq[len(enc_mask_t_full_seq)] = masked_v_sequence_output[idx][0,:]
 
