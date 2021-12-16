@@ -9,8 +9,6 @@ from .weat.weat_images_union import run_test as weat_union
 from .weat.weat_images_targ_specific import run_test as weat_specific
 from .weat.weat_images_intra_targ import run_test as weat_intra
 from .weat.general_vals import get_general_vals
-
-from .dataloaders.dataset_wrappers import create_dataset
 from .dataloaders.bias_dataloader import BiasDataLoader
 
 class BiasTest:
@@ -33,16 +31,6 @@ class BiasTest:
         else:
             image_features_path_or_dir = None
         
-        self.dataset_wrapper = create_dataset(
-            params=deepcopy(params),
-            dataset_dir=test_data['dataset_dir'],
-            captions=test_data['targ1']['captions'],
-            images=test_data['targ1']['images'],
-            image_features_path_or_dir=image_features_path_or_dir,
-            **kwargs
-        )
-        self.dataset = self.dataset_wrapper.dataset
-
         # add uncased versions of all contextual words as well
         test_data['contextual_words'].extend([w.lower() for w in test_data['contextual_words']])
         
@@ -53,63 +41,90 @@ class BiasTest:
         self.category_B = test_data['attr2']['category']
 
         self.dataloader_targ_X = BiasDataLoader(
-            dataset=self.dataset,
-            batch_size=params.batch_size,
-            num_gpus=params.num_gpus,
-            category=self.category_X,
+            params=params,
+            captions=test_data['targ1']['captions'],
+            images=test_data['targ1']['images'],
+            dataset_dir=test_data['dataset_dir'],
+            image_features_path_or_dir=image_features_path_or_dir,
             contextual_words=test_data['contextual_words'],
             pad_token=pad_token,
-            mask_token=mask_token
+            mask_token=mask_token,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
+            **kwargs
             )
         self.dataloader_targ_Y = BiasDataLoader(
-            dataset=self.dataset,
-            batch_size=params.batch_size,
-            num_gpus=params.num_gpus,
-            category=self.category_Y,
+            params=params,
+            captions=test_data['targ2']['captions'],
+            images=test_data['targ2']['images'],
+            dataset_dir=test_data['dataset_dir'],
+            image_features_path_or_dir=image_features_path_or_dir,
             contextual_words=test_data['contextual_words'],
             pad_token=pad_token,
-            mask_token=mask_token
+            mask_token=mask_token,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
+            **kwargs
             )
         self.dataloader_attr_AX = BiasDataLoader(
-            dataset=self.dataset,
-            batch_size=params.batch_size,
-            num_gpus=params.num_gpus,
-            category=self.category_A,
+            params=params,
+            captions=test_data['attr1']['captions'],
+            images=test_data['attr1'][self.category_X+'_Images'],
+            dataset_dir=test_data['dataset_dir'],
+            image_features_path_or_dir=image_features_path_or_dir,
             contextual_words=test_data['contextual_words'],
             pad_token=pad_token,
-            mask_token=mask_token
+            mask_token=mask_token,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
+            **kwargs
             )
         self.dataloader_attr_AY = BiasDataLoader(
-            dataset=self.dataset,
-            batch_size=params.batch_size,
-            num_gpus=params.num_gpus,
-            category=self.category_A,
+            params=params,
+            captions=test_data['attr1']['captions'],
+            images=test_data['attr1'][self.category_Y+'_Images'],
+            dataset_dir=test_data['dataset_dir'],
+            image_features_path_or_dir=image_features_path_or_dir,
             contextual_words=test_data['contextual_words'],
             pad_token=pad_token,
-            mask_token=mask_token
+            mask_token=mask_token,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
+            **kwargs
             )
         self.dataloader_attr_BX = BiasDataLoader(
-            dataset=self.dataset,
-            batch_size=params.batch_size,
-            num_gpus=params.num_gpus,
-            category=self.category_B,
+            params=params,
+            captions=test_data['attr2']['captions'],
+            images=test_data['attr2'][self.category_X+'_Images'],
+            dataset_dir=test_data['dataset_dir'],
+            image_features_path_or_dir=image_features_path_or_dir,
             contextual_words=test_data['contextual_words'],
             pad_token=pad_token,
-            mask_token=mask_token
+            mask_token=mask_token,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
+            **kwargs
             )
         self.dataloader_attr_BY = BiasDataLoader(
-            dataset=self.dataset,
-            batch_size=params.batch_size,
-            num_gpus=params.num_gpus,
-            category=self.category_B,
+            params=params,
+            captions=test_data['attr2']['captions'],
+            images=test_data['attr2'][self.category_Y+'_Images'],
+            dataset_dir=test_data['dataset_dir'],
+            image_features_path_or_dir=image_features_path_or_dir,
             contextual_words=test_data['contextual_words'],
             pad_token=pad_token,
-            mask_token=mask_token
+            mask_token=mask_token,
+            batch_size=params.batch_size,
+            num_gpus=params.num_gpus,
+            **kwargs
             )
         self.dataloaders = [
-            self.dataloader_targ_X, self.dataloader_targ_Y,
-            self.dataloader_attr_AX, self.dataloader_attr_AY,
-            self.dataloader_attr_BX, self.dataloader_attr_BY
+            self.dataloader_targ_X,
+            self.dataloader_targ_Y,
+            self.dataloader_attr_AX,
+            self.dataloader_attr_AY,
+            self.dataloader_attr_BX,
+            self.dataloader_attr_BY
             ]
         
     def dataloaders(self):

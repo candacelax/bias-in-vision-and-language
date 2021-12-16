@@ -1,42 +1,56 @@
+from attrdict import AttrDict
 from copy import deepcopy
 import re
-from typing import Dict, List
+from typing import Any, Dict, List
 import torch
-from torch.utils.data import DataLoader, Dataset
+from torch.utils.data import DataLoader
+from .dataset_wrappers import create_dataset
 
 class BiasDataLoader(DataLoader):
     def __init__(
         self,
-        dataset: Dataset,
+        params: AttrDict,
+        dataset_dir: str,
+        images: List[str],
+        captions: List[str],
+        image_features_path_or_dir: str,
+        contextual_words: List[str],
         batch_size: int,
         num_gpus: int,
-        category: str,
-        contextual_words: List[str],
         num_workers: int=0,
         mask_token: str='[MASK]',
-        pad_token: str='[PAD]'
+        pad_token: str='[PAD]',
+        **kwargs
         ):
+        self.dataset_wrapper = create_dataset(
+            params=deepcopy(params),
+            captions=captions,
+            images=images,
+            dataset_dir=dataset_dir,
+            image_features_path_or_dir=image_features_path_or_dir,
+            **kwargs
+        )
+        
         super().__init__(
-            dataset=dataset,
+            dataset=self.dataset_wrapper.dataset,
             batch_size=batch_size // num_gpus,
             shuffle=False,
             num_workers=num_workers,
-            collate_fn=getattr(dataset, 'collate_fn', None),
+            collate_fn=getattr(self.dataset_wrapper.dataset, 'collate_fn', None),
             drop_last=False,
             pin_memory=False
         )
         
-        self.tokenizer = dataset.tokenizer
-        self.category = category
+        self.tokenizer = self.dataset.tokenizer
         self.contextual_words = contextual_words
         self.contextual_words_with_people = contextual_words + ['people', 'person', 'woman', 'women', 'man', 'men']
         
-        self.convert_tokens_to_ids = dataset.tokenizer.convert_tokens_to_ids
-        self.convert_ids_to_tokens = dataset.tokenizer.convert_ids_to_tokens
-        self.mask_token_id = dataset.tokenizer.convert_tokens_to_ids([mask_token])[0]
-        self.pad_token_id = dataset.tokenizer.convert_tokens_to_ids([pad_token])[0]
+        self.convert_tokens_to_ids = self.dataset.tokenizer.convert_tokens_to_ids
+        self.convert_ids_to_tokens = self.dataset.tokenizer.convert_ids_to_tokens
+        self.mask_token_id = self.dataset.tokenizer.convert_tokens_to_ids([mask_token])[0]
+        self.pad_token_id = self.dataset.tokenizer.convert_tokens_to_ids([pad_token])[0]
 
-        self.contextual_word_ids = [self.convert_tokens_to_ids(dataset.tokenizer.tokenize(word)) for word in self.contextual_words]
+        self.contextual_word_ids = [self.convert_tokens_to_ids(self.dataset.tokenizer.tokenize(word)) for word in self.contextual_words]
         
         # we'll find the longest matching tokenized spans first when we replace with masked id
         self.contextual_word_ids_as_strings = []
