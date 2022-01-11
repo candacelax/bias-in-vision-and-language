@@ -33,7 +33,7 @@ class BiasDataLoader(DataLoader):
         
         super().__init__(
             dataset=self.dataset_wrapper.dataset,
-            batch_size=batch_size // num_gpus,
+            batch_size=min(batch_size // num_gpus, 1),
             shuffle=False,
             num_workers=num_workers,
             collate_fn=getattr(self.dataset_wrapper.dataset, 'collate_fn', None),
