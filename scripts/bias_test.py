@@ -23,8 +23,14 @@ class BiasTest:
         ):
         self.test_name = test_data['test_name']
         self.dataset_name = test_data['dataset']
-        self.test_types = test_data['test_types']
         print(f'Loading test {self.test_name}')
+
+        self.test_types = test_data['test_types']
+        skip_test_types = kwargs.get('skip_test_types')
+        if skip_test_types:
+            self.test_types = list(
+                set(self.test_types).difference('skip_test_types')
+            )
         
         if preextracted_features:
             image_features_path_or_dir = preextracted_features[self.dataset_name][self.test_name]
