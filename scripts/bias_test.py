@@ -139,10 +139,6 @@ class BiasTest:
         encoded_X, encoded_X_mask_t, encoded_X_mask_v = model.encode(self.dataloader_targ_X)
         encoded_Y, encoded_Y_mask_t, encoded_Y_mask_v = model.encode(self.dataloader_targ_Y)
         
-        # targets w/ corresponding images
-        encoded_X, encoded_X_mask_t, encoded_X_mask_v = model.encode(self.dataloader_targ_X)
-        encoded_Y, encoded_Y_mask_t, encoded_Y_mask_v = model.encode(self.dataloader_targ_Y)
-        
         # attribute A with images corresponding to targets X and Y
         encoded_AX, encoded_AX_mask_t, encoded_AX_mask_v = model.encode(self.dataloader_attr_AX)
         encoded_AY, encoded_AY_mask_t, encoded_AY_mask_v = model.encode(self.dataloader_attr_AY)
