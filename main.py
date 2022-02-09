@@ -8,7 +8,7 @@ import torch
 from scripts import(
     BiasTest, Writer, utils
 )
-from models import TYPE2WRAPPER
+from scripts.models import TYPE2WRAPPER
 
 def load_eval_params():
     parser = ArgumentParser(config_file_parser_class=YAMLConfigFileParser)
@@ -22,7 +22,7 @@ def load_eval_params():
     parser.add_argument('--num_samples', type=int, default=100000, help='num/samples for p-val permutation test')
     parser.add_argument('--test2features_path', type=str, required=True, help='path to JSON file of features, stored by model and test')
     parser.add_argument('--tests', nargs='+', required=True, help='paths to tests to run')
-    parser.add_argument('--model_type', type=str, required=True, choices=['lxmert', 'visualbert', 'vilbert', 'vlbert', 'custom'])
+    parser.add_argument('--model_type', type=str, required=True, choices=['lxmert', 'visualbert', 'vilbert', 'vlbert'])
     parser.add_argument('--model_archive', type=str, required=True, help='path to saved model to load')
     parser.add_argument('--max_seq_length', type=int, default=36)
     
