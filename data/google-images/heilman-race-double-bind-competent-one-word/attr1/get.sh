@@ -1,220 +1,220 @@
-wget --tries=2 -O ea_competent_male_0.jpg https://st3.depositphotos.com/3261171/16750/i/1600/depositphotos_167507608-stock-photo-competent-professor-touching-his-glasses.jpg
-wget --tries=2 -O ea_competent_male_1.jpg https://c8.alamy.com/comp/HB7J8B/senior-as-competent-doctor-and-chief-physician-at-hospital-HB7J8B.jpg
-wget --tries=2 -O ea_competent_male_2.jpg https://previews.123rf.com/images/stylephotographs/stylephotographs1803/stylephotographs180300366/98428414-asian-man-as-competent-business-expert-and-consultant-with-checklist.jpg
-wget --tries=2 -O ea_competent_male_3.jpg https://media.istockphoto.com/photos/young-man-doctor-in-uniform-isolated-on-white-background-standing-picture-id1019475396
-wget --tries=2 -O ea_competent_male_4.jpg https://qph.fs.quoracdn.net/main-qimg-5addea463649a46a3f0594b4eda3fe65.webp
-wget --tries=2 -O ea_competent_female_0.jpg https://previews.123rf.com/images/kaarsten/kaarsten1104/kaarsten110400007/9472968-competent-female-doctor-all-on-white-background-.jpg
-wget --tries=2 -O ea_competent_female_1.jpg https://c8.alamy.com/comp/WP90MM/side-view-competent-woman-doctor-with-stethoscope-isolated-on-white-WP90MM.jpg
-wget --tries=2 -O ea_competent_female_2.jpg https://media.istockphoto.com/photos/competent-doctor-woman-healthcare-white-smock-stethoscope-picture-id1064666050
-wget --tries=2 -O ea_competent_female_3.jpg https://thumbs.dreamstime.com/z/competent-woman-doing-diy-26027895.jpg
-wget --tries=2 -O ea_competent_female_4.jpg https://thumbs.dreamstime.com/z/competent-woman-photographer-takes-shots-snapshots-isolated-white-background-34057977.jpg
+wget --tries=2 --timeout=10 -O ea_competent_male_0.jpg https://st3.depositphotos.com/3261171/16750/i/1600/depositphotos_167507608-stock-photo-competent-professor-touching-his-glasses.jpg
+wget --tries=2 --timeout=10 -O ea_competent_male_1.jpg https://c8.alamy.com/comp/HB7J8B/senior-as-competent-doctor-and-chief-physician-at-hospital-HB7J8B.jpg
+wget --tries=2 --timeout=10 -O ea_competent_male_2.jpg https://previews.123rf.com/images/stylephotographs/stylephotographs1803/stylephotographs180300366/98428414-asian-man-as-competent-business-expert-and-consultant-with-checklist.jpg
+wget --tries=2 --timeout=10 -O ea_competent_male_3.jpg https://media.istockphoto.com/photos/young-man-doctor-in-uniform-isolated-on-white-background-standing-picture-id1019475396
+wget --tries=2 --timeout=10 -O ea_competent_male_4.jpg https://qph.fs.quoracdn.net/main-qimg-5addea463649a46a3f0594b4eda3fe65.webp
+wget --tries=2 --timeout=10 -O ea_competent_female_0.jpg https://previews.123rf.com/images/kaarsten/kaarsten1104/kaarsten110400007/9472968-competent-female-doctor-all-on-white-background-.jpg
+wget --tries=2 --timeout=10 -O ea_competent_female_1.jpg https://c8.alamy.com/comp/WP90MM/side-view-competent-woman-doctor-with-stethoscope-isolated-on-white-WP90MM.jpg
+wget --tries=2 --timeout=10 -O ea_competent_female_2.jpg https://media.istockphoto.com/photos/competent-doctor-woman-healthcare-white-smock-stethoscope-picture-id1064666050
+wget --tries=2 --timeout=10 -O ea_competent_female_3.jpg https://thumbs.dreamstime.com/z/competent-woman-doing-diy-26027895.jpg
+wget --tries=2 --timeout=10 -O ea_competent_female_4.jpg https://thumbs.dreamstime.com/z/competent-woman-photographer-takes-shots-snapshots-isolated-white-background-34057977.jpg
 				     
-wget --tries=2 -O ea_productive_male_0.jpg https://previews.123rf.com/images/yacobchuk/yacobchuk1712/yacobchuk171200726/91463900-productive-training-tired-tranquil-man-wiping-his-sweat-with-white-towel-while-closing-eyes-and-drea.jpg
-wget --tries=2 -O ea_productive_male_1.jpg https://assets.entrepreneur.com/content/3x2/2000/20190219141005-Michael-Mankins--Bain--Company-4000pxW-X-2670pxH.jpeg?width=700&crop=2:1
-wget --tries=2 -O ea_productive_male_2.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_1142580867_402257.jpg
-wget --tries=2 -O ea_productive_male_3.jpg https://images.squarespace-cdn.com/content/v1/59729945cf81e0da663a3f6f/1501248950477-F62CNBVTQHJ5EF7W64RL/ke17ZwdGBToddI8pDm48kG4sWXxm5MLGzYXxhI3Emb8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcDFrDsapgIo0q8jUcW8rNPjhtZThjXNYUQzTwr7Xuxi1NR1RJqyZivqtN160e7oMj/image-asset.jpeg?format=1000w
-wget --tries=2 -O ea_productive_male_4.jpg https://www.rd.com/wp-content/uploads/2017/10/00_here-s-exactly-how-often-the-most-productive-people-take-breaks_282759554-baranq-760x506.jpg
-wget --tries=2 -O ea_productive_female_0.jpg https://thumbs.dreamstime.com/b/closed-up-shot-beautiful-caucasian-blond-woman-glasses-sweater-feeling-creative-productive-pointing-upper-left-corner-149965824.jpg
-wget --tries=2 -O ea_productive_female_1.jpg https://c8.alamy.com/comp/PR96DM/woman-is-having-productive-day-at-work-in-office-PR96DM.jpg
-wget --tries=2 -O ea_productive_female_2.jpg https://previews.123rf.com/images/sevalv/sevalv1911/sevalv191100665/133753678-close-up-relaxed-carefree-lovely-feminine-brunette-woman-touching-neck-gently-and-smiling-feeling-ch.jpg
-wget --tries=2 -O ea_productive_female_3.jpg https://static1.bigstockphoto.com/2/8/1/large1500/182001823.jpg
-wget --tries=2 -O ea_productive_female_4.jpg https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wM1xcXC8wNjE3MDYzNlxcXC9saW5rZWRpbi1zYWxlcy1uYXZpZ2F0b3ItNDAyODE5LXVuc3BsYXNoLmpwZ1wiLFwid2lkdGhcIjo5OTAsXCJoZWlnaHRcIjo1MjksXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5pbWFnZS5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nP3Y9MlwifSIsImhhc2giOiJmZThlYmIxMDEwOTY2NzIwNGVmZGQzMmVhMjk3NDQ3MGU0NDg4N2EzIn0=/linkedin-sales-navigator-402819-unsplash.jpg
+wget --tries=2 --timeout=10 -O ea_productive_male_0.jpg https://previews.123rf.com/images/yacobchuk/yacobchuk1712/yacobchuk171200726/91463900-productive-training-tired-tranquil-man-wiping-his-sweat-with-white-towel-while-closing-eyes-and-drea.jpg
+wget --tries=2 --timeout=10 -O ea_productive_male_1.jpg https://assets.entrepreneur.com/content/3x2/2000/20190219141005-Michael-Mankins--Bain--Company-4000pxW-X-2670pxH.jpeg?width=700&crop=2:1
+wget --tries=2 --timeout=10 -O ea_productive_male_2.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_1142580867_402257.jpg
+wget --tries=2 --timeout=10 -O ea_productive_male_3.jpg https://images.squarespace-cdn.com/content/v1/59729945cf81e0da663a3f6f/1501248950477-F62CNBVTQHJ5EF7W64RL/ke17ZwdGBToddI8pDm48kG4sWXxm5MLGzYXxhI3Emb8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcDFrDsapgIo0q8jUcW8rNPjhtZThjXNYUQzTwr7Xuxi1NR1RJqyZivqtN160e7oMj/image-asset.jpeg?format=1000w
+wget --tries=2 --timeout=10 -O ea_productive_male_4.jpg https://www.rd.com/wp-content/uploads/2017/10/00_here-s-exactly-how-often-the-most-productive-people-take-breaks_282759554-baranq-760x506.jpg
+wget --tries=2 --timeout=10 -O ea_productive_female_0.jpg https://thumbs.dreamstime.com/b/closed-up-shot-beautiful-caucasian-blond-woman-glasses-sweater-feeling-creative-productive-pointing-upper-left-corner-149965824.jpg
+wget --tries=2 --timeout=10 -O ea_productive_female_1.jpg https://c8.alamy.com/comp/PR96DM/woman-is-having-productive-day-at-work-in-office-PR96DM.jpg
+wget --tries=2 --timeout=10 -O ea_productive_female_2.jpg https://previews.123rf.com/images/sevalv/sevalv1911/sevalv191100665/133753678-close-up-relaxed-carefree-lovely-feminine-brunette-woman-touching-neck-gently-and-smiling-feeling-ch.jpg
+wget --tries=2 --timeout=10 -O ea_productive_female_3.jpg https://static1.bigstockphoto.com/2/8/1/large1500/182001823.jpg
+wget --tries=2 --timeout=10 -O ea_productive_female_4.jpg https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wM1xcXC8wNjE3MDYzNlxcXC9saW5rZWRpbi1zYWxlcy1uYXZpZ2F0b3ItNDAyODE5LXVuc3BsYXNoLmpwZ1wiLFwid2lkdGhcIjo5OTAsXCJoZWlnaHRcIjo1MjksXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5pbWFnZS5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nP3Y9MlwifSIsImhhc2giOiJmZThlYmIxMDEwOTY2NzIwNGVmZGQzMmVhMjk3NDQ3MGU0NDg4N2EzIn0=/linkedin-sales-navigator-402819-unsplash.jpg
 				     
-wget --tries=2 -O ea_effective_male_0.jpg https://image.shutterstock.com/image-photo/friendly-humorous-grandpa-white-beard-260nw-1221897718.jpg
-wget --tries=2 -O ea_effective_male_1.jpg https://cdn.affectcloud.com/lover-beauty/upload/thumb/520x675/imgs/Shapewear/Men\'s_Shaper/MT190120-WH1/MT190120-WH1-201909075d7385d5c6a6b.jpg
-wget --tries=2 -O ea_effective_male_2.jpg https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/01-1/RTX7A5H0.jpg/RTX7A5H0-870.jpg
-wget --tries=2 -O ea_effective_male_3.jpg https://c8.alamy.com/comp/R35TKR/effective-antiperspirant-man-confident-in-his-antiperspirant-sportsman-after-training-pleased-with-antiperspirant-guy-checks-dry-armpit-satisfied-with-clean-clothes-prevent-reduce-perspiration-R35TKR.jpg
-wget --tries=2 -O ea_effective_male_4.jpg https://images.squarespace-cdn.com/content/v1/572f75e77c65e4a1135a3266/1500055386885-9VI5BNQ5ZTL2FNMDGLF6/ke17ZwdGBToddI8pDm48kAr75V_jkPVL5j5tPB6Hp457gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmzUsryC7riGV7bTeYhg5SehXJLTdBuLqhTDeFLgsHvdY5xKmava-rqefwd0XGBik6/image-asset.jpeg
-wget --tries=2 -O ea_effective_female_0.jpg https://image.shutterstock.com/image-photo/effective-young-woman-horizontal-portrait-600w-367149449.jpg
-wget --tries=2 -O ea_effective_female_1.jpg https://st3.depositphotos.com/13200112/18310/i/1600/depositphotos_183103702-stock-photo-effective-woman-hugging-red-striped.jpg
-wget --tries=2 -O ea_effective_female_2.jpg https://previews.123rf.com/images/fashionstock/fashionstock1605/fashionstock160500169/57647778-romantic-portrait-of-young-woman-wearing-black-and-white-dress-and-sunglasses-with-effective-clouds-.jpg
-wget --tries=2 -O ea_effective_female_3.jpg https://media.istockphoto.com/photos/effective-young-smiling-woman-holding-big-red-heart-wooden-word-love-picture-id912600810
-wget --tries=2 -O ea_effective_female_4.jpg https://as1.ftcdn.net/jpg/02/21/27/54/500_F_221275403_EN4RX3Hh0wFW9xuX15Z0IRlxZESKVZNa.jpg
+wget --tries=2 --timeout=10 -O ea_effective_male_0.jpg https://image.shutterstock.com/image-photo/friendly-humorous-grandpa-white-beard-260nw-1221897718.jpg
+wget --tries=2 --timeout=10 -O ea_effective_male_1.jpg https://cdn.affectcloud.com/lover-beauty/upload/thumb/520x675/imgs/Shapewear/Men\'s_Shaper/MT190120-WH1/MT190120-WH1-201909075d7385d5c6a6b.jpg
+wget --tries=2 --timeout=10 -O ea_effective_male_2.jpg https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/01-1/RTX7A5H0.jpg/RTX7A5H0-870.jpg
+wget --tries=2 --timeout=10 -O ea_effective_male_3.jpg https://c8.alamy.com/comp/R35TKR/effective-antiperspirant-man-confident-in-his-antiperspirant-sportsman-after-training-pleased-with-antiperspirant-guy-checks-dry-armpit-satisfied-with-clean-clothes-prevent-reduce-perspiration-R35TKR.jpg
+wget --tries=2 --timeout=10 -O ea_effective_male_4.jpg https://images.squarespace-cdn.com/content/v1/572f75e77c65e4a1135a3266/1500055386885-9VI5BNQ5ZTL2FNMDGLF6/ke17ZwdGBToddI8pDm48kAr75V_jkPVL5j5tPB6Hp457gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmzUsryC7riGV7bTeYhg5SehXJLTdBuLqhTDeFLgsHvdY5xKmava-rqefwd0XGBik6/image-asset.jpeg
+wget --tries=2 --timeout=10 -O ea_effective_female_0.jpg https://image.shutterstock.com/image-photo/effective-young-woman-horizontal-portrait-600w-367149449.jpg
+wget --tries=2 --timeout=10 -O ea_effective_female_1.jpg https://st3.depositphotos.com/13200112/18310/i/1600/depositphotos_183103702-stock-photo-effective-woman-hugging-red-striped.jpg
+wget --tries=2 --timeout=10 -O ea_effective_female_2.jpg https://previews.123rf.com/images/fashionstock/fashionstock1605/fashionstock160500169/57647778-romantic-portrait-of-young-woman-wearing-black-and-white-dress-and-sunglasses-with-effective-clouds-.jpg
+wget --tries=2 --timeout=10 -O ea_effective_female_3.jpg https://media.istockphoto.com/photos/effective-young-smiling-woman-holding-big-red-heart-wooden-word-love-picture-id912600810
+wget --tries=2 --timeout=10 -O ea_effective_female_4.jpg https://as1.ftcdn.net/jpg/02/21/27/54/500_F_221275403_EN4RX3Hh0wFW9xuX15Z0IRlxZESKVZNa.jpg
 				     
-wget --tries=2 -O ea_ambitious_male_0.jpg https://thumbs.dreamstime.com/z/ambitious-businessman-isolated-white-formal-suit-all-possible-handsome-man-hero-his-business-140283211.jpg
-wget --tries=2 -O ea_ambitious_male_1.jpg https://previews.123rf.com/images/vadymvdrobot/vadymvdrobot1803/vadymvdrobot180302724/97777430-photo-of-ambitious-caucasian-man-in-white-shirt-and-eyeglasses-smiling-on-camera-and-pointing-finger.jpg
-wget --tries=2 -O ea_ambitious_male_2.jpg https://c8.alamy.com/comp/WAF3DY/ambitious-and-handsome-ambitious-brutal-boss-man-isolated-on-white-office-life-hipster-with-beard-has-own-business-modern-business-success-bearded-businessman-in-formal-suit-feeling-ambitious-WAF3DY.jpg
-wget --tries=2 -O ea_ambitious_male_3.jpg https://previews.123rf.com/images/kaarsten/kaarsten1002/kaarsten100200437/6457315-an-ambitious-businessman-all-isolated-on-white-background-.jpg
-wget --tries=2 -O ea_ambitious_male_4.jpg https://comps.canstockphoto.com/confident-ambitious-handsome-man-with-stock-photo_csp52059423.jpg
-wget --tries=2 -O ea_ambitious_female_0.jpg https://thumbs.dreamstime.com/b/blonde-business-woman-white-23909732.jpg
-wget --tries=2 -O ea_ambitious_female_1.jpg https://15xomi2v386wytrb8nbsoq34-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/ambitous-660x400.jpg
-wget --tries=2 -O ea_ambitious_female_2.jpg https://thumbs.dreamstime.com/z/studio-shot-skillful-creative-ambitious-european-woman-trendy-t-shirt-standing-profile-over-white-wall-studio-shot-126330546.jpg
-wget --tries=2 -O ea_ambitious_female_3.jpg https://st3.depositphotos.com/13361694/17189/i/1600/depositphotos_171891068-stock-photo-young-confident-happy-young-caucasian.jpg
-wget --tries=2 -O ea_ambitious_female_4.jpg https://miro.medium.com/max/699/1*xaINaIk-VdHVec4xUVlCvw.jpeg
+wget --tries=2 --timeout=10 -O ea_ambitious_male_0.jpg https://thumbs.dreamstime.com/z/ambitious-businessman-isolated-white-formal-suit-all-possible-handsome-man-hero-his-business-140283211.jpg
+wget --tries=2 --timeout=10 -O ea_ambitious_male_1.jpg https://previews.123rf.com/images/vadymvdrobot/vadymvdrobot1803/vadymvdrobot180302724/97777430-photo-of-ambitious-caucasian-man-in-white-shirt-and-eyeglasses-smiling-on-camera-and-pointing-finger.jpg
+wget --tries=2 --timeout=10 -O ea_ambitious_male_2.jpg https://c8.alamy.com/comp/WAF3DY/ambitious-and-handsome-ambitious-brutal-boss-man-isolated-on-white-office-life-hipster-with-beard-has-own-business-modern-business-success-bearded-businessman-in-formal-suit-feeling-ambitious-WAF3DY.jpg
+wget --tries=2 --timeout=10 -O ea_ambitious_male_3.jpg https://previews.123rf.com/images/kaarsten/kaarsten1002/kaarsten100200437/6457315-an-ambitious-businessman-all-isolated-on-white-background-.jpg
+wget --tries=2 --timeout=10 -O ea_ambitious_male_4.jpg https://comps.canstockphoto.com/confident-ambitious-handsome-man-with-stock-photo_csp52059423.jpg
+wget --tries=2 --timeout=10 -O ea_ambitious_female_0.jpg https://thumbs.dreamstime.com/b/blonde-business-woman-white-23909732.jpg
+wget --tries=2 --timeout=10 -O ea_ambitious_female_1.jpg https://15xomi2v386wytrb8nbsoq34-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/ambitous-660x400.jpg
+wget --tries=2 --timeout=10 -O ea_ambitious_female_2.jpg https://thumbs.dreamstime.com/z/studio-shot-skillful-creative-ambitious-european-woman-trendy-t-shirt-standing-profile-over-white-wall-studio-shot-126330546.jpg
+wget --tries=2 --timeout=10 -O ea_ambitious_female_3.jpg https://st3.depositphotos.com/13361694/17189/i/1600/depositphotos_171891068-stock-photo-young-confident-happy-young-caucasian.jpg
+wget --tries=2 --timeout=10 -O ea_ambitious_female_4.jpg https://miro.medium.com/max/699/1*xaINaIk-VdHVec4xUVlCvw.jpeg
 				     
-wget --tries=2 -O ea_active_male_0.jpg http://neatoday.org/wp-content/uploads/2017/11/Terry-Jess-e1511157914921.jpg
-wget --tries=2 -O ea_active_male_1.jpg http://www.ambient-hvac.com/images/Calvin-mg25/White_3200406NM9070.jpg
-wget --tries=2 -O ea_active_male_2.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1545523122/181223-stereo-elevation-white-rappers-eminem-hero_lfsghs
-wget --tries=2 -O ea_active_male_3.jpg https://www.njithighlanders.com/images/2019/8/18/WhiteRene.JPG
-wget --tries=2 -O ea_active_male_4.jpg https://i.ytimg.com/vi/XjbDX9q6RQ0/hqdefault.jpg
-wget --tries=2 -O ea_active_female_0.jpg http://www.c1ukpowerboat.com/image/cache/data/category_14/jockey-active-starlight-tee-pure-white-woman-t-shirt-9153146-3259-500x500_0.jpg
-wget --tries=2 -O ea_active_female_1.jpg https://cdn.shopify.com/s/files/1/0082/2729/1236/products/FS-WHITE-CLAW-TEE-1.jpg?v=1575475600
-wget --tries=2 -O ea_active_female_2.jpg https://c8.alamy.com/comp/PJ39MA/pretty-young-girl-doung-yoga-on-mat-on-the-beach-at-sunsetbeautiful-white-woman-with-muscular-build-in-grey-gym-pants-yellow-top-stretching-before-PJ39MA.jpg
-wget --tries=2 -O ea_active_female_3.jpg https://i.etsystatic.com/9915983/r/il/fd3955/1450895793/il_794xN.1450895793_fc5v.jpg
-wget --tries=2 -O ea_active_female_4.jpg https://thumbs.dreamstime.com/z/friendly-smiling-middle-aged-woman-isolated-white-background-happy-pretty-women-friendly-smiling-middle-aged-woman-isolated-115241337.jpg
+wget --tries=2 --timeout=10 -O ea_active_male_0.jpg http://neatoday.org/wp-content/uploads/2017/11/Terry-Jess-e1511157914921.jpg
+wget --tries=2 --timeout=10 -O ea_active_male_1.jpg http://www.ambient-hvac.com/images/Calvin-mg25/White_3200406NM9070.jpg
+wget --tries=2 --timeout=10 -O ea_active_male_2.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1545523122/181223-stereo-elevation-white-rappers-eminem-hero_lfsghs
+wget --tries=2 --timeout=10 -O ea_active_male_3.jpg https://www.njithighlanders.com/images/2019/8/18/WhiteRene.JPG
+wget --tries=2 --timeout=10 -O ea_active_male_4.jpg https://i.ytimg.com/vi/XjbDX9q6RQ0/hqdefault.jpg
+wget --tries=2 --timeout=10 -O ea_active_female_0.jpg http://www.c1ukpowerboat.com/image/cache/data/category_14/jockey-active-starlight-tee-pure-white-woman-t-shirt-9153146-3259-500x500_0.jpg
+wget --tries=2 --timeout=10 -O ea_active_female_1.jpg https://cdn.shopify.com/s/files/1/0082/2729/1236/products/FS-WHITE-CLAW-TEE-1.jpg?v=1575475600
+wget --tries=2 --timeout=10 -O ea_active_female_2.jpg https://c8.alamy.com/comp/PJ39MA/pretty-young-girl-doung-yoga-on-mat-on-the-beach-at-sunsetbeautiful-white-woman-with-muscular-build-in-grey-gym-pants-yellow-top-stretching-before-PJ39MA.jpg
+wget --tries=2 --timeout=10 -O ea_active_female_3.jpg https://i.etsystatic.com/9915983/r/il/fd3955/1450895793/il_794xN.1450895793_fc5v.jpg
+wget --tries=2 --timeout=10 -O ea_active_female_4.jpg https://thumbs.dreamstime.com/z/friendly-smiling-middle-aged-woman-isolated-white-background-happy-pretty-women-friendly-smiling-middle-aged-woman-isolated-115241337.jpg
 				     
-wget --tries=2 -O ea_decisive_male_0.jpg https://thumbs.dreamstime.com/z/decisive-man-businessman-white-background-34718103.jpg
-wget --tries=2 -O ea_decisive_male_1.jpg https://previews.123rf.com/images/vadymvdrobot/vadymvdrobot1803/vadymvdrobot180300718/96918419-portrait-of-decisive-business-man-in-black-suit-and-eyeglasses-emoionally-punching-aside-in-boxing-g.jpg
-wget --tries=2 -O ea_decisive_male_2.jpg https://thehill.com/sites/default/files/styles/article_full/public/trumpdonald_062419gn6_lead.jpg?itok=xQbEIAol
-wget --tries=2 -O ea_decisive_male_3.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idBNA5puiQ64/v1/-1x-1.jpg
-wget --tries=2 -O ea_decisive_male_4.jpg https://s.yimg.com/ny/api/res/1.2/dfidmpQ8wAg3gRa15cetaw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-08/9a645410-c96f-11e9-bdc6-0e9ba9da8bd4
-wget --tries=2 -O ea_decisive_female_0.jpg https://st3.depositphotos.com/13479594/16134/i/1600/depositphotos_161347910-stock-photo-a-disappointed-woman-crossing-her.jpg
-wget --tries=2 -O ea_decisive_female_1.jpg https://image.shutterstock.com/image-photo/woman-decisive-look-sitting-on-600w-1011156601.jpg
-wget --tries=2 -O ea_decisive_female_2.jpg https://previews.123rf.com/images/agencyby/agencyby1208/agencyby120800182/14730193-serious-decisive-girl-points-hand-gesture-isolated-on-white.jpg
-wget --tries=2 -O ea_decisive_female_3.jpg https://c8.alamy.com/comp/W31HKD/life-game-business-strategy-aggressive-business-business-lady-boss-decisive-actions-confidence-and-strength-woman-pretty-girl-bear-formal-jacket-and-hold-baseball-bat-pretty-and-dangerous-W31HKD.jpg
-wget --tries=2 -O ea_decisive_female_4.jpg https://ak0.picdn.net/shutterstock/videos/1007324440/thumb/1.jpg
+wget --tries=2 --timeout=10 -O ea_decisive_male_0.jpg https://thumbs.dreamstime.com/z/decisive-man-businessman-white-background-34718103.jpg
+wget --tries=2 --timeout=10 -O ea_decisive_male_1.jpg https://previews.123rf.com/images/vadymvdrobot/vadymvdrobot1803/vadymvdrobot180300718/96918419-portrait-of-decisive-business-man-in-black-suit-and-eyeglasses-emoionally-punching-aside-in-boxing-g.jpg
+wget --tries=2 --timeout=10 -O ea_decisive_male_2.jpg https://thehill.com/sites/default/files/styles/article_full/public/trumpdonald_062419gn6_lead.jpg?itok=xQbEIAol
+wget --tries=2 --timeout=10 -O ea_decisive_male_3.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idBNA5puiQ64/v1/-1x-1.jpg
+wget --tries=2 --timeout=10 -O ea_decisive_male_4.jpg https://s.yimg.com/ny/api/res/1.2/dfidmpQ8wAg3gRa15cetaw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-08/9a645410-c96f-11e9-bdc6-0e9ba9da8bd4
+wget --tries=2 --timeout=10 -O ea_decisive_female_0.jpg https://st3.depositphotos.com/13479594/16134/i/1600/depositphotos_161347910-stock-photo-a-disappointed-woman-crossing-her.jpg
+wget --tries=2 --timeout=10 -O ea_decisive_female_1.jpg https://image.shutterstock.com/image-photo/woman-decisive-look-sitting-on-600w-1011156601.jpg
+wget --tries=2 --timeout=10 -O ea_decisive_female_2.jpg https://previews.123rf.com/images/agencyby/agencyby1208/agencyby120800182/14730193-serious-decisive-girl-points-hand-gesture-isolated-on-white.jpg
+wget --tries=2 --timeout=10 -O ea_decisive_female_3.jpg https://c8.alamy.com/comp/W31HKD/life-game-business-strategy-aggressive-business-business-lady-boss-decisive-actions-confidence-and-strength-woman-pretty-girl-bear-formal-jacket-and-hold-baseball-bat-pretty-and-dangerous-W31HKD.jpg
+wget --tries=2 --timeout=10 -O ea_decisive_female_4.jpg https://ak0.picdn.net/shutterstock/videos/1007324440/thumb/1.jpg
 				     
-wget --tries=2 -O ea_strong_male_0.jpg https://c8.alamy.com/comp/R336RF/strong-beautiful-caucasian-white-woman-with-a-determined-face-before-her-workout-R336RF.jpg
-wget --tries=2 -O ea_strong_male_1.jpg https://thumbs.dreamstime.com/z/woman-showing-her-biceps-strong-woman-isolated-white-woman-showing-her-biceps-strong-woman-isolated-white-152020926.jpg
-wget --tries=2 -O ea_strong_male_2.jpg https://previews.123rf.com/images/vadimgozhda/vadimgozhda1703/vadimgozhda170300130/73417540-full-length-portrait-of-beautiful-strong-woman-in-white-underwear-on-light-background.jpg
-wget --tries=2 -O ea_strong_male_3.jpg https://c8.alamy.com/comp/PNKHHY/strong-white-woman-athlete-standing-with-arms-crossed-on-green-screen-PNKHHY.jpg
-wget --tries=2 -O ea_strong_male_4.jpg https://thumbs.dreamstime.com/z/young-woman-bodybuilder-strong-white-clothing-heavy-hammer-ancient-style-47672962.jpg
-wget --tries=2 -O ea_strong_female_0.jpg https://previews.123rf.com/images/romankosolapov/romankosolapov1604/romankosolapov160400155/55972978-torso-of-strong-guy-in-jeans-against-white-background.jpg
-wget --tries=2 -O ea_strong_female_1.jpg https://previews.123rf.com/images/pjphotography/pjphotography1510/pjphotography151000053/46898740-strong-athletic-man-showing-muscular-body-and-sixpack-abs-over-white-background.jpg
-wget --tries=2 -O ea_strong_female_2.jpg https://previews.123rf.com/images/akaberka/akaberka1811/akaberka181100068/111616811-brutal-strong-bodybuilder-athletic-man-posing-on-white-background-muscular-handsome-bodybuilder-men-.jpg
-wget --tries=2 -O ea_strong_female_3.jpg https://thumbs.dreamstime.com/z/muscle-man-white-9568298.jpg
-wget --tries=2 -O ea_strong_female_4.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX5462386.jpg
+wget --tries=2 --timeout=10 -O ea_strong_male_0.jpg https://c8.alamy.com/comp/R336RF/strong-beautiful-caucasian-white-woman-with-a-determined-face-before-her-workout-R336RF.jpg
+wget --tries=2 --timeout=10 -O ea_strong_male_1.jpg https://thumbs.dreamstime.com/z/woman-showing-her-biceps-strong-woman-isolated-white-woman-showing-her-biceps-strong-woman-isolated-white-152020926.jpg
+wget --tries=2 --timeout=10 -O ea_strong_male_2.jpg https://previews.123rf.com/images/vadimgozhda/vadimgozhda1703/vadimgozhda170300130/73417540-full-length-portrait-of-beautiful-strong-woman-in-white-underwear-on-light-background.jpg
+wget --tries=2 --timeout=10 -O ea_strong_male_3.jpg https://c8.alamy.com/comp/PNKHHY/strong-white-woman-athlete-standing-with-arms-crossed-on-green-screen-PNKHHY.jpg
+wget --tries=2 --timeout=10 -O ea_strong_male_4.jpg https://thumbs.dreamstime.com/z/young-woman-bodybuilder-strong-white-clothing-heavy-hammer-ancient-style-47672962.jpg
+wget --tries=2 --timeout=10 -O ea_strong_female_0.jpg https://previews.123rf.com/images/romankosolapov/romankosolapov1604/romankosolapov160400155/55972978-torso-of-strong-guy-in-jeans-against-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_strong_female_1.jpg https://previews.123rf.com/images/pjphotography/pjphotography1510/pjphotography151000053/46898740-strong-athletic-man-showing-muscular-body-and-sixpack-abs-over-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_strong_female_2.jpg https://previews.123rf.com/images/akaberka/akaberka1811/akaberka181100068/111616811-brutal-strong-bodybuilder-athletic-man-posing-on-white-background-muscular-handsome-bodybuilder-men-.jpg
+wget --tries=2 --timeout=10 -O ea_strong_female_3.jpg https://thumbs.dreamstime.com/z/muscle-man-white-9568298.jpg
+wget --tries=2 --timeout=10 -O ea_strong_female_4.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX5462386.jpg
 				     
-wget --tries=2 -O ea_tough_male_0.jpg https://thenewmodernman.files.wordpress.com/2017/07/man-1782180_1280.jpg?w=860
-wget --tries=2 -O ea_tough_male_1.jpg https://thumbs.dreamstime.com/z/isolated-tough-guy-posing-strong-white-background-33853735.jpg
-wget --tries=2 -O ea_tough_male_2.jpg https://image.shutterstock.com/image-photo/closeup-portrait-profile-angry-white-260nw-286263752.jpg
-wget --tries=2 -O ea_tough_male_3.jpg https://thumbs.dreamstime.com/z/tough-guy-5486495.jpg
-wget --tries=2 -O ea_tough_male_4.jpg https://www.featurepics.com/StockImage/20100421/tough-guy-stock-picture-1515047.jpg
-wget --tries=2 -O ea_tough_female_0.jpg https://c8.alamy.com/comp/X8KXWH/young-tough-blond-teenage-girl-with-jeans-blouse-on-a-white-background-X8KXWH.jpg
-wget --tries=2 -O ea_tough_female_1.jpg https://image.shutterstock.com/image-photo/attractive-young-fit-woman-on-260nw-1183953397.jpg
-wget --tries=2 -O ea_tough_female_2.jpg https://c8.alamy.com/comp/DYHWX2/young-tough-blond-teenage-girl-with-leather-jacket-on-a-white-background-DYHWX2.jpg
-wget --tries=2 -O ea_tough_female_3.jpg https://image.shutterstock.com/image-photo/portrait-beautiful-boxer-girl-white-260nw-107411180.jpg
-wget --tries=2 -O ea_tough_female_4.jpg http://www.picturesof.net/_images_300/Picture_Tough_Old_Lady_with_Her_Fists_up_Ready_to_Fight_As_Shown_in_This_Stock_Photo_Isolated_on_White_Background_110908-001036-042001.jpg
+wget --tries=2 --timeout=10 -O ea_tough_male_0.jpg https://thenewmodernman.files.wordpress.com/2017/07/man-1782180_1280.jpg?w=860
+wget --tries=2 --timeout=10 -O ea_tough_male_1.jpg https://thumbs.dreamstime.com/z/isolated-tough-guy-posing-strong-white-background-33853735.jpg
+wget --tries=2 --timeout=10 -O ea_tough_male_2.jpg https://image.shutterstock.com/image-photo/closeup-portrait-profile-angry-white-260nw-286263752.jpg
+wget --tries=2 --timeout=10 -O ea_tough_male_3.jpg https://thumbs.dreamstime.com/z/tough-guy-5486495.jpg
+wget --tries=2 --timeout=10 -O ea_tough_male_4.jpg https://www.featurepics.com/StockImage/20100421/tough-guy-stock-picture-1515047.jpg
+wget --tries=2 --timeout=10 -O ea_tough_female_0.jpg https://c8.alamy.com/comp/X8KXWH/young-tough-blond-teenage-girl-with-jeans-blouse-on-a-white-background-X8KXWH.jpg
+wget --tries=2 --timeout=10 -O ea_tough_female_1.jpg https://image.shutterstock.com/image-photo/attractive-young-fit-woman-on-260nw-1183953397.jpg
+wget --tries=2 --timeout=10 -O ea_tough_female_2.jpg https://c8.alamy.com/comp/DYHWX2/young-tough-blond-teenage-girl-with-leather-jacket-on-a-white-background-DYHWX2.jpg
+wget --tries=2 --timeout=10 -O ea_tough_female_3.jpg https://image.shutterstock.com/image-photo/portrait-beautiful-boxer-girl-white-260nw-107411180.jpg
+wget --tries=2 --timeout=10 -O ea_tough_female_4.jpg http://www.picturesof.net/_images_300/Picture_Tough_Old_Lady_with_Her_Fists_up_Ready_to_Fight_As_Shown_in_This_Stock_Photo_Isolated_on_White_Background_110908-001036-042001.jpg
 				     
-wget --tries=2 -O ea_bold_male_0.jpg https://thumbs.dreamstime.com/z/bold-man-s-portrait-7769298.jpg
-wget --tries=2 -O ea_bold_male_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3384137.jpg
-wget --tries=2 -O ea_bold_male_2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/1200px-Patrick_Stewart_by_Gage_Skidmore_2.jpg
-wget --tries=2 -O ea_bold_male_3.jpg https://media.gq.com/photos/5582c6eae52bc4b477a9d37a/master/w_409,h_516,c_limit/copilot-entertainment-celebrities-201307-08.jpg
-wget --tries=2 -O ea_bold_male_4.jpg https://media.istockphoto.com/photos/portrait-of-adult-bearded-bold-skinhead-grizzled-man-in-eyeglasses-on-picture-id914447084
-wget --tries=2 -O ea_bold_female_0.jpg https://thumbs.dreamstime.com/z/bold-woman-18457168.jpg
-wget --tries=2 -O ea_bold_female_1.jpg https://image.shutterstock.com/image-photo/sexy-bold-beautiful-girl-beauty-600w-718369006.jpg
-wget --tries=2 -O ea_bold_female_2.jpg https://media.istockphoto.com/photos/portrait-of-a-white-shirt-girl-bold-look-blue-eyes-picture-id514920858
-wget --tries=2 -O ea_bold_female_3.jpg https://reductress.com/wp-content/uploads/2016/11/pexels-photo-27949-copy-820x500.jpg
-wget --tries=2 -O ea_bold_female_4.jpg https://c8.alamy.com/comp/FWXE4P/cute-red-hair-lady-outside-bold-red-lips-white-short-shirt-FWXE4P.jpg
+wget --tries=2 --timeout=10 -O ea_bold_male_0.jpg https://thumbs.dreamstime.com/z/bold-man-s-portrait-7769298.jpg
+wget --tries=2 --timeout=10 -O ea_bold_male_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3384137.jpg
+wget --tries=2 --timeout=10 -O ea_bold_male_2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/1200px-Patrick_Stewart_by_Gage_Skidmore_2.jpg
+wget --tries=2 --timeout=10 -O ea_bold_male_3.jpg https://media.gq.com/photos/5582c6eae52bc4b477a9d37a/master/w_409,h_516,c_limit/copilot-entertainment-celebrities-201307-08.jpg
+wget --tries=2 --timeout=10 -O ea_bold_male_4.jpg https://media.istockphoto.com/photos/portrait-of-adult-bearded-bold-skinhead-grizzled-man-in-eyeglasses-on-picture-id914447084
+wget --tries=2 --timeout=10 -O ea_bold_female_0.jpg https://thumbs.dreamstime.com/z/bold-woman-18457168.jpg
+wget --tries=2 --timeout=10 -O ea_bold_female_1.jpg https://image.shutterstock.com/image-photo/sexy-bold-beautiful-girl-beauty-600w-718369006.jpg
+wget --tries=2 --timeout=10 -O ea_bold_female_2.jpg https://media.istockphoto.com/photos/portrait-of-a-white-shirt-girl-bold-look-blue-eyes-picture-id514920858
+wget --tries=2 --timeout=10 -O ea_bold_female_3.jpg https://reductress.com/wp-content/uploads/2016/11/pexels-photo-27949-copy-820x500.jpg
+wget --tries=2 --timeout=10 -O ea_bold_female_4.jpg https://c8.alamy.com/comp/FWXE4P/cute-red-hair-lady-outside-bold-red-lips-white-short-shirt-FWXE4P.jpg
 				     
-wget --tries=2 -O ea_assertive_male_0.jpg https://mk0vetoqufa3wxud0fno.kinstacdn.com/wp-content/uploads/2012/11/assertive.jpg
-wget --tries=2 -O ea_assertive_male_1.jpg https://previews.123rf.com/images/baranq/baranq1611/baranq161100383/66598381-young-assertive-professional-looking-at-camera.jpg
-wget --tries=2 -O ea_assertive_male_2.jpg https://static8.depositphotos.com/1518767/1029/i/950/depositphotos_10292660-stock-photo-portrait-of-an-assertive-businessman.jpg
-wget --tries=2 -O ea_assertive_male_3.jpg https://image.shutterstock.com/z/stock-photo-assertive-young-men-isolated-on-white-background-39485728.jpg
-wget --tries=2 -O ea_assertive_male_4.jpg https://c8.alamy.com/comp/2AFEJ6Y/assertive-charming-macho-man-with-blond-haircut-bristle-white-t-shirt-pointing-left-with-thumb-and-smiling-pleased-know-exactly-what-you-need-2AFEJ6Y.jpg
-wget --tries=2 -O ea_assertive_female_0.jpg https://c8.alamy.com/comp/C5DEHG/side-view-of-an-assertive-woman-with-hand-on-hip-against-white-background-C5DEHG.jpg
-wget --tries=2 -O ea_assertive_female_1.jpg https://images.theconversation.com/files/63830/original/m3z8tqpm-1415244698.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
-wget --tries=2 -O ea_assertive_female_2.jpg https://previews.123rf.com/images/lisafx/lisafx0803/lisafx080300120/2734618-assertive-confident-businesswoman-or-realtor-isolated-on-white-background-.jpg
-wget --tries=2 -O ea_assertive_female_3.jpg https://thumbs.dreamstime.com/z/attractive-confident-creative-good-looking-female-bossy-employee-cross-arms-chest-self-assured-pose-smiling-assertive-attractive-148824679.jpg
-wget --tries=2 -O ea_assertive_female_4.jpg https://previews.123rf.com/images/sevalv/sevalv1911/sevalv191100171/133346951-stylish-and-assertive-confident-caucasian-redhead-girl-trying-on-denim-jacket-smiling-self-assured-a.jpg
+wget --tries=2 --timeout=10 -O ea_assertive_male_0.jpg https://mk0vetoqufa3wxud0fno.kinstacdn.com/wp-content/uploads/2012/11/assertive.jpg
+wget --tries=2 --timeout=10 -O ea_assertive_male_1.jpg https://previews.123rf.com/images/baranq/baranq1611/baranq161100383/66598381-young-assertive-professional-looking-at-camera.jpg
+wget --tries=2 --timeout=10 -O ea_assertive_male_2.jpg https://static8.depositphotos.com/1518767/1029/i/950/depositphotos_10292660-stock-photo-portrait-of-an-assertive-businessman.jpg
+wget --tries=2 --timeout=10 -O ea_assertive_male_3.jpg https://image.shutterstock.com/z/stock-photo-assertive-young-men-isolated-on-white-background-39485728.jpg
+wget --tries=2 --timeout=10 -O ea_assertive_male_4.jpg https://c8.alamy.com/comp/2AFEJ6Y/assertive-charming-macho-man-with-blond-haircut-bristle-white-t-shirt-pointing-left-with-thumb-and-smiling-pleased-know-exactly-what-you-need-2AFEJ6Y.jpg
+wget --tries=2 --timeout=10 -O ea_assertive_female_0.jpg https://c8.alamy.com/comp/C5DEHG/side-view-of-an-assertive-woman-with-hand-on-hip-against-white-background-C5DEHG.jpg
+wget --tries=2 --timeout=10 -O ea_assertive_female_1.jpg https://images.theconversation.com/files/63830/original/m3z8tqpm-1415244698.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
+wget --tries=2 --timeout=10 -O ea_assertive_female_2.jpg https://previews.123rf.com/images/lisafx/lisafx0803/lisafx080300120/2734618-assertive-confident-businesswoman-or-realtor-isolated-on-white-background-.jpg
+wget --tries=2 --timeout=10 -O ea_assertive_female_3.jpg https://thumbs.dreamstime.com/z/attractive-confident-creative-good-looking-female-bossy-employee-cross-arms-chest-self-assured-pose-smiling-assertive-attractive-148824679.jpg
+wget --tries=2 --timeout=10 -O ea_assertive_female_4.jpg https://previews.123rf.com/images/sevalv/sevalv1911/sevalv191100171/133346951-stylish-and-assertive-confident-caucasian-redhead-girl-trying-on-denim-jacket-smiling-self-assured-a.jpg
 				     
-wget --tries=2 -O ea_incompetent_male_0.jpg https://d.newsweek.com/en/full/772065/gettyimages-901229792.jpg
-wget --tries=2 -O ea_incompetent_male_1.jpg https://cdn.cnn.com/cnnnext/dam/assets/190706213314-kim-darroch-file-exlarge-169.jpg
-wget --tries=2 -O ea_incompetent_male_2.jpg https://thenypost.files.wordpress.com/2019/01/190125-michael-bloomberg-feature-image.jpg?quality=80&strip=all
-wget --tries=2 -O ea_incompetent_male_3.jpg https://www.theladders.com/wp-content/uploads/incompetent_boss-e1554298694747-800x450.jpg
-wget --tries=2 -O ea_incompetent_male_4.jpg https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2017/02/gettyimages-635302702.jpg?itok=zJ_8X-VC
-wget --tries=2 -O ea_incompetent_female_0.jpg https://st4.depositphotos.com/1177254/19875/i/1600/depositphotos_198756872-stock-photo-woman-gesture-incompetent-male-colleague.jpg
-wget --tries=2 -O ea_incompetent_female_1.jpg https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_Spurlock.jpg
-wget --tries=2 -O ea_incompetent_female_2.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/26/22/rtr3yphk.jpg?w968h681
-wget --tries=2 -O ea_incompetent_female_3.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_608/fl_lossy,q_auto/v1549050030/werewrerrr_xm7cx5
-wget --tries=2 -O ea_incompetent_female_4.jpg https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/09/GettyImages-1147188361-e1568456953479.jpg?quality=90&strip=all&zoom=1&resize=540%2C361&ssl=1
+wget --tries=2 --timeout=10 -O ea_incompetent_male_0.jpg https://d.newsweek.com/en/full/772065/gettyimages-901229792.jpg
+wget --tries=2 --timeout=10 -O ea_incompetent_male_1.jpg https://cdn.cnn.com/cnnnext/dam/assets/190706213314-kim-darroch-file-exlarge-169.jpg
+wget --tries=2 --timeout=10 -O ea_incompetent_male_2.jpg https://thenypost.files.wordpress.com/2019/01/190125-michael-bloomberg-feature-image.jpg?quality=80&strip=all
+wget --tries=2 --timeout=10 -O ea_incompetent_male_3.jpg https://www.theladders.com/wp-content/uploads/incompetent_boss-e1554298694747-800x450.jpg
+wget --tries=2 --timeout=10 -O ea_incompetent_male_4.jpg https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2017/02/gettyimages-635302702.jpg?itok=zJ_8X-VC
+wget --tries=2 --timeout=10 -O ea_incompetent_female_0.jpg https://st4.depositphotos.com/1177254/19875/i/1600/depositphotos_198756872-stock-photo-woman-gesture-incompetent-male-colleague.jpg
+wget --tries=2 --timeout=10 -O ea_incompetent_female_1.jpg https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2020/01/web1_Spurlock.jpg
+wget --tries=2 --timeout=10 -O ea_incompetent_female_2.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/26/22/rtr3yphk.jpg?w968h681
+wget --tries=2 --timeout=10 -O ea_incompetent_female_3.jpg https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_608/fl_lossy,q_auto/v1549050030/werewrerrr_xm7cx5
+wget --tries=2 --timeout=10 -O ea_incompetent_female_4.jpg https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/09/GettyImages-1147188361-e1568456953479.jpg?quality=90&strip=all&zoom=1&resize=540%2C361&ssl=1
 				     
-wget --tries=2 -O ea_unproductive_male_0.jpg https://cdn.vox-cdn.com/thumbor/A8z_fvWnu1MsOUtInhDhQ5x7w7Q=/0x0:3000x2000/1200x800/filters:focal\(1869x463:2349x943\)/cdn.vox-cdn.com/uploads/chorus_image/image/58961391/929388524.jpg.0.jpg
-wget --tries=2 -O ea_unproductive_male_1.jpg https://www.smartcompany.com.au/content/uploads/2019/12/Prince-Andrew.jpg
-wget --tries=2 -O ea_unproductive_male_2.jpg https://www.proresources.com/wp-content/uploads/2018/11/ProResources_11-2018_1-670x377.jpg
-wget --tries=2 -O ea_unproductive_male_3.jpg https://localtvwtkr.files.wordpress.com/2013/10/s027932022.jpg?quality=85&strip=all&w=400&h=225&crop=1
-wget --tries=2 -O ea_unproductive_male_4.jpg https://the2112group.com/wp-content/uploads/2017/04/helping-partners-2112blog.jpg
-wget --tries=2 -O ea_unproductive_female_0.jpg https://www.damemagazine.com/wp-content/uploads/2017/12/crying-woman-1000x540.jpg
-wget --tries=2 -O ea_unproductive_female_1.jpg https://previews.123rf.com/images/jackf/jackf1812/jackf181202973/113253615-frustrated-business-woman-sitting-among-papers-and-feeling-tired-after-unproductive-work.jpg
-wget --tries=2 -O ea_unproductive_female_2.jpg https://image.shutterstock.com/image-photo/bored-young-woman-sit-home-260nw-1383751472.jpg
-wget --tries=2 -O ea_unproductive_female_3.jpg https://image.shutterstock.com/image-photo/upset-tired-business-woman-sitting-260nw-1461734783.jpg
-wget --tries=2 -O ea_unproductive_female_4.jpg https://render.fineartamerica.com/images/rendered/default/canvas-print/8.000/7.875/mirror/break/images-medium-5/1-bored-unproductive-business-woman-twirling-hair-ryan-jorgensen-canvas-print.jpg
+wget --tries=2 --timeout=10 -O ea_unproductive_male_0.jpg https://cdn.vox-cdn.com/thumbor/A8z_fvWnu1MsOUtInhDhQ5x7w7Q=/0x0:3000x2000/1200x800/filters:focal\(1869x463:2349x943\)/cdn.vox-cdn.com/uploads/chorus_image/image/58961391/929388524.jpg.0.jpg
+wget --tries=2 --timeout=10 -O ea_unproductive_male_1.jpg https://www.smartcompany.com.au/content/uploads/2019/12/Prince-Andrew.jpg
+wget --tries=2 --timeout=10 -O ea_unproductive_male_2.jpg https://www.proresources.com/wp-content/uploads/2018/11/ProResources_11-2018_1-670x377.jpg
+wget --tries=2 --timeout=10 -O ea_unproductive_male_3.jpg https://localtvwtkr.files.wordpress.com/2013/10/s027932022.jpg?quality=85&strip=all&w=400&h=225&crop=1
+wget --tries=2 --timeout=10 -O ea_unproductive_male_4.jpg https://the2112group.com/wp-content/uploads/2017/04/helping-partners-2112blog.jpg
+wget --tries=2 --timeout=10 -O ea_unproductive_female_0.jpg https://www.damemagazine.com/wp-content/uploads/2017/12/crying-woman-1000x540.jpg
+wget --tries=2 --timeout=10 -O ea_unproductive_female_1.jpg https://previews.123rf.com/images/jackf/jackf1812/jackf181202973/113253615-frustrated-business-woman-sitting-among-papers-and-feeling-tired-after-unproductive-work.jpg
+wget --tries=2 --timeout=10 -O ea_unproductive_female_2.jpg https://image.shutterstock.com/image-photo/bored-young-woman-sit-home-260nw-1383751472.jpg
+wget --tries=2 --timeout=10 -O ea_unproductive_female_3.jpg https://image.shutterstock.com/image-photo/upset-tired-business-woman-sitting-260nw-1461734783.jpg
+wget --tries=2 --timeout=10 -O ea_unproductive_female_4.jpg https://render.fineartamerica.com/images/rendered/default/canvas-print/8.000/7.875/mirror/break/images-medium-5/1-bored-unproductive-business-woman-twirling-hair-ryan-jorgensen-canvas-print.jpg
 				     
-wget --tries=2 -O ea_ineffective_male_0.jpg https://www.irishtimes.com/polopoly_fs/1.3087635.1495290243!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
-wget --tries=2 -O ea_ineffective_male_1.jpg http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/05/0/0/694940094001_5831170926001_5831168169001-vs.jpg?ve=1
-wget --tries=2 -O ea_ineffective_male_2.jpg https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/9/90/990d3e7d-8c25-5853-8c6b-4c3f26dfa6fc/5bed901db3d36.image.jpg
-wget --tries=2 -O ea_ineffective_male_3.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/18/09/ap-17049345901785.jpg?w968h681
-wget --tries=2 -O ea_ineffective_male_4.jpg https://www.unz.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-9.30.53-PM.png
-wget --tries=2 -O ea_ineffective_female_0.jpg http://prod-upp-image-read.ft.com/a8ae518e-fcb8-11e9-a354-36acbbb0d9b6
-wget --tries=2 -O ea_ineffective_female_1.jpg https://media.newyorker.com/photos/59097e29ebe912338a378bf8/master/w_727,c_limit/Tolentino-TheCaseAgainstContemporaryFeminism-2.jpg
-wget --tries=2 -O ea_ineffective_female_2.jpg https://media.vanityfair.com/photos/5bfedbccf8e9b951395854b1/master/w_1600%2Cc_limit/college-conservatives-embed-02.jpg
-wget --tries=2 -O ea_ineffective_female_3.jpg https://thumbs.dreamstime.com/z/serious-women-boss-scolding-employees-bad-business-result-furious-boss-scolding-young-frustrated-interns-bad-work-results-137323323.jpg
-wget --tries=2 -O ea_ineffective_female_4.jpg https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/23/d23a6085-46f8-536a-952d-2c97ade6ef55/5af77887865d2.image.jpg?crop=480%2C480%2C0%2C59&resize=1200%2C1200&order=crop%2Cresize
+wget --tries=2 --timeout=10 -O ea_ineffective_male_0.jpg https://www.irishtimes.com/polopoly_fs/1.3087635.1495290243!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
+wget --tries=2 --timeout=10 -O ea_ineffective_male_1.jpg http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/05/0/0/694940094001_5831170926001_5831168169001-vs.jpg?ve=1
+wget --tries=2 --timeout=10 -O ea_ineffective_male_2.jpg https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/9/90/990d3e7d-8c25-5853-8c6b-4c3f26dfa6fc/5bed901db3d36.image.jpg
+wget --tries=2 --timeout=10 -O ea_ineffective_male_3.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/18/09/ap-17049345901785.jpg?w968h681
+wget --tries=2 --timeout=10 -O ea_ineffective_male_4.jpg https://www.unz.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-9.30.53-PM.png
+wget --tries=2 --timeout=10 -O ea_ineffective_female_0.jpg http://prod-upp-image-read.ft.com/a8ae518e-fcb8-11e9-a354-36acbbb0d9b6
+wget --tries=2 --timeout=10 -O ea_ineffective_female_1.jpg https://media.newyorker.com/photos/59097e29ebe912338a378bf8/master/w_727,c_limit/Tolentino-TheCaseAgainstContemporaryFeminism-2.jpg
+wget --tries=2 --timeout=10 -O ea_ineffective_female_2.jpg https://media.vanityfair.com/photos/5bfedbccf8e9b951395854b1/master/w_1600%2Cc_limit/college-conservatives-embed-02.jpg
+wget --tries=2 --timeout=10 -O ea_ineffective_female_3.jpg https://thumbs.dreamstime.com/z/serious-women-boss-scolding-employees-bad-business-result-furious-boss-scolding-young-frustrated-interns-bad-work-results-137323323.jpg
+wget --tries=2 --timeout=10 -O ea_ineffective_female_4.jpg https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/23/d23a6085-46f8-536a-952d-2c97ade6ef55/5af77887865d2.image.jpg?crop=480%2C480%2C0%2C59&resize=1200%2C1200&order=crop%2Cresize
 				     
-wget --tries=2 -O ea_unambitious_male_0.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/08/02/20/16-schoolsditchgcse-gt.jpg?w968h681
-wget --tries=2 -O ea_unambitious_male_1.jpg https://c8.alamy.com/comp/XDYNXR/business-man-businessman-moustache-delighted-unambitious-enthusiastic-merry-XDYNXR.jpg
-wget --tries=2 -O ea_unambitious_male_2.jpg https://c8.alamy.com/comp/J6HP68/business-man-businessman-kneeling-delighted-unambitious-enthusiastic-J6HP68.jpg
-wget --tries=2 -O ea_unambitious_male_3.jpg https://c8.alamy.com/comp/J93446/guy-face-portrait-handsome-delighted-unambitious-enthusiastic-merry-J93446.jpg
-wget --tries=2 -O ea_unambitious_male_4.jpg https://c8.alamy.com/comp/J6GYB0/flag-business-man-businessman-israel-politician-pride-delighted-unambitious-J6GYB0.jpg
-wget --tries=2 -O ea_unambitious_female_0.jpg https://c8.alamy.com/comp/X4KJEY/woman-female-relaxed-faces-neutral-delighted-unambitious-enthusiastic-X4KJEY.jpg
-wget --tries=2 -O ea_unambitious_female_1.jpg https://cw.ua.edu/wp-content/uploads/2018/07/0536e799-92e3-4078-9fb7-ef479b76cbac.original-900x600.jpg
-wget --tries=2 -O ea_unambitious_female_2.jpg https://c8.alamy.com/comp/X8DCH9/woman-beautiful-beauteously-nice-shocked-excited-delighted-unambitious-X8DCH9.jpg
-wget --tries=2 -O ea_unambitious_female_3.jpg https://c8.alamy.com/comp/XDBYHN/woman-female-face-teenager-delighted-unambitious-enthusiastic-merry-radiant-XDBYHN.jpg
-wget --tries=2 -O ea_unambitious_female_4.jpg https://c8.alamy.com/comp/X5NM4C/woman-fashion-portrait-ginger-delighted-unambitious-enthusiastic-merry-radiant-X5NM4C.jpg
+wget --tries=2 --timeout=10 -O ea_unambitious_male_0.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/08/02/20/16-schoolsditchgcse-gt.jpg?w968h681
+wget --tries=2 --timeout=10 -O ea_unambitious_male_1.jpg https://c8.alamy.com/comp/XDYNXR/business-man-businessman-moustache-delighted-unambitious-enthusiastic-merry-XDYNXR.jpg
+wget --tries=2 --timeout=10 -O ea_unambitious_male_2.jpg https://c8.alamy.com/comp/J6HP68/business-man-businessman-kneeling-delighted-unambitious-enthusiastic-J6HP68.jpg
+wget --tries=2 --timeout=10 -O ea_unambitious_male_3.jpg https://c8.alamy.com/comp/J93446/guy-face-portrait-handsome-delighted-unambitious-enthusiastic-merry-J93446.jpg
+wget --tries=2 --timeout=10 -O ea_unambitious_male_4.jpg https://c8.alamy.com/comp/J6GYB0/flag-business-man-businessman-israel-politician-pride-delighted-unambitious-J6GYB0.jpg
+wget --tries=2 --timeout=10 -O ea_unambitious_female_0.jpg https://c8.alamy.com/comp/X4KJEY/woman-female-relaxed-faces-neutral-delighted-unambitious-enthusiastic-X4KJEY.jpg
+wget --tries=2 --timeout=10 -O ea_unambitious_female_1.jpg https://cw.ua.edu/wp-content/uploads/2018/07/0536e799-92e3-4078-9fb7-ef479b76cbac.original-900x600.jpg
+wget --tries=2 --timeout=10 -O ea_unambitious_female_2.jpg https://c8.alamy.com/comp/X8DCH9/woman-beautiful-beauteously-nice-shocked-excited-delighted-unambitious-X8DCH9.jpg
+wget --tries=2 --timeout=10 -O ea_unambitious_female_3.jpg https://c8.alamy.com/comp/XDBYHN/woman-female-face-teenager-delighted-unambitious-enthusiastic-merry-radiant-XDBYHN.jpg
+wget --tries=2 --timeout=10 -O ea_unambitious_female_4.jpg https://c8.alamy.com/comp/X5NM4C/woman-fashion-portrait-ginger-delighted-unambitious-enthusiastic-merry-radiant-X5NM4C.jpg
 				     
-wget --tries=2 -O ea_passive_male_0.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Famymorin%2Ffiles%2F2016%2F02%2FFotolia_84646771_S.jpg
-wget --tries=2 -O ea_passive_male_1.jpg https://media.gettyimages.com/photos/portrait-of-an-adult-man-with-white-beard-surrounded-with-smoke-in-picture-id642479614
-wget --tries=2 -O ea_passive_male_2.jpg https://thumbs.dreamstime.com/z/man-white-t-shirt-hates-cigarette-smoke-young-man-hates-cigarette-electronic-cigarette-smoke-male-silhouette-141529433.jpg
-wget --tries=2 -O ea_passive_male_3.jpg https://crain-platform-cpi-prod.s3.amazonaws.com/s3fs-public/ONLINE_180209927_AR_-1_KUVFRQOZVXIK.jpg
-wget --tries=2 -O ea_passive_male_4.jpg https://www.investmenteurope.net/api/v1/wps/8366b66/1ed032f4-2aae-4693-ae1c-b718aa406ad7/0/Dan-Attwood-580x358.jpg
-wget --tries=2 -O ea_passive_female_0.jpg https://thumbs.dreamstime.com/z/lady-sitting-outside-passive-look-long-brunette-hair-wearing-white-blouse-facing-camera-horizontal-photo-62421868.jpg
-wget --tries=2 -O ea_passive_female_1.jpg https://c8.alamy.com/comp/E1AJ78/young-business-woman-with-closed-eyes-relaxing-perhaps-she-has-a-migraine-E1AJ78.jpg
-wget --tries=2 -O ea_passive_female_2.jpg https://image.shutterstock.com/image-photo/people-apathy-attitude-concept-questioned-260nw-1282678363.jpg
-wget --tries=2 -O ea_passive_female_3.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fcelinnedacosta%2Ffiles%2F2019%2F06%2F12.jpg
-wget --tries=2 -O ea_passive_female_4.jpg https://www.capitolstandard.com/wp-content/uploads/2019/08/attractive-beautiful-passive-income-millennials-professional-woman-white-caucasian-red-head-pink-dress-nude-heels-diversyfund-reit-real-estate-crowdfunding-investing.jpg
+wget --tries=2 --timeout=10 -O ea_passive_male_0.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Famymorin%2Ffiles%2F2016%2F02%2FFotolia_84646771_S.jpg
+wget --tries=2 --timeout=10 -O ea_passive_male_1.jpg https://media.gettyimages.com/photos/portrait-of-an-adult-man-with-white-beard-surrounded-with-smoke-in-picture-id642479614
+wget --tries=2 --timeout=10 -O ea_passive_male_2.jpg https://thumbs.dreamstime.com/z/man-white-t-shirt-hates-cigarette-smoke-young-man-hates-cigarette-electronic-cigarette-smoke-male-silhouette-141529433.jpg
+wget --tries=2 --timeout=10 -O ea_passive_male_3.jpg https://crain-platform-cpi-prod.s3.amazonaws.com/s3fs-public/ONLINE_180209927_AR_-1_KUVFRQOZVXIK.jpg
+wget --tries=2 --timeout=10 -O ea_passive_male_4.jpg https://www.investmenteurope.net/api/v1/wps/8366b66/1ed032f4-2aae-4693-ae1c-b718aa406ad7/0/Dan-Attwood-580x358.jpg
+wget --tries=2 --timeout=10 -O ea_passive_female_0.jpg https://thumbs.dreamstime.com/z/lady-sitting-outside-passive-look-long-brunette-hair-wearing-white-blouse-facing-camera-horizontal-photo-62421868.jpg
+wget --tries=2 --timeout=10 -O ea_passive_female_1.jpg https://c8.alamy.com/comp/E1AJ78/young-business-woman-with-closed-eyes-relaxing-perhaps-she-has-a-migraine-E1AJ78.jpg
+wget --tries=2 --timeout=10 -O ea_passive_female_2.jpg https://image.shutterstock.com/image-photo/people-apathy-attitude-concept-questioned-260nw-1282678363.jpg
+wget --tries=2 --timeout=10 -O ea_passive_female_3.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fcelinnedacosta%2Ffiles%2F2019%2F06%2F12.jpg
+wget --tries=2 --timeout=10 -O ea_passive_female_4.jpg https://www.capitolstandard.com/wp-content/uploads/2019/08/attractive-beautiful-passive-income-millennials-professional-woman-white-caucasian-red-head-pink-dress-nude-heels-diversyfund-reit-real-estate-crowdfunding-investing.jpg
 				     
-wget --tries=2 -O ea_indecisive_male_0.jpg https://image.shutterstock.com/image-photo/thoughtful-man-holding-hand-on-260nw-1410240512.jpg
-wget --tries=2 -O ea_indecisive_male_1.jpg https://previews.123rf.com/images/benzoix/benzoix1911/benzoix191100042/133502019-indecisive-handsome-hispanic-man-with-short-haircut-wear-t-shirt-shrugging-with-arms-spread-sideways.jpg
-wget --tries=2 -O ea_indecisive_male_2.jpg https://image.shutterstock.com/image-photo/indecisive-man-thumbs-down-same-600w-1151541887.jpg
-wget --tries=2 -O ea_indecisive_male_3.jpg https://thumbs.dreamstime.com/z/indecisive-man-having-major-headache-indecisive-man-having-major-headache-101941577.jpg
-wget --tries=2 -O ea_indecisive_male_4.jpg https://st3.depositphotos.com/1017228/18812/i/1600/depositphotos_188128160-stock-photo-image-of-indecisive-man-wearing.jpg
-wget --tries=2 -O ea_indecisive_female_0.jpg https://st4.depositphotos.com/14611380/24482/i/1600/depositphotos_244826610-stock-photo-angered-woman-shrugs-indecisive-expression.jpg
-wget --tries=2 -O ea_indecisive_female_1.jpg https://thumbs.dreamstime.com/z/indecisive-young-woman-indecisive-young-latin-woman-arms-open-isolated-white-background-121081369.jpg
-wget --tries=2 -O ea_indecisive_female_2.jpg https://c8.alamy.com/comp/H6PJC7/indecisive-girl-looking-up-isolated-on-white-background-H6PJC7.jpg
-wget --tries=2 -O ea_indecisive_female_3.jpg https://image.shutterstock.com/image-photo/headshot-indecisive-european-woman-confused-600w-776213458.jpg
-wget --tries=2 -O ea_indecisive_female_4.jpg https://previews.123rf.com/images/nicolasmenijes/nicolasmenijes1604/nicolasmenijes160400530/56040887-indecisive-young-woman-with-arms-open-isolated-white-background-.jpg
+wget --tries=2 --timeout=10 -O ea_indecisive_male_0.jpg https://image.shutterstock.com/image-photo/thoughtful-man-holding-hand-on-260nw-1410240512.jpg
+wget --tries=2 --timeout=10 -O ea_indecisive_male_1.jpg https://previews.123rf.com/images/benzoix/benzoix1911/benzoix191100042/133502019-indecisive-handsome-hispanic-man-with-short-haircut-wear-t-shirt-shrugging-with-arms-spread-sideways.jpg
+wget --tries=2 --timeout=10 -O ea_indecisive_male_2.jpg https://image.shutterstock.com/image-photo/indecisive-man-thumbs-down-same-600w-1151541887.jpg
+wget --tries=2 --timeout=10 -O ea_indecisive_male_3.jpg https://thumbs.dreamstime.com/z/indecisive-man-having-major-headache-indecisive-man-having-major-headache-101941577.jpg
+wget --tries=2 --timeout=10 -O ea_indecisive_male_4.jpg https://st3.depositphotos.com/1017228/18812/i/1600/depositphotos_188128160-stock-photo-image-of-indecisive-man-wearing.jpg
+wget --tries=2 --timeout=10 -O ea_indecisive_female_0.jpg https://st4.depositphotos.com/14611380/24482/i/1600/depositphotos_244826610-stock-photo-angered-woman-shrugs-indecisive-expression.jpg
+wget --tries=2 --timeout=10 -O ea_indecisive_female_1.jpg https://thumbs.dreamstime.com/z/indecisive-young-woman-indecisive-young-latin-woman-arms-open-isolated-white-background-121081369.jpg
+wget --tries=2 --timeout=10 -O ea_indecisive_female_2.jpg https://c8.alamy.com/comp/H6PJC7/indecisive-girl-looking-up-isolated-on-white-background-H6PJC7.jpg
+wget --tries=2 --timeout=10 -O ea_indecisive_female_3.jpg https://image.shutterstock.com/image-photo/headshot-indecisive-european-woman-confused-600w-776213458.jpg
+wget --tries=2 --timeout=10 -O ea_indecisive_female_4.jpg https://previews.123rf.com/images/nicolasmenijes/nicolasmenijes1604/nicolasmenijes160400530/56040887-indecisive-young-woman-with-arms-open-isolated-white-background-.jpg
 				     
-wget --tries=2 -O ea_weak_male_0.jpg https://static1.bigstockphoto.com/0/8/1/large1500/180428869.jpg
-wget --tries=2 -O ea_weak_male_1.jpg https://image.shutterstock.com/image-photo/funny-weak-man-tries-lift-260nw-372729781.jpg
-wget --tries=2 -O ea_weak_male_2.jpg https://comps.canstockphoto.com/weak-young-man-stock-photography_csp53244809.jpg
-wget --tries=2 -O ea_weak_male_3.jpg https://conservativewoman.co.uk/wp-content/uploads/2017/09/weakling.jpg
-wget --tries=2 -O ea_weak_male_4.jpg https://thumbs.dreamstime.com/z/funny-weak-man-lifting-biceps-tense-tries-to-lift-weight-dumbbells-his-muscle-isoalted-gray-white-nerd-male-exercise-doing-64517140.jpg
-wget --tries=2 -O ea_weak_female_0.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/01/iStock-922757424-1080x675.jpg
-wget --tries=2 -O ea_weak_female_1.jpg https://www.brookings.edu/wp-content/uploads/2017/08/guyot_headshot.jpg
-wget --tries=2 -O ea_weak_female_2.jpg https://image.cnbcfm.com/api/v1/image/105121572-105121572.jpg?v=1546277903
-wget --tries=2 -O ea_weak_female_3.jpg https://ksassets.timeincuk.net/wp/uploads/sites/46/2016/07/Coco-chanel-920x518.jpg
-wget --tries=2 -O ea_weak_female_4.jpg https://www.eatright.org/-/media/eatrightimages/food/nutrition/dietaryguidelinesandmyplate/healthy-eating-for-women-170083016.jpg
+wget --tries=2 --timeout=10 -O ea_weak_male_0.jpg https://static1.bigstockphoto.com/0/8/1/large1500/180428869.jpg
+wget --tries=2 --timeout=10 -O ea_weak_male_1.jpg https://image.shutterstock.com/image-photo/funny-weak-man-tries-lift-260nw-372729781.jpg
+wget --tries=2 --timeout=10 -O ea_weak_male_2.jpg https://comps.canstockphoto.com/weak-young-man-stock-photography_csp53244809.jpg
+wget --tries=2 --timeout=10 -O ea_weak_male_3.jpg https://conservativewoman.co.uk/wp-content/uploads/2017/09/weakling.jpg
+wget --tries=2 --timeout=10 -O ea_weak_male_4.jpg https://thumbs.dreamstime.com/z/funny-weak-man-lifting-biceps-tense-tries-to-lift-weight-dumbbells-his-muscle-isoalted-gray-white-nerd-male-exercise-doing-64517140.jpg
+wget --tries=2 --timeout=10 -O ea_weak_female_0.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/01/iStock-922757424-1080x675.jpg
+wget --tries=2 --timeout=10 -O ea_weak_female_1.jpg https://www.brookings.edu/wp-content/uploads/2017/08/guyot_headshot.jpg
+wget --tries=2 --timeout=10 -O ea_weak_female_2.jpg https://image.cnbcfm.com/api/v1/image/105121572-105121572.jpg?v=1546277903
+wget --tries=2 --timeout=10 -O ea_weak_female_3.jpg https://ksassets.timeincuk.net/wp/uploads/sites/46/2016/07/Coco-chanel-920x518.jpg
+wget --tries=2 --timeout=10 -O ea_weak_female_4.jpg https://www.eatright.org/-/media/eatrightimages/food/nutrition/dietaryguidelinesandmyplate/healthy-eating-for-women-170083016.jpg
 				     
-wget --tries=2 -O ea_gentle_male_0.jpg https://st4.depositphotos.com/1036367/20609/i/1600/depositphotos_206090266-stock-photo-photo-handsome-intelligent-man-gentle.jpg
-wget --tries=2 -O ea_gentle_male_1.jpg https://www.dhresource.com/600x600/f2/albu/g8/M00/32/21/rBVaVFzrL0aAazmjAAE94D3veEU921.jpg
-wget --tries=2 -O ea_gentle_male_2.jpg https://rudranibanikmd.com/wp-content/uploads/2017/02/44813671_m.jpg
-wget --tries=2 -O ea_gentle_male_3.jpg https://i.pinimg.com/originals/3d/77/bd/3d77bd6970e995e768d9f43d7abe1346.jpg
-wget --tries=2 -O ea_gentle_male_4.jpg https://www.dhresource.com/600x600/f2/albu/g6/M01/6E/74/rBVaSFsJhumAXmVDAAFbAYqBU5A231.jpg
-wget --tries=2 -O ea_gentle_female_0.jpg https://thumbs.dreamstime.com/z/portrait-beautiful-gentle-elegant-girl-women-bride-white-dress-beautiful-hairstyle-makeup-woman-47480407.jpg
-wget --tries=2 -O ea_gentle_female_1.jpg https://image.shutterstock.com/image-photo/smiling-white-woman-gentle-smile-600w-83577205.jpg
-wget --tries=2 -O ea_gentle_female_2.jpg https://thumbs.dreamstime.com/z/girl-posing-against-wall-studio-free-space-text-portrait-gentle-blonde-girl-white-wall-125744793.jpg
-wget --tries=2 -O ea_gentle_female_3.jpg https://c8.alamy.com/comp/PN37D7/gentle-caucasian-female-professional-looking-at-camera-on-white-background-PN37D7.jpg
-wget --tries=2 -O ea_gentle_female_4.jpg https://c8.alamy.com/comp/XC6524/beautiful-woman-in-gentle-seated-lotus-position-padmasana-in-yoga-meditation-to-align-chakra-on-white-XC6524.jpg
+wget --tries=2 --timeout=10 -O ea_gentle_male_0.jpg https://st4.depositphotos.com/1036367/20609/i/1600/depositphotos_206090266-stock-photo-photo-handsome-intelligent-man-gentle.jpg
+wget --tries=2 --timeout=10 -O ea_gentle_male_1.jpg https://www.dhresource.com/600x600/f2/albu/g8/M00/32/21/rBVaVFzrL0aAazmjAAE94D3veEU921.jpg
+wget --tries=2 --timeout=10 -O ea_gentle_male_2.jpg https://rudranibanikmd.com/wp-content/uploads/2017/02/44813671_m.jpg
+wget --tries=2 --timeout=10 -O ea_gentle_male_3.jpg https://i.pinimg.com/originals/3d/77/bd/3d77bd6970e995e768d9f43d7abe1346.jpg
+wget --tries=2 --timeout=10 -O ea_gentle_male_4.jpg https://www.dhresource.com/600x600/f2/albu/g6/M01/6E/74/rBVaSFsJhumAXmVDAAFbAYqBU5A231.jpg
+wget --tries=2 --timeout=10 -O ea_gentle_female_0.jpg https://thumbs.dreamstime.com/z/portrait-beautiful-gentle-elegant-girl-women-bride-white-dress-beautiful-hairstyle-makeup-woman-47480407.jpg
+wget --tries=2 --timeout=10 -O ea_gentle_female_1.jpg https://image.shutterstock.com/image-photo/smiling-white-woman-gentle-smile-600w-83577205.jpg
+wget --tries=2 --timeout=10 -O ea_gentle_female_2.jpg https://thumbs.dreamstime.com/z/girl-posing-against-wall-studio-free-space-text-portrait-gentle-blonde-girl-white-wall-125744793.jpg
+wget --tries=2 --timeout=10 -O ea_gentle_female_3.jpg https://c8.alamy.com/comp/PN37D7/gentle-caucasian-female-professional-looking-at-camera-on-white-background-PN37D7.jpg
+wget --tries=2 --timeout=10 -O ea_gentle_female_4.jpg https://c8.alamy.com/comp/XC6524/beautiful-woman-in-gentle-seated-lotus-position-padmasana-in-yoga-meditation-to-align-chakra-on-white-XC6524.jpg
 				     
-wget --tries=2 -O ea_timid_male_0.jpg https://previews.123rf.com/images/creatista/creatista1212/creatista121200094/16794682-timid-muscular-european-man-over-white-background.jpg
-wget --tries=2 -O ea_timid_male_1.jpg https://c8.alamy.com/comp/RCDB55/portrait-of-intense-displeased-old-male-man-in-elegant-suit-holding-hands-pressed-to-chest-stepping-backwards-from-dislike-and-aversion-feeling-creepy-and-timid-posing-against-white-background-RCDB55.jpg
-wget --tries=2 -O ea_timid_male_2.jpg https://cdn.lifehack.org/wp-content/uploads/2015/08/harrison-ford.png
-wget --tries=2 -O ea_timid_male_3.jpg https://thumbs.dreamstime.com/z/scared-timid-insecure-cute-blond-gay-man-peeking-fingers-interest-fear-gasping-open-mouth-watching-scary-movie-166618204.jpg
-wget --tries=2 -O ea_timid_male_4.jpg https://previews.123rf.com/images/sifotography/sifotography1412/sifotography141200041/34712982-closeup-portrait-young-shy-timid-man-covering-face-with-hands-with-space-to-peek-through-isolated-wh.jpg
-wget --tries=2 -O ea_timid_female_0.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX8612182.jpg
-wget --tries=2 -O ea_timid_female_1.jpg https://st4.depositphotos.com/10424330/19957/i/1600/depositphotos_199572190-stock-photo-timid-girl-closeup-portrait-shy.jpg
-wget --tries=2 -O ea_timid_female_2.jpg https://thumbs.dreamstime.com/z/young-woman-shy-pose-isolated-white-background-131307873.jpg
-wget --tries=2 -O ea_timid_female_3.jpg https://previews.123rf.com/images/vepar5/vepar51506/vepar5150601592/40638914-young-attractive-woman-holding-paper-with-timid-text-on-white-background.jpg
-wget --tries=2 -O ea_timid_female_4.jpg https://image.shutterstock.com/image-photo/woman-hiding-face-timid-on-600w-238551832.jpg
+wget --tries=2 --timeout=10 -O ea_timid_male_0.jpg https://previews.123rf.com/images/creatista/creatista1212/creatista121200094/16794682-timid-muscular-european-man-over-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_timid_male_1.jpg https://c8.alamy.com/comp/RCDB55/portrait-of-intense-displeased-old-male-man-in-elegant-suit-holding-hands-pressed-to-chest-stepping-backwards-from-dislike-and-aversion-feeling-creepy-and-timid-posing-against-white-background-RCDB55.jpg
+wget --tries=2 --timeout=10 -O ea_timid_male_2.jpg https://cdn.lifehack.org/wp-content/uploads/2015/08/harrison-ford.png
+wget --tries=2 --timeout=10 -O ea_timid_male_3.jpg https://thumbs.dreamstime.com/z/scared-timid-insecure-cute-blond-gay-man-peeking-fingers-interest-fear-gasping-open-mouth-watching-scary-movie-166618204.jpg
+wget --tries=2 --timeout=10 -O ea_timid_male_4.jpg https://previews.123rf.com/images/sifotography/sifotography1412/sifotography141200041/34712982-closeup-portrait-young-shy-timid-man-covering-face-with-hands-with-space-to-peek-through-isolated-wh.jpg
+wget --tries=2 --timeout=10 -O ea_timid_female_0.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX8612182.jpg
+wget --tries=2 --timeout=10 -O ea_timid_female_1.jpg https://st4.depositphotos.com/10424330/19957/i/1600/depositphotos_199572190-stock-photo-timid-girl-closeup-portrait-shy.jpg
+wget --tries=2 --timeout=10 -O ea_timid_female_2.jpg https://thumbs.dreamstime.com/z/young-woman-shy-pose-isolated-white-background-131307873.jpg
+wget --tries=2 --timeout=10 -O ea_timid_female_3.jpg https://previews.123rf.com/images/vepar5/vepar51506/vepar5150601592/40638914-young-attractive-woman-holding-paper-with-timid-text-on-white-background.jpg
+wget --tries=2 --timeout=10 -O ea_timid_female_4.jpg https://image.shutterstock.com/image-photo/woman-hiding-face-timid-on-600w-238551832.jpg
 				     
-wget --tries=2 -O ea_unassertive_male_0.jpg https://image.shutterstock.com/image-photo/image-450w-176007422.jpg
-wget --tries=2 -O ea_unassertive_male_1.jpg https://www.irishtimes.com/polopoly_fs/1.3144233.1499261601!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg
-wget --tries=2 -O ea_unassertive_male_2.jpg https://image.shutterstock.com/image-photo/closeup-portrait-young-nerdy-looking-260nw-166905623.jpg
-wget --tries=2 -O ea_unassertive_male_3.jpg https://st.depositphotos.com/2602289/3901/i/950/depositphotos_39016343-stock-photo-man-with-shirt-very-timid.jpg
-wget --tries=2 -O ea_unassertive_male_4.jpg https://image.shutterstock.com/image-photo/young-cheerful-man-260nw-160891148.jpg
-wget --tries=2 -O ea_unassertive_female_0.jpg https://image.shutterstock.com/image-photo/closeup-portrait-mature-nerdy-looking-260nw-188084864.jpg
-wget --tries=2 -O ea_unassertive_female_1.jpg https://c8.alamy.com/comp/E6XPAG/bashful-young-woman-is-pulling-a-face-E6XPAG.jpg
-wget --tries=2 -O ea_unassertive_female_2.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fkathycaprino%2Ffiles%2F2017%2F04%2FiStock-531266212-1200x801.jpg
-wget --tries=2 -O ea_unassertive_female_3.jpg https://thumbs.dreamstime.com/b/school-girl-25573045.jpg
-wget --tries=2 -O ea_unassertive_female_4.jpg https://image.shutterstock.com/display_pic_with_logo/696460/188084876/stock-photo-closeup-portrait-mature-nerdy-looking-woman-with-black-glasses-very-timid-shy-and-anxious-188084876.jpg
+wget --tries=2 --timeout=10 -O ea_unassertive_male_0.jpg https://image.shutterstock.com/image-photo/image-450w-176007422.jpg
+wget --tries=2 --timeout=10 -O ea_unassertive_male_1.jpg https://www.irishtimes.com/polopoly_fs/1.3144233.1499261601!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg
+wget --tries=2 --timeout=10 -O ea_unassertive_male_2.jpg https://image.shutterstock.com/image-photo/closeup-portrait-young-nerdy-looking-260nw-166905623.jpg
+wget --tries=2 --timeout=10 -O ea_unassertive_male_3.jpg https://st.depositphotos.com/2602289/3901/i/950/depositphotos_39016343-stock-photo-man-with-shirt-very-timid.jpg
+wget --tries=2 --timeout=10 -O ea_unassertive_male_4.jpg https://image.shutterstock.com/image-photo/young-cheerful-man-260nw-160891148.jpg
+wget --tries=2 --timeout=10 -O ea_unassertive_female_0.jpg https://image.shutterstock.com/image-photo/closeup-portrait-mature-nerdy-looking-260nw-188084864.jpg
+wget --tries=2 --timeout=10 -O ea_unassertive_female_1.jpg https://c8.alamy.com/comp/E6XPAG/bashful-young-woman-is-pulling-a-face-E6XPAG.jpg
+wget --tries=2 --timeout=10 -O ea_unassertive_female_2.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fkathycaprino%2Ffiles%2F2017%2F04%2FiStock-531266212-1200x801.jpg
+wget --tries=2 --timeout=10 -O ea_unassertive_female_3.jpg https://thumbs.dreamstime.com/b/school-girl-25573045.jpg
+wget --tries=2 --timeout=10 -O ea_unassertive_female_4.jpg https://image.shutterstock.com/display_pic_with_logo/696460/188084876/stock-photo-closeup-portrait-mature-nerdy-looking-woman-with-black-glasses-very-timid-shy-and-anxious-188084876.jpg
 				     

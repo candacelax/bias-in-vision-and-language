@@ -4,14 +4,14 @@ This is the repo for our paper [Measuring Social Biases in Grounded Vision and L
 ## Installation
 Create the conda environment.
 ```bash
-git clone git@github.com:candacelax/bias-in-vision-and-language.git
-cd bias-grounded-bert
+	git clone git@github.com:candacelax/bias-in-vision-and-language.git && cd bias-in-vision-and-language
 
-conda env create -f conda_env.yml
-conda activate visual-bias
-python -m spacy download en
+	conda env create -f environment.yml
+	pip install --no-deps allennlp==0.8.0
+	python -m spacy download en
 
-export PYTORCH_PRETRAINED_BERT_CACHE="XX/bias-grounded-bert/.pytorch_pretrained_bert"
+	# download specific model repos
+	git clone git@github.com:uclanlp/visualbert.git
 ```
 
 ## Usage
@@ -133,46 +133,50 @@ To run over custom images,
     # TODO forked version
 ```
 # ViLBERT
-sudo docker container run -t -v /storage/ccross/bias-grounded-bert/bottom-up-attention/features:/storage/ccross/bias-grounded-bert/bottom-up-attention/features \
-     	    	      --gpus all caffe_image_features \
-     	    python2.7 /storage/ccross/bias-grounded-bert/bottom-up-attention//tools/generate_tsv.py \
-	    	      --cfg /storage/ccross/bias-grounded-bert/bottom-up-attention/experiments/cfgs/faster_rcnn_end2end_resnet.yml \
-	     	      --def /storage/ccross/bias-grounded-bert/bottom-up-attention//models/vg/ResNet-101/faster_rcnn_end2end_final/test.prototxt \
-		      --net /storage/ccross/bias-grounded-bert/bottom-up-attention/models/faster_rcnn_models/resnet101_faster_rcnn_final_iter_320000.caffemodel \
-		      --total_group 1 --group_id 0 --split  custom \
-		      --gpu 0,1,2,3,4,5,6,7 --out /storage/ccross/bias-grounded-bert/bottom-up-attention/features/conceptual/conceptual_val_resnet101_faster_rcnn_genome.tsv \
-		      --data_dir /storage/ccross/bias-grounded-bert/bottom-up-attention/data/concap-bias-val \
-		      --class_file /storage/ccross/bias-grounded-bert/bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
+```bash
+	sudo docker container run -t -v /storage/ccross/bias-grounded-bert/bottom-up-attention/features:/storage/ccross/bias-grounded-bert/bottom-up-attention/features \
+						--gpus all caffe_image_features \
+				python2.7 /storage/ccross/bias-grounded-bert/bottom-up-attention//tools/generate_tsv.py \
+					--cfg /storage/ccross/bias-grounded-bert/bottom-up-attention/experiments/cfgs/faster_rcnn_end2end_resnet.yml \
+					--def /storage/ccross/bias-grounded-bert/bottom-up-attention//models/vg/ResNet-101/faster_rcnn_end2end_final/test.prototxt \
+				--net /storage/ccross/bias-grounded-bert/bottom-up-attention/models/faster_rcnn_models/resnet101_faster_rcnn_final_iter_320000.caffemodel \
+				--total_group 1 --group_id 0 --split  custom \
+				--gpu 0,1,2,3,4,5,6,7 --out /storage/ccross/bias-grounded-bert/bottom-up-attention/features/conceptual/conceptual_val_resnet101_faster_rcnn_genome.tsv \
+				--data_dir /storage/ccross/bias-grounded-bert/bottom-up-attention/data/concap-bias-val \
+				--class_file /storage/ccross/bias-grounded-bert/bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
 
 
-sudo docker container run -t -v /storage/ccross/bias-grounded-bert/bottom-up-attention/features:/storage/ccross/bias-grounded-bert/bottom-up-attention/features \
-     	    	      --gpus all caffe_image_features \
-     	    python2.7 /storage/ccross/bias-grounded-bert/bottom-up-attention//tools/generate_tsv.py \
-	    	      --cfg /storage/ccross/bias-grounded-bert/bottom-up-attention/experiments/cfgs/faster_rcnn_end2end_resnet.yml \
-	     	      --def /storage/ccross/bias-grounded-bert/bottom-up-attention//models/vg/ResNet-101/faster_rcnn_end2end_final/test.prototxt \
-		      --net /storage/ccross/bias-grounded-bert/bottom-up-attention/models/faster_rcnn_models/resnet101_faster_rcnn_final_iter_320000.caffemodel \
-		      --total_group 1 --group_id 0 --split  google_images \
-		      --gpu 0,1,2,3,4,5,6,7 --out /storage/ccross/bias-grounded-bert/bottom-up-attention/features/google-images/angry_black_women_val_resnet101_faster_rcnn_genome.tsv \
-		      --data_dir /storage/ccross/bias-grounded-bert/bottom-up-attention/data/google-images/angry-black-women \
-		      --class_file /storage/ccross/bias-grounded-bert/bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
+	sudo docker container run -t -v /storage/ccross/bias-grounded-bert/bottom-up-attention/features:/storage/ccross/bias-grounded-bert/bottom-up-attention/features \
+						--gpus all caffe_image_features \
+				python2.7 /storage/ccross/bias-grounded-bert/bottom-up-attention//tools/generate_tsv.py \
+					--cfg /storage/ccross/bias-grounded-bert/bottom-up-attention/experiments/cfgs/faster_rcnn_end2end_resnet.yml \
+					--def /storage/ccross/bias-grounded-bert/bottom-up-attention//models/vg/ResNet-101/faster_rcnn_end2end_final/test.prototxt \
+				--net /storage/ccross/bias-grounded-bert/bottom-up-attention/models/faster_rcnn_models/resnet101_faster_rcnn_final_iter_320000.caffemodel \
+				--total_group 1 --group_id 0 --split  google_images \
+				--gpu 0,1,2,3,4,5,6,7 --out /storage/ccross/bias-grounded-bert/bottom-up-attention/features/google-images/angry_black_women_val_resnet101_faster_rcnn_genome.tsv \
+				--data_dir /storage/ccross/bias-grounded-bert/bottom-up-attention/data/google-images/angry-black-women \
+				--class_file /storage/ccross/bias-grounded-bert/bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
+```
 
 # VL-BERT
-sudo docker container run -t -v /storage/ccross/bias-grounded-bert/bottom-up-attention/features:/storage/ccross/bias-grounded-bert/bottom-up-attention/features \
-     	    	      --gpus all caffe_image_features \
-     	    python2.7 /storage/ccross/bias-grounded-bert/bottom-up-attention//tools/generate_tsv_v2.py \
-	    	      --cfg /storage/ccross/bias-grounded-bert/bottom-up-attention/experiments/cfgs/faster_rcnn_end2end_resnet.yml \
-	     	      --def /storage/ccross/bias-grounded-bert/bottom-up-attention//models/vg/ResNet-101/faster_rcnn_end2end_final/test.prototxt \
-		      --net /storage/ccross/bias-grounded-bert/bottom-up-attention/models/faster_rcnn_models/resnet101_faster_rcnn_final_iter_320000.caffemodel --split  custom \
-		      --total_group 1 --group_id 0 --gpu 0,1,2,3,4,5,6,7 --out /storage/ccross/bias-grounded-bert/bottom-up-attention/features/conceptual-v2/conceptual_val_resnet101_faster_rcnn_genome.tsv \
-		      --data_dir /storage/ccross/bias-grounded-bert/bottom-up-attention/data/concap-bias-val \
-		      --class_file /storage/ccross/bias-grounded-bert/bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
+```bash
+	sudo docker container run -t -v /storage/ccross/bias-grounded-bert/bottom-up-attention/features:/storage/ccross/bias-grounded-bert/bottom-up-attention/features \
+						--gpus all caffe_image_features \
+				python2.7 /storage/ccross/bias-grounded-bert/bottom-up-attention//tools/generate_tsv_v2.py \
+					--cfg /storage/ccross/bias-grounded-bert/bottom-up-attention/experiments/cfgs/faster_rcnn_end2end_resnet.yml \
+					--def /storage/ccross/bias-grounded-bert/bottom-up-attention//models/vg/ResNet-101/faster_rcnn_end2end_final/test.prototxt \
+				--net /storage/ccross/bias-grounded-bert/bottom-up-attention/models/faster_rcnn_models/resnet101_faster_rcnn_final_iter_320000.caffemodel --split  custom \
+				--total_group 1 --group_id 0 --gpu 0,1,2,3,4,5,6,7 --out /storage/ccross/bias-grounded-bert/bottom-up-attention/features/conceptual-v2/conceptual_val_resnet101_faster_rcnn_genome.tsv \
+				--data_dir /storage/ccross/bias-grounded-bert/bottom-up-attention/data/concap-bias-val \
+				--class_file /storage/ccross/bias-grounded-bert/bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
 
-sudo docker container run -t -v /storage/ccross/bias-grounded-bert/bottom-up-attention/features:/storage/ccross/bias-grounded-bert/bottom-up-attention/features \
-     	    	      --gpus all caffe_image_features \
-     	    python2.7 /storage/ccross/bias-grounded-bert/bottom-up-attention//tools/generate_tsv_v2.py \
-	    	      --cfg /storage/ccross/bias-grounded-bert/bottom-up-attention/experiments/cfgs/faster_rcnn_end2end_resnet.yml \
-	     	      --def /storage/ccross/bias-grounded-bert/bottom-up-attention//models/vg/ResNet-101/faster_rcnn_end2end_final/test.prototxt \
-		      --net /storage/ccross/bias-grounded-bert/bottom-up-attention/models/faster_rcnn_models/resnet101_faster_rcnn_final_iter_320000.caffemodel --split  custom \
-		      --total_group 1 --group_id 0 --gpu 0,1,2,3,4,5,6,7 --out /storage/ccross/bias-grounded-bert/bottom-up-attention/features/google-images-caffe-v2/weat3.tsv \
-		      --data_dir /storage/ccross/bias-grounded-bert/bottom-up-attention/data/google-images/weat3 \
-		      --class_file /storage/ccross/bias-grounded-bert/bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
+	sudo docker container run -t -v /storage/ccross/bias-grounded-bert/bottom-up-attention/features:/storage/ccross/bias-grounded-bert/bottom-up-attention/features \
+						--gpus all caffe_image_features \
+				python2.7 /storage/ccross/bias-grounded-bert/bottom-up-attention//tools/generate_tsv_v2.py \
+					--cfg /storage/ccross/bias-grounded-bert/bottom-up-attention/experiments/cfgs/faster_rcnn_end2end_resnet.yml \
+					--def /storage/ccross/bias-grounded-bert/bottom-up-attention//models/vg/ResNet-101/faster_rcnn_end2end_final/test.prototxt \
+				--net /storage/ccross/bias-grounded-bert/bottom-up-attention/models/faster_rcnn_models/resnet101_faster_rcnn_final_iter_320000.caffemodel --split  custom \
+				--total_group 1 --group_id 0 --gpu 0,1,2,3,4,5,6,7 --out /storage/ccross/bias-grounded-bert/bottom-up-attention/features/google-images-caffe-v2/weat3.tsv \
+				--data_dir /storage/ccross/bias-grounded-bert/bottom-up-attention/data/google-images/weat3 \
+				--class_file /storage/ccross/bias-grounded-bert/bottom-up-attention/data/genome/1600-400-20/objects_vocab.txt
+```

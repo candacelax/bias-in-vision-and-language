@@ -1,26 +1,8 @@
-import copy
-import json
-import logging
-import os
-import random
-
-import lmdb
 import tensorpack.dataflow as td
-
 import torch
 from torch.utils.data import Dataset
 
-import json
-from typing import Any, Dict, List
-import random
-import os
-
-import torch
-from torch.utils.data import Dataset
-
-from dataloaders.tokenization import BertTokenizer
-from ._image_features_reader import ImageFeaturesH5ReaderWithObjClasses
-import _pickle as cPickle
+from ..tokenization import BertTokenizer
 import re
 
 def iou(anchors, gt_boxes):
@@ -136,7 +118,7 @@ class BiasDataset(Dataset):
             region_len=36,
             image_features=image_features,
             imageid2filepath=self.imageid2filepath,
-            encoding="utf-8",
+            encoding=encoding,
             predict_feature=False
         )
         ds = td.MapData(entries, preprocess_function)
@@ -171,7 +153,7 @@ class BiasDataset(Dataset):
                 vals = torch.tensor(vals)
             batch.append(vals)
         
-        import numpy as np
+        tensorized_batch = [torch.tensor(x) for x in batch]
         input_ids, input_mask, segment_ids, lm_label_ids, image_feat, \
             image_loc, image_label, image_mask, image_id, coattention_mask,\
             masked_image_feat, masked_image_label = batch
@@ -179,12 +161,13 @@ class BiasDataset(Dataset):
         batch_size = input_ids.shape[0]
 
         g_image_feat = torch.sum(image_feat, axis=1) / torch.sum(image_mask, axis=1, keepdims=True)
-        image_feat = torch.cat((g_image_feat.unsqueeze(1), image_feat), dim=1).type(torch.float32)
+        image_feat = torch.cat((g_image_feat.unsqueeze(1), image_feat), dim=1)#.type(torch.float32)
 
-        g_image_loc = torch.tensor([[0,0,1,1,1]], dtype=torch.float32).repeat(batch_size,1)
-        image_loc = torch.cat((g_image_loc.unsqueeze(1), image_loc), dim=1).type(torch.float32)
+        #g_image_loc = torch.tensor([[0,0,1,1,1]], dtype=torch.float32).repeat(batch_size,1)
+        g_image_loc = torch.tensor([[0,0,1,1,1]], dtype=image_loc.dtype).repeat(batch_size,1)
+        image_loc = torch.cat((g_image_loc.unsqueeze(1), image_loc), dim=1)#.type(torch.float32)
         
-        g_image_mask = torch.tensor([[1]]).repeat(batch_size, 1)  #np.repeat(np.array([[1]]), batch_size, axis=0)
+        g_image_mask = torch.ones((batch_size, 1), dtype=image_mask.dtype)  #np.repeat(np.array([[1]]), batch_size, axis=0)
         image_mask = torch.cat((g_image_mask, image_mask), dim=1) #np.concatenate([g_image_mask, image_mask], axis=1)
 
         masked_g_image_feat = torch.sum(masked_image_feat, axis=1) / \
@@ -228,12 +211,11 @@ class BertPreprocessBatch(object):
         image_id = data['image_id']
         
         image_fp = self.imageid2filepath[image_id]
-        image_feature, num_boxes, image_location, image_location_ori, cls_indices =\
-                                    self.image_features[image_fp]
+        image_feature, num_boxes, image_location, image_location_ori, cls_indices = self.image_features[image_fp]
 
         num_boxes = min(self.region_len, num_boxes) # TODO
-        image_feature = torch.tensor(image_feature[:self.region_len])
-        image_location = torch.tensor(image_location[:self.region_len])
+        image_feature = image_feature[:self.region_len] #torch.tensor(image_feature[:self.region_len], dtype=torch.float32)
+        image_location = image_location[:self.region_len] #torch.tensor(image_location[:self.region_len], dtype=torch.float32)
             
         tokens_caption = self.tokenizer.tokenize(caption)
         cur_example = InputExample(
@@ -354,20 +336,19 @@ class BertPreprocessBatch(object):
         assert len(image_mask) == max_region_length
         assert len(image_label) == max_region_length
 
-
         coattention_mask = torch.zeros((max_region_length, max_seq_length))
         features = InputFeatures(
-            input_ids=torch.tensor(input_ids),
-            input_mask=torch.tensor(input_mask),
-            segment_ids=torch.tensor(segment_ids),
-            lm_label_ids=torch.tensor(lm_label_ids),
-            image_feat=image_feat,
-            image_loc=image_loc,
-            image_label=torch.tensor(image_label),
-            image_mask = torch.tensor(image_mask),
-            coattention_mask=coattention_mask,
-            masked_image_feat=masked_image_feat,
-            masked_image_label=torch.tensor(masked_image_label)
+            input_ids=torch.tensor(input_ids, dtype=torch.long),
+            input_mask=torch.tensor(input_mask, dtype=torch.long),
+            segment_ids=torch.tensor(segment_ids, dtype=torch.long),
+            lm_label_ids=torch.tensor(lm_label_ids, dtype=torch.long),
+            image_feat=torch.tensor(image_feat, dtype=torch.float),
+            image_loc=torch.tensor(image_loc, dtype=torch.float),
+            image_label=torch.tensor(image_label, dtype=torch.long),
+            image_mask=torch.tensor(image_mask, dtype=torch.long),
+            coattention_mask=torch.tensor(coattention_mask, dtype=torch.long),
+            masked_image_feat=torch.tensor(masked_image_feat, dtype=torch.float),
+            masked_image_label=torch.tensor(masked_image_label, dtype=torch.long),
         )
         return features
 

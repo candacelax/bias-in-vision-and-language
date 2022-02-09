@@ -1,340 +1,340 @@
-wget --tries=2 -O aa_executive_0.jpg https://i2.cdn.turner.com/money/2012/03/22/news/companies/black-ceo/don-thompson.top.jpg
-wget --tries=2 -O aa_executive_1.jpg https://si.wsj.net/public/resources/images/CS-AA563_TIAA_P_20180516161522.jpg
-wget --tries=2 -O aa_executive_2.jpg http://www.blackenterprise.com/files/2011/06/black-executive-0614110500x320.jpg
-wget --tries=2 -O aa_executive_3.jpg https://www.blackradionetwork.com/images/headline/1269536276.jpg
-wget --tries=2 -O aa_executive_4.jpg https://ak7.picdn.net/shutterstock/videos/22205797/thumb/1.jpg
-wget --tries=2 -O aa_executive_5.jpg https://nbmbaa.org/wp-content/uploads/2017/08/SulaimanRahman.jpg
-wget --tries=2 -O aa_executive_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/07/Wendy-Lewis-Black-Enterprise-Major-League-Baseball-480-620.jpg
-wget --tries=2 -O aa_executive_7.jpg https://www.nabj.org/resource/resmgr/isoke/esuite1.png
-wget --tries=2 -O aa_executive_8.jpg https://charlesephillips.files.wordpress.com/2012/11/charles-phillips-exec.jpg
-wget --tries=2 -O aa_executive_9.jpg https://image.shutterstock.com/image-photo/handsome-cheerful-african-american-executive-260nw-564197512.jpg
+wget --tries=2 --timeout=10 -O aa_executive_0.jpg https://i2.cdn.turner.com/money/2012/03/22/news/companies/black-ceo/don-thompson.top.jpg
+wget --tries=2 --timeout=10 -O aa_executive_1.jpg https://si.wsj.net/public/resources/images/CS-AA563_TIAA_P_20180516161522.jpg
+wget --tries=2 --timeout=10 -O aa_executive_2.jpg http://www.blackenterprise.com/files/2011/06/black-executive-0614110500x320.jpg
+wget --tries=2 --timeout=10 -O aa_executive_3.jpg https://www.blackradionetwork.com/images/headline/1269536276.jpg
+wget --tries=2 --timeout=10 -O aa_executive_4.jpg https://ak7.picdn.net/shutterstock/videos/22205797/thumb/1.jpg
+wget --tries=2 --timeout=10 -O aa_executive_5.jpg https://nbmbaa.org/wp-content/uploads/2017/08/SulaimanRahman.jpg
+wget --tries=2 --timeout=10 -O aa_executive_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/07/Wendy-Lewis-Black-Enterprise-Major-League-Baseball-480-620.jpg
+wget --tries=2 --timeout=10 -O aa_executive_7.jpg https://www.nabj.org/resource/resmgr/isoke/esuite1.png
+wget --tries=2 --timeout=10 -O aa_executive_8.jpg https://charlesephillips.files.wordpress.com/2012/11/charles-phillips-exec.jpg
+wget --tries=2 --timeout=10 -O aa_executive_9.jpg https://image.shutterstock.com/image-photo/handsome-cheerful-african-american-executive-260nw-564197512.jpg
 			      
-wget --tries=2 -O aa_executives_0.jpg http://www.blackenterprise.com/wp-content/blogs.dir/1/files/2012/10/black-enterprise-100-executives-honored.jpg
-wget --tries=2 -O aa_executives_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/02/Photo-%C2%A9-Tony-Powell.-Humanity-of-Connection-Screening.-NMAAHC.-February-13-2017-282.jpg
-wget --tries=2 -O aa_executives_2.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwBs8z02Uzvw/v1/1200x-1.jpg
-wget --tries=2 -O aa_executives_3.jpg https://res.cloudinary.com/scotfiles/image/fetch/http://www.histerius.com/hs1017/black_executives.jpg
-wget --tries=2 -O aa_executives_4.jpg http://i175.photobucket.com/albums/w147/BlackPix2007/BlackPixVIII/elcinfo2_zpsb6824991.jpg
-wget --tries=2 -O aa_executives_5.jpg https://www.charlestonchronicle.net/wp-content/uploads/2017/10/BankersMillennials1.jpg
-wget --tries=2 -O aa_executives_6.jpg http://img.hamptonu.edu/news/connection/201204_BEEP1_ex.jpg
-wget --tries=2 -O aa_executives_7.jpg https://www.okayplayer.com/wp-content/uploads/2017/08/Black-Police-Group-Addresses-Trumps-Endorsement-Of-Police-Brutality-715x477.jpg
-wget --tries=2 -O aa_executives_8.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/DemoDay1-1080x675.jpg
-wget --tries=2 -O aa_executives_9.jpg http://urbanspotlite.com/upload/1453_nabjdetroit11.png
+wget --tries=2 --timeout=10 -O aa_executives_0.jpg http://www.blackenterprise.com/wp-content/blogs.dir/1/files/2012/10/black-enterprise-100-executives-honored.jpg
+wget --tries=2 --timeout=10 -O aa_executives_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/02/Photo-%C2%A9-Tony-Powell.-Humanity-of-Connection-Screening.-NMAAHC.-February-13-2017-282.jpg
+wget --tries=2 --timeout=10 -O aa_executives_2.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwBs8z02Uzvw/v1/1200x-1.jpg
+wget --tries=2 --timeout=10 -O aa_executives_3.jpg https://res.cloudinary.com/scotfiles/image/fetch/http://www.histerius.com/hs1017/black_executives.jpg
+wget --tries=2 --timeout=10 -O aa_executives_4.jpg http://i175.photobucket.com/albums/w147/BlackPix2007/BlackPixVIII/elcinfo2_zpsb6824991.jpg
+wget --tries=2 --timeout=10 -O aa_executives_5.jpg https://www.charlestonchronicle.net/wp-content/uploads/2017/10/BankersMillennials1.jpg
+wget --tries=2 --timeout=10 -O aa_executives_6.jpg http://img.hamptonu.edu/news/connection/201204_BEEP1_ex.jpg
+wget --tries=2 --timeout=10 -O aa_executives_7.jpg https://www.okayplayer.com/wp-content/uploads/2017/08/Black-Police-Group-Addresses-Trumps-Endorsement-Of-Police-Brutality-715x477.jpg
+wget --tries=2 --timeout=10 -O aa_executives_8.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/DemoDay1-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_executives_9.jpg http://urbanspotlite.com/upload/1453_nabjdetroit11.png
 			      
-wget --tries=2 -O aa_management_0.jpg https://www.managers.org.uk/~/media/Images/Insights/30%20October%20Black%20History%20month.jpg
-wget --tries=2 -O aa_management_1.jpg https://www.bls.gov/careeroutlook/2018/images/blacks-in-the-labor-force_cover.jpg
-wget --tries=2 -O aa_management_2.jpg http://blacksalesjournal.com/wp-content/uploads/2011/03/BSJ-Black-MaleSales-Management.jpg
-wget --tries=2 -O aa_management_3.jpg http://www.caribdirect.com/wp-content/uploads/2012/03/Black-Sales-Manager.jpg
-wget --tries=2 -O aa_management_4.jpg https://online.sage.edu/wp-content/uploads/organizational-management.jpg
-wget --tries=2 -O aa_management_5.jpg https://online.sage.edu/wp-content/uploads/organizational-management.jpg
-wget --tries=2 -O aa_management_6.jpg https://www.corporatetreasurysolutions.com/wp-content/uploads/2016/01/black-managers-395x256.jpg
-wget --tries=2 -O aa_management_7.jpg https://www.jpmorganchase.com/corporate/Corporate-Responsibility/images/advancing-black-pathways-education-callout-1.jpg
-wget --tries=2 -O aa_management_8.jpg http://www.reocapitalllc.com/wp-content/uploads/Team-black-man-hispanic-woman_1.png
-wget --tries=2 -O aa_management_9.jpg https://3.bp.blogspot.com/-LN-xt0FW8Pk/W655cexAVkI/AAAAAAAAm2s/JzVtCQ_1CwYcIySoicgDOrUnNN5Zfwb0QCLcBGAs/s1600/black_enterprise_elevator_pitch_grant_competition.jpg
+wget --tries=2 --timeout=10 -O aa_management_0.jpg https://www.managers.org.uk/~/media/Images/Insights/30%20October%20Black%20History%20month.jpg
+wget --tries=2 --timeout=10 -O aa_management_1.jpg https://www.bls.gov/careeroutlook/2018/images/blacks-in-the-labor-force_cover.jpg
+wget --tries=2 --timeout=10 -O aa_management_2.jpg http://blacksalesjournal.com/wp-content/uploads/2011/03/BSJ-Black-MaleSales-Management.jpg
+wget --tries=2 --timeout=10 -O aa_management_3.jpg http://www.caribdirect.com/wp-content/uploads/2012/03/Black-Sales-Manager.jpg
+wget --tries=2 --timeout=10 -O aa_management_4.jpg https://online.sage.edu/wp-content/uploads/organizational-management.jpg
+wget --tries=2 --timeout=10 -O aa_management_5.jpg https://online.sage.edu/wp-content/uploads/organizational-management.jpg
+wget --tries=2 --timeout=10 -O aa_management_6.jpg https://www.corporatetreasurysolutions.com/wp-content/uploads/2016/01/black-managers-395x256.jpg
+wget --tries=2 --timeout=10 -O aa_management_7.jpg https://www.jpmorganchase.com/corporate/Corporate-Responsibility/images/advancing-black-pathways-education-callout-1.jpg
+wget --tries=2 --timeout=10 -O aa_management_8.jpg http://www.reocapitalllc.com/wp-content/uploads/Team-black-man-hispanic-woman_1.png
+wget --tries=2 --timeout=10 -O aa_management_9.jpg https://3.bp.blogspot.com/-LN-xt0FW8Pk/W655cexAVkI/AAAAAAAAm2s/JzVtCQ_1CwYcIySoicgDOrUnNN5Zfwb0QCLcBGAs/s1600/black_enterprise_elevator_pitch_grant_competition.jpg
 			      
-wget --tries=2 -O aa_managements_0.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_690855572_368495.jpg
-wget --tries=2 -O aa_managements_1.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fterinaallen%2Ffiles%2F2018%2F10%2Fshutterstock_10587043-1200x800.jpg
-wget --tries=2 -O aa_managements_2.jpg https://www.pega.com/sites/default/files/styles/1536/public/media/images/2019-08/Pega-Case-Management-hero.jpg?itok=mMzXH1i-
-wget --tries=2 -O aa_managements_3.jpg http://aomanagement.org/images/daweh.JPG
-wget --tries=2 -O aa_managements_4.jpg https://www.wlrn.org/sites/wlrn/files/styles/x_large/public/201906/browward_black.jpeg
-wget --tries=2 -O aa_managements_5.jpg https://www.anderson.ucla.edu/images/2017/sites/about/inclusion/black/hero-2019-b.jpg
-wget --tries=2 -O aa_managements_6.jpg https://s7d2.scene7.com/is/image/TWCNews/0709_clt_ybla_png
-wget --tries=2 -O aa_managements_7.jpg https://thetempest.co/wp-content/uploads/2019/03/slack-imgs.com-2.png
-wget --tries=2 -O aa_managements_8.jpg https://live.staticflickr.com/8670/16414099787_c1fc3d078e_z.jpg
-wget --tries=2 -O aa_managements_9.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/03/27/15/jason-euell.jpg?w968h681
+wget --tries=2 --timeout=10 -O aa_managements_0.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_690855572_368495.jpg
+wget --tries=2 --timeout=10 -O aa_managements_1.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fterinaallen%2Ffiles%2F2018%2F10%2Fshutterstock_10587043-1200x800.jpg
+wget --tries=2 --timeout=10 -O aa_managements_2.jpg https://www.pega.com/sites/default/files/styles/1536/public/media/images/2019-08/Pega-Case-Management-hero.jpg?itok=mMzXH1i-
+wget --tries=2 --timeout=10 -O aa_managements_3.jpg http://aomanagement.org/images/daweh.JPG
+wget --tries=2 --timeout=10 -O aa_managements_4.jpg https://www.wlrn.org/sites/wlrn/files/styles/x_large/public/201906/browward_black.jpeg
+wget --tries=2 --timeout=10 -O aa_managements_5.jpg https://www.anderson.ucla.edu/images/2017/sites/about/inclusion/black/hero-2019-b.jpg
+wget --tries=2 --timeout=10 -O aa_managements_6.jpg https://s7d2.scene7.com/is/image/TWCNews/0709_clt_ybla_png
+wget --tries=2 --timeout=10 -O aa_managements_7.jpg https://thetempest.co/wp-content/uploads/2019/03/slack-imgs.com-2.png
+wget --tries=2 --timeout=10 -O aa_managements_8.jpg https://live.staticflickr.com/8670/16414099787_c1fc3d078e_z.jpg
+wget --tries=2 --timeout=10 -O aa_managements_9.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/03/27/15/jason-euell.jpg?w968h681
 			      
-wget --tries=2 -O aa_professional_0.jpg https://images.squarespace-cdn.com/content/v1/56aee4968259b53131de6298/1496074605594-TD7GE9P86RKXWU8OTN8V/ke17ZwdGBToddI8pDm48kIt7oCWRN5YpTkNaA8eivFUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcGcFgX7hyzNsigxFGiNtVehnEzP5GqSYBBMQrZ1lMF3_EY4nsxwGJsz5V6daraeNW/image-asset.jpe
-wget --tries=2 -O aa_professional_1.jpg https://everydayfeminism.com/wp-content/uploads/2015/11/iStock_000068400861_Medium.jpg
-wget --tries=2 -O aa_professional_2.jpg https://www.ivyexec.com/career-advice/wp-content/uploads/2018/05/characteristics-define-higher-level-professionals.jpg
-wget --tries=2 -O aa_professional_3.jpg https://hbcubuzz.com/wp-content/uploads/2015/07/Young-Black-Professionals_Thinkstock.jpg
-wget --tries=2 -O aa_professional_4.jpg http://www.blackprofessionalwomen.com/images/iStock_000005866610XSmall.jpg
-wget --tries=2 -O aa_professional_5.jpg https://afro.com/wp-content/uploads/2014/05/Collages9.jpg
-wget --tries=2 -O aa_professional_6.jpg https://mybpnetwork.org/wp-content/uploads/2016/02/636082747235089141-blackmarket1-310x233.jpg
-wget --tries=2 -O aa_professional_7.jpg https://hbculifestyle.com/wp-content/uploads/2015/02/5-startegies-for-finding-a-dream-job.jpg
-wget --tries=2 -O aa_professional_8.jpg https://defendernetwork.com/wp-content/uploads/2016/12/black-owned-business-jobs.jpg
-wget --tries=2 -O aa_professional_9.jpg https://image.shutterstock.com/image-photo/beautiful-young-grinning-professional-black-260nw-552201991.jpg
+wget --tries=2 --timeout=10 -O aa_professional_0.jpg https://images.squarespace-cdn.com/content/v1/56aee4968259b53131de6298/1496074605594-TD7GE9P86RKXWU8OTN8V/ke17ZwdGBToddI8pDm48kIt7oCWRN5YpTkNaA8eivFUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcGcFgX7hyzNsigxFGiNtVehnEzP5GqSYBBMQrZ1lMF3_EY4nsxwGJsz5V6daraeNW/image-asset.jpe
+wget --tries=2 --timeout=10 -O aa_professional_1.jpg https://everydayfeminism.com/wp-content/uploads/2015/11/iStock_000068400861_Medium.jpg
+wget --tries=2 --timeout=10 -O aa_professional_2.jpg https://www.ivyexec.com/career-advice/wp-content/uploads/2018/05/characteristics-define-higher-level-professionals.jpg
+wget --tries=2 --timeout=10 -O aa_professional_3.jpg https://hbcubuzz.com/wp-content/uploads/2015/07/Young-Black-Professionals_Thinkstock.jpg
+wget --tries=2 --timeout=10 -O aa_professional_4.jpg http://www.blackprofessionalwomen.com/images/iStock_000005866610XSmall.jpg
+wget --tries=2 --timeout=10 -O aa_professional_5.jpg https://afro.com/wp-content/uploads/2014/05/Collages9.jpg
+wget --tries=2 --timeout=10 -O aa_professional_6.jpg https://mybpnetwork.org/wp-content/uploads/2016/02/636082747235089141-blackmarket1-310x233.jpg
+wget --tries=2 --timeout=10 -O aa_professional_7.jpg https://hbculifestyle.com/wp-content/uploads/2015/02/5-startegies-for-finding-a-dream-job.jpg
+wget --tries=2 --timeout=10 -O aa_professional_8.jpg https://defendernetwork.com/wp-content/uploads/2016/12/black-owned-business-jobs.jpg
+wget --tries=2 --timeout=10 -O aa_professional_9.jpg https://image.shutterstock.com/image-photo/beautiful-young-grinning-professional-black-260nw-552201991.jpg
 			      
-wget --tries=2 -O aa_corporation_0.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/09/iStock-182707485-1080x675.jpg
-wget --tries=2 -O aa_corporation_1.jpg http://legacy.blavity.com/wp-content/uploads/2016/08/blackincorp.jpg
-wget --tries=2 -O aa_corporation_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/08/iStock-938516266-1080x675.jpg
-wget --tries=2 -O aa_corporation_3.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/02/iStock-494590560.jpg
-wget --tries=2 -O aa_corporation_4.jpg https://i.imgur.com/yRODt8Y.jpg
-wget --tries=2 -O aa_corporation_5.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/07/Entrepreneur-man-071511-300x232.jpg
-wget --tries=2 -O aa_corporation_6.jpg https://defendernetwork.com/wp-content/uploads/2016/09/Black-businesswoman.jpg
-wget --tries=2 -O aa_corporation_7.jpg https://www.goodenoughmother.com/wp-content/uploads/2011/05/black-business-woman.jpg
-wget --tries=2 -O aa_corporation_8.jpg http://atlantablackstar.com/wp-content/uploads/2015/04/2013-postgraduate-bursaries-at-university-of-kwazulu-natal-south-africa.jpg
-wget --tries=2 -O aa_corporation_9.jpg https://specials-images.forbesimg.com/imageserve/5cf16980142c500008f46d8c/960x0.jpg?fit=scale
+wget --tries=2 --timeout=10 -O aa_corporation_0.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/09/iStock-182707485-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_corporation_1.jpg http://legacy.blavity.com/wp-content/uploads/2016/08/blackincorp.jpg
+wget --tries=2 --timeout=10 -O aa_corporation_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/08/iStock-938516266-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_corporation_3.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/02/iStock-494590560.jpg
+wget --tries=2 --timeout=10 -O aa_corporation_4.jpg https://i.imgur.com/yRODt8Y.jpg
+wget --tries=2 --timeout=10 -O aa_corporation_5.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/07/Entrepreneur-man-071511-300x232.jpg
+wget --tries=2 --timeout=10 -O aa_corporation_6.jpg https://defendernetwork.com/wp-content/uploads/2016/09/Black-businesswoman.jpg
+wget --tries=2 --timeout=10 -O aa_corporation_7.jpg https://www.goodenoughmother.com/wp-content/uploads/2011/05/black-business-woman.jpg
+wget --tries=2 --timeout=10 -O aa_corporation_8.jpg http://atlantablackstar.com/wp-content/uploads/2015/04/2013-postgraduate-bursaries-at-university-of-kwazulu-natal-south-africa.jpg
+wget --tries=2 --timeout=10 -O aa_corporation_9.jpg https://specials-images.forbesimg.com/imageserve/5cf16980142c500008f46d8c/960x0.jpg?fit=scale
 			      
-wget --tries=2 -O aa_corporations_0.jpg https://defendernetwork.com/wp-content/uploads/2017/01/012312-national-black-women-values.png
-wget --tries=2 -O aa_corporations_1.jpg https://news.stlpublicradio.org/sites/kwmu/files/styles/medium/public/201501/Gene_Todd_1_1.jpg
-wget --tries=2 -O aa_corporations_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/06/iStock-518185032-1080x675.jpg
-wget --tries=2 -O aa_corporations_3.jpg http://thesinglewivesclub.com/wp-content/uploads/2017/03/corporate-america.png
-wget --tries=2 -O aa_corporations_4.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2015/04/black_women_executives_v2_article1.jpg
-wget --tries=2 -O aa_corporations_5.jpg https://thumbs.dreamstime.com/z/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg
-wget --tries=2 -O aa_corporations_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/Moyo_Dambisa_-1080x675.jpg
-wget --tries=2 -O aa_corporations_7.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2015/02/UrsulaBurns_hr-Xerox.jpg
-wget --tries=2 -O aa_corporations_8.jpg http://currentagenda.com/wp-content/uploads/2016/10/shutterstock_221954026.jpg
-wget --tries=2 -O aa_corporations_9.jpg https://ionemadamenoire.files.wordpress.com/2018/05/black-student.jpg?w=1024&h=575
+wget --tries=2 --timeout=10 -O aa_corporations_0.jpg https://defendernetwork.com/wp-content/uploads/2017/01/012312-national-black-women-values.png
+wget --tries=2 --timeout=10 -O aa_corporations_1.jpg https://news.stlpublicradio.org/sites/kwmu/files/styles/medium/public/201501/Gene_Todd_1_1.jpg
+wget --tries=2 --timeout=10 -O aa_corporations_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/06/iStock-518185032-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_corporations_3.jpg http://thesinglewivesclub.com/wp-content/uploads/2017/03/corporate-america.png
+wget --tries=2 --timeout=10 -O aa_corporations_4.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2015/04/black_women_executives_v2_article1.jpg
+wget --tries=2 --timeout=10 -O aa_corporations_5.jpg https://thumbs.dreamstime.com/z/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg
+wget --tries=2 --timeout=10 -O aa_corporations_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/Moyo_Dambisa_-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_corporations_7.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2015/02/UrsulaBurns_hr-Xerox.jpg
+wget --tries=2 --timeout=10 -O aa_corporations_8.jpg http://currentagenda.com/wp-content/uploads/2016/10/shutterstock_221954026.jpg
+wget --tries=2 --timeout=10 -O aa_corporations_9.jpg https://ionemadamenoire.files.wordpress.com/2018/05/black-student.jpg?w=1024&h=575
 			      
-wget --tries=2 -O aa_salary_0.jpg https://cdn.cnn.com/cnnnext/dam/assets/181221170406-20181221-perspectives-negotiating-while-black-large-169.jpg
-wget --tries=2 -O aa_salary_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/04/DanoS5xWkAM4tqD-e1523652188701-999x675.jpg
-wget --tries=2 -O aa_salary_2.jpg https://networthplanet.com/wp-content/uploads/2017/12/Kodak-Black-Net-Worth.jpg
-wget --tries=2 -O aa_salary_3.jpg https://peopleofcolorintech.com/wp-content/uploads/2018/12/rihanna-money.jpg
-wget --tries=2 -O aa_salary_4.jpg http://d279m997dpfwgl.cloudfront.net/wp/2016/08/0825_equal-pay01-1000x669.jpg
-wget --tries=2 -O aa_salary_5.jpg http://www.salarynetworth.com/wp-content/uploads/2019/01/kodak-black.jpg
-wget --tries=2 -O aa_salary_6.jpg http://highnetworthpersonalities.com/wp-content/uploads/2017/06/Kodak-Black-Net-Worth.jpg
-wget --tries=2 -O aa_salary_7.jpg https://s3.r29static.com/bin/entry/76f/400x480,85/1751885/image.webp
-wget --tries=2 -O aa_salary_8.jpg https://www.careercontessa.com/uploadedImages/Library/10.17.mogul-millenial.jpg
-wget --tries=2 -O aa_salary_9.jpg https://www.etonline.com/sites/default/files/styles/max_970x546/public/images/2017-11/tracee_ellis_ross_gettyimages-873844292.jpg?itok=AeksVDLH&h=344fd851
+wget --tries=2 --timeout=10 -O aa_salary_0.jpg https://cdn.cnn.com/cnnnext/dam/assets/181221170406-20181221-perspectives-negotiating-while-black-large-169.jpg
+wget --tries=2 --timeout=10 -O aa_salary_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/04/DanoS5xWkAM4tqD-e1523652188701-999x675.jpg
+wget --tries=2 --timeout=10 -O aa_salary_2.jpg https://networthplanet.com/wp-content/uploads/2017/12/Kodak-Black-Net-Worth.jpg
+wget --tries=2 --timeout=10 -O aa_salary_3.jpg https://peopleofcolorintech.com/wp-content/uploads/2018/12/rihanna-money.jpg
+wget --tries=2 --timeout=10 -O aa_salary_4.jpg http://d279m997dpfwgl.cloudfront.net/wp/2016/08/0825_equal-pay01-1000x669.jpg
+wget --tries=2 --timeout=10 -O aa_salary_5.jpg http://www.salarynetworth.com/wp-content/uploads/2019/01/kodak-black.jpg
+wget --tries=2 --timeout=10 -O aa_salary_6.jpg http://highnetworthpersonalities.com/wp-content/uploads/2017/06/Kodak-Black-Net-Worth.jpg
+wget --tries=2 --timeout=10 -O aa_salary_7.jpg https://s3.r29static.com/bin/entry/76f/400x480,85/1751885/image.webp
+wget --tries=2 --timeout=10 -O aa_salary_8.jpg https://www.careercontessa.com/uploadedImages/Library/10.17.mogul-millenial.jpg
+wget --tries=2 --timeout=10 -O aa_salary_9.jpg https://www.etonline.com/sites/default/files/styles/max_970x546/public/images/2017-11/tracee_ellis_ross_gettyimages-873844292.jpg?itok=AeksVDLH&h=344fd851
 			      
-wget --tries=2 -O aa_salaries_0.jpg https://res.cloudinary.com/blavity/image/upload/c_fit,g_center,h_250,q_auto:best,g_south_east,x_0/v1566404674/fxthvoxtzzutjvimu7xu
-wget --tries=2 -O aa_salaries_1.jpg https://i1.wp.com/eurweb.com/wp-content/uploads/2017/06/MoNiquePremiereUniversalAlmostChristmasz3fKvFQkBc8l-e1496722108269.jpeg?fit=586%2C297&ssl=1
-wget --tries=2 -O aa_salaries_2.jpg https://www.essence.com/wp-content/uploads/2016/10/1476220976/o-ABC-BLACKISH-facebook.jpg?width=1920&height=1080
-wget --tries=2 -O aa_salaries_3.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/07/iStock-959744602-1080x675.jpg
-wget --tries=2 -O aa_salaries_4.jpg https://ronemymajicdc.files.wordpress.com/2016/05/14546123336067.jpg?quality=80&strip=all
-wget --tries=2 -O aa_salaries_5.jpg https://legacy.shadowandact.com/wp-content/uploads/2016/10/anthony-anderson-tracee-ellis-ross-blackish.jpg
-wget --tries=2 -O aa_salaries_6.jpg https://i.dailymail.co.uk/1/2018/09/28/09/4601946-0-Black_people_have_lower_average_salaries_across_all_areas_of_the-a-1_1538122495169.jpg
-wget --tries=2 -O aa_salaries_7.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2013/04/Prince-Fielder-major-league-highest-salaried-players-black-enterprise.jpg
-wget --tries=2 -O aa_salaries_8.jpg http://www.pvamu.edu/wp-content/uploads/2018/09/Money-talks.jpg
-wget --tries=2 -O aa_salaries_9.jpg https://www.bet.com/celebrities/news/2018/12/15/the-real-co-hosts-feud-over-salaries/_jcr_content/image.large2x1image.dimg/__1544896774875__1544896284162/121518-celebrity-the-real-co-hosts-feud-over-salaries-newer.jpg
+wget --tries=2 --timeout=10 -O aa_salaries_0.jpg https://res.cloudinary.com/blavity/image/upload/c_fit,g_center,h_250,q_auto:best,g_south_east,x_0/v1566404674/fxthvoxtzzutjvimu7xu
+wget --tries=2 --timeout=10 -O aa_salaries_1.jpg https://i1.wp.com/eurweb.com/wp-content/uploads/2017/06/MoNiquePremiereUniversalAlmostChristmasz3fKvFQkBc8l-e1496722108269.jpeg?fit=586%2C297&ssl=1
+wget --tries=2 --timeout=10 -O aa_salaries_2.jpg https://www.essence.com/wp-content/uploads/2016/10/1476220976/o-ABC-BLACKISH-facebook.jpg?width=1920&height=1080
+wget --tries=2 --timeout=10 -O aa_salaries_3.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/07/iStock-959744602-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_salaries_4.jpg https://ronemymajicdc.files.wordpress.com/2016/05/14546123336067.jpg?quality=80&strip=all
+wget --tries=2 --timeout=10 -O aa_salaries_5.jpg https://legacy.shadowandact.com/wp-content/uploads/2016/10/anthony-anderson-tracee-ellis-ross-blackish.jpg
+wget --tries=2 --timeout=10 -O aa_salaries_6.jpg https://i.dailymail.co.uk/1/2018/09/28/09/4601946-0-Black_people_have_lower_average_salaries_across_all_areas_of_the-a-1_1538122495169.jpg
+wget --tries=2 --timeout=10 -O aa_salaries_7.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2013/04/Prince-Fielder-major-league-highest-salaried-players-black-enterprise.jpg
+wget --tries=2 --timeout=10 -O aa_salaries_8.jpg http://www.pvamu.edu/wp-content/uploads/2018/09/Money-talks.jpg
+wget --tries=2 --timeout=10 -O aa_salaries_9.jpg https://www.bet.com/celebrities/news/2018/12/15/the-real-co-hosts-feud-over-salaries/_jcr_content/image.large2x1image.dimg/__1544896774875__1544896284162/121518-celebrity-the-real-co-hosts-feud-over-salaries-newer.jpg
 			      
-wget --tries=2 -O aa_office_0.jpg https://ak5.picdn.net/shutterstock/videos/32607835/thumb/1.jpg
-wget --tries=2 -O aa_office_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2015/11/successful-black-woman_Black-Enterprise.jpg
-wget --tries=2 -O aa_office_2.jpg https://image.shutterstock.com/image-photo/confident-black-business-man-stylish-260nw-403315558.jpg
-wget --tries=2 -O aa_office_3.jpg https://mh-1-stockagency.panthermedia.net/media/previews/0022000000/22046000/22046307_high.jpg
-wget --tries=2 -O aa_office_4.jpg https://thumbs.dreamstime.com/z/friendly-black-man-office-308263.jpg
-wget --tries=2 -O aa_office_5.jpg https://st4.depositphotos.com/3994509/20409/v/600/depositphotos_204090036-stock-video-portrait-of-cheerful-black-african.jpg
-wget --tries=2 -O aa_office_6.jpg https://www.philasun.com/wp-content/uploads/2018/10/local_10-28-18e.jpg
-wget --tries=2 -O aa_office_7.jpg https://image.shutterstock.com/image-photo/mature-cheerful-african-american-executive-260nw-1574160499.jpg
-wget --tries=2 -O aa_office_8.jpg https://image.shutterstock.com/image-photo/handsome-cheerful-african-american-executive-260nw-564197512.jpg
-wget --tries=2 -O aa_office_9.jpg http://atlantablackstar.com/wp-content/uploads/2016/06/people-1.jpg
+wget --tries=2 --timeout=10 -O aa_office_0.jpg https://ak5.picdn.net/shutterstock/videos/32607835/thumb/1.jpg
+wget --tries=2 --timeout=10 -O aa_office_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2015/11/successful-black-woman_Black-Enterprise.jpg
+wget --tries=2 --timeout=10 -O aa_office_2.jpg https://image.shutterstock.com/image-photo/confident-black-business-man-stylish-260nw-403315558.jpg
+wget --tries=2 --timeout=10 -O aa_office_3.jpg https://mh-1-stockagency.panthermedia.net/media/previews/0022000000/22046000/22046307_high.jpg
+wget --tries=2 --timeout=10 -O aa_office_4.jpg https://thumbs.dreamstime.com/z/friendly-black-man-office-308263.jpg
+wget --tries=2 --timeout=10 -O aa_office_5.jpg https://st4.depositphotos.com/3994509/20409/v/600/depositphotos_204090036-stock-video-portrait-of-cheerful-black-african.jpg
+wget --tries=2 --timeout=10 -O aa_office_6.jpg https://www.philasun.com/wp-content/uploads/2018/10/local_10-28-18e.jpg
+wget --tries=2 --timeout=10 -O aa_office_7.jpg https://image.shutterstock.com/image-photo/mature-cheerful-african-american-executive-260nw-1574160499.jpg
+wget --tries=2 --timeout=10 -O aa_office_8.jpg https://image.shutterstock.com/image-photo/handsome-cheerful-african-american-executive-260nw-564197512.jpg
+wget --tries=2 --timeout=10 -O aa_office_9.jpg http://atlantablackstar.com/wp-content/uploads/2016/06/people-1.jpg
 			      
-wget --tries=2 -O aa_offices_0.jpg https://ak5.picdn.net/shutterstock/videos/32607835/thumb/1.jpg
-wget --tries=2 -O aa_offices_1.jpg https://mh-1-stockagency.panthermedia.net/media/previews/0022000000/22046000/22046307_high.jpg
-wget --tries=2 -O aa_offices_2.jpg https://www.philasun.com/wp-content/uploads/2018/10/local_10-28-18e.jpg
-wget --tries=2 -O aa_offices_3.jpg https://c8.alamy.com/comp/FJ760R/happy-black-business-man-giving-thumb-up-in-modern-office-FJ760R.jpg
-wget --tries=2 -O aa_offices_4.jpg https://image.shutterstock.com/image-photo/two-young-coworkers-working-together-260nw-515694727.jpg
-wget --tries=2 -O aa_offices_5.jpg https://previews.123rf.com/images/fizkes/fizkes1802/fizkes180200205/95205522-african-american-businessman-feels-neck-pain-sitting-on-uncomfortable-office-chair-at-work-black-man.jpg
-wget --tries=2 -O aa_offices_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2014/01/black-man-in-suit.jpg
-wget --tries=2 -O aa_offices_7.jpg https://media.istockphoto.com/photos/happy-businessman-win-winner-black-man-in-office-picture-id814347110
-wget --tries=2 -O aa_offices_8.jpg https://c8.alamy.com/comp/K02CJD/smiling-black-businessman-in-office-afro-american-man-in-suit-in-good-K02CJD.jpg
-wget --tries=2 -O aa_offices_9.jpg https://previews.123rf.com/images/elenathewise/elenathewise1012/elenathewise101200072/8436684-portrait-of-happy-black-business-woman-at-desk-typing-on-computer.jpg
+wget --tries=2 --timeout=10 -O aa_offices_0.jpg https://ak5.picdn.net/shutterstock/videos/32607835/thumb/1.jpg
+wget --tries=2 --timeout=10 -O aa_offices_1.jpg https://mh-1-stockagency.panthermedia.net/media/previews/0022000000/22046000/22046307_high.jpg
+wget --tries=2 --timeout=10 -O aa_offices_2.jpg https://www.philasun.com/wp-content/uploads/2018/10/local_10-28-18e.jpg
+wget --tries=2 --timeout=10 -O aa_offices_3.jpg https://c8.alamy.com/comp/FJ760R/happy-black-business-man-giving-thumb-up-in-modern-office-FJ760R.jpg
+wget --tries=2 --timeout=10 -O aa_offices_4.jpg https://image.shutterstock.com/image-photo/two-young-coworkers-working-together-260nw-515694727.jpg
+wget --tries=2 --timeout=10 -O aa_offices_5.jpg https://previews.123rf.com/images/fizkes/fizkes1802/fizkes180200205/95205522-african-american-businessman-feels-neck-pain-sitting-on-uncomfortable-office-chair-at-work-black-man.jpg
+wget --tries=2 --timeout=10 -O aa_offices_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2014/01/black-man-in-suit.jpg
+wget --tries=2 --timeout=10 -O aa_offices_7.jpg https://media.istockphoto.com/photos/happy-businessman-win-winner-black-man-in-office-picture-id814347110
+wget --tries=2 --timeout=10 -O aa_offices_8.jpg https://c8.alamy.com/comp/K02CJD/smiling-black-businessman-in-office-afro-american-man-in-suit-in-good-K02CJD.jpg
+wget --tries=2 --timeout=10 -O aa_offices_9.jpg https://previews.123rf.com/images/elenathewise/elenathewise1012/elenathewise101200072/8436684-portrait-of-happy-black-business-woman-at-desk-typing-on-computer.jpg
 			    
-wget --tries=2 -O aa_business_0.jpg https://icm.aexp-static.com/content/dam/contenthub/us/en/images/us/small-business/openforum/wp-content/uploads/2018/02/black-business-woman-davis-header.jpg
-wget --tries=2 -O aa_business_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/iStock-612738588-1080x675.jpg
-wget --tries=2 -O aa_business_2.jpg https://cdn.shrm.org/image/upload/c_crop%2Ch_408%2Cw_724%2Cx_0%2Cy_39/c_fit%2Cf_auto%2Cq_auto%2Cw_767/v1/Competencies/black_business_leaders_mb9o3c?databtoa=eyIxNng5Ijp7IngiOjAsInkiOjM5LCJ4MiI6NzI0LCJ5MiI6NDQ3LCJ3Ijo3MjQsImgiOjQwOH19
-wget --tries=2 -O aa_business_3.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fshanisyphrett%2Ffiles%2F2019%2F02%2FSBA-Lending-top.jpg
-wget --tries=2 -O aa_business_4.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_122413670_253786.jpg
-wget --tries=2 -O aa_business_5.jpg https://4.bp.blogspot.com/-cM8GNqFv9RI/W65sJ0AltzI/AAAAAAAAm2I/uB7AEqoHHfoi9qmfLk3rG3dEeyax8ujUQCLcBGAs/s1600/black_business_conference.jpg
-wget --tries=2 -O aa_business_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/iStock-643379812-1080x675.jpg
-wget --tries=2 -O aa_business_7.jpg https://www.nerdwallet.com/assets/blog/wp-content/uploads/2015/02/iStock_000033596620_Small.jpg
-wget --tries=2 -O aa_business_8.jpg https://4.bp.blogspot.com/-Q3pFocEuetI/W65zV4N71cI/AAAAAAAAm2g/7DM3lWcUKHYUJ67_a5rYfJ92gINgZCwGwCLcBGAs/s1600/black_business_organization.jpg
-wget --tries=2 -O aa_business_9.jpg https://defendernetwork.com/wp-content/uploads/2016/12/black-owned-business-jobs.jpg
+wget --tries=2 --timeout=10 -O aa_business_0.jpg https://icm.aexp-static.com/content/dam/contenthub/us/en/images/us/small-business/openforum/wp-content/uploads/2018/02/black-business-woman-davis-header.jpg
+wget --tries=2 --timeout=10 -O aa_business_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/iStock-612738588-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_business_2.jpg https://cdn.shrm.org/image/upload/c_crop%2Ch_408%2Cw_724%2Cx_0%2Cy_39/c_fit%2Cf_auto%2Cq_auto%2Cw_767/v1/Competencies/black_business_leaders_mb9o3c?databtoa=eyIxNng5Ijp7IngiOjAsInkiOjM5LCJ4MiI6NzI0LCJ5MiI6NDQ3LCJ3Ijo3MjQsImgiOjQwOH19
+wget --tries=2 --timeout=10 -O aa_business_3.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fshanisyphrett%2Ffiles%2F2019%2F02%2FSBA-Lending-top.jpg
+wget --tries=2 --timeout=10 -O aa_business_4.jpg https://www.incimages.com/uploaded_files/image/970x450/getty_122413670_253786.jpg
+wget --tries=2 --timeout=10 -O aa_business_5.jpg https://4.bp.blogspot.com/-cM8GNqFv9RI/W65sJ0AltzI/AAAAAAAAm2I/uB7AEqoHHfoi9qmfLk3rG3dEeyax8ujUQCLcBGAs/s1600/black_business_conference.jpg
+wget --tries=2 --timeout=10 -O aa_business_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2017/11/iStock-643379812-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_business_7.jpg https://www.nerdwallet.com/assets/blog/wp-content/uploads/2015/02/iStock_000033596620_Small.jpg
+wget --tries=2 --timeout=10 -O aa_business_8.jpg https://4.bp.blogspot.com/-Q3pFocEuetI/W65zV4N71cI/AAAAAAAAm2g/7DM3lWcUKHYUJ67_a5rYfJ92gINgZCwGwCLcBGAs/s1600/black_business_organization.jpg
+wget --tries=2 --timeout=10 -O aa_business_9.jpg https://defendernetwork.com/wp-content/uploads/2016/12/black-owned-business-jobs.jpg
 			      
-wget --tries=2 -O aa_businesses_0.jpg https://ionemadamenoire.files.wordpress.com/2018/10/black-businesses.jpg?w=1024&h=575
-wget --tries=2 -O aa_businesses_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/iStock-901866550-1080x675.jpg
-wget --tries=2 -O aa_businesses_2.jpg https://qcitymetro.com/wp-content/uploads/2017/02/Tom-Brady-1-1-624x416.jpg
-wget --tries=2 -O aa_businesses_3.jpg https://defendernetwork.com/wp-content/uploads/2017/02/attorney-for-your-small-business_bogin-munns-munns-orlando.jpg
-wget --tries=2 -O aa_businesses_4.jpg https://www.ajc.com/rf/image_medium/Pub/p9/AJC/2018/01/30/Images/skyWord.535587-17798958_1492420424122537_8452925098237790883_n.jpg
-wget --tries=2 -O aa_businesses_5.jpg https://i1.wp.com/theblackwallsttimes.com/wp-content/uploads/2019/11/image-108.png?resize=639%2C431&ssl=1
-wget --tries=2 -O aa_businesses_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/01/iStock-683512248-1080x675.jpg
-wget --tries=2 -O aa_businesses_7.jpg https://www.nerdwallet.com/assets/blog/wp-content/uploads/2015/02/iStock_000033596620_Small-570x225.jpg
-wget --tries=2 -O aa_businesses_8.jpg http://www.blacknews.com/wp-content/uploads/2019/02/black_business_owner.jpg
-wget --tries=2 -O aa_businesses_9.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/iStock-674171010-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_businesses_0.jpg https://ionemadamenoire.files.wordpress.com/2018/10/black-businesses.jpg?w=1024&h=575
+wget --tries=2 --timeout=10 -O aa_businesses_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/iStock-901866550-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_businesses_2.jpg https://qcitymetro.com/wp-content/uploads/2017/02/Tom-Brady-1-1-624x416.jpg
+wget --tries=2 --timeout=10 -O aa_businesses_3.jpg https://defendernetwork.com/wp-content/uploads/2017/02/attorney-for-your-small-business_bogin-munns-munns-orlando.jpg
+wget --tries=2 --timeout=10 -O aa_businesses_4.jpg https://www.ajc.com/rf/image_medium/Pub/p9/AJC/2018/01/30/Images/skyWord.535587-17798958_1492420424122537_8452925098237790883_n.jpg
+wget --tries=2 --timeout=10 -O aa_businesses_5.jpg https://i1.wp.com/theblackwallsttimes.com/wp-content/uploads/2019/11/image-108.png?resize=639%2C431&ssl=1
+wget --tries=2 --timeout=10 -O aa_businesses_6.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/01/iStock-683512248-1080x675.jpg
+wget --tries=2 --timeout=10 -O aa_businesses_7.jpg https://www.nerdwallet.com/assets/blog/wp-content/uploads/2015/02/iStock_000033596620_Small-570x225.jpg
+wget --tries=2 --timeout=10 -O aa_businesses_8.jpg http://www.blacknews.com/wp-content/uploads/2019/02/black_business_owner.jpg
+wget --tries=2 --timeout=10 -O aa_businesses_9.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/08/iStock-674171010-1080x675.jpg
 			      
-wget --tries=2 -O aa_career_0.jpg http://blackcareercoach.org/wp-content/uploads/2015/02/aboutus.jpg
-wget --tries=2 -O aa_career_1.jpg https://www.essence.com/wp-content/uploads/2014/03/images/2014/03/07/137088353.jpg?width=1920&height=1080
-wget --tries=2 -O aa_career_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2015/11/successful-black-woman_Black-Enterprise.jpg
-wget --tries=2 -O aa_career_3.jpg https://www.abfe.org/wp-content/uploads/2014/04/ABFE_Career_Opportunities.jpg
-wget --tries=2 -O aa_career_4.jpg https://www.blackeoejournal.com/wp-content/uploads/2019/07/job-search-resume.jpg
-wget --tries=2 -O aa_career_5.jpg https://blackbusinessjournal.com/wp-content/uploads/2018/01/timthumb.jpeg
-wget --tries=2 -O aa_career_6.jpg https://baucemag.com/wp-content/uploads/blackwomen-workplace.jpg
-wget --tries=2 -O aa_career_7.jpg http://blackcareercoach.org/wp-content/uploads/2015/02/EVENTS.jpg
-wget --tries=2 -O aa_career_8.jpg http://www.cincychic.com/wp-content/uploads/2015/08/081015CAREER.jpg
-wget --tries=2 -O aa_career_9.jpg https://www.careercontessa.com/uploadedImages/Library/jobsearchasblackwoman.jpg
+wget --tries=2 --timeout=10 -O aa_career_0.jpg http://blackcareercoach.org/wp-content/uploads/2015/02/aboutus.jpg
+wget --tries=2 --timeout=10 -O aa_career_1.jpg https://www.essence.com/wp-content/uploads/2014/03/images/2014/03/07/137088353.jpg?width=1920&height=1080
+wget --tries=2 --timeout=10 -O aa_career_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2015/11/successful-black-woman_Black-Enterprise.jpg
+wget --tries=2 --timeout=10 -O aa_career_3.jpg https://www.abfe.org/wp-content/uploads/2014/04/ABFE_Career_Opportunities.jpg
+wget --tries=2 --timeout=10 -O aa_career_4.jpg https://www.blackeoejournal.com/wp-content/uploads/2019/07/job-search-resume.jpg
+wget --tries=2 --timeout=10 -O aa_career_5.jpg https://blackbusinessjournal.com/wp-content/uploads/2018/01/timthumb.jpeg
+wget --tries=2 --timeout=10 -O aa_career_6.jpg https://baucemag.com/wp-content/uploads/blackwomen-workplace.jpg
+wget --tries=2 --timeout=10 -O aa_career_7.jpg http://blackcareercoach.org/wp-content/uploads/2015/02/EVENTS.jpg
+wget --tries=2 --timeout=10 -O aa_career_8.jpg http://www.cincychic.com/wp-content/uploads/2015/08/081015CAREER.jpg
+wget --tries=2 --timeout=10 -O aa_career_9.jpg https://www.careercontessa.com/uploadedImages/Library/jobsearchasblackwoman.jpg
 			      
-wget --tries=2 -O aa_careers_0.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1162371060%2F960x0.jpg%3Ffit%3Dscale
-wget --tries=2 -O aa_careers_1.jpg https://www.mckinsey.com/~/media/McKinsey/Careers%20REDESIGN/Meet%20our%20People/Black%20Consultants%20At%20McKinsey/careersr2_black-consultants-at-mckinsey_thumb_1536x1536.ashx
-wget --tries=2 -O aa_careers_2.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2011/01/stk147312rke.jpg
-wget --tries=2 -O aa_careers_3.jpg https://www.mckinsey.com/~/media/McKinsey/Careers%20REDESIGN/Meet%20our%20People/Black%20Consultants%20At%20McKinsey/careers_black-consultants-at-mckinsey_community_3_1536x768.ashx?mw=1536&car=546:205&cpx=Center&cpy=Center
-wget --tries=2 -O aa_careers_4.jpg https://momentumleaders.org/wp-content/uploads/2018/02/career-in-color.jpg
-wget --tries=2 -O aa_careers_5.jpg https://images.squarespace-cdn.com/content/v1/571e5456c2ea512e3a7bfedc/1569877358324-ORQXD2O0CZHV11R6LTZG/ke17ZwdGBToddI8pDm48kGdgRsIXajQTXzbCc1Kth4J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UVH2y-SQ-Wo8DgvawDwnUdGFgHgcetyrLWVPLFbTwKE9GE2OjjtUNgt85XVDYdK02g/Black-people-workplace.jpg?format=1500w
-wget --tries=2 -O aa_careers_6.jpg https://c8.alamy.com/comp/W5NMCA/black-african-american-businesswoman-in-an-office-smiling-happy-she-is-an-owner-or-an-executive-of-the-workplace-depicts-careers-and-startup-busin-W5NMCA.jpg
-wget --tries=2 -O aa_careers_7.jpg http://www.arcgloballtd.com/wp-content/uploads/black-people-computer.jpg
-wget --tries=2 -O aa_careers_8.jpg https://www.wuwm.com/sites/wuwm/files/styles/x_large/public/201906/AdobeStock_119928130_1.jpeg
-wget --tries=2 -O aa_careers_9.jpg https://www.anderson.ucla.edu/images/2017/sites/clubs/2019/group/BBSA-group.jpg
+wget --tries=2 --timeout=10 -O aa_careers_0.jpg https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1162371060%2F960x0.jpg%3Ffit%3Dscale
+wget --tries=2 --timeout=10 -O aa_careers_1.jpg https://www.mckinsey.com/~/media/McKinsey/Careers%20REDESIGN/Meet%20our%20People/Black%20Consultants%20At%20McKinsey/careersr2_black-consultants-at-mckinsey_thumb_1536x1536.ashx
+wget --tries=2 --timeout=10 -O aa_careers_2.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2011/01/stk147312rke.jpg
+wget --tries=2 --timeout=10 -O aa_careers_3.jpg https://www.mckinsey.com/~/media/McKinsey/Careers%20REDESIGN/Meet%20our%20People/Black%20Consultants%20At%20McKinsey/careers_black-consultants-at-mckinsey_community_3_1536x768.ashx?mw=1536&car=546:205&cpx=Center&cpy=Center
+wget --tries=2 --timeout=10 -O aa_careers_4.jpg https://momentumleaders.org/wp-content/uploads/2018/02/career-in-color.jpg
+wget --tries=2 --timeout=10 -O aa_careers_5.jpg https://images.squarespace-cdn.com/content/v1/571e5456c2ea512e3a7bfedc/1569877358324-ORQXD2O0CZHV11R6LTZG/ke17ZwdGBToddI8pDm48kGdgRsIXajQTXzbCc1Kth4J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UVH2y-SQ-Wo8DgvawDwnUdGFgHgcetyrLWVPLFbTwKE9GE2OjjtUNgt85XVDYdK02g/Black-people-workplace.jpg?format=1500w
+wget --tries=2 --timeout=10 -O aa_careers_6.jpg https://c8.alamy.com/comp/W5NMCA/black-african-american-businesswoman-in-an-office-smiling-happy-she-is-an-owner-or-an-executive-of-the-workplace-depicts-careers-and-startup-busin-W5NMCA.jpg
+wget --tries=2 --timeout=10 -O aa_careers_7.jpg http://www.arcgloballtd.com/wp-content/uploads/black-people-computer.jpg
+wget --tries=2 --timeout=10 -O aa_careers_8.jpg https://www.wuwm.com/sites/wuwm/files/styles/x_large/public/201906/AdobeStock_119928130_1.jpeg
+wget --tries=2 --timeout=10 -O aa_careers_9.jpg https://www.anderson.ucla.edu/images/2017/sites/clubs/2019/group/BBSA-group.jpg
 			    
-wget --tries=2 -O aa_home_0.jpg https://psmag.com/.image/t_share/MTI4NTgxODc4NjI1MDg2MDgz/five-studies-mar15jpg.jpg
-wget --tries=2 -O aa_home_1.jpg https://media2.s-nbcnews.com/j/newscms/2019_24/2896671/190614-lbmisf_501724-ew-240p_4408a88b97a5ea341accc701b220392d.fit-760w.jpg
-wget --tries=2 -O aa_home_2.jpg https://static01.nyt.com/images/2019/03/14/nyregion/14crossrace/merlin_151883991_b4eb06e6-352c-465a-aaf8-077118a3768d-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O aa_home_3.jpg https://mediad.publicbroadcasting.net/p/wesa/files/styles/small/public/201303/dorrettalemon1.jpg
-wget --tries=2 -O aa_home_4.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2019/03/051018BALOGUNrakem0001-1553006764.jpg?auto=compress%2Cformat&q=90
-wget --tries=2 -O aa_home_5.jpg http://www.takepart.com/sites/default/files/styles/large/public/First-Person-PROMO1.jpg
-wget --tries=2 -O aa_home_6.jpg https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAHEbN6.img?h=0&w=720&m=6&q=60&u=t&o=f&l=f&x=2283&y=1648
-wget --tries=2 -O aa_home_7.jpg https://www.thestar.com/content/dam/thestar/entertainment/movies/review/2019/07/04/the-last-black-man-in-san-franciscos-fight-over-home-makes-it-one-of-2019s-best-movies/skateboard.jpg
-wget --tries=2 -O aa_home_8.jpg https://mediad.publicbroadcasting.net/p/kcur/files/styles/x_large/public/201905/IMG_0670.JPG
-wget --tries=2 -O aa_home_9.jpg https://image.shutterstock.com/image-photo/side-portrait-young-african-american-260nw-1219275478.jpg
+wget --tries=2 --timeout=10 -O aa_home_0.jpg https://psmag.com/.image/t_share/MTI4NTgxODc4NjI1MDg2MDgz/five-studies-mar15jpg.jpg
+wget --tries=2 --timeout=10 -O aa_home_1.jpg https://media2.s-nbcnews.com/j/newscms/2019_24/2896671/190614-lbmisf_501724-ew-240p_4408a88b97a5ea341accc701b220392d.fit-760w.jpg
+wget --tries=2 --timeout=10 -O aa_home_2.jpg https://static01.nyt.com/images/2019/03/14/nyregion/14crossrace/merlin_151883991_b4eb06e6-352c-465a-aaf8-077118a3768d-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O aa_home_3.jpg https://mediad.publicbroadcasting.net/p/wesa/files/styles/small/public/201303/dorrettalemon1.jpg
+wget --tries=2 --timeout=10 -O aa_home_4.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2019/03/051018BALOGUNrakem0001-1553006764.jpg?auto=compress%2Cformat&q=90
+wget --tries=2 --timeout=10 -O aa_home_5.jpg http://www.takepart.com/sites/default/files/styles/large/public/First-Person-PROMO1.jpg
+wget --tries=2 --timeout=10 -O aa_home_6.jpg https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAHEbN6.img?h=0&w=720&m=6&q=60&u=t&o=f&l=f&x=2283&y=1648
+wget --tries=2 --timeout=10 -O aa_home_7.jpg https://www.thestar.com/content/dam/thestar/entertainment/movies/review/2019/07/04/the-last-black-man-in-san-franciscos-fight-over-home-makes-it-one-of-2019s-best-movies/skateboard.jpg
+wget --tries=2 --timeout=10 -O aa_home_8.jpg https://mediad.publicbroadcasting.net/p/kcur/files/styles/x_large/public/201905/IMG_0670.JPG
+wget --tries=2 --timeout=10 -O aa_home_9.jpg https://image.shutterstock.com/image-photo/side-portrait-young-african-american-260nw-1219275478.jpg
 			      
-wget --tries=2 -O aa_homes_0.jpg http://afro.com/wp-content/uploads/2017/07/Vashti-Dubois2-001.jpg
-wget --tries=2 -O aa_homes_1.jpg https://www.irishtimes.com/polopoly_fs/1.2661716.1464257544!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
-wget --tries=2 -O aa_homes_2.jpg https://www.gannett-cdn.com/-mm-/85556d11df611750949a841722621691b47ae77b/c=0-348-3296-2210/local/-/media/2018/04/12/TennGroup/Memphis/636591469837887847-04-12-18-mid-income-real-estate.jpg?width=3200&height=1680&fit=crop
-wget --tries=2 -O aa_homes_3.jpg https://image.shutterstock.com/image-photo/full-length-view-african-american-260nw-1472879081.jpg
-wget --tries=2 -O aa_homes_4.jpg https://stmedia.stimg.co/ows_154342623796363.jpg?fit=crop&crop=faces
-wget --tries=2 -O aa_homes_5.jpg https://d.newsweek.com/en/full/1037484/blackish-dream-home.jpg
-wget --tries=2 -O aa_homes_6.jpg https://wfstories-wpengine.netdna-ssl.com/wp-content/uploads/MANNA-DC_Carousel_800x450-658x370-c-center.jpg
-wget --tries=2 -O aa_homes_7.jpg http://www.pewtrusts.org/-/media/post-launch-images/2018/10/img_2988-2/16x9_m.jpg
-wget --tries=2 -O aa_homes_8.jpg https://homehealthwebdesign.com/acceleratedhomehealthcare/wp-content/uploads/sites/147/2014/12/shutterstock_27256408.jpg
-wget --tries=2 -O aa_homes_9.jpg https://storage.googleapis.com/afs-prod/media/5e778f4494e048ecadc483782d0e3a62/800.jpeg
+wget --tries=2 --timeout=10 -O aa_homes_0.jpg http://afro.com/wp-content/uploads/2017/07/Vashti-Dubois2-001.jpg
+wget --tries=2 --timeout=10 -O aa_homes_1.jpg https://www.irishtimes.com/polopoly_fs/1.2661716.1464257544!/image/image.jpg_gen/derivatives/box_620_330/image.jpg
+wget --tries=2 --timeout=10 -O aa_homes_2.jpg https://www.gannett-cdn.com/-mm-/85556d11df611750949a841722621691b47ae77b/c=0-348-3296-2210/local/-/media/2018/04/12/TennGroup/Memphis/636591469837887847-04-12-18-mid-income-real-estate.jpg?width=3200&height=1680&fit=crop
+wget --tries=2 --timeout=10 -O aa_homes_3.jpg https://image.shutterstock.com/image-photo/full-length-view-african-american-260nw-1472879081.jpg
+wget --tries=2 --timeout=10 -O aa_homes_4.jpg https://stmedia.stimg.co/ows_154342623796363.jpg?fit=crop&crop=faces
+wget --tries=2 --timeout=10 -O aa_homes_5.jpg https://d.newsweek.com/en/full/1037484/blackish-dream-home.jpg
+wget --tries=2 --timeout=10 -O aa_homes_6.jpg https://wfstories-wpengine.netdna-ssl.com/wp-content/uploads/MANNA-DC_Carousel_800x450-658x370-c-center.jpg
+wget --tries=2 --timeout=10 -O aa_homes_7.jpg http://www.pewtrusts.org/-/media/post-launch-images/2018/10/img_2988-2/16x9_m.jpg
+wget --tries=2 --timeout=10 -O aa_homes_8.jpg https://homehealthwebdesign.com/acceleratedhomehealthcare/wp-content/uploads/sites/147/2014/12/shutterstock_27256408.jpg
+wget --tries=2 --timeout=10 -O aa_homes_9.jpg https://storage.googleapis.com/afs-prod/media/5e778f4494e048ecadc483782d0e3a62/800.jpeg
 			  
-wget --tries=2 -O aa_parent_0.jpg https://c8.alamy.com/comp/RW9X7Y/black-parents-and-small-kids-play-together-painting-picture-RW9X7Y.jpg
-wget --tries=2 -O aa_parent_1.jpg https://lasentinel.net/wp-content/uploads/sites/5/2017/01/smiling-family-800x303.jpg
-wget --tries=2 -O aa_parent_2.jpg https://static.showit.co/1600/lV14OqOeTWWOHIwxhQBLFA/81733/black-parenting-tips.jpg
-wget --tries=2 -O aa_parent_3.jpg https://cdn.psychologytoday.com/sites/default/files/styles/amp_metadata_content_image_min_1200px_wide/public/field_blog_entry_images/2017-09/blackparent.jpg?itok=8_fuze7C
-wget --tries=2 -O aa_parent_4.jpg https://diana-cdn.naturallycurly.com/Articles/540328oDLe
-wget --tries=2 -O aa_parent_5.jpg https://miro.medium.com/max/4000/1*0JDsCH92l7TbuEc5p4twbw.jpeg
-wget --tries=2 -O aa_parent_6.jpg https://s3.amazonaws.com/thatsisterimages/wp-content/uploads/2017/03/29214732/066.jpg
-wget --tries=2 -O aa_parent_7.jpg https://spiraldynamicsandrace.files.wordpress.com/2016/10/black-single-mother.png
-wget --tries=2 -O aa_parent_8.jpg https://www.bidmc.org/-/media/rich-text-images/beth-israel-org/about-bidmc/blogs/baby-know-how/black-parent-grandparent-child-newborn-700px.jpg?h=400&w=700
-wget --tries=2 -O aa_parent_9.jpg https://edlanta.org/wp-content/uploads/2017/12/parent-promo2.jpg
+wget --tries=2 --timeout=10 -O aa_parent_0.jpg https://c8.alamy.com/comp/RW9X7Y/black-parents-and-small-kids-play-together-painting-picture-RW9X7Y.jpg
+wget --tries=2 --timeout=10 -O aa_parent_1.jpg https://lasentinel.net/wp-content/uploads/sites/5/2017/01/smiling-family-800x303.jpg
+wget --tries=2 --timeout=10 -O aa_parent_2.jpg https://static.showit.co/1600/lV14OqOeTWWOHIwxhQBLFA/81733/black-parenting-tips.jpg
+wget --tries=2 --timeout=10 -O aa_parent_3.jpg https://cdn.psychologytoday.com/sites/default/files/styles/amp_metadata_content_image_min_1200px_wide/public/field_blog_entry_images/2017-09/blackparent.jpg?itok=8_fuze7C
+wget --tries=2 --timeout=10 -O aa_parent_4.jpg https://diana-cdn.naturallycurly.com/Articles/540328oDLe
+wget --tries=2 --timeout=10 -O aa_parent_5.jpg https://miro.medium.com/max/4000/1*0JDsCH92l7TbuEc5p4twbw.jpeg
+wget --tries=2 --timeout=10 -O aa_parent_6.jpg https://s3.amazonaws.com/thatsisterimages/wp-content/uploads/2017/03/29214732/066.jpg
+wget --tries=2 --timeout=10 -O aa_parent_7.jpg https://spiraldynamicsandrace.files.wordpress.com/2016/10/black-single-mother.png
+wget --tries=2 --timeout=10 -O aa_parent_8.jpg https://www.bidmc.org/-/media/rich-text-images/beth-israel-org/about-bidmc/blogs/baby-know-how/black-parent-grandparent-child-newborn-700px.jpg?h=400&w=700
+wget --tries=2 --timeout=10 -O aa_parent_9.jpg https://edlanta.org/wp-content/uploads/2017/12/parent-promo2.jpg
 		     	      
-wget --tries=2 -O aa_parents_0.jpg https://media1.s-nbcnews.com/j/newscms/2015_12/933671/family_reading_together_2c40a3ecb12ce1b9ad3cb82e95fcadd0.fit-760w.jpg
-wget --tries=2 -O aa_parents_1.jpg https://lh3.googleusercontent.com/rTcyrp3wZABnlCJN8MAVddBKcjnyxMoBhoPYs5Ag0Ab9EOSPoo8DWqZmuQUFsaKKrCjKJjbHqj9oivYzMVtEGphEcV3yjWQehw
-wget --tries=2 -O aa_parents_2.jpg https://i0.wp.com/blackwomenofbrazil.co/wp-content/uploads/2019/09/O-Rei-Humberto-a-Rainha-Thain%C3%A1-e-o-pr%C3%ADncipe-Apolo..jpeg?fit=640%2C960&ssl=1
-wget --tries=2 -O aa_parents_3.jpg http://atlantablackstar.com/wp-content/uploads/2015/07/blackandfamily.jpg
-wget --tries=2 -O aa_parents_4.jpg https://editorial01.shutterstock.com/wm-preview-1500/2596666a/10ba6fbc/black-parents-carlton-and-cynthia-golding-were-joyfully-celebrating-the-birth-of-their-second-white-baby-yesterday-newborn-daughter-kiarna-is-as-fair-skinned-as-her-18-month-old-old-brother-kieran-the-couples-eldest-child-three-year-old-kyle-is-b-shutterstock-editorial-2596666a.jpg
-wget --tries=2 -O aa_parents_5.jpg https://thumbs.dreamstime.com/z/african-child-daughter-embracing-young-loving-black-parents-portrait-cute-little-mom-dad-looking-camera-happy-family-138265207.jpg
-wget --tries=2 -O aa_parents_6.jpg http://atlantablackstar.com/wp-content/uploads/2015/04/black_homeschool.jpg
-wget --tries=2 -O aa_parents_7.jpg https://www.kindpng.com/picc/m/444-4448671_happy-parents-playing-with-baby-girl-on-dads.png
-wget --tries=2 -O aa_parents_8.jpg http://yourblackworld.net/wp-content/uploads/2015/12/33-1.jpg
-wget --tries=2 -O aa_parents_9.jpg https://www.todaysparent.com/wp-content/uploads/2019/09/why-more-and-more-black-families-are-choosing-to-homeschool-their-kids1280x960-1-1024x576-1569253258.jpg
+wget --tries=2 --timeout=10 -O aa_parents_0.jpg https://media1.s-nbcnews.com/j/newscms/2015_12/933671/family_reading_together_2c40a3ecb12ce1b9ad3cb82e95fcadd0.fit-760w.jpg
+wget --tries=2 --timeout=10 -O aa_parents_1.jpg https://lh3.googleusercontent.com/rTcyrp3wZABnlCJN8MAVddBKcjnyxMoBhoPYs5Ag0Ab9EOSPoo8DWqZmuQUFsaKKrCjKJjbHqj9oivYzMVtEGphEcV3yjWQehw
+wget --tries=2 --timeout=10 -O aa_parents_2.jpg https://i0.wp.com/blackwomenofbrazil.co/wp-content/uploads/2019/09/O-Rei-Humberto-a-Rainha-Thain%C3%A1-e-o-pr%C3%ADncipe-Apolo..jpeg?fit=640%2C960&ssl=1
+wget --tries=2 --timeout=10 -O aa_parents_3.jpg http://atlantablackstar.com/wp-content/uploads/2015/07/blackandfamily.jpg
+wget --tries=2 --timeout=10 -O aa_parents_4.jpg https://editorial01.shutterstock.com/wm-preview-1500/2596666a/10ba6fbc/black-parents-carlton-and-cynthia-golding-were-joyfully-celebrating-the-birth-of-their-second-white-baby-yesterday-newborn-daughter-kiarna-is-as-fair-skinned-as-her-18-month-old-old-brother-kieran-the-couples-eldest-child-three-year-old-kyle-is-b-shutterstock-editorial-2596666a.jpg
+wget --tries=2 --timeout=10 -O aa_parents_5.jpg https://thumbs.dreamstime.com/z/african-child-daughter-embracing-young-loving-black-parents-portrait-cute-little-mom-dad-looking-camera-happy-family-138265207.jpg
+wget --tries=2 --timeout=10 -O aa_parents_6.jpg http://atlantablackstar.com/wp-content/uploads/2015/04/black_homeschool.jpg
+wget --tries=2 --timeout=10 -O aa_parents_7.jpg https://www.kindpng.com/picc/m/444-4448671_happy-parents-playing-with-baby-girl-on-dads.png
+wget --tries=2 --timeout=10 -O aa_parents_8.jpg http://yourblackworld.net/wp-content/uploads/2015/12/33-1.jpg
+wget --tries=2 --timeout=10 -O aa_parents_9.jpg https://www.todaysparent.com/wp-content/uploads/2019/09/why-more-and-more-black-families-are-choosing-to-homeschool-their-kids1280x960-1-1024x576-1569253258.jpg
 			      
-wget --tries=2 -O aa_child_0.jpg https://upload.wikimedia.org/wikipedia/commons/0/0c/A_black_child%2C_Chicago._-_NARA_-_556138_restored.jpg
-wget --tries=2 -O aa_child_1.jpg https://image.shutterstock.com/z/stock-photo-portrait-of-real-happy-african-black-child-smiling-509908468.jpg
-wget --tries=2 -O aa_child_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/12/black-child-in-school-300x232.jpg
-wget --tries=2 -O aa_child_3.jpg https://i.pinimg.com/originals/81/af/dc/81afdca9f318710be942d2db7dd8b280.jpg
-wget --tries=2 -O aa_child_4.jpg https://thegrio.com/wp-content/uploads/2018/07/Jare-2.jpg
-wget --tries=2 -O aa_child_5.jpg https://media.gettyimages.com/photos/awesome-huge-smile-on-black-african-ethnicity-black-boy-child-on-picture-id842147936?b=1&k=6&m=842147936&s=612x612&w=0&h=-1pPGZCm9493DeMlRiLEmzugOoNFmHAMGNnQ56UNsEo=
-wget --tries=2 -O aa_child_6.jpg https://www.parentmap.com/images/article/9321/YoungBoy.jpg
-wget --tries=2 -O aa_child_7.jpg http://everythinggirlslove.com/wp-content/uploads/2014/11/Black-Child-and-Adoption.jpg
-wget --tries=2 -O aa_child_8.jpg https://i.pinimg.com/originals/6d/10/c8/6d10c8ad6f211d8e1d6129458bf0fb35.jpg
-wget --tries=2 -O aa_child_9.jpg https://thumbs.dreamstime.com/z/handsome-young-caribbean-boy-portrait-young-black-child-handsome-young-caribbean-boy-as-seen-streets-havana-cuba-125749745.jpg
+wget --tries=2 --timeout=10 -O aa_child_0.jpg https://upload.wikimedia.org/wikipedia/commons/0/0c/A_black_child%2C_Chicago._-_NARA_-_556138_restored.jpg
+wget --tries=2 --timeout=10 -O aa_child_1.jpg https://image.shutterstock.com/z/stock-photo-portrait-of-real-happy-african-black-child-smiling-509908468.jpg
+wget --tries=2 --timeout=10 -O aa_child_2.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/12/black-child-in-school-300x232.jpg
+wget --tries=2 --timeout=10 -O aa_child_3.jpg https://i.pinimg.com/originals/81/af/dc/81afdca9f318710be942d2db7dd8b280.jpg
+wget --tries=2 --timeout=10 -O aa_child_4.jpg https://thegrio.com/wp-content/uploads/2018/07/Jare-2.jpg
+wget --tries=2 --timeout=10 -O aa_child_5.jpg https://media.gettyimages.com/photos/awesome-huge-smile-on-black-african-ethnicity-black-boy-child-on-picture-id842147936?b=1&k=6&m=842147936&s=612x612&w=0&h=-1pPGZCm9493DeMlRiLEmzugOoNFmHAMGNnQ56UNsEo=
+wget --tries=2 --timeout=10 -O aa_child_6.jpg https://www.parentmap.com/images/article/9321/YoungBoy.jpg
+wget --tries=2 --timeout=10 -O aa_child_7.jpg http://everythinggirlslove.com/wp-content/uploads/2014/11/Black-Child-and-Adoption.jpg
+wget --tries=2 --timeout=10 -O aa_child_8.jpg https://i.pinimg.com/originals/6d/10/c8/6d10c8ad6f211d8e1d6129458bf0fb35.jpg
+wget --tries=2 --timeout=10 -O aa_child_9.jpg https://thumbs.dreamstime.com/z/handsome-young-caribbean-boy-portrait-young-black-child-handsome-young-caribbean-boy-as-seen-streets-havana-cuba-125749745.jpg
 			  
-wget --tries=2 -O aa_children_0.jpg https://newyorkschooltalk.org/wp-content/uploads/2019/06/apply-slide-982x645.jpg
-wget --tries=2 -O aa_children_1.jpg https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2019/05/04222554/20190504-38families844.jpg
-wget --tries=2 -O aa_children_2.jpg https://res.cloudinary.com/blavity/image/upload/c_fit,g_center,h_250,q_auto:best,g_south_east,x_0/v1564784323/dplthzihtjjqjz0si32b
-wget --tries=2 -O aa_children_3.jpg http://yourblackworld.net/wp-content/uploads/2017/03/black-children-nsn030713.jpg
-wget --tries=2 -O aa_children_4.jpg https://atlantablackstar.com/wp-content/uploads/2015/02/o-BLACK-CHILDREN-facebook-600x300.jpg
-wget --tries=2 -O aa_children_5.jpg http://i789.photobucket.com/albums/yy172/thehlmn/For%20Harriet/black-boys.jpg
-wget --tries=2 -O aa_children_6.jpg https://phillys7thward.org/wp-content/uploads/2020/01/black-children-2-805x452.jpg
-wget --tries=2 -O aa_children_7.jpg https://jjie.org/wp-content/uploads/2019/04/OPED-MonkeyBusinessImages-shutterstock_667950253.jpg
-wget --tries=2 -O aa_children_8.jpg http://www.blackenterprise.com/wp-content/blogs.dir/1/files/2013/09/NFTE-microsoft-black-children.jpg
-wget --tries=2 -O aa_children_9.jpg https://officialblackwallstreet.com/wp-content/uploads/2018/01/DSC-0039.jpeg
+wget --tries=2 --timeout=10 -O aa_children_0.jpg https://newyorkschooltalk.org/wp-content/uploads/2019/06/apply-slide-982x645.jpg
+wget --tries=2 --timeout=10 -O aa_children_1.jpg https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2019/05/04222554/20190504-38families844.jpg
+wget --tries=2 --timeout=10 -O aa_children_2.jpg https://res.cloudinary.com/blavity/image/upload/c_fit,g_center,h_250,q_auto:best,g_south_east,x_0/v1564784323/dplthzihtjjqjz0si32b
+wget --tries=2 --timeout=10 -O aa_children_3.jpg http://yourblackworld.net/wp-content/uploads/2017/03/black-children-nsn030713.jpg
+wget --tries=2 --timeout=10 -O aa_children_4.jpg https://atlantablackstar.com/wp-content/uploads/2015/02/o-BLACK-CHILDREN-facebook-600x300.jpg
+wget --tries=2 --timeout=10 -O aa_children_5.jpg http://i789.photobucket.com/albums/yy172/thehlmn/For%20Harriet/black-boys.jpg
+wget --tries=2 --timeout=10 -O aa_children_6.jpg https://phillys7thward.org/wp-content/uploads/2020/01/black-children-2-805x452.jpg
+wget --tries=2 --timeout=10 -O aa_children_7.jpg https://jjie.org/wp-content/uploads/2019/04/OPED-MonkeyBusinessImages-shutterstock_667950253.jpg
+wget --tries=2 --timeout=10 -O aa_children_8.jpg http://www.blackenterprise.com/wp-content/blogs.dir/1/files/2013/09/NFTE-microsoft-black-children.jpg
+wget --tries=2 --timeout=10 -O aa_children_9.jpg https://officialblackwallstreet.com/wp-content/uploads/2018/01/DSC-0039.jpeg
 			      
-wget --tries=2 -O aa_family_0.jpg https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2015/02/14249257345164.jpg
-wget --tries=2 -O aa_family_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/12/black-family-620x480.jpg
-wget --tries=2 -O aa_family_2.jpg http://www.healthyblackwoman.com/wp-content/uploads/2017/10/Black-Family-Getty-Images-702x336.jpg
-wget --tries=2 -O aa_family_3.jpg https://ionenewsone.files.wordpress.com/2014/04/098876.jpg?w=392&quality=80&strip=all&h=261
-wget --tries=2 -O aa_family_4.jpg https://www.blackdoctorscolumbusohio.com/images/HappyBlackFamily.jpg
-wget --tries=2 -O aa_family_5.jpg https://thumbs.dreamstime.com/b/young-black-family-embracing-outdoors-smiling-camera-young-black-family-embracing-outdoors-smiling-camera-119401418.jpg
-wget --tries=2 -O aa_family_6.jpg https://lasentinel.net/wp-content/uploads/sites/5/2019/02/LEGENDS_BlackFamiliesFilmTV-3.jpg
-wget --tries=2 -O aa_family_7.jpg https://www.pa-ctf.org/wp-content/uploads/sites/14/2017/06/black-family.jpg
-wget --tries=2 -O aa_family_8.jpg https://media.breitbart.com/media/2018/05/Black-Family-https-nationalcenter.orgproject-21-640x480.jpg
-wget --tries=2 -O aa_family_9.jpg https://www.ebonyjet.com/wp-content/uploads/2019/04/family-vacations.jpg
+wget --tries=2 --timeout=10 -O aa_family_0.jpg https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2015/02/14249257345164.jpg
+wget --tries=2 --timeout=10 -O aa_family_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2011/12/black-family-620x480.jpg
+wget --tries=2 --timeout=10 -O aa_family_2.jpg http://www.healthyblackwoman.com/wp-content/uploads/2017/10/Black-Family-Getty-Images-702x336.jpg
+wget --tries=2 --timeout=10 -O aa_family_3.jpg https://ionenewsone.files.wordpress.com/2014/04/098876.jpg?w=392&quality=80&strip=all&h=261
+wget --tries=2 --timeout=10 -O aa_family_4.jpg https://www.blackdoctorscolumbusohio.com/images/HappyBlackFamily.jpg
+wget --tries=2 --timeout=10 -O aa_family_5.jpg https://thumbs.dreamstime.com/b/young-black-family-embracing-outdoors-smiling-camera-young-black-family-embracing-outdoors-smiling-camera-119401418.jpg
+wget --tries=2 --timeout=10 -O aa_family_6.jpg https://lasentinel.net/wp-content/uploads/sites/5/2019/02/LEGENDS_BlackFamiliesFilmTV-3.jpg
+wget --tries=2 --timeout=10 -O aa_family_7.jpg https://www.pa-ctf.org/wp-content/uploads/sites/14/2017/06/black-family.jpg
+wget --tries=2 --timeout=10 -O aa_family_8.jpg https://media.breitbart.com/media/2018/05/Black-Family-https-nationalcenter.orgproject-21-640x480.jpg
+wget --tries=2 --timeout=10 -O aa_family_9.jpg https://www.ebonyjet.com/wp-content/uploads/2019/04/family-vacations.jpg
 			      
-wget --tries=2 -O aa_families_0.jpg https://lasentinel.net/wp-content/uploads/sites/5/2019/02/LEGENDS_BlackFamiliesFilmTV-2.jpg
-wget --tries=2 -O aa_families_1.jpg https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2015/02/14249257345164.jpg
-wget --tries=2 -O aa_families_2.jpg https://www.ebonyjet.com/wp-content/uploads/2019/04/family-vacations.jpg
-wget --tries=2 -O aa_families_3.jpg https://i.ytimg.com/vi/Q21XGV2z7hw/maxresdefault.jpg
-wget --tries=2 -O aa_families_4.jpg https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/n9pwdd2ujhpdioohfi79.jpg
-wget --tries=2 -O aa_families_5.jpg https://prosperitynow.org/sites/default/files/articles/Family.jpg
-wget --tries=2 -O aa_families_6.jpg https://prosperitynow.org/sites/default/files/articles/Family.jpg
-wget --tries=2 -O aa_families_7.jpg https://www.rawstory.com/wp-content/uploads/2015/09/shutterstock_146431496.jpg
-wget --tries=2 -O aa_families_8.jpg https://cdn.theatlantic.com/assets/media/img/nj/2015/8/4/top-5-cities-with-highest/shutterstock-118519186/lead_720_405.jpg?mod=1533691759
-wget --tries=2 -O aa_families_9.jpg https://343jii21wly33h03em3o8es6-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Canva-Multi-Generation-Family-716x320.jpg
+wget --tries=2 --timeout=10 -O aa_families_0.jpg https://lasentinel.net/wp-content/uploads/sites/5/2019/02/LEGENDS_BlackFamiliesFilmTV-2.jpg
+wget --tries=2 --timeout=10 -O aa_families_1.jpg https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q80/uploads/2015/02/14249257345164.jpg
+wget --tries=2 --timeout=10 -O aa_families_2.jpg https://www.ebonyjet.com/wp-content/uploads/2019/04/family-vacations.jpg
+wget --tries=2 --timeout=10 -O aa_families_3.jpg https://i.ytimg.com/vi/Q21XGV2z7hw/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O aa_families_4.jpg https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/n9pwdd2ujhpdioohfi79.jpg
+wget --tries=2 --timeout=10 -O aa_families_5.jpg https://prosperitynow.org/sites/default/files/articles/Family.jpg
+wget --tries=2 --timeout=10 -O aa_families_6.jpg https://prosperitynow.org/sites/default/files/articles/Family.jpg
+wget --tries=2 --timeout=10 -O aa_families_7.jpg https://www.rawstory.com/wp-content/uploads/2015/09/shutterstock_146431496.jpg
+wget --tries=2 --timeout=10 -O aa_families_8.jpg https://cdn.theatlantic.com/assets/media/img/nj/2015/8/4/top-5-cities-with-highest/shutterstock-118519186/lead_720_405.jpg?mod=1533691759
+wget --tries=2 --timeout=10 -O aa_families_9.jpg https://343jii21wly33h03em3o8es6-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Canva-Multi-Generation-Family-716x320.jpg
 			      
-wget --tries=2 -O aa_cousin_0.jpg https://s.yimg.com/uu/api/res/1.2/tlwnloVMw7ZsxI.TCpDeaw--~B/aD0xMDI0O3c9NjgzO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/5f39723e2919861d0ece406a5823c987
-wget --tries=2 -O aa_cousin_1.jpg https://res.cloudinary.com/blavity/image/upload/c_crop,g_center,w_auto,q_auto:best,g_south_east,x_0/v1500646278/hij9dc6qyxqjclg1rzwz
-wget --tries=2 -O aa_cousin_2.jpg https://urbanislandz.com/wp-content/uploads/2018/12/Kodak-Black-2019.jpg
-wget --tries=2 -O aa_cousin_3.jpg https://bckonline.com/wp-content/uploads/2018/02/Flint.jpg
-wget --tries=2 -O aa_cousin_4.jpg https://miro.medium.com/max/720/1*rBEgeGmZQ67lFJaKE4co7g.jpeg
-wget --tries=2 -O aa_cousin_5.jpg https://s3.r29static.com/bin/entry/18a/720x864,85/2055402/image.webp
-wget --tries=2 -O aa_cousin_6.jpg https://i.ytimg.com/vi/AYuy0NgeRNE/maxresdefault.jpg
-wget --tries=2 -O aa_cousin_7.jpg https://www.fashionably-early.com/wp-content/uploads/kodak-black-dentist.jpg
-wget --tries=2 -O aa_cousin_8.jpg https://ionenewsone.files.wordpress.com/2015/06/14350071058483.png?w=813&h=1190
-wget --tries=2 -O aa_cousin_9.jpg http://images6.fanpop.com/image/photos/38700000/Hip-Hop-Artist-Sean-Cos-Mason-s-Cousin-Malajah-is-Wearing-Noneillah-Black-Collection-at-a-Rememberin-noneillah-38712615-1600-2400.jpg
+wget --tries=2 --timeout=10 -O aa_cousin_0.jpg https://s.yimg.com/uu/api/res/1.2/tlwnloVMw7ZsxI.TCpDeaw--~B/aD0xMDI0O3c9NjgzO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/5f39723e2919861d0ece406a5823c987
+wget --tries=2 --timeout=10 -O aa_cousin_1.jpg https://res.cloudinary.com/blavity/image/upload/c_crop,g_center,w_auto,q_auto:best,g_south_east,x_0/v1500646278/hij9dc6qyxqjclg1rzwz
+wget --tries=2 --timeout=10 -O aa_cousin_2.jpg https://urbanislandz.com/wp-content/uploads/2018/12/Kodak-Black-2019.jpg
+wget --tries=2 --timeout=10 -O aa_cousin_3.jpg https://bckonline.com/wp-content/uploads/2018/02/Flint.jpg
+wget --tries=2 --timeout=10 -O aa_cousin_4.jpg https://miro.medium.com/max/720/1*rBEgeGmZQ67lFJaKE4co7g.jpeg
+wget --tries=2 --timeout=10 -O aa_cousin_5.jpg https://s3.r29static.com/bin/entry/18a/720x864,85/2055402/image.webp
+wget --tries=2 --timeout=10 -O aa_cousin_6.jpg https://i.ytimg.com/vi/AYuy0NgeRNE/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O aa_cousin_7.jpg https://www.fashionably-early.com/wp-content/uploads/kodak-black-dentist.jpg
+wget --tries=2 --timeout=10 -O aa_cousin_8.jpg https://ionenewsone.files.wordpress.com/2015/06/14350071058483.png?w=813&h=1190
+wget --tries=2 --timeout=10 -O aa_cousin_9.jpg http://images6.fanpop.com/image/photos/38700000/Hip-Hop-Artist-Sean-Cos-Mason-s-Cousin-Malajah-is-Wearing-Noneillah-Black-Collection-at-a-Rememberin-noneillah-38712615-1600-2400.jpg
 			   
-wget --tries=2 -O aa_cousins_0.jpg https://www.trulytafakari.com/wp-content/uploads/2016/05/fresh-prince-cookout-1140x641.jpg
-wget --tries=2 -O aa_cousins_1.jpg https://res.cloudinary.com/blavity/image/upload/c_crop,g_center,w_auto,q_auto:best,g_south_east,x_0/v1499436992/wwdgsq06vaffmosnnibx
-wget --tries=2 -O aa_cousins_2.jpg https://ioneblackamericaweb.files.wordpress.com/2015/03/monicaig.jpg?quality=99&strip=all&w=372
-wget --tries=2 -O aa_cousins_3.jpg https://www.charlestonchronicle.net/wp-content/uploads/2019/01/cousins.png
-wget --tries=2 -O aa_cousins_4.jpg https://c8.alamy.com/comp/A58AXX/miami-florida-gardens-community-development-corporation-father-appreciation-A58AXX.jpg
-wget --tries=2 -O aa_cousins_5.jpg http://i64.photobucket.com/albums/h164/ybfchic/April%202015%20Part%205/blacklips.png
-wget --tries=2 -O aa_cousins_6.jpg https://i1.wp.com/www.techjunkie.com/wp-content/uploads/2019/07/people-3104635_1920.jpg?resize=690%2C460&ssl=1
-wget --tries=2 -O aa_cousins_7.jpg https://wgbh.brightspotcdn.com/dims4/default/11c05c4/2147483647/strip/true/rotate/-90/crop/2246x1225+1+206/resize/990x540!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fimg_3673_edit.jpg
-wget --tries=2 -O aa_cousins_8.jpg https://c8.alamy.com/comp/ADNY08/birmingham-alabama-juneteenth-celebration-kelly-ingram-park-black-ADNY08.jpg
-wget --tries=2 -O aa_cousins_9.jpg https://i0.wp.com/housefulofnicholes.com/wp-content/uploads/2017/10/DSC_3864-012-e1507655618636.jpeg?resize=1077%2C1283
+wget --tries=2 --timeout=10 -O aa_cousins_0.jpg https://www.trulytafakari.com/wp-content/uploads/2016/05/fresh-prince-cookout-1140x641.jpg
+wget --tries=2 --timeout=10 -O aa_cousins_1.jpg https://res.cloudinary.com/blavity/image/upload/c_crop,g_center,w_auto,q_auto:best,g_south_east,x_0/v1499436992/wwdgsq06vaffmosnnibx
+wget --tries=2 --timeout=10 -O aa_cousins_2.jpg https://ioneblackamericaweb.files.wordpress.com/2015/03/monicaig.jpg?quality=99&strip=all&w=372
+wget --tries=2 --timeout=10 -O aa_cousins_3.jpg https://www.charlestonchronicle.net/wp-content/uploads/2019/01/cousins.png
+wget --tries=2 --timeout=10 -O aa_cousins_4.jpg https://c8.alamy.com/comp/A58AXX/miami-florida-gardens-community-development-corporation-father-appreciation-A58AXX.jpg
+wget --tries=2 --timeout=10 -O aa_cousins_5.jpg http://i64.photobucket.com/albums/h164/ybfchic/April%202015%20Part%205/blacklips.png
+wget --tries=2 --timeout=10 -O aa_cousins_6.jpg https://i1.wp.com/www.techjunkie.com/wp-content/uploads/2019/07/people-3104635_1920.jpg?resize=690%2C460&ssl=1
+wget --tries=2 --timeout=10 -O aa_cousins_7.jpg https://wgbh.brightspotcdn.com/dims4/default/11c05c4/2147483647/strip/true/rotate/-90/crop/2246x1225+1+206/resize/990x540!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fimg_3673_edit.jpg
+wget --tries=2 --timeout=10 -O aa_cousins_8.jpg https://c8.alamy.com/comp/ADNY08/birmingham-alabama-juneteenth-celebration-kelly-ingram-park-black-ADNY08.jpg
+wget --tries=2 --timeout=10 -O aa_cousins_9.jpg https://i0.wp.com/housefulofnicholes.com/wp-content/uploads/2017/10/DSC_3864-012-e1507655618636.jpeg?resize=1077%2C1283
 			      
-wget --tries=2 -O aa_marriage_0.jpg https://www.essence.com/wp-content/uploads/2016/04/images/2016/04/02/black-marriage-day-couples-h-21.jpg?width=1200
-wget --tries=2 -O aa_marriage_1.jpg https://www.essence.com/wp-content/uploads/2016/04/images/2016/04/02/black-marriage-day-couples-h-21.jpg?width=1200
-wget --tries=2 -O aa_marriage_2.jpg https://media2.s-nbcnews.com/j/newscms/2018_20/2434516/180516-blaskish-anthony-anderson-tracee-ellis-ross-njs-1015_bd61c6f8208d7261b4985c6980cb0faf.fit-760w.jpg
-wget --tries=2 -O aa_marriage_3.jpg http://atlantablackstar.com/wp-content/uploads/2015/02/black-married-couple.jpg
-wget --tries=2 -O aa_marriage_4.jpg https://asianblackcouples.com/wp-content/uploads/bmaw-marriage.jpg
-wget --tries=2 -O aa_marriage_5.jpg http://i789.photobucket.com/albums/yy172/thehlmn/shutterstock_207781168.jpg
-wget --tries=2 -O aa_marriage_6.jpg https://66.media.tumblr.com/tumblr_m9fv81MIHQ1qm8gk8o1_400.jpg
-wget --tries=2 -O aa_marriage_7.jpg https://www.essence.com/wp-content/uploads/2011/08/images/2011/08/15/black-marriage.jpg?width=1920&height=1080
-wget --tries=2 -O aa_marriage_8.jpg https://fierceforblackwomen.com/wp-content/uploads/2015/05/Couple-at-wedding-digitalskillet-GI173872715.jpg
-wget --tries=2 -O aa_marriage_9.jpg https://i.pinimg.com/736x/c9/f1/b4/c9f1b4fe89800b73d2fa6b6a44c82305.jpg
+wget --tries=2 --timeout=10 -O aa_marriage_0.jpg https://www.essence.com/wp-content/uploads/2016/04/images/2016/04/02/black-marriage-day-couples-h-21.jpg?width=1200
+wget --tries=2 --timeout=10 -O aa_marriage_1.jpg https://www.essence.com/wp-content/uploads/2016/04/images/2016/04/02/black-marriage-day-couples-h-21.jpg?width=1200
+wget --tries=2 --timeout=10 -O aa_marriage_2.jpg https://media2.s-nbcnews.com/j/newscms/2018_20/2434516/180516-blaskish-anthony-anderson-tracee-ellis-ross-njs-1015_bd61c6f8208d7261b4985c6980cb0faf.fit-760w.jpg
+wget --tries=2 --timeout=10 -O aa_marriage_3.jpg http://atlantablackstar.com/wp-content/uploads/2015/02/black-married-couple.jpg
+wget --tries=2 --timeout=10 -O aa_marriage_4.jpg https://asianblackcouples.com/wp-content/uploads/bmaw-marriage.jpg
+wget --tries=2 --timeout=10 -O aa_marriage_5.jpg http://i789.photobucket.com/albums/yy172/thehlmn/shutterstock_207781168.jpg
+wget --tries=2 --timeout=10 -O aa_marriage_6.jpg https://66.media.tumblr.com/tumblr_m9fv81MIHQ1qm8gk8o1_400.jpg
+wget --tries=2 --timeout=10 -O aa_marriage_7.jpg https://www.essence.com/wp-content/uploads/2011/08/images/2011/08/15/black-marriage.jpg?width=1920&height=1080
+wget --tries=2 --timeout=10 -O aa_marriage_8.jpg https://fierceforblackwomen.com/wp-content/uploads/2015/05/Couple-at-wedding-digitalskillet-GI173872715.jpg
+wget --tries=2 --timeout=10 -O aa_marriage_9.jpg https://i.pinimg.com/736x/c9/f1/b4/c9f1b4fe89800b73d2fa6b6a44c82305.jpg
 			      
-wget --tries=2 -O aa_marriages_0.jpg https://academichustler1975.files.wordpress.com/2016/01/bmarriage.jpg?w=1000
-wget --tries=2 -O aa_marriages_1.jpg https://askcheyb.files.wordpress.com/2011/12/bm141.jpg
-wget --tries=2 -O aa_marriages_2.jpg https://i.pinimg.com/236x/69/4a/9a/694a9a0ac204b61b591c65e4d52624eb--beautiful-family-family-love.jpg
-wget --tries=2 -O aa_marriages_3.jpg https://www.essence.com/wp-content/uploads/2011/10/images/2011/10/1011473-black_women_find_love_online.jpg?width=1200
-wget --tries=2 -O aa_marriages_4.jpg https://www.prlog.org/10445484-the-state-of-black-marriages.jpg
-wget --tries=2 -O aa_marriages_5.jpg https://i.pinimg.com/236x/4f/5a/9a/4f5a9a8add786fdeb57e47a209ac87d1--natural-wedding-hairstyles-natural-hair-brides.jpg
-wget --tries=2 -O aa_marriages_6.jpg https://blackandmarriedwithkids.com/wp-content/uploads/2013/10/TNNFamilyPictureSmile-leave-and-cleave-Feature.jpg
-wget --tries=2 -O aa_marriages_7.jpg https://asianblackcouples.com/wp-content/uploads/bmaw-marriage.jpg
-wget --tries=2 -O aa_marriages_8.jpg https://www.essence.com/wp-content/uploads/2011/10/images/2011/10/1011473-black_women_find_love_online.jpg?width=1200
-wget --tries=2 -O aa_marriages_9.jpg https://www.prlog.org/10445484-the-state-of-black-marriages.jpg
+wget --tries=2 --timeout=10 -O aa_marriages_0.jpg https://academichustler1975.files.wordpress.com/2016/01/bmarriage.jpg?w=1000
+wget --tries=2 --timeout=10 -O aa_marriages_1.jpg https://askcheyb.files.wordpress.com/2011/12/bm141.jpg
+wget --tries=2 --timeout=10 -O aa_marriages_2.jpg https://i.pinimg.com/236x/69/4a/9a/694a9a0ac204b61b591c65e4d52624eb--beautiful-family-family-love.jpg
+wget --tries=2 --timeout=10 -O aa_marriages_3.jpg https://www.essence.com/wp-content/uploads/2011/10/images/2011/10/1011473-black_women_find_love_online.jpg?width=1200
+wget --tries=2 --timeout=10 -O aa_marriages_4.jpg https://www.prlog.org/10445484-the-state-of-black-marriages.jpg
+wget --tries=2 --timeout=10 -O aa_marriages_5.jpg https://i.pinimg.com/236x/4f/5a/9a/4f5a9a8add786fdeb57e47a209ac87d1--natural-wedding-hairstyles-natural-hair-brides.jpg
+wget --tries=2 --timeout=10 -O aa_marriages_6.jpg https://blackandmarriedwithkids.com/wp-content/uploads/2013/10/TNNFamilyPictureSmile-leave-and-cleave-Feature.jpg
+wget --tries=2 --timeout=10 -O aa_marriages_7.jpg https://asianblackcouples.com/wp-content/uploads/bmaw-marriage.jpg
+wget --tries=2 --timeout=10 -O aa_marriages_8.jpg https://www.essence.com/wp-content/uploads/2011/10/images/2011/10/1011473-black_women_find_love_online.jpg?width=1200
+wget --tries=2 --timeout=10 -O aa_marriages_9.jpg https://www.prlog.org/10445484-the-state-of-black-marriages.jpg
 			      
-wget --tries=2 -O aa_wedding_0.jpg https://ae01.alicdn.com/kf/HTB1pKQaJXXXXXaIapXXq6xXFXXX6/Sexy-Long-Black-Wedding-Dress-Strapless-Low-Back-Lace-Bridal-Gown-Tight-Mermaid-Tulle-Train-Wedding.jpg
-wget --tries=2 -O aa_wedding_1.jpg https://ionehellobeautiful.files.wordpress.com/2015/12/14496411553871.jpg?w=1024&quality=85&strip=all&h=686
-wget --tries=2 -O aa_wedding_2.jpg https://cdn.pixabay.com/photo/2016/11/14/23/40/love-1824956_960_720.jpg
-wget --tries=2 -O aa_wedding_3.jpg https://i.ytimg.com/vi/yx61e4KU-Zc/maxresdefault.jpg
-wget --tries=2 -O aa_wedding_4.jpg https://blacknuptials.com/wp-content/uploads/2017/12/image.jpg
-wget --tries=2 -O aa_wedding_5.jpg https://www.essence.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-13-at-11.19.52-AM.png?width=1920&height=1080
-wget --tries=2 -O aa_wedding_6.jpg https://cdn.shopify.com/s/files/1/0118/6706/2330/products/5822_300x300.jpg?v=1571788894
-wget --tries=2 -O aa_wedding_7.jpg https://blacknuptials.com/wp-content/uploads/2017/05/Shaq_Drew_i_Do_Muna_submission_Petronella_Photography_68-640x459-600x430.jpg
-wget --tries=2 -O aa_wedding_8.jpg https://cdn0.weddingwire.com/img_g/ww/t30_reef-atlantis-bahamas-wedding-potraits-stanlo-photography.jpg
-wget --tries=2 -O aa_wedding_9.jpg https://www.ebony.com/wp-content/uploads/2016/08/cover33_original_20746.jpg
+wget --tries=2 --timeout=10 -O aa_wedding_0.jpg https://ae01.alicdn.com/kf/HTB1pKQaJXXXXXaIapXXq6xXFXXX6/Sexy-Long-Black-Wedding-Dress-Strapless-Low-Back-Lace-Bridal-Gown-Tight-Mermaid-Tulle-Train-Wedding.jpg
+wget --tries=2 --timeout=10 -O aa_wedding_1.jpg https://ionehellobeautiful.files.wordpress.com/2015/12/14496411553871.jpg?w=1024&quality=85&strip=all&h=686
+wget --tries=2 --timeout=10 -O aa_wedding_2.jpg https://cdn.pixabay.com/photo/2016/11/14/23/40/love-1824956_960_720.jpg
+wget --tries=2 --timeout=10 -O aa_wedding_3.jpg https://i.ytimg.com/vi/yx61e4KU-Zc/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O aa_wedding_4.jpg https://blacknuptials.com/wp-content/uploads/2017/12/image.jpg
+wget --tries=2 --timeout=10 -O aa_wedding_5.jpg https://www.essence.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-13-at-11.19.52-AM.png?width=1920&height=1080
+wget --tries=2 --timeout=10 -O aa_wedding_6.jpg https://cdn.shopify.com/s/files/1/0118/6706/2330/products/5822_300x300.jpg?v=1571788894
+wget --tries=2 --timeout=10 -O aa_wedding_7.jpg https://blacknuptials.com/wp-content/uploads/2017/05/Shaq_Drew_i_Do_Muna_submission_Petronella_Photography_68-640x459-600x430.jpg
+wget --tries=2 --timeout=10 -O aa_wedding_8.jpg https://cdn0.weddingwire.com/img_g/ww/t30_reef-atlantis-bahamas-wedding-potraits-stanlo-photography.jpg
+wget --tries=2 --timeout=10 -O aa_wedding_9.jpg https://www.ebony.com/wp-content/uploads/2016/08/cover33_original_20746.jpg
 		      	      
-wget --tries=2 -O aa_weddings_0.jpg https://i.pinimg.com/236x/62/1b/4d/621b4d5a4e7237c7dbf52214dff9e097--our-wedding-day-dream-wedding.jpg
-wget --tries=2 -O aa_weddings_1.jpg https://www.essence.com/wp-content/uploads/2019/12/WashingtonWedding-732-1472x1472.jpg
-wget --tries=2 -O aa_weddings_2.jpg https://www.essence.com/wp-content/uploads/2019/12/TL_348-1472x1472.jpg
-wget --tries=2 -O aa_weddings_3.jpg https://i.pinimg.com/236x/c4/0f/9e/c40f9e0fa7e499f2503b26920d6ecde7--wedding-photoshoot-wedding-poses.jpg
-wget --tries=2 -O aa_weddings_4.jpg https://www.washingtonian.com/wp-content/uploads/2019/08/LisaandRobertssWedding-11.jpg
-wget --tries=2 -O aa_weddings_5.jpg https://uploads.tapatalk-cdn.com/20180320/7317921d3290477631d67edfa69553ca.jpg
-wget --tries=2 -O aa_weddings_6.jpg https://www.ebony.com/wp-content/uploads/2016/08/BWS_caro9_original_32582.jpg
-wget --tries=2 -O aa_weddings_7.jpg https://d1zpvjny0s6omk.cloudfront.net/media/cache/03/45/03452c1bb8c5af4754e5d6678e4dee87.jpg
-wget --tries=2 -O aa_weddings_8.jpg https://i.pinimg.com/originals/ae/7b/f8/ae7bf806028891e0f27f1ddc882a686f.jpg
-wget --tries=2 -O aa_weddings_9.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F36%2F2019%2F06%2F19003451%2Fvanessa-abidemi-wedding-couple-0619.jpg&q=85
+wget --tries=2 --timeout=10 -O aa_weddings_0.jpg https://i.pinimg.com/236x/62/1b/4d/621b4d5a4e7237c7dbf52214dff9e097--our-wedding-day-dream-wedding.jpg
+wget --tries=2 --timeout=10 -O aa_weddings_1.jpg https://www.essence.com/wp-content/uploads/2019/12/WashingtonWedding-732-1472x1472.jpg
+wget --tries=2 --timeout=10 -O aa_weddings_2.jpg https://www.essence.com/wp-content/uploads/2019/12/TL_348-1472x1472.jpg
+wget --tries=2 --timeout=10 -O aa_weddings_3.jpg https://i.pinimg.com/236x/c4/0f/9e/c40f9e0fa7e499f2503b26920d6ecde7--wedding-photoshoot-wedding-poses.jpg
+wget --tries=2 --timeout=10 -O aa_weddings_4.jpg https://www.washingtonian.com/wp-content/uploads/2019/08/LisaandRobertssWedding-11.jpg
+wget --tries=2 --timeout=10 -O aa_weddings_5.jpg https://uploads.tapatalk-cdn.com/20180320/7317921d3290477631d67edfa69553ca.jpg
+wget --tries=2 --timeout=10 -O aa_weddings_6.jpg https://www.ebony.com/wp-content/uploads/2016/08/BWS_caro9_original_32582.jpg
+wget --tries=2 --timeout=10 -O aa_weddings_7.jpg https://d1zpvjny0s6omk.cloudfront.net/media/cache/03/45/03452c1bb8c5af4754e5d6678e4dee87.jpg
+wget --tries=2 --timeout=10 -O aa_weddings_8.jpg https://i.pinimg.com/originals/ae/7b/f8/ae7bf806028891e0f27f1ddc882a686f.jpg
+wget --tries=2 --timeout=10 -O aa_weddings_9.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F36%2F2019%2F06%2F19003451%2Fvanessa-abidemi-wedding-couple-0619.jpg&q=85
 		      	      
-wget --tries=2 -O aa_relative_0.jpg https://secure.i.telegraph.co.uk/multimedia/archive/01548/obama_kids_1548407c.jpg
-wget --tries=2 -O aa_relative_1.jpg https://miro.medium.com/max/650/1*18KUfilVBJl9BW0IM1vgOw.jpeg
-wget --tries=2 -O aa_relative_2.jpg http://ichef.bbci.co.uk/news/976/cpsprodpb/30AE/production/_92126421_gettyimages-545692322.jpg
-wget --tries=2 -O aa_relative_3.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2019/11/RTX79HQ3-1574196193-e1574196726532.jpg?auto=compress%2Cformat&q=90&fit=crop&h=220&w=440
-wget --tries=2 -O aa_relative_4.jpg https://www.jwj.org/wp-content/uploads/2018/04/sr.jpg
-wget --tries=2 -O aa_relative_5.jpg http://cdn8.dissolve.com/p/D430_63_195/D430_63_195_0004_600.jpg
-wget --tries=2 -O aa_relative_6.jpg http://atlantablackstar.com/wp-content/uploads/2014/12/black+men+on+stoop-660x450.jpg
-wget --tries=2 -O aa_relative_7.jpg https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F180048%252FAP_11442014075.jpg%252Ffull-fit-in__950x534.jpg?signature=u-tA-REsx1fttYj-4knngu-oWRA=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com
-wget --tries=2 -O aa_relative_8.jpg http://realhistoryww.com/world_history/ancient/Images_Thrace/Andamans_1.JPG
-wget --tries=2 -O aa_relative_9.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Siddi_community_%2816527139018%29.jpg/1200px-Siddi_community_%2816527139018%29.jpg
+wget --tries=2 --timeout=10 -O aa_relative_0.jpg https://secure.i.telegraph.co.uk/multimedia/archive/01548/obama_kids_1548407c.jpg
+wget --tries=2 --timeout=10 -O aa_relative_1.jpg https://miro.medium.com/max/650/1*18KUfilVBJl9BW0IM1vgOw.jpeg
+wget --tries=2 --timeout=10 -O aa_relative_2.jpg http://ichef.bbci.co.uk/news/976/cpsprodpb/30AE/production/_92126421_gettyimages-545692322.jpg
+wget --tries=2 --timeout=10 -O aa_relative_3.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2019/11/RTX79HQ3-1574196193-e1574196726532.jpg?auto=compress%2Cformat&q=90&fit=crop&h=220&w=440
+wget --tries=2 --timeout=10 -O aa_relative_4.jpg https://www.jwj.org/wp-content/uploads/2018/04/sr.jpg
+wget --tries=2 --timeout=10 -O aa_relative_5.jpg http://cdn8.dissolve.com/p/D430_63_195/D430_63_195_0004_600.jpg
+wget --tries=2 --timeout=10 -O aa_relative_6.jpg http://atlantablackstar.com/wp-content/uploads/2014/12/black+men+on+stoop-660x450.jpg
+wget --tries=2 --timeout=10 -O aa_relative_7.jpg https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F180048%252FAP_11442014075.jpg%252Ffull-fit-in__950x534.jpg?signature=u-tA-REsx1fttYj-4knngu-oWRA=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com
+wget --tries=2 --timeout=10 -O aa_relative_8.jpg http://realhistoryww.com/world_history/ancient/Images_Thrace/Andamans_1.JPG
+wget --tries=2 --timeout=10 -O aa_relative_9.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Siddi_community_%2816527139018%29.jpg/1200px-Siddi_community_%2816527139018%29.jpg
 			      
-wget --tries=2 -O aa_relatives_0.jpg https://kexp.org/media/filer_public_thumbnails/filer_public/5c/4b/5c4bc381-1a5f-4342-bfe2-a69deffd17f7/black_tones.jpeg__600x600_q85_crop_subject_location-651%2C459_subsampling-2_upscale.jpg
-wget --tries=2 -O aa_relatives_1.jpg https://www.wework.com/ideas/wp-content/uploads/sites/4/2018/11/Michelle-Dalzon-and-sellers-at-a-pop-up-event-sponsored-by-theBOM-1120x630.jpg
-wget --tries=2 -O aa_relatives_2.jpg https://wearyourvoicemag.com/wp-content/uploads/2018/03/Black-Panthers-Success-1.jpg
-wget --tries=2 -O aa_relatives_3.jpg https://www.sfaf.org/wp-content/uploads/programs/BHCOE-400x400.jpg
-wget --tries=2 -O aa_relatives_4.jpg https://media.gettyimages.com/photos/black-relatives-chatting-via-video-conference-picture-id685006647
-wget --tries=2 -O aa_relatives_5.jpg http://presentations.thebestinheritage.com/images/presentations/2016/shomb1.jpg
-wget --tries=2 -O aa_relatives_6.jpg https://media.istockphoto.com/photos/multi-generation-black-family-barbecue-grandad-grilling-picture-id1045348096?k=6&m=1045348096&s=612x612&w=0&h=7rs6d9DKDsuNdfp2HxrhWH-nGdwYEXZfLt2vSv-fVd8=
-wget --tries=2 -O aa_relatives_7.jpg https://static1.squarespace.com/static/5b5c0bdab27e39ddaf2a3406/5b63fed4562fa791671a8c42/5c0878058a922d9e788e807d/1544059013982/Dear+Black+People-+Adoption+is+a+Great+Option+pic.jpg?format=750w
-wget --tries=2 -O aa_relatives_8.jpg https://wtop.com/wp-content/uploads/2018/07/Ebony-480x320.jpg
-wget --tries=2 -O aa_relatives_9.jpg https://media.istockphoto.com/photos/parents-carrying-son-on-shoulders-as-they-walk-in-park-picture-id646011706?k=6&m=646011706&s=612x612&w=0&h=DolsSRf6PNeF89b6x4zMqFRkHoGQe6Ws39g0796dymk=
+wget --tries=2 --timeout=10 -O aa_relatives_0.jpg https://kexp.org/media/filer_public_thumbnails/filer_public/5c/4b/5c4bc381-1a5f-4342-bfe2-a69deffd17f7/black_tones.jpeg__600x600_q85_crop_subject_location-651%2C459_subsampling-2_upscale.jpg
+wget --tries=2 --timeout=10 -O aa_relatives_1.jpg https://www.wework.com/ideas/wp-content/uploads/sites/4/2018/11/Michelle-Dalzon-and-sellers-at-a-pop-up-event-sponsored-by-theBOM-1120x630.jpg
+wget --tries=2 --timeout=10 -O aa_relatives_2.jpg https://wearyourvoicemag.com/wp-content/uploads/2018/03/Black-Panthers-Success-1.jpg
+wget --tries=2 --timeout=10 -O aa_relatives_3.jpg https://www.sfaf.org/wp-content/uploads/programs/BHCOE-400x400.jpg
+wget --tries=2 --timeout=10 -O aa_relatives_4.jpg https://media.gettyimages.com/photos/black-relatives-chatting-via-video-conference-picture-id685006647
+wget --tries=2 --timeout=10 -O aa_relatives_5.jpg http://presentations.thebestinheritage.com/images/presentations/2016/shomb1.jpg
+wget --tries=2 --timeout=10 -O aa_relatives_6.jpg https://media.istockphoto.com/photos/multi-generation-black-family-barbecue-grandad-grilling-picture-id1045348096?k=6&m=1045348096&s=612x612&w=0&h=7rs6d9DKDsuNdfp2HxrhWH-nGdwYEXZfLt2vSv-fVd8=
+wget --tries=2 --timeout=10 -O aa_relatives_7.jpg https://static1.squarespace.com/static/5b5c0bdab27e39ddaf2a3406/5b63fed4562fa791671a8c42/5c0878058a922d9e788e807d/1544059013982/Dear+Black+People-+Adoption+is+a+Great+Option+pic.jpg?format=750w
+wget --tries=2 --timeout=10 -O aa_relatives_8.jpg https://wtop.com/wp-content/uploads/2018/07/Ebony-480x320.jpg
+wget --tries=2 --timeout=10 -O aa_relatives_9.jpg https://media.istockphoto.com/photos/parents-carrying-son-on-shoulders-as-they-walk-in-park-picture-id646011706?k=6&m=646011706&s=612x612&w=0&h=DolsSRf6PNeF89b6x4zMqFRkHoGQe6Ws39g0796dymk=

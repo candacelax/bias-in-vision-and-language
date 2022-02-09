@@ -1,340 +1,340 @@
-wget --tries=2 -O male_executive_0.jpg https://image.shutterstock.com/image-photo/confident-senior-business-executive-folded-260nw-227724865.jpg
-wget --tries=2 -O male_executive_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4707794.jpg
-wget --tries=2 -O male_executive_2.jpg https://image.freepik.com/free-photo/male-executive-with-glasses_1098-760.jpg
-wget --tries=2 -O male_executive_3.jpg https://image.shutterstock.com/image-photo/charming-male-attorney-possibly-accountant-260nw-550143547.jpg
-wget --tries=2 -O male_executive_4.jpg https://i1.wp.com/www.dcrstrategies.com/wp-content/uploads/2015/11/How-to-Qualify-as-a-Mortgage-Broker-in-Australia.jpg?fit=425%2C282&ssl=1
-wget --tries=2 -O male_executive_5.jpg http://www.bestcoaching.com.mx/cartas/wp-content/uploads/2015/09/Ex_Business_Businessman-2.jpg
-wget --tries=2 -O male_executive_6.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3833191.jpg
-wget --tries=2 -O male_executive_7.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4257465.jpg
-wget --tries=2 -O male_executive_8.jpg https://media.istockphoto.com/photos/male-executive-standing-with-arms-crossed-isolated-picture-id172480263
-wget --tries=2 -O male_executive_9.jpg https://st2.depositphotos.com/1499736/7194/i/950/depositphotos_71949581-stock-photo-male-executive-pointing-towards-camera.jpg
+wget --tries=2 --timeout=10 -O male_executive_0.jpg https://image.shutterstock.com/image-photo/confident-senior-business-executive-folded-260nw-227724865.jpg
+wget --tries=2 --timeout=10 -O male_executive_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4707794.jpg
+wget --tries=2 --timeout=10 -O male_executive_2.jpg https://image.freepik.com/free-photo/male-executive-with-glasses_1098-760.jpg
+wget --tries=2 --timeout=10 -O male_executive_3.jpg https://image.shutterstock.com/image-photo/charming-male-attorney-possibly-accountant-260nw-550143547.jpg
+wget --tries=2 --timeout=10 -O male_executive_4.jpg https://i1.wp.com/www.dcrstrategies.com/wp-content/uploads/2015/11/How-to-Qualify-as-a-Mortgage-Broker-in-Australia.jpg?fit=425%2C282&ssl=1
+wget --tries=2 --timeout=10 -O male_executive_5.jpg http://www.bestcoaching.com.mx/cartas/wp-content/uploads/2015/09/Ex_Business_Businessman-2.jpg
+wget --tries=2 --timeout=10 -O male_executive_6.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3833191.jpg
+wget --tries=2 --timeout=10 -O male_executive_7.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4257465.jpg
+wget --tries=2 --timeout=10 -O male_executive_8.jpg https://media.istockphoto.com/photos/male-executive-standing-with-arms-crossed-isolated-picture-id172480263
+wget --tries=2 --timeout=10 -O male_executive_9.jpg https://st2.depositphotos.com/1499736/7194/i/950/depositphotos_71949581-stock-photo-male-executive-pointing-towards-camera.jpg
 
-wget --tries=2 -O male_executives_0.jpg https://c8.alamy.com/comp/X6BGFA/two-male-executives-using-tablet-computer-with-office-meeting-in-background-X6BGFA.jpg
-wget --tries=2 -O male_executives_1.jpg http://www.takepart.com/sites/default/files/styles/large/public/boardofdirectors.jpg
-wget --tries=2 -O male_executives_2.jpg http://yourblackworld.net/wp-content/uploads/2015/10/1.jpg
-wget --tries=2 -O male_executives_3.jpg http://genderpartnership.com/wp-content/uploads/2015/10/PLC-sidebar-pic1-300x2691.jpg
-wget --tries=2 -O male_executives_4.jpg https://compote.slate.com/images/8fcc3f61-211c-4644-9e7f-b07b5ae2a3f8.jpg?height=421&width=590
-wget --tries=2 -O male_executives_5.jpg http://sites.psu.edu/leadership/wp-content/uploads/sites/8069/2014/07/Group_Male_Executives1.jpg
-wget --tries=2 -O male_executives_6.jpg https://thumbs.dreamstime.com/z/two-male-executives-talking-cellphone-young-business-people-communicating-via-53103205.jpg
-wget --tries=2 -O male_executives_7.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/06/12/21/istock-859896852.jpg?w968h681
-wget --tries=2 -O male_executives_8.jpg https://previews.123rf.com/images/edhar/edhar1406/edhar140600022/29170008-business-colleagues-sitting-at-a-table-during-a-meeting-with-two-male-executives-shaking-hands.jpg
-wget --tries=2 -O male_executives_9.jpg https://cdn7.dissolve.com/p/D1230_2_739/D1230_2_739_1200.jpg
+wget --tries=2 --timeout=10 -O male_executives_0.jpg https://c8.alamy.com/comp/X6BGFA/two-male-executives-using-tablet-computer-with-office-meeting-in-background-X6BGFA.jpg
+wget --tries=2 --timeout=10 -O male_executives_1.jpg http://www.takepart.com/sites/default/files/styles/large/public/boardofdirectors.jpg
+wget --tries=2 --timeout=10 -O male_executives_2.jpg http://yourblackworld.net/wp-content/uploads/2015/10/1.jpg
+wget --tries=2 --timeout=10 -O male_executives_3.jpg http://genderpartnership.com/wp-content/uploads/2015/10/PLC-sidebar-pic1-300x2691.jpg
+wget --tries=2 --timeout=10 -O male_executives_4.jpg https://compote.slate.com/images/8fcc3f61-211c-4644-9e7f-b07b5ae2a3f8.jpg?height=421&width=590
+wget --tries=2 --timeout=10 -O male_executives_5.jpg http://sites.psu.edu/leadership/wp-content/uploads/sites/8069/2014/07/Group_Male_Executives1.jpg
+wget --tries=2 --timeout=10 -O male_executives_6.jpg https://thumbs.dreamstime.com/z/two-male-executives-talking-cellphone-young-business-people-communicating-via-53103205.jpg
+wget --tries=2 --timeout=10 -O male_executives_7.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/06/12/21/istock-859896852.jpg?w968h681
+wget --tries=2 --timeout=10 -O male_executives_8.jpg https://previews.123rf.com/images/edhar/edhar1406/edhar140600022/29170008-business-colleagues-sitting-at-a-table-during-a-meeting-with-two-male-executives-shaking-hands.jpg
+wget --tries=2 --timeout=10 -O male_executives_9.jpg https://cdn7.dissolve.com/p/D1230_2_739/D1230_2_739_1200.jpg
 
-wget --tries=2 -O male_management_0.jpg https://mildred-elley.edu/wp-content/uploads/2020/01/business-management-skills.jpg
-wget --tries=2 -O male_management_1.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/k3iwg0iRPyeY2dGBaEbOjY463eM=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/HWJGYABQYUI6VM3AGUS3E6OISA.jpg
-wget --tries=2 -O male_management_2.jpg https://dynl.mktgcdn.com/p/dK2bznSlXilmcS_8zxISbODIaMtxMe2cXAp2bARqKJg/1266x1900.jpg
-wget --tries=2 -O male_management_3.jpg https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/photo_sectionlnd_top/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202001/HT_Q120_Interview-Joy-Hero.jpg?itok=dZ7OUiUV
-wget --tries=2 -O male_management_4.jpg http://www.babcox.com/wp-content/uploads/Babcox-B_2.jpg
-wget --tries=2 -O male_management_5.jpg https://www.nordex-online.com/wp-content/uploads/sites/2/2019/08/NXG_management_JBL.jpg
-wget --tries=2 -O male_management_6.jpg https://dynl.mktgcdn.com/p/6gziUlaGpatOAVhP6EqKjuIG0AzpsDTbP1D_R4JbeEY/1651x1900.jpg
-wget --tries=2 -O male_management_7.jpg https://images.squarespace-cdn.com/content/v1/58a4d7e259cc680cbd9c45e2/1487690587078-Q8CGMV2Q4S0VSXBG6E4W/ke17ZwdGBToddI8pDm48kI_Hl0txV0q_HoFmeIA_wRZZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-stmKhaY0X3n8xPRohv5q7iwiLTmzcgmAo84I6K7-iHGA/founder-1.jpg
-wget --tries=2 -O male_management_8.jpg https://www.managers.org.uk/~/media/Images/Insights/Arrogantboss.jpg
-wget --tries=2 -O male_management_9.jpg https://www.worldboxingnews.net/wp-content/uploads/2020/01/Money-Powell-IV.jpg
+wget --tries=2 --timeout=10 -O male_management_0.jpg https://mildred-elley.edu/wp-content/uploads/2020/01/business-management-skills.jpg
+wget --tries=2 --timeout=10 -O male_management_1.jpg https://bostonglobe-prod.cdn.arcpublishing.com/resizer/k3iwg0iRPyeY2dGBaEbOjY463eM=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/HWJGYABQYUI6VM3AGUS3E6OISA.jpg
+wget --tries=2 --timeout=10 -O male_management_2.jpg https://dynl.mktgcdn.com/p/dK2bznSlXilmcS_8zxISbODIaMtxMe2cXAp2bARqKJg/1266x1900.jpg
+wget --tries=2 --timeout=10 -O male_management_3.jpg https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/photo_sectionlnd_top/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202001/HT_Q120_Interview-Joy-Hero.jpg?itok=dZ7OUiUV
+wget --tries=2 --timeout=10 -O male_management_4.jpg http://www.babcox.com/wp-content/uploads/Babcox-B_2.jpg
+wget --tries=2 --timeout=10 -O male_management_5.jpg https://www.nordex-online.com/wp-content/uploads/sites/2/2019/08/NXG_management_JBL.jpg
+wget --tries=2 --timeout=10 -O male_management_6.jpg https://dynl.mktgcdn.com/p/6gziUlaGpatOAVhP6EqKjuIG0AzpsDTbP1D_R4JbeEY/1651x1900.jpg
+wget --tries=2 --timeout=10 -O male_management_7.jpg https://images.squarespace-cdn.com/content/v1/58a4d7e259cc680cbd9c45e2/1487690587078-Q8CGMV2Q4S0VSXBG6E4W/ke17ZwdGBToddI8pDm48kI_Hl0txV0q_HoFmeIA_wRZZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-stmKhaY0X3n8xPRohv5q7iwiLTmzcgmAo84I6K7-iHGA/founder-1.jpg
+wget --tries=2 --timeout=10 -O male_management_8.jpg https://www.managers.org.uk/~/media/Images/Insights/Arrogantboss.jpg
+wget --tries=2 --timeout=10 -O male_management_9.jpg https://www.worldboxingnews.net/wp-content/uploads/2020/01/Money-Powell-IV.jpg
 
-wget --tries=2 -O male_managements_0.jpg https://www.bls.gov/ooh/images/15582.jpg
-wget --tries=2 -O male_managements_1.jpg https://us.experteer.com/wordpress/wp-content/uploads/2016/02/Fotolia_54960372_S_Interview-Questions-for-Senior-Managers.jpg
-wget --tries=2 -O male_managements_2.jpg https://online.kettering.edu/sites/default/files/styles/blogfeature_large/public/field/image/10_11_kuo.jpg?itok=Jr6E1DXU
-wget --tries=2 -O male_managements_3.jpg https://assets.entrepreneur.com/content/3x2/2000/20170915180509-GettyImages-501538218.jpeg?width=700&crop=2:1
-wget --tries=2 -O male_managements_4.jpg https://blog.pointclickcare.com/wp-content/uploads/2019/06/Optimizing-Intake-Orders-PDGM-1038x545.png
-wget --tries=2 -O male_managements_5.jpg https://www.audi.com/content/dam/gbp2/company/profile/company-management/aufsichtsrat/1920x1080-desktop-text-aufsichtsrat-Diess.jpg?imwidth=1920&imdensity=1
-wget --tries=2 -O male_managements_6.jpg https://www.thebalancesmb.com/thmb/7zaNNh9pKRioIN4xrZoOCXb7jD0=/3866x2175/smart/filters:no_upscale\(\)/EssentialsofPropertyManagementAgreement-PhotoAlto-EricAudras-PhotoAltoAgencyRFCollections-GettyImages-56fc0b085f9b5829868ed5b2.jpg
-wget --tries=2 -O male_managements_7.jpg https://www.audi.com/content/dam/gbp2/company/profile/company-management/vorstand/1920x1080-desktop-text-vorstand-Schot.jpg?imwidth=719&imdensity=1
-wget --tries=2 -O male_managements_8.jpg https://managementconcepts.csod.com/client/managementconcepts/images/banner%20photo%202.jpg
-wget --tries=2 -O male_managements_9.jpg https://www.facilitiesnet.com/resources/editorial/2019/18386EdwardSullivan.jpg
+wget --tries=2 --timeout=10 -O male_managements_0.jpg https://www.bls.gov/ooh/images/15582.jpg
+wget --tries=2 --timeout=10 -O male_managements_1.jpg https://us.experteer.com/wordpress/wp-content/uploads/2016/02/Fotolia_54960372_S_Interview-Questions-for-Senior-Managers.jpg
+wget --tries=2 --timeout=10 -O male_managements_2.jpg https://online.kettering.edu/sites/default/files/styles/blogfeature_large/public/field/image/10_11_kuo.jpg?itok=Jr6E1DXU
+wget --tries=2 --timeout=10 -O male_managements_3.jpg https://assets.entrepreneur.com/content/3x2/2000/20170915180509-GettyImages-501538218.jpeg?width=700&crop=2:1
+wget --tries=2 --timeout=10 -O male_managements_4.jpg https://blog.pointclickcare.com/wp-content/uploads/2019/06/Optimizing-Intake-Orders-PDGM-1038x545.png
+wget --tries=2 --timeout=10 -O male_managements_5.jpg https://www.audi.com/content/dam/gbp2/company/profile/company-management/aufsichtsrat/1920x1080-desktop-text-aufsichtsrat-Diess.jpg?imwidth=1920&imdensity=1
+wget --tries=2 --timeout=10 -O male_managements_6.jpg https://www.thebalancesmb.com/thmb/7zaNNh9pKRioIN4xrZoOCXb7jD0=/3866x2175/smart/filters:no_upscale\(\)/EssentialsofPropertyManagementAgreement-PhotoAlto-EricAudras-PhotoAltoAgencyRFCollections-GettyImages-56fc0b085f9b5829868ed5b2.jpg
+wget --tries=2 --timeout=10 -O male_managements_7.jpg https://www.audi.com/content/dam/gbp2/company/profile/company-management/vorstand/1920x1080-desktop-text-vorstand-Schot.jpg?imwidth=719&imdensity=1
+wget --tries=2 --timeout=10 -O male_managements_8.jpg https://managementconcepts.csod.com/client/managementconcepts/images/banner%20photo%202.jpg
+wget --tries=2 --timeout=10 -O male_managements_9.jpg https://www.facilitiesnet.com/resources/editorial/2019/18386EdwardSullivan.jpg
 
-wget --tries=2 -O male_professional_0.jpg https://i.pinimg.com/236x/66/e8/a6/66e8a65752d44007c8af4875ecd9d3a1--professional-headshots-corporate-headshots.jpg
-wget --tries=2 -O male_professional_1.jpg https://i.pinimg.com/236x/39/90/61/3990618993ef1a1d30196fc22f704d22--headshot-photography-men-photography.jpg
-wget --tries=2 -O male_professional_2.jpg https://thumbs.dreamstime.com/z/smart-male-business-professional-confident-handsome-executive-over-white-33380099.jpg
-wget --tries=2 -O male_professional_3.jpg https://cdn.luxe.digital/media/2019/09/12090502/business-professional-dress-code-men-style-luxe-digital.jpg
-wget --tries=2 -O male_professional_4.jpg https://www.eikonphoto.com/wp-content/uploads/2017/03/professional-headshots-men-e1515784407323.jpg
-wget --tries=2 -O male_professional_5.jpg https://www.allp.com/wp-content/uploads/2012/09/young-businessman-300x208.jpg
-wget --tries=2 -O male_professional_6.jpg https://i.pinimg.com/236x/c1/25/d2/c125d26f663aac302e33f2f9295aad35--professional-headshots-corporate-headshots.jpg
-wget --tries=2 -O male_professional_7.jpg http://testing.buyairlinemiles.com/wp-content/uploads/why-buy-from-buy-airline-miles.png
-wget --tries=2 -O male_professional_8.jpg https://2x1dks3q6aoj44bz1r1tr92f-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/Indochino-Hereford-Cavalry-Twill-Indigo-Suit.jpg
-wget --tries=2 -O male_professional_9.jpg https://asi.cpp.edu/campuscrop/wp-content/uploads/2013/02/professional-kenny.jpg
+wget --tries=2 --timeout=10 -O male_professional_0.jpg https://i.pinimg.com/236x/66/e8/a6/66e8a65752d44007c8af4875ecd9d3a1--professional-headshots-corporate-headshots.jpg
+wget --tries=2 --timeout=10 -O male_professional_1.jpg https://i.pinimg.com/236x/39/90/61/3990618993ef1a1d30196fc22f704d22--headshot-photography-men-photography.jpg
+wget --tries=2 --timeout=10 -O male_professional_2.jpg https://thumbs.dreamstime.com/z/smart-male-business-professional-confident-handsome-executive-over-white-33380099.jpg
+wget --tries=2 --timeout=10 -O male_professional_3.jpg https://cdn.luxe.digital/media/2019/09/12090502/business-professional-dress-code-men-style-luxe-digital.jpg
+wget --tries=2 --timeout=10 -O male_professional_4.jpg https://www.eikonphoto.com/wp-content/uploads/2017/03/professional-headshots-men-e1515784407323.jpg
+wget --tries=2 --timeout=10 -O male_professional_5.jpg https://www.allp.com/wp-content/uploads/2012/09/young-businessman-300x208.jpg
+wget --tries=2 --timeout=10 -O male_professional_6.jpg https://i.pinimg.com/236x/c1/25/d2/c125d26f663aac302e33f2f9295aad35--professional-headshots-corporate-headshots.jpg
+wget --tries=2 --timeout=10 -O male_professional_7.jpg http://testing.buyairlinemiles.com/wp-content/uploads/why-buy-from-buy-airline-miles.png
+wget --tries=2 --timeout=10 -O male_professional_8.jpg https://2x1dks3q6aoj44bz1r1tr92f-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/Indochino-Hereford-Cavalry-Twill-Indigo-Suit.jpg
+wget --tries=2 --timeout=10 -O male_professional_9.jpg https://asi.cpp.edu/campuscrop/wp-content/uploads/2013/02/professional-kenny.jpg
 
-wget --tries=2 -O male_corporation_0.jpg https://i7.pngguru.com/preview/935/118/356/businessperson-corporation-digital-marketing-company-business-man.jpg
-wget --tries=2 -O male_corporation_1.jpg https://startupnation.com/wp-content/uploads/2008/02/Screen-Shot-2017-10-02-at-2.49.36-PM.png
-wget --tries=2 -O male_corporation_2.jpg https://thumbs.dreamstime.com/z/handsome-young-manager-large-corporation-phone-front-office-successful-businessman-pensive-texting-his-54266258.jpg
-wget --tries=2 -O male_corporation_3.jpg https://princetoninfo.com/wp-content/uploads/2019/01/DerrickSherwinStephen.jpg
-wget --tries=2 -O male_corporation_4.jpg https://images.sk-static.com/images/media/profile_images/artists/114197/huge_avatar
-wget --tries=2 -O male_corporation_5.jpg https://foreignpolicy.com/wp-content/uploads/2016/03/gettyimages-462792714.jpg?w=800&h=388&quality=90
-wget --tries=2 -O male_corporation_6.jpg https://static.imoney.ph/articles/wp-content/uploads/2018/08/entrepreneur-e1534096180395.jpg
-wget --tries=2 -O male_corporation_7.jpg https://pmcvariety.files.wordpress.com/2017/10/paul-ryan.jpg?w=1000
-wget --tries=2 -O male_corporation_8.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5u0Py83UOUA/v0/1000x-1.jpg
-wget --tries=2 -O male_corporation_9.jpg https://vtnews.vt.edu/content/vtnews_vt_edu/en/articles/2019/07/ovpri-maffeivtarc/_jcr_content/article-image.transform/m-medium/image.jpg
+wget --tries=2 --timeout=10 -O male_corporation_0.jpg https://i7.pngguru.com/preview/935/118/356/businessperson-corporation-digital-marketing-company-business-man.jpg
+wget --tries=2 --timeout=10 -O male_corporation_1.jpg https://startupnation.com/wp-content/uploads/2008/02/Screen-Shot-2017-10-02-at-2.49.36-PM.png
+wget --tries=2 --timeout=10 -O male_corporation_2.jpg https://thumbs.dreamstime.com/z/handsome-young-manager-large-corporation-phone-front-office-successful-businessman-pensive-texting-his-54266258.jpg
+wget --tries=2 --timeout=10 -O male_corporation_3.jpg https://princetoninfo.com/wp-content/uploads/2019/01/DerrickSherwinStephen.jpg
+wget --tries=2 --timeout=10 -O male_corporation_4.jpg https://images.sk-static.com/images/media/profile_images/artists/114197/huge_avatar
+wget --tries=2 --timeout=10 -O male_corporation_5.jpg https://foreignpolicy.com/wp-content/uploads/2016/03/gettyimages-462792714.jpg?w=800&h=388&quality=90
+wget --tries=2 --timeout=10 -O male_corporation_6.jpg https://static.imoney.ph/articles/wp-content/uploads/2018/08/entrepreneur-e1534096180395.jpg
+wget --tries=2 --timeout=10 -O male_corporation_7.jpg https://pmcvariety.files.wordpress.com/2017/10/paul-ryan.jpg?w=1000
+wget --tries=2 --timeout=10 -O male_corporation_8.jpg https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5u0Py83UOUA/v0/1000x-1.jpg
+wget --tries=2 --timeout=10 -O male_corporation_9.jpg https://vtnews.vt.edu/content/vtnews_vt_edu/en/articles/2019/07/ovpri-maffeivtarc/_jcr_content/article-image.transform/m-medium/image.jpg
 
-wget --tries=2 -O male_corporations_0.jpg https://media.newyorker.com/photos/59095dba2179605b11ad50bc/master/w_727,c_limit/Vauhini-Corporations-and-Karma.jpg
-wget --tries=2 -O male_corporations_1.jpg https://media.bizj.us/view/img/11522920/eduardo-martinez-bs*750xx3144-1771-0-640.jpg
-wget --tries=2 -O male_corporations_2.jpg https://www.economist.com/sites/default/files/images/print-edition/20190914_BKP006_0.jpg
-wget --tries=2 -O male_corporations_3.jpg https://images.newrepublic.com/613a25279923bbdbad28482755f6986edcd907c3.jpeg?w=1200&q=65&dpi=2.625&fm=pjpg&fit=crop&crop=faces&h=800
-wget --tries=2 -O male_corporations_4.jpg http://reclaimdemocracy.org/wordpress/wp-content/uploads/2013/04/shareholder_primacy.jpg
-wget --tries=2 -O male_corporations_5.jpg https://thehill.com/sites/default/files/styles/article_full/public/mnuchinsteve_052219as3_lead.jpg?itok=iRAhRDTa
-wget --tries=2 -O male_corporations_6.jpg https://truthout.org/wp-content/uploads/2018/11/GettyImages-1036093544-1200x800.jpg
-wget --tries=2 -O male_corporations_7.jpg https://s.marketwatch.com/public/resources/images/MW-GX260_76c71c_ZH_20181030190805.jpg
-wget --tries=2 -O male_corporations_8.jpg https://imgix.bustle.com/mic/bf715f575c75410d9287af97ab0c998ae792e9ba3ed94aa0d7bc12dca37de597.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format&q=70
-wget --tries=2 -O male_corporations_9.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2019/06/iStock-525366712-e1571237677235.jpg
+wget --tries=2 --timeout=10 -O male_corporations_0.jpg https://media.newyorker.com/photos/59095dba2179605b11ad50bc/master/w_727,c_limit/Vauhini-Corporations-and-Karma.jpg
+wget --tries=2 --timeout=10 -O male_corporations_1.jpg https://media.bizj.us/view/img/11522920/eduardo-martinez-bs*750xx3144-1771-0-640.jpg
+wget --tries=2 --timeout=10 -O male_corporations_2.jpg https://www.economist.com/sites/default/files/images/print-edition/20190914_BKP006_0.jpg
+wget --tries=2 --timeout=10 -O male_corporations_3.jpg https://images.newrepublic.com/613a25279923bbdbad28482755f6986edcd907c3.jpeg?w=1200&q=65&dpi=2.625&fm=pjpg&fit=crop&crop=faces&h=800
+wget --tries=2 --timeout=10 -O male_corporations_4.jpg http://reclaimdemocracy.org/wordpress/wp-content/uploads/2013/04/shareholder_primacy.jpg
+wget --tries=2 --timeout=10 -O male_corporations_5.jpg https://thehill.com/sites/default/files/styles/article_full/public/mnuchinsteve_052219as3_lead.jpg?itok=iRAhRDTa
+wget --tries=2 --timeout=10 -O male_corporations_6.jpg https://truthout.org/wp-content/uploads/2018/11/GettyImages-1036093544-1200x800.jpg
+wget --tries=2 --timeout=10 -O male_corporations_7.jpg https://s.marketwatch.com/public/resources/images/MW-GX260_76c71c_ZH_20181030190805.jpg
+wget --tries=2 --timeout=10 -O male_corporations_8.jpg https://imgix.bustle.com/mic/bf715f575c75410d9287af97ab0c998ae792e9ba3ed94aa0d7bc12dca37de597.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format&q=70
+wget --tries=2 --timeout=10 -O male_corporations_9.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2019/06/iStock-525366712-e1571237677235.jpg
 
-wget --tries=2 -O male_salary_0.jpg https://www.ucsf.edu/sites/default/files/styles/half__image/public/fields/field_insert_file/news/male_nurse_with_patient.jpg
-wget --tries=2 -O male_salary_1.jpg https://image.shutterstock.com/image-photo/businessman-receiving-his-salary-bonus-260nw-1089930728.jpg
-wget --tries=2 -O male_salary_2.jpg https://content.fortune.com/wp-content/uploads/2015/07/gettyimages-151486410.jpg
-wget --tries=2 -O male_salary_3.jpg https://www.rd.com/wp-content/uploads/2018/07/What-HR-People-Won%E2%80%99t-Tell-You-About-Salaries-and-Raises-1.jpg
-wget --tries=2 -O male_salary_4.jpg https://cdn.vox-cdn.com/thumbor/Isyw-dqNGGU8OBkbbDFngObE-qc=/0x0:2400x1590/1200x0/filters:focal\(0x0:2400x1590\):no_upscale\(\)/cdn.vox-cdn.com/uploads/chorus_asset/file/3035386/02.12.14_seanopry.0.jpg
-wget --tries=2 -O male_salary_5.jpg https://cdn.cnn.com/cnnnext/dam/assets/181221170406-20181221-perspectives-negotiating-while-black-large-169.jpg
-wget --tries=2 -O male_salary_6.jpg https://i.insider.com/5a6b9faa17842584278b4be1?width=1100&format=jpeg&auto=webp
-wget --tries=2 -O male_salary_7.jpg https://img.etimg.com/thumb/msid-70749432,width-640,resizemode-4,imgsize-515673/billionaire-boys-club.jpg
-wget --tries=2 -O male_salary_8.jpg https://www.ultrasoundschoolsinfo.com/wp-content/uploads/2014/03/Male-sonographer-copy.jpg
-wget --tries=2 -O male_salary_9.jpg https://image.cnbcfm.com/api/v1/image/104243181-GettyImages-532150054.jpg?v=1551731587&w=678&h=381
+wget --tries=2 --timeout=10 -O male_salary_0.jpg https://www.ucsf.edu/sites/default/files/styles/half__image/public/fields/field_insert_file/news/male_nurse_with_patient.jpg
+wget --tries=2 --timeout=10 -O male_salary_1.jpg https://image.shutterstock.com/image-photo/businessman-receiving-his-salary-bonus-260nw-1089930728.jpg
+wget --tries=2 --timeout=10 -O male_salary_2.jpg https://content.fortune.com/wp-content/uploads/2015/07/gettyimages-151486410.jpg
+wget --tries=2 --timeout=10 -O male_salary_3.jpg https://www.rd.com/wp-content/uploads/2018/07/What-HR-People-Won%E2%80%99t-Tell-You-About-Salaries-and-Raises-1.jpg
+wget --tries=2 --timeout=10 -O male_salary_4.jpg https://cdn.vox-cdn.com/thumbor/Isyw-dqNGGU8OBkbbDFngObE-qc=/0x0:2400x1590/1200x0/filters:focal\(0x0:2400x1590\):no_upscale\(\)/cdn.vox-cdn.com/uploads/chorus_asset/file/3035386/02.12.14_seanopry.0.jpg
+wget --tries=2 --timeout=10 -O male_salary_5.jpg https://cdn.cnn.com/cnnnext/dam/assets/181221170406-20181221-perspectives-negotiating-while-black-large-169.jpg
+wget --tries=2 --timeout=10 -O male_salary_6.jpg https://i.insider.com/5a6b9faa17842584278b4be1?width=1100&format=jpeg&auto=webp
+wget --tries=2 --timeout=10 -O male_salary_7.jpg https://img.etimg.com/thumb/msid-70749432,width-640,resizemode-4,imgsize-515673/billionaire-boys-club.jpg
+wget --tries=2 --timeout=10 -O male_salary_8.jpg https://www.ultrasoundschoolsinfo.com/wp-content/uploads/2014/03/Male-sonographer-copy.jpg
+wget --tries=2 --timeout=10 -O male_salary_9.jpg https://image.cnbcfm.com/api/v1/image/104243181-GettyImages-532150054.jpg?v=1551731587&w=678&h=381
 
-wget --tries=2 -O male_salaries_0.jpg https://content.fortune.com/wp-content/uploads/2015/07/gettyimages-151486410.jpg
-wget --tries=2 -O male_salaries_1.jpg https://theringreport.com/images/articles/banners/8637.jpg
-wget --tries=2 -O male_salaries_2.jpg https://image.cnbcfm.com/api/v1/image/103544566-GettyImages-126089720.jpg?v=1533131350&w=1400&h=950
-wget --tries=2 -O male_salaries_3.jpg https://www.americantraveler.com/sites/default/files/field/image/male-nursing-increase-blog-1.jpg
-wget --tries=2 -O male_salaries_4.jpg https://www.sott.net/image/s22/447218/full/5a6b083afc7e934a438b4567.jpg
-wget --tries=2 -O male_salaries_5.jpg https://66.media.tumblr.com/2a5e75aeed212bd63f3bf81e97c0e0af/tumblr_ol0fnj3vDh1rmy13n_r1_og_500.jpg
-wget --tries=2 -O male_salaries_6.jpg https://static.timesofisrael.com/www/uploads/2018/11/000_1AP31U.jpg
-wget --tries=2 -O male_salaries_7.jpg https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/e/69/e695ca90-628b-58d5-8719-a781049ffc60/5cb4f36e97dee.image.jpg?resize=1200%2C889
-wget --tries=2 -O male_salaries_8.jpg https://pmcdeadline2.files.wordpress.com/2018/06/ted-sarandos-may-2018-e1559062072775.jpg?w=681&h=383&crop=1
-wget --tries=2 -O male_salaries_9.jpg https://dailygamingworld.com/wp-content/uploads/2020/02/Public-sector-salaries-Small-school-board-high-on-the-payroll.jpg
+wget --tries=2 --timeout=10 -O male_salaries_0.jpg https://content.fortune.com/wp-content/uploads/2015/07/gettyimages-151486410.jpg
+wget --tries=2 --timeout=10 -O male_salaries_1.jpg https://theringreport.com/images/articles/banners/8637.jpg
+wget --tries=2 --timeout=10 -O male_salaries_2.jpg https://image.cnbcfm.com/api/v1/image/103544566-GettyImages-126089720.jpg?v=1533131350&w=1400&h=950
+wget --tries=2 --timeout=10 -O male_salaries_3.jpg https://www.americantraveler.com/sites/default/files/field/image/male-nursing-increase-blog-1.jpg
+wget --tries=2 --timeout=10 -O male_salaries_4.jpg https://www.sott.net/image/s22/447218/full/5a6b083afc7e934a438b4567.jpg
+wget --tries=2 --timeout=10 -O male_salaries_5.jpg https://66.media.tumblr.com/2a5e75aeed212bd63f3bf81e97c0e0af/tumblr_ol0fnj3vDh1rmy13n_r1_og_500.jpg
+wget --tries=2 --timeout=10 -O male_salaries_6.jpg https://static.timesofisrael.com/www/uploads/2018/11/000_1AP31U.jpg
+wget --tries=2 --timeout=10 -O male_salaries_7.jpg https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/e/69/e695ca90-628b-58d5-8719-a781049ffc60/5cb4f36e97dee.image.jpg?resize=1200%2C889
+wget --tries=2 --timeout=10 -O male_salaries_8.jpg https://pmcdeadline2.files.wordpress.com/2018/06/ted-sarandos-may-2018-e1559062072775.jpg?w=681&h=383&crop=1
+wget --tries=2 --timeout=10 -O male_salaries_9.jpg https://dailygamingworld.com/wp-content/uploads/2020/02/Public-sector-salaries-Small-school-board-high-on-the-payroll.jpg
 
-wget --tries=2 -O male_office_0.jpg https://image.shutterstock.com/image-photo/portrait-young-man-sitting-his-260nw-648506098.jpg
-wget --tries=2 -O male_office_1.jpg https://workzones.com/wp-content/uploads/2019/04/private-offices-man-at-desk.jpg
-wget --tries=2 -O male_office_2.jpg https://image.shutterstock.com/image-photo/deadline-technology-people-concept-happy-260nw-1024797238.jpg
-wget --tries=2 -O male_office_3.jpg https://thumbs.dreamstime.com/z/young-chinese-male-working-office-13993726.jpg
-wget --tries=2 -O male_office_4.jpg https://cdn.theatlantic.com/assets/media/img/mt/2019/04/GettyImages_1063745264/lead_720_405.jpg?mod=1556286754
-wget --tries=2 -O male_office_5.jpg https://c8.alamy.com/comp/PD62W4/a-man-is-sitting-at-a-table-in-the-office-working-with-documents-and-drinking-water-from-a-bottle-PD62W4.jpg
-wget --tries=2 -O male_office_6.jpg http://www.coe.int/documents/18810201/23098365/Zoltan+taking+over+150217/892635b9-fc57-4388-bcc5-c3dd3e5d9a24
-wget --tries=2 -O male_office_7.jpg https://image.shutterstock.com/image-photo/portrait-young-man-sitting-his-260nw-648506098.jpg
-wget --tries=2 -O male_office_8.jpg https://thumbs.dreamstime.com/z/male-architect-digital-tablet-studying-plans-office-smiling-to-camera-37220366.jpg
-wget --tries=2 -O male_office_9.jpg https://intermountainhealthcare.org/-/media/images/global/1-1/male-office-worker-smiling-and-teaching.jpg?mh=455&mw=455
+wget --tries=2 --timeout=10 -O male_office_0.jpg https://image.shutterstock.com/image-photo/portrait-young-man-sitting-his-260nw-648506098.jpg
+wget --tries=2 --timeout=10 -O male_office_1.jpg https://workzones.com/wp-content/uploads/2019/04/private-offices-man-at-desk.jpg
+wget --tries=2 --timeout=10 -O male_office_2.jpg https://image.shutterstock.com/image-photo/deadline-technology-people-concept-happy-260nw-1024797238.jpg
+wget --tries=2 --timeout=10 -O male_office_3.jpg https://thumbs.dreamstime.com/z/young-chinese-male-working-office-13993726.jpg
+wget --tries=2 --timeout=10 -O male_office_4.jpg https://cdn.theatlantic.com/assets/media/img/mt/2019/04/GettyImages_1063745264/lead_720_405.jpg?mod=1556286754
+wget --tries=2 --timeout=10 -O male_office_5.jpg https://c8.alamy.com/comp/PD62W4/a-man-is-sitting-at-a-table-in-the-office-working-with-documents-and-drinking-water-from-a-bottle-PD62W4.jpg
+wget --tries=2 --timeout=10 -O male_office_6.jpg http://www.coe.int/documents/18810201/23098365/Zoltan+taking+over+150217/892635b9-fc57-4388-bcc5-c3dd3e5d9a24
+wget --tries=2 --timeout=10 -O male_office_7.jpg https://image.shutterstock.com/image-photo/portrait-young-man-sitting-his-260nw-648506098.jpg
+wget --tries=2 --timeout=10 -O male_office_8.jpg https://thumbs.dreamstime.com/z/male-architect-digital-tablet-studying-plans-office-smiling-to-camera-37220366.jpg
+wget --tries=2 --timeout=10 -O male_office_9.jpg https://intermountainhealthcare.org/-/media/images/global/1-1/male-office-worker-smiling-and-teaching.jpg?mh=455&mw=455
 
-wget --tries=2 -O male_offices_0.jpg https://image.shutterstock.com/image-photo/portrait-young-man-sitting-his-260nw-463500722.jpg
-wget --tries=2 -O male_offices_1.jpg https://i.ytimg.com/vi/WVF5JZwJOxo/maxresdefault.jpg
-wget --tries=2 -O male_offices_2.jpg https://www.performance-painting.com/hs-fs/hubfs/blog-files/paint%20male%20executive%20offices.png?width=560&height=315&name=paint%20male%20executive%20offices.png
-wget --tries=2 -O male_offices_3.jpg https://image.shutterstock.com/image-photo/deadline-technology-people-concept-happy-260nw-1024797238.jpg
-wget --tries=2 -O male_offices_4.jpg https://news.harvard.edu/wp-content/uploads/2019/10/openofficesistock.jpg?w=1200&h=800&crop=1
-wget --tries=2 -O male_offices_5.jpg https://1avh4j2vpvmp20e73p3au5ox-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Day-Offices-Resized.jpg
-wget --tries=2 -O male_offices_6.jpg https://www.dbinteriors.co.nz/wp-content/uploads/2018/09/Man-working-in-open-plan-office.jpg
-wget --tries=2 -O male_offices_7.jpg https://hapag-lloyd7.azureedge.net/content/website/en/offices-localinfo/_jcr_content/stage/desktop.image.img.transform/stage-first-desktop/c-1572944991763.jpg/a-1517572522056.jpg/HLAG_Visual_a_Office_Localinfo_Tobi.jpg
-wget --tries=2 -O male_offices_8.jpg https://si.wsj.net/public/resources/images/PJ-BY781A_TOT_FR_20141203131050.jpg
-wget --tries=2 -O male_offices_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhSq-U_mzDYfZ8Mw5TRvKa-nMQYR44SxCvrK4dfMJ4XK8qU-E&s
+wget --tries=2 --timeout=10 -O male_offices_0.jpg https://image.shutterstock.com/image-photo/portrait-young-man-sitting-his-260nw-463500722.jpg
+wget --tries=2 --timeout=10 -O male_offices_1.jpg https://i.ytimg.com/vi/WVF5JZwJOxo/maxresdefault.jpg
+wget --tries=2 --timeout=10 -O male_offices_2.jpg https://www.performance-painting.com/hs-fs/hubfs/blog-files/paint%20male%20executive%20offices.png?width=560&height=315&name=paint%20male%20executive%20offices.png
+wget --tries=2 --timeout=10 -O male_offices_3.jpg https://image.shutterstock.com/image-photo/deadline-technology-people-concept-happy-260nw-1024797238.jpg
+wget --tries=2 --timeout=10 -O male_offices_4.jpg https://news.harvard.edu/wp-content/uploads/2019/10/openofficesistock.jpg?w=1200&h=800&crop=1
+wget --tries=2 --timeout=10 -O male_offices_5.jpg https://1avh4j2vpvmp20e73p3au5ox-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Day-Offices-Resized.jpg
+wget --tries=2 --timeout=10 -O male_offices_6.jpg https://www.dbinteriors.co.nz/wp-content/uploads/2018/09/Man-working-in-open-plan-office.jpg
+wget --tries=2 --timeout=10 -O male_offices_7.jpg https://hapag-lloyd7.azureedge.net/content/website/en/offices-localinfo/_jcr_content/stage/desktop.image.img.transform/stage-first-desktop/c-1572944991763.jpg/a-1517572522056.jpg/HLAG_Visual_a_Office_Localinfo_Tobi.jpg
+wget --tries=2 --timeout=10 -O male_offices_8.jpg https://si.wsj.net/public/resources/images/PJ-BY781A_TOT_FR_20141203131050.jpg
+wget --tries=2 --timeout=10 -O male_offices_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhSq-U_mzDYfZ8Mw5TRvKa-nMQYR44SxCvrK4dfMJ4XK8qU-E&s
 
-wget --tries=2 -O male_business_0.jpg https://www.mens-hairstyle.com/wp-content/uploads/2019/09/10.Business-Haircut.jpg
-wget --tries=2 -O male_business_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3603411.jpg
-wget --tries=2 -O male_business_2.jpg https://thumbs.dreamstime.com/z/smart-male-business-professional-confident-handsome-executive-over-white-33380099.jpg
-wget --tries=2 -O male_business_3.jpg http://www.askwear.com/images/solemn%20male%20business%20shirt.jpg
-wget --tries=2 -O male_business_4.jpg http://nextluxury.com/wp-content/uploads/clothes-for-guys-business-casual-outfits-styles.jpg
-wget --tries=2 -O male_business_5.jpg https://i.pinimg.com/236x/a3/0e/65/a30e65a55bc6670cafbed205096b9091--business-casual-men-men-casual.jpg
-wget --tries=2 -O male_business_6.jpg https://i.pinimg.com/236x/6f/47/b6/6f47b61e2ec4670536ff1bd86d87ee8f--business-photoshoot-men-business-headshots-male.jpg
-wget --tries=2 -O male_business_7.jpg https://www.dhresource.com/600x600/f2/albu/g9/M00/2F/59/rBVaWFzwnniARvwqAAHc1lthOxM618.jpg
-wget --tries=2 -O male_business_8.jpg https://thumbs.dreamstime.com/z/smart-male-business-professional-handsome-executive-arms-crossed-35434172.jpg
-wget --tries=2 -O male_business_9.jpg https://i.pinimg.com/236x/a3/71/1d/a3711dc08002732af8bc2257cad6e582--interview-outfit-men-interview-suits.jpg
+wget --tries=2 --timeout=10 -O male_business_0.jpg https://www.mens-hairstyle.com/wp-content/uploads/2019/09/10.Business-Haircut.jpg
+wget --tries=2 --timeout=10 -O male_business_1.jpg https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3603411.jpg
+wget --tries=2 --timeout=10 -O male_business_2.jpg https://thumbs.dreamstime.com/z/smart-male-business-professional-confident-handsome-executive-over-white-33380099.jpg
+wget --tries=2 --timeout=10 -O male_business_3.jpg http://www.askwear.com/images/solemn%20male%20business%20shirt.jpg
+wget --tries=2 --timeout=10 -O male_business_4.jpg http://nextluxury.com/wp-content/uploads/clothes-for-guys-business-casual-outfits-styles.jpg
+wget --tries=2 --timeout=10 -O male_business_5.jpg https://i.pinimg.com/236x/a3/0e/65/a30e65a55bc6670cafbed205096b9091--business-casual-men-men-casual.jpg
+wget --tries=2 --timeout=10 -O male_business_6.jpg https://i.pinimg.com/236x/6f/47/b6/6f47b61e2ec4670536ff1bd86d87ee8f--business-photoshoot-men-business-headshots-male.jpg
+wget --tries=2 --timeout=10 -O male_business_7.jpg https://www.dhresource.com/600x600/f2/albu/g9/M00/2F/59/rBVaWFzwnniARvwqAAHc1lthOxM618.jpg
+wget --tries=2 --timeout=10 -O male_business_8.jpg https://thumbs.dreamstime.com/z/smart-male-business-professional-handsome-executive-arms-crossed-35434172.jpg
+wget --tries=2 --timeout=10 -O male_business_9.jpg https://i.pinimg.com/236x/a3/71/1d/a3711dc08002732af8bc2257cad6e582--interview-outfit-men-interview-suits.jpg
 
-wget --tries=2 -O male_businesses_0.jpg https://www.cofcogroup.com/wp-content/uploads/2017/05/thinking-e1575247800479.jpg
-wget --tries=2 -O male_businesses_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/08/iStock-938516266-1080x675.jpg
-wget --tries=2 -O male_businesses_2.jpg https://www.insidescandinavianbusiness.com/img/big/torsten.jpg
-wget --tries=2 -O male_businesses_3.jpg https://assets.entrepreneur.com/content/3x2/2000/20180613192257-https---pressatairbnbcom-app-uploads-2017-04-140602-AirBnb-Group-6392-v4-1-2670x4000.jpeg?width=1000
-wget --tries=2 -O male_businesses_4.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/07/Anthony-Lynn-PIc-e1565187394602-1026x675.jpg
-wget --tries=2 -O male_businesses_5.jpg https://internationalbusinessguide.azureedge.net/wp-content/uploads/2017/12/23.-Zygmunt-Solorz-Zak-Poland.jpg
-wget --tries=2 -O male_businesses_6.jpg https://tnj.com/wp-content/uploads/2018/03/man.jpg
-wget --tries=2 -O male_businesses_7.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2019/06/iStock-525366712-e1571237677235.jpg
-wget --tries=2 -O male_businesses_8.jpg http://fitleasing.com/wp-content/uploads/2015/02/fit-leasing-vendors.jpg
-wget --tries=2 -O male_businesses_9.jpg https://i.pinimg.com/originals/11/65/2a/11652a453a15a5906359f0dbea18efc8.jpg
+wget --tries=2 --timeout=10 -O male_businesses_0.jpg https://www.cofcogroup.com/wp-content/uploads/2017/05/thinking-e1575247800479.jpg
+wget --tries=2 --timeout=10 -O male_businesses_1.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/08/iStock-938516266-1080x675.jpg
+wget --tries=2 --timeout=10 -O male_businesses_2.jpg https://www.insidescandinavianbusiness.com/img/big/torsten.jpg
+wget --tries=2 --timeout=10 -O male_businesses_3.jpg https://assets.entrepreneur.com/content/3x2/2000/20180613192257-https---pressatairbnbcom-app-uploads-2017-04-140602-AirBnb-Group-6392-v4-1-2670x4000.jpeg?width=1000
+wget --tries=2 --timeout=10 -O male_businesses_4.jpg https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/07/Anthony-Lynn-PIc-e1565187394602-1026x675.jpg
+wget --tries=2 --timeout=10 -O male_businesses_5.jpg https://internationalbusinessguide.azureedge.net/wp-content/uploads/2017/12/23.-Zygmunt-Solorz-Zak-Poland.jpg
+wget --tries=2 --timeout=10 -O male_businesses_6.jpg https://tnj.com/wp-content/uploads/2018/03/man.jpg
+wget --tries=2 --timeout=10 -O male_businesses_7.jpg https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2019/06/iStock-525366712-e1571237677235.jpg
+wget --tries=2 --timeout=10 -O male_businesses_8.jpg http://fitleasing.com/wp-content/uploads/2015/02/fit-leasing-vendors.jpg
+wget --tries=2 --timeout=10 -O male_businesses_9.jpg https://i.pinimg.com/originals/11/65/2a/11652a453a15a5906359f0dbea18efc8.jpg
 
-wget --tries=2 -O male_career_0.jpg https://frontiersinblog.files.wordpress.com/2018/09/frontiers-in-psychology-gender-difference-career-stem-heed.jpg?w=940
-wget --tries=2 -O male_career_1.jpg https://cdn.dundee.ac.uk/media/dundeewebsite/main/news/2017/mendocarecover.jpg
-wget --tries=2 -O male_career_2.jpg https://media.gq.com/photos/56d07ffcbeb4a66323eb6a97/master/pass/ryan-gosling.jpeg
-wget --tries=2 -O male_career_3.jpg https://moneydotcomvip.files.wordpress.com/2016/10/161019_car_30scareermoves.jpg
-wget --tries=2 -O male_career_4.jpg https://markallenassets.blob.core.windows.net/communitycare/2019/09/Male-social-worker-on-home-vist-iStock-849177938.jpg
-wget --tries=2 -O male_career_5.jpg https://www.cmu.edu/tepper/programs/undergraduate-business/assets/images/tepper-uba-careers-900x400.jpg
-wget --tries=2 -O male_career_6.jpg https://www.hubspot.com/hubfs/Origional%20pic%20LUke.jpg
-wget --tries=2 -O male_career_7.jpg https://ocdn.eu/pulscms-transforms/1/bLjk9kpTURBXy84YTkyMmU0OTY4ZjhkZmFjY2E3ODViMDViMDNhZmE5NC5qcGeRkwXNAxTNAbyBoTAB
-wget --tries=2 -O male_career_8.jpg https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/handsome-career_1.jpg?resize=480:*
-wget --tries=2 -O male_career_9.jpg https://image.cnbcfm.com/api/v1/image/104654906-GettyImages-141187344.jpg?v=1532563778&w=1400&h=950
+wget --tries=2 --timeout=10 -O male_career_0.jpg https://frontiersinblog.files.wordpress.com/2018/09/frontiers-in-psychology-gender-difference-career-stem-heed.jpg?w=940
+wget --tries=2 --timeout=10 -O male_career_1.jpg https://cdn.dundee.ac.uk/media/dundeewebsite/main/news/2017/mendocarecover.jpg
+wget --tries=2 --timeout=10 -O male_career_2.jpg https://media.gq.com/photos/56d07ffcbeb4a66323eb6a97/master/pass/ryan-gosling.jpeg
+wget --tries=2 --timeout=10 -O male_career_3.jpg https://moneydotcomvip.files.wordpress.com/2016/10/161019_car_30scareermoves.jpg
+wget --tries=2 --timeout=10 -O male_career_4.jpg https://markallenassets.blob.core.windows.net/communitycare/2019/09/Male-social-worker-on-home-vist-iStock-849177938.jpg
+wget --tries=2 --timeout=10 -O male_career_5.jpg https://www.cmu.edu/tepper/programs/undergraduate-business/assets/images/tepper-uba-careers-900x400.jpg
+wget --tries=2 --timeout=10 -O male_career_6.jpg https://www.hubspot.com/hubfs/Origional%20pic%20LUke.jpg
+wget --tries=2 --timeout=10 -O male_career_7.jpg https://ocdn.eu/pulscms-transforms/1/bLjk9kpTURBXy84YTkyMmU0OTY4ZjhkZmFjY2E3ODViMDViMDNhZmE5NC5qcGeRkwXNAxTNAbyBoTAB
+wget --tries=2 --timeout=10 -O male_career_8.jpg https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/handsome-career_1.jpg?resize=480:*
+wget --tries=2 --timeout=10 -O male_career_9.jpg https://image.cnbcfm.com/api/v1/image/104654906-GettyImages-141187344.jpg?v=1532563778&w=1400&h=950
 
-wget --tries=2 -O male_careers_0.jpg https://frontiersinblog.files.wordpress.com/2018/09/frontiers-in-psychology-gender-difference-career-stem-heed.jpg?w=940
-wget --tries=2 -O male_careers_1.jpg http://trocaire.edu/app/uploads/2014/07/IMG_0072-1.jpg
-wget --tries=2 -O male_careers_2.jpg https://www.karriere.man.eu/images/man-arbeitgeber/man_karriere_benefits_l.png
-wget --tries=2 -O male_careers_3.jpg https://www.karriere.man.eu/images/einstieg/kacheln/schueler_460x220.jpg
-wget --tries=2 -O male_careers_4.jpg https://s.hdnux.com/photos/62/04/66/13127096/3/920x920.jpg
-wget --tries=2 -O male_careers_5.jpg https://www.teksystems.com/-/media/teksystems/images/alternating%20block%20images/careers-main-work-with-us.jpg?h=480&la=en&w=640&hash=5CFC41B68610F9267C983608BE419C00
-wget --tries=2 -O male_careers_6.jpg https://www.dailyherald.com/storyimage/DA/20191118/NEWS/191119238/AR/0/AR-191119238.jpg&updated=201911172337&MaxW=900&maxH=900&noborder&Q=80
-wget --tries=2 -O male_careers_7.jpg https://www.cmu.edu/tepper/programs/undergraduate-business/assets/images/tepper-uba-careers-900x400.jpg
-wget --tries=2 -O male_careers_8.jpg https://www.ssmhealth.com/SSMHealth/media/Images/Conditions%20and%20Treatments/Regional%20Tiles/male-doctor-talking-to-man.jpg
-wget --tries=2 -O male_careers_9.jpg https://blog.cps.edu/wp-content/uploads/2019/02/BUTLER-JAN_28_2019-49039-768x432.jpg
+wget --tries=2 --timeout=10 -O male_careers_0.jpg https://frontiersinblog.files.wordpress.com/2018/09/frontiers-in-psychology-gender-difference-career-stem-heed.jpg?w=940
+wget --tries=2 --timeout=10 -O male_careers_1.jpg http://trocaire.edu/app/uploads/2014/07/IMG_0072-1.jpg
+wget --tries=2 --timeout=10 -O male_careers_2.jpg https://www.karriere.man.eu/images/man-arbeitgeber/man_karriere_benefits_l.png
+wget --tries=2 --timeout=10 -O male_careers_3.jpg https://www.karriere.man.eu/images/einstieg/kacheln/schueler_460x220.jpg
+wget --tries=2 --timeout=10 -O male_careers_4.jpg https://s.hdnux.com/photos/62/04/66/13127096/3/920x920.jpg
+wget --tries=2 --timeout=10 -O male_careers_5.jpg https://www.teksystems.com/-/media/teksystems/images/alternating%20block%20images/careers-main-work-with-us.jpg?h=480&la=en&w=640&hash=5CFC41B68610F9267C983608BE419C00
+wget --tries=2 --timeout=10 -O male_careers_6.jpg https://www.dailyherald.com/storyimage/DA/20191118/NEWS/191119238/AR/0/AR-191119238.jpg&updated=201911172337&MaxW=900&maxH=900&noborder&Q=80
+wget --tries=2 --timeout=10 -O male_careers_7.jpg https://www.cmu.edu/tepper/programs/undergraduate-business/assets/images/tepper-uba-careers-900x400.jpg
+wget --tries=2 --timeout=10 -O male_careers_8.jpg https://www.ssmhealth.com/SSMHealth/media/Images/Conditions%20and%20Treatments/Regional%20Tiles/male-doctor-talking-to-man.jpg
+wget --tries=2 --timeout=10 -O male_careers_9.jpg https://blog.cps.edu/wp-content/uploads/2019/02/BUTLER-JAN_28_2019-49039-768x432.jpg
 
-wget --tries=2 -O male_home_0.jpg https://ak3.picdn.net/shutterstock/videos/12270185/thumb/1.jpg
-wget --tries=2 -O male_home_1.jpg https://image.uniqlo.com/UQ/ST3/us/imagesother/home/191111_pc_L3_m_loungewear-hero-01.jpg
-wget --tries=2 -O male_home_2.jpg https://ak0.picdn.net/shutterstock/videos/3390680/thumb/1.jpg
-wget --tries=2 -O male_home_3.jpg https://ak5.picdn.net/shutterstock/videos/1524005/thumb/1.jpg
-wget --tries=2 -O male_home_4.jpg https://previews.123rf.com/images/sjenner13/sjenner131408/sjenner13140800221/31164614-portrait-of-a-trendy-asian-man-at-home-indian-man-relaxing-at-home-.jpg
-wget --tries=2 -O male_home_5.jpg https://image.freepik.com/free-photo/young-male-home-watching-tv_23-2148405722.jpg
-wget --tries=2 -O male_home_6.jpg https://thumbs.dreamstime.com/z/serious-young-man-home-playing-video-games-young-serious-man-playing-video-games-home-concentrated-guy-sitting-floor-102494201.jpg
-wget --tries=2 -O male_home_7.jpg https://previews.123rf.com/images/elnur/elnur1812/elnur181200833/113025016-sick-man-at-home-with-first-aid-kit.jpg
-wget --tries=2 -O male_home_8.jpg https://image.freepik.com/free-photo/excited-male-friends-home-playing_23-2148405629.jpg
-wget --tries=2 -O male_home_9.jpg https://thumbs.dreamstime.com/z/thoughtful-young-african-american-man-home-young-thoughtful-african-american-man-sitting-home-sad-guy-sitting-couch-111347708.jpg
+wget --tries=2 --timeout=10 -O male_home_0.jpg https://ak3.picdn.net/shutterstock/videos/12270185/thumb/1.jpg
+wget --tries=2 --timeout=10 -O male_home_1.jpg https://image.uniqlo.com/UQ/ST3/us/imagesother/home/191111_pc_L3_m_loungewear-hero-01.jpg
+wget --tries=2 --timeout=10 -O male_home_2.jpg https://ak0.picdn.net/shutterstock/videos/3390680/thumb/1.jpg
+wget --tries=2 --timeout=10 -O male_home_3.jpg https://ak5.picdn.net/shutterstock/videos/1524005/thumb/1.jpg
+wget --tries=2 --timeout=10 -O male_home_4.jpg https://previews.123rf.com/images/sjenner13/sjenner131408/sjenner13140800221/31164614-portrait-of-a-trendy-asian-man-at-home-indian-man-relaxing-at-home-.jpg
+wget --tries=2 --timeout=10 -O male_home_5.jpg https://image.freepik.com/free-photo/young-male-home-watching-tv_23-2148405722.jpg
+wget --tries=2 --timeout=10 -O male_home_6.jpg https://thumbs.dreamstime.com/z/serious-young-man-home-playing-video-games-young-serious-man-playing-video-games-home-concentrated-guy-sitting-floor-102494201.jpg
+wget --tries=2 --timeout=10 -O male_home_7.jpg https://previews.123rf.com/images/elnur/elnur1812/elnur181200833/113025016-sick-man-at-home-with-first-aid-kit.jpg
+wget --tries=2 --timeout=10 -O male_home_8.jpg https://image.freepik.com/free-photo/excited-male-friends-home-playing_23-2148405629.jpg
+wget --tries=2 --timeout=10 -O male_home_9.jpg https://thumbs.dreamstime.com/z/thoughtful-young-african-american-man-home-young-thoughtful-african-american-man-sitting-home-sad-guy-sitting-couch-111347708.jpg
 
-wget --tries=2 -O male_homes_0.jpg https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/3c/e3c9fb58-d923-52c8-ade7-821fee37ef18/5e0514ca1cb30.image.jpg?resize=1200%2C900
-wget --tries=2 -O male_homes_1.jpg https://static2.fashionbeans.com/wp-content/uploads/2016/11/designershomestop-4.jpg
-wget --tries=2 -O male_homes_2.jpg https://api.time.com/wp-content/uploads/2014/08/99.jpg
-wget --tries=2 -O male_homes_3.jpg https://www.eastbaytimes.com/wp-content/uploads/2017/11/rev-l-homes-1117-22.jpg?w=620
-wget --tries=2 -O male_homes_4.jpg https://static01.nyt.com/images/2015/09/25/arts/25NINETYNINEJP3/25NINETYNINEJP3-articleLarge-v2.jpg?quality=90&auto=webp
-wget --tries=2 -O male_homes_5.jpg https://s3-prod.crainsdetroit.com/s3fs-public/HowardFingeroot-PinnacleHomes-main_i.jpg
-wget --tries=2 -O male_homes_6.jpg https://www.mercurynews.com/wp-content/uploads/2018/12/SJM-L-TINYHOMES-1210-001.jpg?w=620
-wget --tries=2 -O male_homes_7.jpg https://kpbs.media.clients.ellingtoncms.com/img/photos/2018/08/06/BRANDON_MILLER_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d
-wget --tries=2 -O male_homes_8.jpg https://compote.slate.com/images/dcaaaa43-04a5-4b8a-8b38-43aab5e6f0bc.jpg
-wget --tries=2 -O male_homes_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBRYUw3nSziEbZ_g6ldNoFHCZ-19NtuKg9dcHrexKE5oSHm9Q&s
+wget --tries=2 --timeout=10 -O male_homes_0.jpg https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/3c/e3c9fb58-d923-52c8-ade7-821fee37ef18/5e0514ca1cb30.image.jpg?resize=1200%2C900
+wget --tries=2 --timeout=10 -O male_homes_1.jpg https://static2.fashionbeans.com/wp-content/uploads/2016/11/designershomestop-4.jpg
+wget --tries=2 --timeout=10 -O male_homes_2.jpg https://api.time.com/wp-content/uploads/2014/08/99.jpg
+wget --tries=2 --timeout=10 -O male_homes_3.jpg https://www.eastbaytimes.com/wp-content/uploads/2017/11/rev-l-homes-1117-22.jpg?w=620
+wget --tries=2 --timeout=10 -O male_homes_4.jpg https://static01.nyt.com/images/2015/09/25/arts/25NINETYNINEJP3/25NINETYNINEJP3-articleLarge-v2.jpg?quality=90&auto=webp
+wget --tries=2 --timeout=10 -O male_homes_5.jpg https://s3-prod.crainsdetroit.com/s3fs-public/HowardFingeroot-PinnacleHomes-main_i.jpg
+wget --tries=2 --timeout=10 -O male_homes_6.jpg https://www.mercurynews.com/wp-content/uploads/2018/12/SJM-L-TINYHOMES-1210-001.jpg?w=620
+wget --tries=2 --timeout=10 -O male_homes_7.jpg https://kpbs.media.clients.ellingtoncms.com/img/photos/2018/08/06/BRANDON_MILLER_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d
+wget --tries=2 --timeout=10 -O male_homes_8.jpg https://compote.slate.com/images/dcaaaa43-04a5-4b8a-8b38-43aab5e6f0bc.jpg
+wget --tries=2 --timeout=10 -O male_homes_9.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBRYUw3nSziEbZ_g6ldNoFHCZ-19NtuKg9dcHrexKE5oSHm9Q&s
 
-wget --tries=2 -O male_parent_0.jpg https://thumbs.dreamstime.com/z/cute-male-parent-child-entertaining-home-cheerful-father-helping-his-son-to-play-game-tablet-sitting-68132097.jpg
-wget --tries=2 -O male_parent_1.jpg https://www.todaysparent.com/wp-content/uploads/2012/06/father-and-son-istock-theboone.jpg
-wget --tries=2 -O male_parent_2.jpg http://www.differencebetween.info/sites/default/files/images/father.jpg
-wget --tries=2 -O male_parent_3.jpg https://www.myjewishlearning.com/wp-content/uploads/2003/07/father-baby-parent-child.jpg
-wget --tries=2 -O male_parent_4.jpg https://thumbs.dreamstime.com/z/middle-age-bearded-caucasian-father-hugging-kissing-newborn-baby-man-parent-holding-child-authentic-lifestyle-touching-tender-167271250.jpg
-wget --tries=2 -O male_parent_5.jpg https://www.niche.com/blog/wp-content/uploads/2018/08/dads-and-schools-1200-1200x794.jpg
-wget --tries=2 -O male_parent_6.jpg https://www.eggdonors.asia/wp-content/uploads/2019/03/single-father-surrogacy-main-image-1.jpg
-wget --tries=2 -O male_parent_7.jpg https://images.unsplash.com/photo-1564156280315-1d42b4651629?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-wget --tries=2 -O male_parent_8.jpg https://previews.123rf.com/images/anoushkatoronto/anoushkatoronto1905/anoushkatoronto190500106/123732838-young-caucasian-father-trying-to-calm-down-newborn-baby-male-man-parent-holding-rocking-child-on-his.jpg
-wget --tries=2 -O male_parent_9.jpg https://marketplace.canva.com/MADLHpnL58E/1/screen_2x/canva-portrait-of-middle-age-caucasian-father-trying-to-calm-down-newborn-baby.-male-man-parent-holding-child-on-his-hands.-authentic-lifestyle-documenatry-moment.-single-dad-family-life-concept.-MADLHpnL58E.jpg
+wget --tries=2 --timeout=10 -O male_parent_0.jpg https://thumbs.dreamstime.com/z/cute-male-parent-child-entertaining-home-cheerful-father-helping-his-son-to-play-game-tablet-sitting-68132097.jpg
+wget --tries=2 --timeout=10 -O male_parent_1.jpg https://www.todaysparent.com/wp-content/uploads/2012/06/father-and-son-istock-theboone.jpg
+wget --tries=2 --timeout=10 -O male_parent_2.jpg http://www.differencebetween.info/sites/default/files/images/father.jpg
+wget --tries=2 --timeout=10 -O male_parent_3.jpg https://www.myjewishlearning.com/wp-content/uploads/2003/07/father-baby-parent-child.jpg
+wget --tries=2 --timeout=10 -O male_parent_4.jpg https://thumbs.dreamstime.com/z/middle-age-bearded-caucasian-father-hugging-kissing-newborn-baby-man-parent-holding-child-authentic-lifestyle-touching-tender-167271250.jpg
+wget --tries=2 --timeout=10 -O male_parent_5.jpg https://www.niche.com/blog/wp-content/uploads/2018/08/dads-and-schools-1200-1200x794.jpg
+wget --tries=2 --timeout=10 -O male_parent_6.jpg https://www.eggdonors.asia/wp-content/uploads/2019/03/single-father-surrogacy-main-image-1.jpg
+wget --tries=2 --timeout=10 -O male_parent_7.jpg https://images.unsplash.com/photo-1564156280315-1d42b4651629?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+wget --tries=2 --timeout=10 -O male_parent_8.jpg https://previews.123rf.com/images/anoushkatoronto/anoushkatoronto1905/anoushkatoronto190500106/123732838-young-caucasian-father-trying-to-calm-down-newborn-baby-male-man-parent-holding-rocking-child-on-his.jpg
+wget --tries=2 --timeout=10 -O male_parent_9.jpg https://marketplace.canva.com/MADLHpnL58E/1/screen_2x/canva-portrait-of-middle-age-caucasian-father-trying-to-calm-down-newborn-baby.-male-man-parent-holding-child-on-his-hands.-authentic-lifestyle-documenatry-moment.-single-dad-family-life-concept.-MADLHpnL58E.jpg
 
-wget --tries=2 -O male_parents_0.jpg https://www.sbs.com.au/topics/sites/sbs.com.au.topics/files/styles/full/public/dads_3.jpg?itok=fcEHYwx0&mtime=1471347111
-wget --tries=2 -O male_parents_1.jpg https://img.buzzfeed.com/buzzfeed-static/static/2017-06/19/17/asset/buzzfeed-prod-fastlane-03/sub-buzz-24624-1497907392-3.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto&output-quality=auto&output-format=auto&downsize=360:*
-wget --tries=2 -O male_parents_2.jpg https://images.radio.com/kywam/styles/nts_image_cover_tall_775x425/s3/Untitled_173.jpg
-wget --tries=2 -O male_parents_3.jpg https://cdn7.dissolve.com/p/D985_54_099/D985_54_099_1200.jpg
-wget --tries=2 -O male_parents_4.jpg https://surrogate.com/wp-content/uploads/2017/03/can-single-parents-pursue-surrogacy.jpg
-wget --tries=2 -O male_parents_5.jpg https://thumbs.dreamstime.com/z/man-boy-show-thumbs-up-social-support-single-parent-family-wellbeing-man-boy-show-thumbs-up-social-support-single-139863098.jpg
-wget --tries=2 -O male_parents_6.jpg https://static1.bigstockphoto.com/3/0/3/large1500/303535753.jpg
-wget --tries=2 -O male_parents_7.jpg https://ca-times.brightspotcdn.com/dims4/default/fcb8778/2147483647/strip/true/crop/3600x2367+0+0/resize/840x552!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5e%2F89%2F1e6d689147849ca069c453c985f7%2Fla-photos-1staff-461381-me-non-binary-gender-6-brv.jpg
-wget --tries=2 -O male_parents_8.jpg https://www.niche.com/blog/wp-content/uploads/2018/08/dads-and-schools-1200-1200x794.jpg
-wget --tries=2 -O male_parents_9.jpg https://st3.depositphotos.com/3977247/19318/i/1600/depositphotos_193182098-stock-photo-handsome-bald-man-his-son.jpg
+wget --tries=2 --timeout=10 -O male_parents_0.jpg https://www.sbs.com.au/topics/sites/sbs.com.au.topics/files/styles/full/public/dads_3.jpg?itok=fcEHYwx0&mtime=1471347111
+wget --tries=2 --timeout=10 -O male_parents_1.jpg https://img.buzzfeed.com/buzzfeed-static/static/2017-06/19/17/asset/buzzfeed-prod-fastlane-03/sub-buzz-24624-1497907392-3.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto&output-quality=auto&output-format=auto&downsize=360:*
+wget --tries=2 --timeout=10 -O male_parents_2.jpg https://images.radio.com/kywam/styles/nts_image_cover_tall_775x425/s3/Untitled_173.jpg
+wget --tries=2 --timeout=10 -O male_parents_3.jpg https://cdn7.dissolve.com/p/D985_54_099/D985_54_099_1200.jpg
+wget --tries=2 --timeout=10 -O male_parents_4.jpg https://surrogate.com/wp-content/uploads/2017/03/can-single-parents-pursue-surrogacy.jpg
+wget --tries=2 --timeout=10 -O male_parents_5.jpg https://thumbs.dreamstime.com/z/man-boy-show-thumbs-up-social-support-single-parent-family-wellbeing-man-boy-show-thumbs-up-social-support-single-139863098.jpg
+wget --tries=2 --timeout=10 -O male_parents_6.jpg https://static1.bigstockphoto.com/3/0/3/large1500/303535753.jpg
+wget --tries=2 --timeout=10 -O male_parents_7.jpg https://ca-times.brightspotcdn.com/dims4/default/fcb8778/2147483647/strip/true/crop/3600x2367+0+0/resize/840x552!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5e%2F89%2F1e6d689147849ca069c453c985f7%2Fla-photos-1staff-461381-me-non-binary-gender-6-brv.jpg
+wget --tries=2 --timeout=10 -O male_parents_8.jpg https://www.niche.com/blog/wp-content/uploads/2018/08/dads-and-schools-1200-1200x794.jpg
+wget --tries=2 --timeout=10 -O male_parents_9.jpg https://st3.depositphotos.com/3977247/19318/i/1600/depositphotos_193182098-stock-photo-handsome-bald-man-his-son.jpg
 
-wget --tries=2 -O male_child_0.jpg https://www.lovepanky.com/wp-content/uploads/images/2016/11/dating-a-man-with-kids.jpg
-wget --tries=2 -O male_child_1.jpg https://i.dailymail.co.uk/i/pix/2013/06/11/article-2339816-1A44428F000005DC-337_634x423.jpg
-wget --tries=2 -O male_child_2.jpg https://www.professorshouse.com/wp-content/uploads/2015/03/family-123.jpg
-wget --tries=2 -O male_child_3.jpg https://www.gannett-cdn.com/presto/2019/01/04/PMJS/6036e680-c593-44dc-8d9e-767298a85fae-FELLOWS_PATRICK1.JPG?width=540&height=&fit=bounds&auto=webp
-wget --tries=2 -O male_child_4.jpg https://www.pewresearch.org/wp-content/uploads/2018/04/FT_18.03.13_SpanishLanguage_feature.jpg
-wget --tries=2 -O male_child_5.jpg https://ionemadamenoire.files.wordpress.com/2016/08/father-and-son1.jpg
-wget --tries=2 -O male_child_6.jpg https://thumbs.dreamstime.com/z/young-man-child-9085570.jpg
-wget --tries=2 -O male_child_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQCixL5BqWIVnuY8zGNSYxCbMXKu5fUu4qrtsrCBfcquOdFMpV&s
-wget --tries=2 -O male_child_8.jpg https://post.healthline.com/wp-content/uploads/2019/10/father_baby_in_sling-1200x628-facebook.jpg
-wget --tries=2 -O male_child_9.jpg https://i1.wp.com/loveingrace.com/wp-content/uploads/2017/02/article-2339816-1A44428F000005DC-337_634x423.jpg?fit=634%2C423&ssl=1
+wget --tries=2 --timeout=10 -O male_child_0.jpg https://www.lovepanky.com/wp-content/uploads/images/2016/11/dating-a-man-with-kids.jpg
+wget --tries=2 --timeout=10 -O male_child_1.jpg https://i.dailymail.co.uk/i/pix/2013/06/11/article-2339816-1A44428F000005DC-337_634x423.jpg
+wget --tries=2 --timeout=10 -O male_child_2.jpg https://www.professorshouse.com/wp-content/uploads/2015/03/family-123.jpg
+wget --tries=2 --timeout=10 -O male_child_3.jpg https://www.gannett-cdn.com/presto/2019/01/04/PMJS/6036e680-c593-44dc-8d9e-767298a85fae-FELLOWS_PATRICK1.JPG?width=540&height=&fit=bounds&auto=webp
+wget --tries=2 --timeout=10 -O male_child_4.jpg https://www.pewresearch.org/wp-content/uploads/2018/04/FT_18.03.13_SpanishLanguage_feature.jpg
+wget --tries=2 --timeout=10 -O male_child_5.jpg https://ionemadamenoire.files.wordpress.com/2016/08/father-and-son1.jpg
+wget --tries=2 --timeout=10 -O male_child_6.jpg https://thumbs.dreamstime.com/z/young-man-child-9085570.jpg
+wget --tries=2 --timeout=10 -O male_child_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQCixL5BqWIVnuY8zGNSYxCbMXKu5fUu4qrtsrCBfcquOdFMpV&s
+wget --tries=2 --timeout=10 -O male_child_8.jpg https://post.healthline.com/wp-content/uploads/2019/10/father_baby_in_sling-1200x628-facebook.jpg
+wget --tries=2 --timeout=10 -O male_child_9.jpg https://i1.wp.com/loveingrace.com/wp-content/uploads/2017/02/article-2339816-1A44428F000005DC-337_634x423.jpg?fit=634%2C423&ssl=1
 
-wget --tries=2 -O male_children_0.jpg http://nishmantra.com/wp-content/uploads/2018/02/fam425-12.jpg
-wget --tries=2 -O male_children_1.jpg https://thefrisky.com/wp-content/uploads/2018/09/dating-a-man-with-kids.jpg
-wget --tries=2 -O male_children_2.jpg https://www.spectrumnews.org/wp-content/uploads/image-archive/images/news/449597.jpg
-wget --tries=2 -O male_children_3.jpg https://img-aws.ehowcdn.com/877x500p/cpi.studiod.com/www_ehow_com/photos.demandstudios.com/getty/article/83/51/77137271_XS.jpg
-wget --tries=2 -O male_children_4.jpg https://images.fatherly.com/wp-content/uploads/2019/05/older-dads.jpg?q=65&enable=upscale&w=600
-wget --tries=2 -O male_children_5.jpg https://cdn.cnn.com/cnnnext/dam/assets/191104134657-us-father-fears-for-children-1-exlarge-169.jpg
-wget --tries=2 -O male_children_6.jpg http://www.womans.org/-/media/images/womans/men-and-children/dad_holding_babygirl_576x520.jpg?h=362&w=400&la=en&hash=5571F7FF66C81CD67B3CAC50B260134E8D4A7D8F
-wget --tries=2 -O male_children_7.jpg https://image.businessinsider.com/5a159632f914c356018b5994?width=1100&format=jpeg&auto=webp
-wget --tries=2 -O male_children_8.jpg https://static01.nyt.com/images/2019/05/22/multimedia/22xp-citizenship-A1/merlin_154939395_ce66b7a3-d287-40fc-aedd-bc47fd8cfc4d-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-wget --tries=2 -O male_children_9.jpg https://c8.alamy.com/comp/F4N7JM/young-man-playing-with-three-children-F4N7JM.jpg
+wget --tries=2 --timeout=10 -O male_children_0.jpg http://nishmantra.com/wp-content/uploads/2018/02/fam425-12.jpg
+wget --tries=2 --timeout=10 -O male_children_1.jpg https://thefrisky.com/wp-content/uploads/2018/09/dating-a-man-with-kids.jpg
+wget --tries=2 --timeout=10 -O male_children_2.jpg https://www.spectrumnews.org/wp-content/uploads/image-archive/images/news/449597.jpg
+wget --tries=2 --timeout=10 -O male_children_3.jpg https://img-aws.ehowcdn.com/877x500p/cpi.studiod.com/www_ehow_com/photos.demandstudios.com/getty/article/83/51/77137271_XS.jpg
+wget --tries=2 --timeout=10 -O male_children_4.jpg https://images.fatherly.com/wp-content/uploads/2019/05/older-dads.jpg?q=65&enable=upscale&w=600
+wget --tries=2 --timeout=10 -O male_children_5.jpg https://cdn.cnn.com/cnnnext/dam/assets/191104134657-us-father-fears-for-children-1-exlarge-169.jpg
+wget --tries=2 --timeout=10 -O male_children_6.jpg http://www.womans.org/-/media/images/womans/men-and-children/dad_holding_babygirl_576x520.jpg?h=362&w=400&la=en&hash=5571F7FF66C81CD67B3CAC50B260134E8D4A7D8F
+wget --tries=2 --timeout=10 -O male_children_7.jpg https://image.businessinsider.com/5a159632f914c356018b5994?width=1100&format=jpeg&auto=webp
+wget --tries=2 --timeout=10 -O male_children_8.jpg https://static01.nyt.com/images/2019/05/22/multimedia/22xp-citizenship-A1/merlin_154939395_ce66b7a3-d287-40fc-aedd-bc47fd8cfc4d-articleLarge.jpg?quality=75&auto=webp&disable=upscale
+wget --tries=2 --timeout=10 -O male_children_9.jpg https://c8.alamy.com/comp/F4N7JM/young-man-playing-with-three-children-F4N7JM.jpg
 
-wget --tries=2 -O male_family_0.jpg https://s-i.huffpost.com/gen/2085360/images/n-HAPPY-FAMILY-628x314.jpg
-wget --tries=2 -O male_family_1.jpg https://www.allprodad.com/wp-content/uploads/2014/11/01-29-18-family-man.jpg
-wget --tries=2 -O male_family_2.jpg https://www.gothamfamilyphotos.com/wp-content/gallery/families/family-photography-adult-men.jpg
-wget --tries=2 -O male_family_3.jpg https://d1n5s2tett0dwr.cloudfront.net/aJBYky02qdzfbBhIc0s6Hb8rEUM=/410x410/https://d3b3by4navws1f.cloudfront.net/iStock-497708556.jpg
-wget --tries=2 -O male_family_4.jpg https://compote.slate.com/images/cdf3b55a-c670-41fa-a02d-6b14e7fc4dfd.jpeg?width=780&height=520&rect=1024x683&offset=0x0
-wget --tries=2 -O male_family_5.jpg https://www.sergebenhayon.com/uploads/2/8/2/2/28222125/published/7851458.jpg
-wget --tries=2 -O male_family_6.jpg https://media.graytvinc.com/images/690*388/waco+family+speaks+fatal+halloween+shooting+1.16.20.jpg
-wget --tries=2 -O male_family_7.jpg https://s.aolcdn.com/hss/storage/midas/cb6b32e46be8c0776c341a0d80eab7ad/205295893/Hill+Family+Fall+Pictures+%286%29+%281%29.jpg
-wget --tries=2 -O male_family_8.jpg https://us.hola.com/en/imagenes/lifestyle/2019010713396/ricky-martin-plans-grow-family/0-34-960/ricky-jwan-m.jpg?filter=w400
-wget --tries=2 -O male_family_9.jpg https://bcheights.com/wp-content/uploads/2019/02/Offset-Online-1-678x381.jpg
+wget --tries=2 --timeout=10 -O male_family_0.jpg https://s-i.huffpost.com/gen/2085360/images/n-HAPPY-FAMILY-628x314.jpg
+wget --tries=2 --timeout=10 -O male_family_1.jpg https://www.allprodad.com/wp-content/uploads/2014/11/01-29-18-family-man.jpg
+wget --tries=2 --timeout=10 -O male_family_2.jpg https://www.gothamfamilyphotos.com/wp-content/gallery/families/family-photography-adult-men.jpg
+wget --tries=2 --timeout=10 -O male_family_3.jpg https://d1n5s2tett0dwr.cloudfront.net/aJBYky02qdzfbBhIc0s6Hb8rEUM=/410x410/https://d3b3by4navws1f.cloudfront.net/iStock-497708556.jpg
+wget --tries=2 --timeout=10 -O male_family_4.jpg https://compote.slate.com/images/cdf3b55a-c670-41fa-a02d-6b14e7fc4dfd.jpeg?width=780&height=520&rect=1024x683&offset=0x0
+wget --tries=2 --timeout=10 -O male_family_5.jpg https://www.sergebenhayon.com/uploads/2/8/2/2/28222125/published/7851458.jpg
+wget --tries=2 --timeout=10 -O male_family_6.jpg https://media.graytvinc.com/images/690*388/waco+family+speaks+fatal+halloween+shooting+1.16.20.jpg
+wget --tries=2 --timeout=10 -O male_family_7.jpg https://s.aolcdn.com/hss/storage/midas/cb6b32e46be8c0776c341a0d80eab7ad/205295893/Hill+Family+Fall+Pictures+%286%29+%281%29.jpg
+wget --tries=2 --timeout=10 -O male_family_8.jpg https://us.hola.com/en/imagenes/lifestyle/2019010713396/ricky-martin-plans-grow-family/0-34-960/ricky-jwan-m.jpg?filter=w400
+wget --tries=2 --timeout=10 -O male_family_9.jpg https://bcheights.com/wp-content/uploads/2019/02/Offset-Online-1-678x381.jpg
 
-wget --tries=2 -O male_families_0.jpg https://www.adl.org/sites/default/files/styles/cropped_img_md/public/2018-10/men-with-sleepy-child-istock000029729888-landscape.jpg?h=df2e1fcd&itok=Q5rKDdge
-wget --tries=2 -O male_families_1.jpg https://previews.123rf.com/images/nataliaderiabina/nataliaderiabina1802/nataliaderiabina180200034/96145766-happy-father-and-son-family-background-man-and-his-little-cute-kid-boy-having-fun-on-wheat-field-wit.jpg
-wget --tries=2 -O male_families_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5fQPm_F7srtzfJs56DKLySU-SH8cL6e6cYi8LpMx2lmNwQFtu
-wget --tries=2 -O male_families_3.jpg https://images.radio.com/kykyfm/styles/delta__775x515/s3/GettyImages-992101542.jpg
-wget --tries=2 -O male_families_4.jpg https://www.pamfblog.org/files/2013/06/family-multiplegens-male.jpg
-wget --tries=2 -O male_families_5.jpg https://parents.au.reachout.com/-/media/parents/images/topic-images/blended-families/understand-page-image.jpg?w=241&hash=7D028A3B2D9F2AF2472D17C1513B64B928EAA7AA
-wget --tries=2 -O male_families_6.jpg https://www.gannett-cdn.com/presto/2019/02/27/USAT/1fdbb712-26ea-4d52-ade6-c086b243819d-XXX__jackson_family_portrait_0063.JPG?width=640
-wget --tries=2 -O male_families_7.jpg https://i2-prod.mirror.co.uk/incoming/article7865499.ece/ALTERNATES/s615/TWO-MEN-HOLDING-BABIES-GAY-PARENTING.jpg
-wget --tries=2 -O male_families_8.jpg https://thefederalist.com/wp-content/uploads/2013/12/fratboys-998x698.jpg
-wget --tries=2 -O male_families_9.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2019/10/GettyImages-520783510-1570571310.jpg?auto=compress%2Cformat&q=90&w=1024&h=683
+wget --tries=2 --timeout=10 -O male_families_0.jpg https://www.adl.org/sites/default/files/styles/cropped_img_md/public/2018-10/men-with-sleepy-child-istock000029729888-landscape.jpg?h=df2e1fcd&itok=Q5rKDdge
+wget --tries=2 --timeout=10 -O male_families_1.jpg https://previews.123rf.com/images/nataliaderiabina/nataliaderiabina1802/nataliaderiabina180200034/96145766-happy-father-and-son-family-background-man-and-his-little-cute-kid-boy-having-fun-on-wheat-field-wit.jpg
+wget --tries=2 --timeout=10 -O male_families_2.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5fQPm_F7srtzfJs56DKLySU-SH8cL6e6cYi8LpMx2lmNwQFtu
+wget --tries=2 --timeout=10 -O male_families_3.jpg https://images.radio.com/kykyfm/styles/delta__775x515/s3/GettyImages-992101542.jpg
+wget --tries=2 --timeout=10 -O male_families_4.jpg https://www.pamfblog.org/files/2013/06/family-multiplegens-male.jpg
+wget --tries=2 --timeout=10 -O male_families_5.jpg https://parents.au.reachout.com/-/media/parents/images/topic-images/blended-families/understand-page-image.jpg?w=241&hash=7D028A3B2D9F2AF2472D17C1513B64B928EAA7AA
+wget --tries=2 --timeout=10 -O male_families_6.jpg https://www.gannett-cdn.com/presto/2019/02/27/USAT/1fdbb712-26ea-4d52-ade6-c086b243819d-XXX__jackson_family_portrait_0063.JPG?width=640
+wget --tries=2 --timeout=10 -O male_families_7.jpg https://i2-prod.mirror.co.uk/incoming/article7865499.ece/ALTERNATES/s615/TWO-MEN-HOLDING-BABIES-GAY-PARENTING.jpg
+wget --tries=2 --timeout=10 -O male_families_8.jpg https://thefederalist.com/wp-content/uploads/2013/12/fratboys-998x698.jpg
+wget --tries=2 --timeout=10 -O male_families_9.jpg https://theintercept.imgix.net/wp-uploads/sites/1/2019/10/GettyImages-520783510-1570571310.jpg?auto=compress%2Cformat&q=90&w=1024&h=683
 
-wget --tries=2 -O male_cousin_0.jpg https://patch.com/img/cdn/users/127196/2015/08/raw/20150855cb5ed847cd1.png
-wget --tries=2 -O male_cousin_1.jpg http://www.thewhiskeyjournal.com/wp-content/uploads/2015/10/hot-cousin.jpg
-wget --tries=2 -O male_cousin_2.jpg https://i.dailymail.co.uk/i/pix/2017/06/01/20/4101E9A200000578-4563804-image-a-50_1496344824266.jpg
-wget --tries=2 -O male_cousin_3.jpg https://image.shutterstock.com/image-photo/two-boys-three-years-white-260nw-1239156007.jpg
-wget --tries=2 -O male_cousin_4.jpg https://i.kinja-img.com/gawker-media/image/upload/s--lDTPYBYR--/c_scale,f_auto,fl_progressive,q_80,w_800/bmasit0e4vwnsu0v0udo.jpg
-wget --tries=2 -O male_cousin_5.jpg https://c8.alamy.com/comp/DFG7T3/9-years-old-boys-cousins-DFG7T3.jpg
-wget --tries=2 -O male_cousin_6.jpg https://i.dailymail.co.uk/i/pix/2013/09/18/article-2424548-1BE4FEB9000005DC-697_634x428.jpg
-wget --tries=2 -O male_cousin_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvRVyDT11lE9wRGSJF9ru80R6MncchJk2VpIpBTr2vQcr_887&s
-wget --tries=2 -O male_cousin_8.jpg https://media.meanshappy.com/wp-content/uploads/2019/12/02205222/webp-net-resizeimage-9-1.jpg
-wget --tries=2 -O male_cousin_9.jpg https://www.andrews.edu/~storie/Cousins_B%20fall%202002.jpg
+wget --tries=2 --timeout=10 -O male_cousin_0.jpg https://patch.com/img/cdn/users/127196/2015/08/raw/20150855cb5ed847cd1.png
+wget --tries=2 --timeout=10 -O male_cousin_1.jpg http://www.thewhiskeyjournal.com/wp-content/uploads/2015/10/hot-cousin.jpg
+wget --tries=2 --timeout=10 -O male_cousin_2.jpg https://i.dailymail.co.uk/i/pix/2017/06/01/20/4101E9A200000578-4563804-image-a-50_1496344824266.jpg
+wget --tries=2 --timeout=10 -O male_cousin_3.jpg https://image.shutterstock.com/image-photo/two-boys-three-years-white-260nw-1239156007.jpg
+wget --tries=2 --timeout=10 -O male_cousin_4.jpg https://i.kinja-img.com/gawker-media/image/upload/s--lDTPYBYR--/c_scale,f_auto,fl_progressive,q_80,w_800/bmasit0e4vwnsu0v0udo.jpg
+wget --tries=2 --timeout=10 -O male_cousin_5.jpg https://c8.alamy.com/comp/DFG7T3/9-years-old-boys-cousins-DFG7T3.jpg
+wget --tries=2 --timeout=10 -O male_cousin_6.jpg https://i.dailymail.co.uk/i/pix/2013/09/18/article-2424548-1BE4FEB9000005DC-697_634x428.jpg
+wget --tries=2 --timeout=10 -O male_cousin_7.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvRVyDT11lE9wRGSJF9ru80R6MncchJk2VpIpBTr2vQcr_887&s
+wget --tries=2 --timeout=10 -O male_cousin_8.jpg https://media.meanshappy.com/wp-content/uploads/2019/12/02205222/webp-net-resizeimage-9-1.jpg
+wget --tries=2 --timeout=10 -O male_cousin_9.jpg https://www.andrews.edu/~storie/Cousins_B%20fall%202002.jpg
 
-wget --tries=2 -O male_cousins_0.jpg https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2014/1/15/0/HG-Hosts_Kitchen-Cousins-Anthony-and-John-130719-0003-crop_h.jpg.rend.hgtvcom.616.462.suffix/1400953654078.jpeg
-wget --tries=2 -O male_cousins_1.jpg https://bestofnj.com/wp-content/uploads/2016/07/20160517-Cousins-0549c-e1469279832923-696x285.jpg
-wget --tries=2 -O male_cousins_2.jpg https://patch.com/img/cdn/users/127196/2015/08/raw/20150855cb5ed847cd1.png
-wget --tries=2 -O male_cousins_3.jpg https://c8.alamy.com/comp/F8X0MB/studio-portrait-of-three-grown-male-cousins-F8X0MB.jpg
-wget --tries=2 -O male_cousins_4.jpg https://c8.alamy.com/comp/DFG7T3/9-years-old-boys-cousins-DFG7T3.jpg
-wget --tries=2 -O male_cousins_5.jpg https://i.pinimg.com/originals/27/d3/83/27d383c1c0680cb345ef9ec09ca78be9.jpg
-wget --tries=2 -O male_cousins_6.jpg https://s.yimg.com/uu/api/res/1.2/7Gt11TGyJmzw.dF3m1Bs9A--~B/aD05NjA7dz0xNDQwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-us/bizjournals.com/b409b8c848c6557627a9b5401a2425b9
-wget --tries=2 -O male_cousins_7.jpg https://media.gettyimages.com/photos/male-cousins-hug-during-family-reunion-picture-id1162792887
-wget --tries=2 -O male_cousins_8.jpg https://ca-times.brightspotcdn.com/dims4/default/757e9eb/2147483647/strip/true/crop/3200x2132+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2Fc1%2F20d0add3463ab78ce741ccc021ce%2Fla-et-mn-mini-cousins-movie-01.jpg
-wget --tries=2 -O male_cousins_9.jpg https://res.cloudinary.com/blavity/image/upload/c_crop,g_center,w_auto,q_auto:best,g_south_east,x_0/v1500646278/hij9dc6qyxqjclg1rzwz 
+wget --tries=2 --timeout=10 -O male_cousins_0.jpg https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2014/1/15/0/HG-Hosts_Kitchen-Cousins-Anthony-and-John-130719-0003-crop_h.jpg.rend.hgtvcom.616.462.suffix/1400953654078.jpeg
+wget --tries=2 --timeout=10 -O male_cousins_1.jpg https://bestofnj.com/wp-content/uploads/2016/07/20160517-Cousins-0549c-e1469279832923-696x285.jpg
+wget --tries=2 --timeout=10 -O male_cousins_2.jpg https://patch.com/img/cdn/users/127196/2015/08/raw/20150855cb5ed847cd1.png
+wget --tries=2 --timeout=10 -O male_cousins_3.jpg https://c8.alamy.com/comp/F8X0MB/studio-portrait-of-three-grown-male-cousins-F8X0MB.jpg
+wget --tries=2 --timeout=10 -O male_cousins_4.jpg https://c8.alamy.com/comp/DFG7T3/9-years-old-boys-cousins-DFG7T3.jpg
+wget --tries=2 --timeout=10 -O male_cousins_5.jpg https://i.pinimg.com/originals/27/d3/83/27d383c1c0680cb345ef9ec09ca78be9.jpg
+wget --tries=2 --timeout=10 -O male_cousins_6.jpg https://s.yimg.com/uu/api/res/1.2/7Gt11TGyJmzw.dF3m1Bs9A--~B/aD05NjA7dz0xNDQwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-us/bizjournals.com/b409b8c848c6557627a9b5401a2425b9
+wget --tries=2 --timeout=10 -O male_cousins_7.jpg https://media.gettyimages.com/photos/male-cousins-hug-during-family-reunion-picture-id1162792887
+wget --tries=2 --timeout=10 -O male_cousins_8.jpg https://ca-times.brightspotcdn.com/dims4/default/757e9eb/2147483647/strip/true/crop/3200x2132+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2Fc1%2F20d0add3463ab78ce741ccc021ce%2Fla-et-mn-mini-cousins-movie-01.jpg
+wget --tries=2 --timeout=10 -O male_cousins_9.jpg https://res.cloudinary.com/blavity/image/upload/c_crop,g_center,w_auto,q_auto:best,g_south_east,x_0/v1500646278/hij9dc6qyxqjclg1rzwz 
 
-wget --tries=2 -O male_marriage_0.jpg https://queerty-prodweb.s3.amazonaws.com/2017/06/gay-wedding-rings-670x503.jpg
-wget --tries=2 -O male_marriage_1.jpg https://images.theconversation.com/files/244986/original/file-20181112-116820-c5qyxp.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
-wget --tries=2 -O male_marriage_2.jpg http://rictornorton.co.uk/wedding.jpg
-wget --tries=2 -O male_marriage_3.jpg https://i.ytimg.com/vi/z38aXDiEt-A/hqdefault.jpg
-wget --tries=2 -O male_marriage_4.jpg https://vjmorton.files.wordpress.com/2007/10/chucklarry.jpg
-wget --tries=2 -O male_marriage_5.jpg http://cdn.mamamia.com.au/wp-content/uploads/2014/09/gaymarriagepicture.jpg
-wget --tries=2 -O male_marriage_6.jpg http://static1.squarespace.com/static/56393e5fe4b09fbfe62a62d4/563cf626e4b00a901deee5c7/5cf2da40adb6f60001320235/1559445988035/Clayton-wedding-banner-1080x675.jpg?format=1500w
-wget --tries=2 -O male_marriage_7.jpg https://www.ocregister.com/wp-content/uploads/2018/03/0305_nws_ocr-l-twinstrial-02.jpg?w=620
-wget --tries=2 -O male_marriage_8.jpg https://cdn.britannica.com/04/196404-050-C7ED88A9/rings-marriage-ceremony-Pittsburgh-2014.jpg
-wget --tries=2 -O male_marriage_9.jpg https://queerty-prodweb.s3.amazonaws.com/wp/docs/2014/12/gay-marriage-couple-kissing-on-beach-360x238.jpg
+wget --tries=2 --timeout=10 -O male_marriage_0.jpg https://queerty-prodweb.s3.amazonaws.com/2017/06/gay-wedding-rings-670x503.jpg
+wget --tries=2 --timeout=10 -O male_marriage_1.jpg https://images.theconversation.com/files/244986/original/file-20181112-116820-c5qyxp.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
+wget --tries=2 --timeout=10 -O male_marriage_2.jpg http://rictornorton.co.uk/wedding.jpg
+wget --tries=2 --timeout=10 -O male_marriage_3.jpg https://i.ytimg.com/vi/z38aXDiEt-A/hqdefault.jpg
+wget --tries=2 --timeout=10 -O male_marriage_4.jpg https://vjmorton.files.wordpress.com/2007/10/chucklarry.jpg
+wget --tries=2 --timeout=10 -O male_marriage_5.jpg http://cdn.mamamia.com.au/wp-content/uploads/2014/09/gaymarriagepicture.jpg
+wget --tries=2 --timeout=10 -O male_marriage_6.jpg http://static1.squarespace.com/static/56393e5fe4b09fbfe62a62d4/563cf626e4b00a901deee5c7/5cf2da40adb6f60001320235/1559445988035/Clayton-wedding-banner-1080x675.jpg?format=1500w
+wget --tries=2 --timeout=10 -O male_marriage_7.jpg https://www.ocregister.com/wp-content/uploads/2018/03/0305_nws_ocr-l-twinstrial-02.jpg?w=620
+wget --tries=2 --timeout=10 -O male_marriage_8.jpg https://cdn.britannica.com/04/196404-050-C7ED88A9/rings-marriage-ceremony-Pittsburgh-2014.jpg
+wget --tries=2 --timeout=10 -O male_marriage_9.jpg https://queerty-prodweb.s3.amazonaws.com/wp/docs/2014/12/gay-marriage-couple-kissing-on-beach-360x238.jpg
 
-wget --tries=2 -O male_marriages_0.jpg https://images.theconversation.com/files/244986/original/file-20181112-116820-c5qyxp.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
-wget --tries=2 -O male_marriages_1.jpg http://rictornorton.co.uk/wedding.jpg
-wget --tries=2 -O male_marriages_2.jpg https://qrius.com/wp-content/uploads/2018/07/TWGM.jpg
-wget --tries=2 -O male_marriages_3.jpg https://www.ocregister.com/wp-content/uploads/2018/03/0305_nws_ocr-l-twinstrial-02.jpg?w=620
-wget --tries=2 -O male_marriages_4.jpg https://static.politico.com/dims4/default/3d3221d/2147483647/resize/1160x%3E/quality/90/?url=http%3A%2F%2Fs3-origin-images.politico.com%2F2015%2F06%2F26%2F20150626_smith_gaymarriagesbetterstraight_ap.jpg
-wget --tries=2 -O male_marriages_5.jpg https://www.thespruce.com/thmb/PgBBfsdC7efVoeDANB8vA6VuEtE=/960x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/Same-sexnewlyweds-GettyImages-687776935-23540112505f4901bc4b8a3a402cd2a1.jpg
-wget --tries=2 -O male_marriages_6.jpg https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-12-image-25.jpg
-wget --tries=2 -O male_marriages_7.jpg https://gayguidemalta.com/wp-content/uploads/2016/10/Clayton-wedding-banner-1080x675.jpg
-wget --tries=2 -O male_marriages_8.jpg https://cdn.britannica.com/04/196404-050-C7ED88A9/rings-marriage-ceremony-Pittsburgh-2014.jpg
-wget --tries=2 -O male_marriages_9.jpg https://www.thebalance.com/thmb/eGdNWcuqSIlLyglsquVUZnvyo-w=/2200x1572/filters:fill\(auto,1\)/Keemala-Phuket-Resort-Hotel-Wedding-Couple-Gay-Marriages-Thailand-58a01f963df78c47584cdaf6.jpg
+wget --tries=2 --timeout=10 -O male_marriages_0.jpg https://images.theconversation.com/files/244986/original/file-20181112-116820-c5qyxp.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
+wget --tries=2 --timeout=10 -O male_marriages_1.jpg http://rictornorton.co.uk/wedding.jpg
+wget --tries=2 --timeout=10 -O male_marriages_2.jpg https://qrius.com/wp-content/uploads/2018/07/TWGM.jpg
+wget --tries=2 --timeout=10 -O male_marriages_3.jpg https://www.ocregister.com/wp-content/uploads/2018/03/0305_nws_ocr-l-twinstrial-02.jpg?w=620
+wget --tries=2 --timeout=10 -O male_marriages_4.jpg https://static.politico.com/dims4/default/3d3221d/2147483647/resize/1160x%3E/quality/90/?url=http%3A%2F%2Fs3-origin-images.politico.com%2F2015%2F06%2F26%2F20150626_smith_gaymarriagesbetterstraight_ap.jpg
+wget --tries=2 --timeout=10 -O male_marriages_5.jpg https://www.thespruce.com/thmb/PgBBfsdC7efVoeDANB8vA6VuEtE=/960x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\)/Same-sexnewlyweds-GettyImages-687776935-23540112505f4901bc4b8a3a402cd2a1.jpg
+wget --tries=2 --timeout=10 -O male_marriages_6.jpg https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-12-image-25.jpg
+wget --tries=2 --timeout=10 -O male_marriages_7.jpg https://gayguidemalta.com/wp-content/uploads/2016/10/Clayton-wedding-banner-1080x675.jpg
+wget --tries=2 --timeout=10 -O male_marriages_8.jpg https://cdn.britannica.com/04/196404-050-C7ED88A9/rings-marriage-ceremony-Pittsburgh-2014.jpg
+wget --tries=2 --timeout=10 -O male_marriages_9.jpg https://www.thebalance.com/thmb/eGdNWcuqSIlLyglsquVUZnvyo-w=/2200x1572/filters:fill\(auto,1\)/Keemala-Phuket-Resort-Hotel-Wedding-Couple-Gay-Marriages-Thailand-58a01f963df78c47584cdaf6.jpg
 
-wget --tries=2 -O male_wedding_0.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/interview-index-comp-wedding-2-1559320171.png?crop=0.433xw:0.865xh;0.287xw,0.00321xh&resize=640:*
-wget --tries=2 -O male_wedding_1.jpg https://images.menswearhouse.com/is/image/TMW/18-1499147_MWT_2019_WED_LP_MOD-FREECUSTOM-2400?crop=224,0,2168,1626&qlt=40&fit=constrain,1&wid=1600
-wget --tries=2 -O male_wedding_2.jpg https://theblacktux.com/dist/img/hp/hp-hero-1024.2de5fd54f0da3deea0f2968897696aa2.jpg
-wget --tries=2 -O male_wedding_3.jpg https://www.suitsexpert.com/wp-content/uploads/2016/05/wedding-suits-example.jpg
-wget --tries=2 -O male_wedding_4.jpg https://cdn.shopify.com/s/files/1/0071/3637/8998/articles/wedding-reception-feat-1_1024x1024.jpg?v=1547039840
-wget --tries=2 -O male_wedding_5.jpg https://asset1.marksandspencer.com/is/image/mands/8a12639bf100b559cb8276be73649abe862d2bfa?wid=620
-wget --tries=2 -O male_wedding_6.jpg https://media-api.xogrp.com/images/6587f3b9-83bc-4db0-9499-3ca9b65082f6~rs_301.h
-wget --tries=2 -O male_wedding_7.jpg https://www.yourchurchwedding.org/wp-content/uploads/2015/09/BeingBestMan_Header.jpg
-wget --tries=2 -O male_wedding_8.jpg https://www.africablooms.com/wp-content/uploads/2019/03/Dashiki-Shirt-for-Men-AFRICA-BLOOMS.jpg
-wget --tries=2 -O male_wedding_9.jpg https://chicvintagebrides.com/wp-content/uploads/2014/08/Bow-tie-4.jpg
+wget --tries=2 --timeout=10 -O male_wedding_0.jpg https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/interview-index-comp-wedding-2-1559320171.png?crop=0.433xw:0.865xh;0.287xw,0.00321xh&resize=640:*
+wget --tries=2 --timeout=10 -O male_wedding_1.jpg https://images.menswearhouse.com/is/image/TMW/18-1499147_MWT_2019_WED_LP_MOD-FREECUSTOM-2400?crop=224,0,2168,1626&qlt=40&fit=constrain,1&wid=1600
+wget --tries=2 --timeout=10 -O male_wedding_2.jpg https://theblacktux.com/dist/img/hp/hp-hero-1024.2de5fd54f0da3deea0f2968897696aa2.jpg
+wget --tries=2 --timeout=10 -O male_wedding_3.jpg https://www.suitsexpert.com/wp-content/uploads/2016/05/wedding-suits-example.jpg
+wget --tries=2 --timeout=10 -O male_wedding_4.jpg https://cdn.shopify.com/s/files/1/0071/3637/8998/articles/wedding-reception-feat-1_1024x1024.jpg?v=1547039840
+wget --tries=2 --timeout=10 -O male_wedding_5.jpg https://asset1.marksandspencer.com/is/image/mands/8a12639bf100b559cb8276be73649abe862d2bfa?wid=620
+wget --tries=2 --timeout=10 -O male_wedding_6.jpg https://media-api.xogrp.com/images/6587f3b9-83bc-4db0-9499-3ca9b65082f6~rs_301.h
+wget --tries=2 --timeout=10 -O male_wedding_7.jpg https://www.yourchurchwedding.org/wp-content/uploads/2015/09/BeingBestMan_Header.jpg
+wget --tries=2 --timeout=10 -O male_wedding_8.jpg https://www.africablooms.com/wp-content/uploads/2019/03/Dashiki-Shirt-for-Men-AFRICA-BLOOMS.jpg
+wget --tries=2 --timeout=10 -O male_wedding_9.jpg https://chicvintagebrides.com/wp-content/uploads/2014/08/Bow-tie-4.jpg
 
-wget --tries=2 -O male_weddings_0.jpg https://2x1dks3q6aoj44bz1r1tr92f-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Men-Holding-Hands-At-Wedding-e1509724265225.jpg
-wget --tries=2 -O male_weddings_1.jpg https://d1zpvjny0s6omk.cloudfront.net/media/fileupload/2016/06/23/Osborne:Lewis_Lauren%20Feddersen%20Photography_groom%20and%20groomsmen.jpg
-wget --tries=2 -O male_weddings_2.jpg https://www.pouted.com/wp-content/uploads/2016/08/Men-Wedding-outfits-780x405.jpg
-wget --tries=2 -O male_weddings_3.jpg https://i.pinimg.com/originals/8f/39/e2/8f39e2d1323f7c840ecc518bd26dd021.jpg
-wget --tries=2 -O male_weddings_4.jpg https://www.ties.com/blog/wp-content/uploads/2019/04/082.jpg
-wget --tries=2 -O male_weddings_5.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F36%2F2012%2F08%2F18221537%2Flindsey-william-wedding-dc-groomsmen-103039214.jpg&q=85
-wget --tries=2 -O male_weddings_6.jpg https://theblacktux.com/dist/img/hp/hp-hero-1024.2de5fd54f0da3deea0f2968897696aa2.jpg
-wget --tries=2 -O male_weddings_7.jpg https://i.pinimg.com/originals/7a/2b/bc/7a2bbc2021f1d1c935d71859f4fe7a8b.jpg
-wget --tries=2 -O male_weddings_8.jpg https://www.ties.com/blog/wp-content/uploads/2018/07/wedding-suits-mens-wedding-attire.jpg
-wget --tries=2 -O male_weddings_9.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/36/2019/02/12173433/ali-jess-wedding-groomsmen-304-002-s111717-1214_vert.jpg
+wget --tries=2 --timeout=10 -O male_weddings_0.jpg https://2x1dks3q6aoj44bz1r1tr92f-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Men-Holding-Hands-At-Wedding-e1509724265225.jpg
+wget --tries=2 --timeout=10 -O male_weddings_1.jpg https://d1zpvjny0s6omk.cloudfront.net/media/fileupload/2016/06/23/Osborne:Lewis_Lauren%20Feddersen%20Photography_groom%20and%20groomsmen.jpg
+wget --tries=2 --timeout=10 -O male_weddings_2.jpg https://www.pouted.com/wp-content/uploads/2016/08/Men-Wedding-outfits-780x405.jpg
+wget --tries=2 --timeout=10 -O male_weddings_3.jpg https://i.pinimg.com/originals/8f/39/e2/8f39e2d1323f7c840ecc518bd26dd021.jpg
+wget --tries=2 --timeout=10 -O male_weddings_4.jpg https://www.ties.com/blog/wp-content/uploads/2019/04/082.jpg
+wget --tries=2 --timeout=10 -O male_weddings_5.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F36%2F2012%2F08%2F18221537%2Flindsey-william-wedding-dc-groomsmen-103039214.jpg&q=85
+wget --tries=2 --timeout=10 -O male_weddings_6.jpg https://theblacktux.com/dist/img/hp/hp-hero-1024.2de5fd54f0da3deea0f2968897696aa2.jpg
+wget --tries=2 --timeout=10 -O male_weddings_7.jpg https://i.pinimg.com/originals/7a/2b/bc/7a2bbc2021f1d1c935d71859f4fe7a8b.jpg
+wget --tries=2 --timeout=10 -O male_weddings_8.jpg https://www.ties.com/blog/wp-content/uploads/2018/07/wedding-suits-mens-wedding-attire.jpg
+wget --tries=2 --timeout=10 -O male_weddings_9.jpg https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/36/2019/02/12173433/ali-jess-wedding-groomsmen-304-002-s111717-1214_vert.jpg
 
-wget --tries=2 -O male_relative_0.jpg https://image.shutterstock.com/image-photo/man-visiting-senior-male-relative-600w-765735664.jpg
-wget --tries=2 -O male_relative_1.jpg https://worldnewsdailyreport.com/wp-content/uploads/2016/04/saudisheikh.jpg
-wget --tries=2 -O male_relative_2.jpg https://www.cdc.gov/features/images/genomics/heartdisease_456px.jpg
-wget --tries=2 -O male_relative_3.jpg https://ichef.bbci.co.uk/images/ic/1920x1080/p06qcgnm.jpg
-wget --tries=2 -O male_relative_4.jpg https://c8.alamy.com/comp/X8BJMF/man-visiting-senior-male-relative-in-assisted-living-facility-X8BJMF.jpg
-wget --tries=2 -O male_relative_5.jpg https://thumbs.dreamstime.com/z/male-relative-as-rule-used-relations-grandson-granddaughte-granddaughter-along-any-kinship-line-maternal-133778855.jpg
-wget --tries=2 -O male_relative_6.jpg https://cdn.aarp.net/content/dam/aarp/home-and-family/family-and-friends/2019/04/1140-get-your-kids-to-hate-you.jpg
-wget --tries=2 -O male_relative_7.jpg https://www.theborneopost.com/newsimages/2019/10/ZAIDI_HOMECOMING.jpg
-wget --tries=2 -O male_relative_8.jpg https://staticr1.blastingcdn.com/media/photogallery/2017/6/19/660x290/b_1200x675/wife-swap-family-double-homicide-and-attempted-suicide-inquisitr_1394715.jpg
-wget --tries=2 -O male_relative_9.jpg https://previews.123rf.com/images/jackf/jackf1507/jackf150703073/42743763-two-male-relatives-chatting-indoors-and-smiling-focus-on-the-left-man.jpg
+wget --tries=2 --timeout=10 -O male_relative_0.jpg https://image.shutterstock.com/image-photo/man-visiting-senior-male-relative-600w-765735664.jpg
+wget --tries=2 --timeout=10 -O male_relative_1.jpg https://worldnewsdailyreport.com/wp-content/uploads/2016/04/saudisheikh.jpg
+wget --tries=2 --timeout=10 -O male_relative_2.jpg https://www.cdc.gov/features/images/genomics/heartdisease_456px.jpg
+wget --tries=2 --timeout=10 -O male_relative_3.jpg https://ichef.bbci.co.uk/images/ic/1920x1080/p06qcgnm.jpg
+wget --tries=2 --timeout=10 -O male_relative_4.jpg https://c8.alamy.com/comp/X8BJMF/man-visiting-senior-male-relative-in-assisted-living-facility-X8BJMF.jpg
+wget --tries=2 --timeout=10 -O male_relative_5.jpg https://thumbs.dreamstime.com/z/male-relative-as-rule-used-relations-grandson-granddaughte-granddaughter-along-any-kinship-line-maternal-133778855.jpg
+wget --tries=2 --timeout=10 -O male_relative_6.jpg https://cdn.aarp.net/content/dam/aarp/home-and-family/family-and-friends/2019/04/1140-get-your-kids-to-hate-you.jpg
+wget --tries=2 --timeout=10 -O male_relative_7.jpg https://www.theborneopost.com/newsimages/2019/10/ZAIDI_HOMECOMING.jpg
+wget --tries=2 --timeout=10 -O male_relative_8.jpg https://staticr1.blastingcdn.com/media/photogallery/2017/6/19/660x290/b_1200x675/wife-swap-family-double-homicide-and-attempted-suicide-inquisitr_1394715.jpg
+wget --tries=2 --timeout=10 -O male_relative_9.jpg https://previews.123rf.com/images/jackf/jackf1507/jackf150703073/42743763-two-male-relatives-chatting-indoors-and-smiling-focus-on-the-left-man.jpg
 
-wget --tries=2 -O male_relatives_0.jpg https://www.elcivics.com/lifeskills/family/images/three-generations-male.jpg
-wget --tries=2 -O male_relatives_1.jpg https://c8.alamy.com/comp/A2T4BA/before-the-process-of-circumcision-the-closest-male-relatives-of-the-A2T4BA.jpg
-wget --tries=2 -O male_relatives_2.jpg https://c8.alamy.com/comp/CEG3R5/muslim-bridegrooms-with-male-relatives-on-their-wedding-day-at-a-collective-CEG3R5.jpg
-wget --tries=2 -O male_relatives_3.jpg https://thumbs.dreamstime.com/z/positive-delighted-male-relatives-competing-arm-wrestling-you-will-win-friendly-father-looking-his-son-confronting-him-84113415.jpg
-wget --tries=2 -O male_relatives_4.jpg https://previews.123rf.com/images/jackf/jackf1507/jackf150703073/42743763-two-male-relatives-chatting-indoors-and-smiling-focus-on-the-left-man.jpg
-wget --tries=2 -O male_relatives_5.jpg https://c8.alamy.com/comp/A2T4B8/before-the-process-of-circumcision-the-closest-male-relatives-of-the-A2T4B8.jpg
-wget --tries=2 -O male_relatives_6.jpg https://media.gannett-cdn.com/29906170001/29906170001_5590968250001_5590953123001-vs.jpg?pubId=29906170001
-wget --tries=2 -O male_relatives_7.jpg https://thumbs.dreamstime.com/z/my-family-upset-senior-men-talking-men-holding-photo-confused-senior-man-recalling-relatives-120331038.jpg
-wget --tries=2 -O male_relatives_8.jpg https://thumbs.dreamstime.com/z/two-men-talk-male-relatives-chatting-indoors-smiling-focus-left-man-57077906.jpg
-wget --tries=2 -O male_relatives_9.jpg https://st4.depositphotos.com/10614052/28305/i/1600/depositphotos_283053966-stock-photo-elderly-man-with-relatives-in.jpg
+wget --tries=2 --timeout=10 -O male_relatives_0.jpg https://www.elcivics.com/lifeskills/family/images/three-generations-male.jpg
+wget --tries=2 --timeout=10 -O male_relatives_1.jpg https://c8.alamy.com/comp/A2T4BA/before-the-process-of-circumcision-the-closest-male-relatives-of-the-A2T4BA.jpg
+wget --tries=2 --timeout=10 -O male_relatives_2.jpg https://c8.alamy.com/comp/CEG3R5/muslim-bridegrooms-with-male-relatives-on-their-wedding-day-at-a-collective-CEG3R5.jpg
+wget --tries=2 --timeout=10 -O male_relatives_3.jpg https://thumbs.dreamstime.com/z/positive-delighted-male-relatives-competing-arm-wrestling-you-will-win-friendly-father-looking-his-son-confronting-him-84113415.jpg
+wget --tries=2 --timeout=10 -O male_relatives_4.jpg https://previews.123rf.com/images/jackf/jackf1507/jackf150703073/42743763-two-male-relatives-chatting-indoors-and-smiling-focus-on-the-left-man.jpg
+wget --tries=2 --timeout=10 -O male_relatives_5.jpg https://c8.alamy.com/comp/A2T4B8/before-the-process-of-circumcision-the-closest-male-relatives-of-the-A2T4B8.jpg
+wget --tries=2 --timeout=10 -O male_relatives_6.jpg https://media.gannett-cdn.com/29906170001/29906170001_5590968250001_5590953123001-vs.jpg?pubId=29906170001
+wget --tries=2 --timeout=10 -O male_relatives_7.jpg https://thumbs.dreamstime.com/z/my-family-upset-senior-men-talking-men-holding-photo-confused-senior-man-recalling-relatives-120331038.jpg
+wget --tries=2 --timeout=10 -O male_relatives_8.jpg https://thumbs.dreamstime.com/z/two-men-talk-male-relatives-chatting-indoors-smiling-focus-left-man-57077906.jpg
+wget --tries=2 --timeout=10 -O male_relatives_9.jpg https://st4.depositphotos.com/10614052/28305/i/1600/depositphotos_283053966-stock-photo-elderly-man-with-relatives-in.jpg

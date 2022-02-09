@@ -21,11 +21,18 @@ class ModelWrapper:
         ):
         sequence_output = sequence_output.detach().cpu()
         for idx in range(len(sequence_output)):
-            # take 0-th dim corresponding to CLS token (for words + sents)
-            index_of_contextual_id = (masked_t_input_ids[idx] == mask_token_id).nonzero()[0].item() # TODO add dim
-            enc_full_seq[len(enc_full_seq)] = sequence_output[idx][0,:]
-            enc_contextual[len(enc_contextual)] = sequence_output[idx][index_of_contextual_id,:]
-            enc_mask_t_full_seq[len(enc_mask_t_full_seq)] = masked_t_sequence_output[idx][0,:]
+            if self.bidirectional:
+                # take 0-th dim corresponding to CLS token (for words + sents)
+                enc_full_seq[len(enc_full_seq)] = sequence_output[idx][0,:]
+            else:
+                # take last dim corresponding to final token
+                enc_full_seq[len(enc_full_seq)] = sequence_output[idx][-1,:]
+
+            if masked_t_input_ids is not None:
+                index_of_contextual_id = (masked_t_input_ids[idx] == mask_token_id).nonzero()[0].item() # TODO add dim
+                enc_contextual[len(enc_contextual)] = sequence_output[idx][index_of_contextual_id,:]
+            if masked_t_sequence_output is not None:
+                enc_mask_t_full_seq[len(enc_mask_t_full_seq)] = masked_t_sequence_output[idx][0,:]
             if masked_v_sequence_output is not None:
                 enc_mask_v_full_seq[len(enc_mask_t_full_seq)] = masked_v_sequence_output[idx][0,:]
 
@@ -86,9 +93,10 @@ class VisualBertWrapper(ModelWrapper):
         parser.set_defaults(image_feature_cap=144)
 
     def __init__(self, params: AttrDict):
-        from models.visualbert import VisualBERTInferenceModelWrapper
+        from scripts.models.visualbert import VisualBERTInferenceModelWrapper
         self.model = VisualBERTInferenceModelWrapper(params)
         self.model.restore_checkpoint_pretrained(params.model_archive)
+        self.bidirectional = True
 
     def encode(self, dataloader: Iterable):
         enc_full_seq = {} # either word or sentence (depending on input)
@@ -151,7 +159,7 @@ class ViLBERTWrapper(ModelWrapper):
         parser.set_defaults(do_lower_case=True)
 
     def __init__(self, params: AttrDict):
-        from models.vilbert import ViLBERTModel, ViLBERTConfig
+        from scripts.models.vilbert import ViLBERTModel, ViLBERTConfig
 
         config = ViLBERTConfig.from_json_file(params.model_config)
         self.model = ViLBERTModel.from_pretrained(
@@ -160,6 +168,7 @@ class ViLBERTWrapper(ModelWrapper):
             )
         self.model.cuda()
         self.model.eval()
+        self.bidirectional = True
         
         self.BATCH_KEYS = [
             'input_ids', 'input_mask', 'segment_ids', 'lm_label_ids', 'image_feat', 'image_loc', \
@@ -239,10 +248,11 @@ class LXMERTWrapper(ModelWrapper): # HuggingFace implementation
         parser.add_argument('--path_to_obj_list', type=str, required=True, help='path to list of objects by idx; needed for image region masking')
 
     def __init__(self, params: AttrDict):
-        from models.lxmert import LxmertForPreTrainingBias
+        from scripts.models.lxmert import LxmertForPreTrainingBias
         self.model = LxmertForPreTrainingBias.from_pretrained(params.bert_model_name, return_dict=True)
         self.model.cuda()
         self.model.eval()
+        self.bidirectional = True
 
     def encode(self, dataloader: Iterable):
         enc_full_seq = {} # either word or sentence (depending on input)
@@ -316,7 +326,7 @@ class VLBERTWrapper(ModelWrapper):
         parser.add_argument('--path_to_obj_list', type=str, required=True, help='path to list of objects by idx; needed for image region masking')
 
     def __init__(self, params: AttrDict):
-        from models.vlbert import vlbert_model_config, update_vlbert_config, ResNetVLBERTForPretraining
+        from scripts.models.vlbert import vlbert_model_config, update_vlbert_config, ResNetVLBERTForPretraining
 
         update_vlbert_config(params.model_config_path)
         self.model = ResNetVLBERTForPretraining(vlbert_model_config, params.model_archive) #vlbert_model_config)
@@ -335,6 +345,7 @@ class VLBERTWrapper(ModelWrapper):
         #    setattr(self.model, k, v)
         self.model.cuda()
         self.model.eval()
+        self.bidirectional = True
 
     def encode(self, dataloader: Iterable):
         self.model.eval()

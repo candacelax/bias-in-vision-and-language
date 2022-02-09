@@ -1,10 +1,5 @@
-from collections import defaultdict
-from copy import deepcopy
 import os
 import json
-import random
-import re
-from tqdm import tqdm
 from typing import Dict, List
 
 import numpy as np
@@ -12,19 +7,16 @@ import torch
 from torch.utils.data import Dataset
 
 from allennlp.data.dataset import Batch
-from allennlp.data.fields import TextField, ListField, LabelField, SequenceLabelField, ArrayField, MetadataField
+from allennlp.data.fields import ArrayField
 from allennlp.data.instance import Instance
-#from allennlp.data.tokenizers import Token
-#from .box_utils import load_image, resize_image, to_tensor_and_normalize
-from .bert_field import BertField, IntArrayField
+from .bert_field import IntArrayField
 
 
 from allennlp.data.instance import Instance
 from allennlp.data.dataset import Batch
-from allennlp.data.fields import ListField
 
 from .bert_data_utils import *
-from dataloaders.tokenization import BertTokenizer
+from ..tokenization import BertTokenizer
 
 class BiasDataset(Dataset):
     def __init__(
@@ -32,12 +24,10 @@ class BiasDataset(Dataset):
         images: Dict[str, List[int]],
         captions: Dict[str, str],
         image_features: Dict[str, torch.FloatTensor],
-        image_feature_cap: int,
         bert_model_name: str,
         max_seq_length: int,
         do_lower_case: bool,
         coco_ontology_path: str,
-        visual_genome_chunk: bool = False,
         text_only: bool=False,
         expand_coco: bool=False,
         bert_cache: str=None
@@ -52,8 +42,6 @@ class BiasDataset(Dataset):
         # format annoations
         self.items = self._format_examples(captions, images)
         print(f"{len(self.items)} examples in total.")
-
-        
         print("Loading images...")
         average = 0.0
         self.chunk = {}
